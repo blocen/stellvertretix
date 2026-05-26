@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stellvertretungen Zürich</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f8f9fa;
+      --surface: #ffffff;
+      --border: #dee2e6;
+      --text: #212529;
+      --muted: #6c757d;
+      --accent: #0d6efd;
+      --accent-light: #e7f1ff;
+      --row-hover: #f1f3f5;
+      --tag-bg: #e9ecef;
+      --new-bg: #d1e7dd;
+      --new-border: #a3cfbb;
+      --radius: 6px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1a1d21;
+        --surface: #25282d;
+        --border: #373b41;
+        --text: #e9ecef;
+        --muted: #8b9099;
+        --accent: #4da3ff;
+        --accent-light: #1a2a3f;
+        --row-hover: #2e3238;
+        --tag-bg: #373b41;
+        --new-bg: #1a3a2a;
+        --new-border: #2a6a4a;
+      }
+    }
+
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 14px;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 20px;
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    header h1 {
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    #meta {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .container {
+      padding: 16px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 700px;
+    }
+
+    th {
+      background: var(--surface);
+      border-bottom: 2px solid var(--border);
+      padding: 9px 12px;
+      text-align: left;
+      font-weight: 600;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+      position: sticky;
+      top: 0;
+    }
+
+    th:hover { color: var(--text); }
+
+    th .sort-arrow {
+      display: inline-block;
+      margin-left: 4px;
+      opacity: 0.3;
+      font-style: normal;
+    }
+
+    th.asc  .sort-arrow { opacity: 1; }
+    th.desc .sort-arrow { opacity: 1; }
+    th.asc  .sort-arrow::after { content: " ↑"; }
+    th.desc .sort-arrow::after { content: " ↓"; }
+    th:not(.asc):not(.desc) .sort-arrow::after { content: " ↕"; }
+
+    tbody tr {
+      border-bottom: 1px solid var(--border);
+      transition: background 0.1s;
+    }
+
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--row-hover); }
+
+    tbody tr.is-new {
+      background: var(--new-bg);
+      border-left: 3px solid var(--new-border);
+    }
+
+    td {
+      padding: 9px 12px;
+      vertical-align: top;
+    }
+
+    td.nr {
+      color: var(--muted);
+      font-size: 12px;
+      width: 36px;
+    }
+
+    td.school { font-weight: 500; }
+
+    .city { font-weight: normal; color: var(--muted); font-size: 12px; }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+
+    .tag {
+      display: inline-block;
+      background: var(--tag-bg);
+      border-radius: 3px;
+      padding: 1px 6px;
+      font-size: 11px;
+      white-space: nowrap;
+    }
+
+    .date { white-space: nowrap; }
+    .publish-time { font-size: 11px; color: var(--muted); }
+
+    .pensum { white-space: nowrap; }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    #error {
+      color: #dc3545;
+      padding: 16px;
+      background: var(--surface);
+      border: 1px solid #dc3545;
+      border-radius: var(--radius);
+      margin-bottom: 16px;
+    }
+
+    @media (max-width: 600px) {
+      header { padding: 10px 14px; }
+      .container { padding: 10px; }
+      td, th { padding: 7px 8px; }
+      .hide-mobile { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Stellvertretungen Zürich</h1>
+    <span id="meta">Lädt…</span>
+  </header>
+
+  <div class="container">
+    <div id="error" style="display:none"></div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th data-key="nr" title="Fortlaufende Nummer"><span>#</span><span class="sort-arrow"></span></th>
+            <th data-key="publishTimestamp"><span>Publiziert</span><span class="sort-arrow"></span></th>
+            <th data-key="school"><span>Schule</span><span class="sort-arrow"></span></th>
+            <th data-key="levelsDetailed" class="hide-mobile"><span>Stufe</span><span class="sort-arrow"></span></th>
+            <th data-key="subjects"><span>Fächer</span><span class="sort-arrow"></span></th>
+            <th data-key="startTimestamp"><span>Von</span><span class="sort-arrow"></span></th>
+            <th data-key="endTimestamp" class="hide-mobile"><span>Bis</span><span class="sort-arrow"></span></th>
+            <th data-key="pensum" class="hide-mobile"><span>Pensum</span><span class="sort-arrow"></span></th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    const SUBJECTS = {
+      german: "Deutsch", mathematics: "Mathematik", natureHumanSociety: "NMG",
+      fineArts: "BG", music: "Musik", sports: "Sport",
+      textileAndTechnicalDesign: "TTG", mediaAndComputerScience: "MI",
+      english: "Englisch", french: "Französisch", religionsCulturesEthics: "ERG",
+      germanAsSecondLanguage: "DaZ", naturalSciences: "Naturwissenschaften",
+      geography: "Geographie", history: "Geschichte", sciences: "WAH",
+      economics: "Wirtschaft", swimming: "Schwimmen",
+      kindergartenClasses: "Kindergarten", ifIssIsr: "IF/ISS/ISR",
+      natureAndTechnology: "Natur & Technik", drama: "Theater",
+    };
+
+    const LEVELS = {
+      levelKindergarden: "Kindergarten",
+      levelLower: "Unterstufe",
+      levelMiddle: "Mittelstufe",
+      levelUpper: "Oberstufe",
+    };
+
+    const VAC_TYPES = { short: "Kurz", long: "Lang" };
+
+    function fmtDate(tsMs) {
+      if (!tsMs) return "—";
+      const d = new Date(tsMs);
+      return d.toLocaleDateString("de-CH", { day: "2-digit", month: "2-digit", year: "numeric" });
+    }
+
+    function fmtDatetime(tsMs) {
+      if (!tsMs) return { date: "—", time: "" };
+      const d = new Date(tsMs);
+      return {
+        date: d.toLocaleDateString("de-CH", { day: "2-digit", month: "2-digit", year: "numeric" }),
+        time: d.toLocaleTimeString("de-CH", { hour: "2-digit", minute: "2-digit" }),
+      };
+    }
+
+    function tags(arr, map) {
+      return (arr || []).map(k => `<span class="tag">${map[k] || k}</span>`).join("");
+    }
+
+    // Sort state
+    let sortKey = "publishTimestamp";
+    let sortDir = -1; // -1 = desc, 1 = asc
+    let data = [];
+
+    function sortData(rows) {
+      return [...rows].sort((a, b) => {
+        let av = sortKey === "nr" ? a._nr
+               : sortKey === "school" ? a.school.schoolName
+               : sortKey === "levelsDetailed" ? (a.levelsDetailed || []).join(",")
+               : sortKey === "subjects" ? (a.subjects || []).join(",")
+               : sortKey === "pensum" ? (a.pensum || 0)
+               : (a[sortKey] || 0);
+        let bv = sortKey === "nr" ? b._nr
+               : sortKey === "school" ? b.school.schoolName
+               : sortKey === "levelsDetailed" ? (b.levelsDetailed || []).join(",")
+               : sortKey === "subjects" ? (b.subjects || []).join(",")
+               : sortKey === "pensum" ? (b.pensum || 0)
+               : (b[sortKey] || 0);
+        if (av < bv) return -1 * sortDir;
+        if (av > bv) return  1 * sortDir;
+        return 0;
+      });
+    }
+
+    function render() {
+      const sorted = sortData(data);
+      const tbody = document.getElementById("rows");
+      tbody.innerHTML = sorted.map(e => {
+        const pub = fmtDatetime(e.publishTimestamp);
+        const schoolUrl = `https://www.epalero.ch/de/vacancy/${e.id}`;
+        return `<tr${e._isNew ? ' class="is-new"' : ''}>
+          <td class="nr">${e._nr}</td>
+          <td class="date"><div>${pub.date}</div><div class="publish-time">${pub.time}</div></td>
+          <td class="school">
+            <a href="${schoolUrl}" target="_blank" rel="noopener">${esc(e.school.schoolName)}</a>
+            <div class="city">${esc(e.school.address.city)}</div>
+          </td>
+          <td class="hide-mobile"><div class="tags">${tags(e.levelsDetailed, LEVELS)}</div></td>
+          <td><div class="tags">${tags(e.subjects, SUBJECTS)}</div></td>
+          <td class="date">${fmtDate(e.startTimestamp)}</td>
+          <td class="date hide-mobile">${fmtDate(e.endTimestamp)}</td>
+          <td class="pensum hide-mobile">${e.pensum != null ? e.pensum + " L/Wo" : "—"}</td>
+        </tr>`;
+      }).join("");
+
+      // Update sort arrows
+      document.querySelectorAll("th[data-key]").forEach(th => {
+        th.classList.remove("asc", "desc");
+        if (th.dataset.key === sortKey) {
+          th.classList.add(sortDir === 1 ? "asc" : "desc");
+        }
+      });
+    }
+
+    function esc(s) {
+      return String(s)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    document.querySelectorAll("th[data-key]").forEach(th => {
+      th.addEventListener("click", () => {
+        const key = th.dataset.key;
+        if (sortKey === key) {
+          sortDir *= -1;
+        } else {
+          sortKey = key;
+          sortDir = key === "publishTimestamp" || key === "startTimestamp" || key === "endTimestamp" ? -1 : 1;
+        }
+        render();
+      });
+    });
+
+    async function load() {
+      try {
+        const res = await fetch("data.json");
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const raw = await res.json();
+
+        // Assign display numbers by original publishTimestamp order (oldest = 1)
+        const numbered = [...raw]
+          .sort((a, b) => a.publishTimestamp - b.publishTimestamp)
+          .map((e, i) => ({ ...e, _nr: i + 1 }));
+
+        // Mark entries published within the last 24 h as "new"
+        const cutoff = Date.now() - 24 * 60 * 60 * 1000;
+        data = numbered.map(e => ({ ...e, _isNew: (e.publishTimestamp || 0) > cutoff }));
+
+        const lastUpdated = raw.length
+          ? fmtDatetime(Math.max(...raw.map(e => e.publishTimestamp || 0)))
+          : null;
+
+        document.getElementById("meta").textContent =
+          `${raw.length} Einträge · Zuletzt aktualisiert: ${lastUpdated ? lastUpdated.date + " " + lastUpdated.time : "—"}`;
+
+        render();
+      } catch (err) {
+        document.getElementById("error").style.display = "";
+        document.getElementById("error").textContent = `Fehler beim Laden der Daten: ${err.message}`;
+        document.getElementById("meta").textContent = "Fehler";
+      }
+    }
+
+    load();
+  </script>
+</body>
+</html>

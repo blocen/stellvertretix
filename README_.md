@@ -37,3 +37,23 @@ If the API/scrape fails, log the error and exit without committing or sending no
 
 Deliverables: a working GitHub repo with index.html, poller.py, .github/workflows/poll.yml, and a README explaining how to subscribe to the ntfy topic. Ready to deploy: fork → set NTFY_TOPIC secret → enable Pages → done.
 ```
+
+no API, just html returned:
+
+```
+Build a public substitution-job portal for 2–3 teachers in Zurich. The data source is the epalero.ch listing page — it returns HTML only, no JSON API. Scrape it with BeautifulSoup (or similar): https://www.epalero.ch/de/stellvertretungen/?page=0&sort=publish%2Cdesc&cantons=zurich&educationStatus=enrolled%2CenrolledWithBaseYear&levelsDetailed=levelLower%2ClevelMiddle. Paginate by incrementing page=N until a page returns no listings.
+
+The frontend is a static HTML/JS site hosted on GitHub Pages. It reads a data.json file committed to the repo and renders all entries as a sortable table with columns for entry number, publish date/time, and all other fields extractable from the HTML. No auth, no login — fully public. Mobile-readable layout required.
+
+The backend logic lives entirely in a GitHub Actions workflow that runs every 15 minutes. A Python script scrapes all pages, extracts structured data from the HTML, then replaces data.json with exactly what the current scrape returns — no accumulation, no archiving. If the new data contains entries not present in the previous data.json (identified by the combination of school + date + subject), the script sends one ntfy.sh notification per new entry (separate HTTP POST per entry) to https://ntfy.sh/<topic> with the entry details as the message body. After sending notifications, it commits the updated data.json, which triggers Pages to redeploy.
+
+The workflow must not commit if the scrape fails or returns malformed/empty data — treat an empty result as a likely error and skip the commit.
+
+The deliverable is a working GitHub repository with:
+
+index.html + minimal JS (sortable table, mobile layout)
+poller.py (scraper, deduplication logic, ntfy notifications, commit step)
+.github/workflows/poll.yml (15-minute schedule, with contents: write permission on the GITHUB_TOKEN)
+README.md explaining how to subscribe to the ntfy topic (both mobile app and web)
+Ready to deploy: fork → set NTFY_TOPIC as a repo secret → enable Pages → done
+```
