@@ -2,11 +2,11 @@
 
 [![Poll epalero.ch](https://github.com/blocen/stellvertretix/actions/workflows/poll.yml/badge.svg)](https://github.com/blocen/stellvertretix/actions/workflows/poll.yml)
 
-A public portal for substitution-teaching vacancies in Zürich, sourced from [epalero.ch](https://www.epalero.ch). Updates every 15 minutes via GitHub Actions and sends push notifications via [ntfy](https://ntfy.sh) when new listings appear.
+A public portal for substitution-teaching vacancies in Zürich, sourced from [epalero.ch](https://www.epalero.ch). Updates every 5 minutes via GitHub Actions and sends push notifications via [ntfy](https://ntfy.sh) when new listings appear.
 
 ## How it works
 
-1. **GitHub Actions** runs `poller.py` every 15 minutes.
+1. **GitHub Actions** runs `poller.py` every 5 minutes.
 2. The poller fetches all current vacancies from the epalero.ch JSON API (no login required).
 3. It compares the result against the existing `data.json` to detect new entries.
 4. If new entries exist: `data.json` is replaced with the latest data, committed, and a push notification is sent per new entry.
