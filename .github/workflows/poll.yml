@@ -1,4 +1,4 @@
-name: Poll epalero.ch
+name: Poll epalero.ch workflow
 
 on:
   schedule:
