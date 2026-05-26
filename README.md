@@ -57,6 +57,10 @@ Body:   Primarschule Muster, Zürich
 Data comes from:
 
 ```
+https://backend.epalero.ch/api/v1/vacancies?
+```
+
+```
 GET https://backend.epalero.ch/api/v1/vacancies
     ?sort=publish,desc
     &cantons=zurich
