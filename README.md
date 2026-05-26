@@ -32,12 +32,12 @@ Notifications are sent via [ntfy.sh](https://ntfy.sh) — free, no account neede
 
 ### Web / curl
 
-```bash
-# Stream notifications in the terminal
-curl -s https://ntfy.sh/<NTFY_TOPIC>/json
+```
+> curl -d "Backup successful 😀" ntfy.sh/test
+{"id":"qXgPytc8hJ8q","time":1779811117,"expires":1779854317,"event":"message","topic":"test","message":"Backup successful 😀"}
 ```
 
-Or visit `https://ntfy.sh/<NTFY_TOPIC>` in a browser.
+Or visit `https://ntfy.sh/testy_is_the_besty` in a browser.
 
 **Keep your topic name private** — anyone who knows it can subscribe (or publish).
 
