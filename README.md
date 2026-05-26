@@ -1,5 +1,7 @@
 # Stellvertretix
 
+[![Poll epalero.ch](https://github.com/blocen/stellvertretix/actions/workflows/poll.yml/badge.svg)](https://github.com/blocen/stellvertretix/actions/workflows/poll.yml)
+
 A public portal for substitution-teaching vacancies in Zürich, sourced from [epalero.ch](https://www.epalero.ch). Updates every 15 minutes via GitHub Actions and sends push notifications via [ntfy](https://ntfy.sh) when new listings appear.
 
 ## How it works
