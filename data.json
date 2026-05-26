@@ -1,5 +1,80 @@
 [
   {
+    "id": "01KSJ666NEVBWTZSDAJYP19CTT",
+    "additionalInformation": "Alles Material wurde bereits vorbereitet.\\nanwesende Teammitglieder: 8 - 12 ist SHP, 8-9 DaZ Lehrperson, 11-12 und 15-16 Schulassistenz\\n13.30 - 15.10 Uhr Halbklasse (TTG)",
+    "affectedTeacherIds": [
+      "Uhag0vOLx5PCm3vYW7NDhXKmzaL2",
+      "j1Ax8JsD3WRx2nHMtswh0DPWk382"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779800677038,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1783555200000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1779800675840,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 7,
+    "publishTimestamp": 1779800677037,
+    "school": {
+      "email": "schulverwaltung.bachenbuelach@psbb.ch",
+      "address": {
+        "city": "Bachenbülach",
+        "canton": "zurich",
+        "street": "Halden",
+        "country": "Schweiz",
+        "zipCode": 8184,
+        "streetNr": "16",
+        "coordinates": {
+          "lat": 47.5017422,
+          "lng": 8.551304199999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.psbb.ch",
+      "lastName": "Kalantar",
+      "schoolId": "zGgf9qmx1Na6MOMkSpTwmK1sMkh2",
+      "firstName": "Evelyn",
+      "schoolName": "Primarschule Halden",
+      "phoneNumber": "0445015252",
+      "organisationId": "ZZE3lwGaAKiHAuCOY3vw",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 24,
+      "additionalInformation": "FLP/SHP steht für gemeinsamen Austausch zur Verfügung"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780531200000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
     "id": "01KSJ29RG75VA6A1VJDXEHBTAZ",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -28,6 +103,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1779796599349,
     "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 12,
     "publishTimestamp": 1779796599302,
     "school": {
@@ -111,6 +188,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1779368626703,
     "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 14,
     "publishTimestamp": 1779368626413,
     "school": {
@@ -190,6 +269,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1779021271033,
     "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 10,
     "publishTimestamp": 1779021268795,
     "school": {
@@ -266,6 +347,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1778593656704,
     "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 27,
     "publishTimestamp": 1778593656569,
     "school": {
@@ -350,6 +433,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1778576164535,
     "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 11,
     "publishTimestamp": 1778576164481,
     "school": {
@@ -426,6 +511,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1778486900880,
     "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 16,
     "publishTimestamp": 1778486900589,
     "school": {
@@ -509,6 +596,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1778244430870,
     "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 20,
     "publishTimestamp": 1778244430708,
     "school": {
@@ -587,6 +676,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1778140247796,
     "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 27,
     "publishTimestamp": 1778140246099,
     "school": {
@@ -670,6 +761,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1778061723647,
     "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 16,
     "publishTimestamp": 1778061723604,
     "school": {
@@ -747,6 +840,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1776702508932,
     "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 6,
     "publishTimestamp": 1776702508343,
     "school": {
@@ -817,6 +912,8 @@
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1776420456499,
     "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
     "pensum": 15,
     "publishTimestamp": 1776420456456,
     "school": {
