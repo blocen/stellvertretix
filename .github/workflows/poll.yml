@@ -2,7 +2,7 @@ name: Poll epalero.ch workflow
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 7-19 * * *"
   workflow_dispatch:
 
 permissions:
