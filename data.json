@@ -1,9 +1,81 @@
 [
   {
+    "id": "01KSMN8282YZ9TC7WG30A157QM",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779883575554,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1780531200000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1779883575597,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1779883575554,
+    "school": {
+      "email": "viviane.farinha@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bullingerstrasse",
+        "country": "Schweiz",
+        "zipCode": 8004,
+        "streetNr": "62",
+        "coordinates": {
+          "lat": 47.3824228,
+          "lng": 8.5100637
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/hardau.html",
+      "lastName": "Farinha",
+      "schoolId": "WDvIjUzZE5gJPCfSOJO6n5YhnYi2",
+      "firstName": "Viviane",
+      "schoolName": "Hardau",
+      "phoneNumber": "0444131665",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": "Sehr zentral und gut an den ÖV angebunden. Über Bhf. Hardbrücke, Bhf. Altstetten oder Albisriederplatz erreichbar. "
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": "Zeiten der Lektionen: 07:30 - 10.00 Uhr und um 13:45 - 16:15 Uhr. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780531200000,
+    "subjects": [
+      "french"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KSMF4D3P6AEMA818XS9BKKW2",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "O5AC7wslK7hirj2cMcpeed9Z0wa2"
+      "O5AC7wslK7hirj2cMcpeed9Z0wa2",
+      "9C5G8uSFFLbmEwz9oQ2G7GlBnVP2",
+      "Kh8EXvzdzDNOHquDNxD9KgArQk53"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -71,7 +143,7 @@
       "tuesdayMorning",
       "wednesdayMorning"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KSMC3DFXGM5ZBHE8M8Y665SS",
@@ -81,7 +153,10 @@
       "exS9JAfzqSUIKSIXeqH1hLV8ACJ3",
       "7o4Fj7EEuxR95PrIie2bSs5lgSx1",
       "NT1HWW1gJZQqgTH1pWu1dULd3m63",
-      "kUaErFgrE1e9HUTNQcDLzRebHDu2"
+      "kUaErFgrE1e9HUTNQcDLzRebHDu2",
+      "6WVoHhUovuUjGZYElO0D8groAjI2",
+      "S61qN6YU8JYw1nEaWrfwjnA6bIC2",
+      "PyaP3sqR27hySF6Tq0252HGMKQP2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -149,77 +224,7 @@
       "mondayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01KSM85J54JNZ0GPSBQS7N23EM",
-    "additionalInformation": "Der Unterrichtsinhalt kann frei gewählt werden.",
-    "affectedTeacherIds": [],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1779869862052,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1780012800000,
-    "grades": [
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1779869862133,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1779869862052,
-    "school": {
-      "email": "schulleitung.reitmen@schuleschlieren.ch",
-      "address": {
-        "city": "Schlieren",
-        "canton": "zurich",
-        "street": "Badenerstrasse",
-        "country": "Schweiz",
-        "zipCode": 8952,
-        "streetNr": "82",
-        "coordinates": {
-          "lat": 47.39729790000001,
-          "lng": 8.4354557
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://schule.schlieren.ch/reitmen",
-      "lastName": "Urs Kamm (Kiga/Primar)",
-      "schoolId": "T0JIU7e1E9MR7Jn4gF5Vlk1qp2j2",
-      "firstName": "Bruno Hunn (Sek) /",
-      "schoolName": "Reitmen",
-      "phoneNumber": "044 738 44 03",
-      "organisationId": "7xhOwB506KrlEDYO0jXr",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1779926400000,
-    "subjects": [
-      "otherSubject"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KSM2Z5NFME0W4DJJAST8SBG4",
