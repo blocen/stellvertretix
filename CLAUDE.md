@@ -28,9 +28,22 @@ The project has three parts, each a single file:
 
 [.github/workflows/poll.yml](.github/workflows/poll.yml) — runs on `*/5 7-19 * * *`. It detects whether `poller.py` printed `UPDATED` and only commits + pushes `data.json` if so. Requires the `NTFY_TOPIC` repository secret (optional).
 
+## Testing changes
+
+Run `python poller.py` locally to fetch live data and test changes to the poller. It reads/writes `data.json` and respects the `NTFY_TOPIC` env var (unset to skip notifications). The workflow script detects the "UPDATED" stdout signal to decide whether to commit.
+
 ## Key API details
 
 - Endpoint: `GET https://backend.epalero.ch/api/v1/vacancies` — public, no auth.
 - Pagination: page-based; poller stops on empty page, partial page, or duplicate-ID page.
 - Vacancy deep link format: `https://www.epalero.ch/de/stellvertretungen/{id}` (closed vacancies redirect to `/de`).
 - The `subjects` and `levelsDetailed` fields use English enum keys; both `poller.py` and `index.html` maintain identical German label maps — keep them in sync when adding new subjects.
+
+## Label maps
+
+Duplicate subject and level enums exist in both files:
+
+- `poller.py` lines 23–46: `SUBJECT_LABELS` dict used for notification text
+- `index.html` lines 216–233: `SUBJECTS` and `LEVELS` objects used for frontend rendering
+
+When adding new subjects or levels to the API, update both maps identically to avoid missing translations in notifications or frontend.
