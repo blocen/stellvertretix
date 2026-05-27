@@ -1,10 +1,235 @@
 [
   {
+    "id": "01KSM85J54JNZ0GPSBQS7N23EM",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779869862052,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1780012800000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolled",
+    "modifiedTimestamp": 1779869862133,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1779869862052,
+    "school": {
+      "email": "schulleitung.reitmen@schuleschlieren.ch",
+      "address": {
+        "city": "Schlieren",
+        "canton": "zurich",
+        "street": "Badenerstrasse",
+        "country": "Schweiz",
+        "zipCode": 8952,
+        "streetNr": "82",
+        "coordinates": {
+          "lat": 47.39729790000001,
+          "lng": 8.4354557
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://schule.schlieren.ch/reitmen",
+      "lastName": "Urs Kamm (Kiga/Primar)",
+      "schoolId": "T0JIU7e1E9MR7Jn4gF5Vlk1qp2j2",
+      "firstName": "Bruno Hunn (Sek) /",
+      "schoolName": "Reitmen",
+      "phoneNumber": "044 738 44 03",
+      "organisationId": "7xhOwB506KrlEDYO0jXr",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1779926400000,
+    "subjects": [
+      "french"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01KSM2Z5NFME0W4DJJAST8SBG4",
+    "additionalInformation": "Aufgrund der Genesung wird die Stellvertretung verlängert. Je nach Gesundheitszustand im ausgeschriebenen oder in einem reduzierten Pensum. \\nUnterricht morgens von Mo-Do je 4 L. Freitags 3 L. von 9-12 Uhr",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779864409775,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781827200000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1779864409917,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 19,
+    "publishTimestamp": 1779864409774,
+    "school": {
+      "email": "alexandra.boeni@schule-eglisau.ch",
+      "address": {
+        "city": "Eglisau",
+        "canton": "zurich",
+        "street": "Obergass",
+        "country": "Schweiz",
+        "zipCode": 8193,
+        "streetNr": "57",
+        "coordinates": {
+          "lat": 47.5756381,
+          "lng": 8.5260853
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-eglisau.ch",
+      "lastName": "Böni",
+      "schoolId": "yj3359TXBtUWfL3OGLdVViz1IdI2",
+      "firstName": "Alexandra",
+      "schoolName": "Städtli ",
+      "phoneNumber": "0799446725",
+      "organisationId": "nwpBXA3iskblFPfZsbgM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": "Unterstützung durch Teamteaching, IF, DaZ, Klassenassistenz & Zivi"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780272000000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "fineArts",
+      "sports",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01KSM2K0YR37E4AV62PKBWF986",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "55L6wCoNZwXhfhlXWLHj8Wjcct22"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779864011736,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1780617600000,
+    "grades": [
+      "thirdClass",
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1779864011789,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 7,
+    "publishTimestamp": 1779864011736,
+    "school": {
+      "email": "viviane.farinha@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bullingerstrasse",
+        "country": "Schweiz",
+        "zipCode": 8004,
+        "streetNr": "62",
+        "coordinates": {
+          "lat": 47.3824228,
+          "lng": 8.5100637
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/hardau.html",
+      "lastName": "Farinha",
+      "schoolId": "WDvIjUzZE5gJPCfSOJO6n5YhnYi2",
+      "firstName": "Viviane",
+      "schoolName": "Hardau",
+      "phoneNumber": "0444131665",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": "Sehr zentral und gut an den ÖV angebunden. Über Bhf. Hardbrücke, Bhf. Altstetten oder Albisriederplatz erreichbar. "
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780012800000,
+    "subjects": [
+      "english",
+      "mediaAndComputerScience",
+      "music",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "fridayMorning",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01KSJ666NEVBWTZSDAJYP19CTT",
     "additionalInformation": "Alles Material wurde bereits vorbereitet.\\nanwesende Teammitglieder: 8 - 12 ist SHP, 8-9 DaZ Lehrperson, 11-12 und 15-16 Schulassistenz\\n13.30 - 15.10 Uhr Halbklasse (TTG)",
     "affectedTeacherIds": [
       "Uhag0vOLx5PCm3vYW7NDhXKmzaL2",
-      "j1Ax8JsD3WRx2nHMtswh0DPWk382"
+      "j1Ax8JsD3WRx2nHMtswh0DPWk382",
+      "y9e0JqewM6cLGOPEClUe9lTdU823",
+      "bP18gdZd24eLnYc0f3XA9HbJnjC2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -72,90 +297,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KSJ29RG75VA6A1VJDXEHBTAZ",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "xRYcndsaVNZVoIiJAe6Cwnjcnzk2",
-      "ZCNocy1pmRSwi5KWc9J2iTDCQTD2",
-      "55L6wCoNZwXhfhlXWLHj8Wjcct22",
-      "xiO5rrSHuMdSJpVMdP2uFvdcwhi2",
-      "jMyLPMhMKDPXe4H01w96QZpxY8B2",
-      "NT1HWW1gJZQqgTH1pWu1dULd3m63"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1779796599303,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1780012800000,
-    "grades": [
-      "firstClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779796599349,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1779796599302,
-    "school": {
-      "email": "nico.meienberg@schuleschlieren.ch",
-      "address": {
-        "city": "Schlieren",
-        "canton": "zurich",
-        "street": "Schulstrasse",
-        "country": "Schweiz",
-        "zipCode": 8952,
-        "streetNr": "18",
-        "coordinates": {
-          "lat": 47.39673450000001,
-          "lng": 8.4525693
-        }
-      },
-      "culture": "de-CH",
-      "website": "schule.schlieren.ch/schulstrasse",
-      "lastName": "Meienberg",
-      "schoolId": "Sw1FUrXDs1h6Ff1Y9gKvZmou7io2",
-      "firstName": "Nico",
-      "schoolName": "Schule Schulstrasse",
-      "phoneNumber": "044 738 44 90",
-      "organisationId": "7xhOwB506KrlEDYO0jXr",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1779926400000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "fineArts",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KSJ29RG75VA6A1VJDXEHBTAZ/timeTables/6f8fbd98-ddc2-4fd0-b986-4a08af8fcd0f.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 6
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KS5A527DHRR679QHASFP2A89",
@@ -250,7 +392,8 @@
     "id": "01KRTYWHSVXRTEDMY9G1J8381N",
     "additionalInformation": "Es handelt sich um eine Mutterschaftsvikariat, allenfalls müsste auch bereits direkt nach den Sommerferien gestartet werden.\\nKostenlose Parkplätze sind für die Lehrpersonen vorhanden.",
     "affectedTeacherIds": [
-      "qj2ZAF0KWqcTzNiqLE8F8kUohUF2"
+      "qj2ZAF0KWqcTzNiqLE8F8kUohUF2",
+      "cEV5zrsxcwWVRSuplMasAqQc7fi1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -319,7 +462,7 @@
       "wednesdayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KRE72VQSAAM2VJYNT4BR733T",
@@ -406,7 +549,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KRDPD1M28H1P3B889AZNTSF3",
