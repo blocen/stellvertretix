@@ -111,10 +111,16 @@ def send_notification(entry: dict) -> None:
     message = f"{school}, {city}\nFächer: {subjects}\n{start} – {end}, {pensum} Lekt./Wo."
     title = f"Neue Stellvertretung: {school}"
 
+    vacancy_url = f"https://www.epalero.ch/de/stellvertretungen/{entry['id']}"
     requests.post(
         f"https://ntfy.sh/{NTFY_TOPIC}",
         data=message.encode("utf-8"),
-        headers={"Title": title, "Priority": "default"},
+        headers={
+            "Title": title,
+            "Priority": "default",
+            "Click": vacancy_url,
+            "Actions": f"view, Open Vacancy, {vacancy_url}, clear=true",
+        },
         timeout=15,
     )
 
