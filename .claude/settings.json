@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(./**)",
+      "Write(./**)",
+      "Edit(./**)",
+      "Bash(python3 poller.py)",
+      "Bash(NTFY_TOPIC=\"\" python3 poller.py)",
+      "Bash(python3 -m py_compile poller.py)",
+      "Bash(pip install -r requirements.txt)",
+      "Bash(python3 -m http.server *)"
+    ]
+  }
+}
