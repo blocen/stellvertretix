@@ -1,82 +1,84 @@
 [
   {
-    "id": "01KSQ2NMNF2J9B45HZ4PZQTSTT",
-    "additionalInformation": "Du darfst das Programm ziemlich selbst gestalten. Am Nachmittag planst du am besten BG. ",
-    "affectedTeacherIds": [
-      "f1hoypu7hSdImemP4f0uo8bg48u2"
-    ],
+    "id": "01KSQX664BDNB3Z55XEHTZ8KKC",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1779964760751,
+    "createdTimestamp": 1779992565900,
     "curriculum": "lehrplan21",
     "endTimestamp": 1780012800000,
     "grades": [
-      "sixthClass"
+      "fifthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779964760823,
+    "modifiedTimestamp": 1779992565416,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 7,
-    "publishTimestamp": 1779964760750,
+    "pensum": 6,
+    "publishTimestamp": 1779992565898,
     "school": {
-      "email": "sl.steiacher@schulen-wb.ch",
+      "email": "gabriel.terlemez@dietikon.ch",
       "address": {
-        "city": "Brüttisellen",
+        "city": "Dietikon",
         "canton": "zurich",
-        "street": "Schulhausstrasse",
+        "street": "Römerstrasse ",
         "country": "CH",
-        "zipCode": 8306,
-        "streetNr": "7",
+        "zipCode": 8953,
+        "streetNr": "15",
         "coordinates": {
-          "lat": 47.4242065,
-          "lng": 8.6340612
+          "lat": 47.4047072,
+          "lng": 8.3947644
         }
       },
       "culture": "de-CH",
-      "website": "www.schulen-wb.ch",
-      "lastName": "Steiacher",
-      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
-      "firstName": "Schulleitung ",
-      "schoolName": "Steiacher",
-      "phoneNumber": "0432557607",
-      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
-      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
+      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
+      "lastName": "Schulleitung",
+      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
+      "firstName": "Steinmürli ",
+      "schoolName": "Schule Steinmürli, Dietikon",
+      "phoneNumber": "0447437700",
+      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 18,
-      "additionalInformation": "lebhafte 6. Klasse"
+      "numberOfStudents": 0,
+      "additionalInformation": null
     },
     "startAsOfNow": false,
     "startTimestamp": 1780012800000,
     "subjects": [
-      "english",
+      "german",
       "mathematics",
-      "fineArts",
-      "sports"
+      "mediaAndComputerScience",
+      "fineArts"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01KSQ2NMNF2J9B45HZ4PZQTSTT/timeTables/3cb94fa7-f935-4b14-9383-9812648c513a.pdf",
+    "timeTableRef": "vacancies/01KSQX664BDNB3Z55XEHTZ8KKC/timeTables/e9ba5909-4ed8-44ee-9938-8cb509c7a52a.png",
     "vacancyType": "short",
     "workingBlocks": [
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KSQ06D34BPZ2W60GCPDEMHTX",
     "additionalInformation": "Der Deutsch-, Mathe- und Musikunterricht ist vollständig gepräpt (teilweise muss noch kopiert werden) und darf (muss aber nicht) komplett übernommen werden. Sport und BG bitte selber präpen.\\n\\nUnterrichtszeiten: 8:15 - 11:55 und 13:50 - 15:25 Uhr\\nUnterrichtstage: \\nFr 5.6., 6 WL\\nDo 11.6., 6 WL\\nFr 12.6., 6 WL\\nDo 18.6., 6 WL\\nFr 19.6., 6 WL\\nDo 25.6., 6 WL\\nFr 26.6., 6 WL\\nDo 2.7., 6 WL\\nFr 3.7., 6 WL\\nDo 9.7., 6 WL\\nFr 10.7., 4 WL (8-12 Uhr)",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "74zSaudwbqWmJXxImkU0nZILer43",
+      "NT1HWW1gJZQqgTH1pWu1dULd3m63",
+      "55L6wCoNZwXhfhlXWLHj8Wjcct22"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -146,13 +148,14 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KSPWR9X03X751KGJ9DWANK7G",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "qj2ZAF0KWqcTzNiqLE8F8kUohUF2"
+      "qj2ZAF0KWqcTzNiqLE8F8kUohUF2",
+      "NT1HWW1gJZQqgTH1pWu1dULd3m63"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -228,7 +231,8 @@
       "2URffkagQRNZhZBCYJyIpj9n0772",
       "xDggVglsjJcJaTcHc99D1lWeUGx2",
       "Xq95LoqXFiUdh3PeGxXpG0zQW9T2",
-      "ft4q2NLdvuZYCwri72tIlTFoXUh1"
+      "ft4q2NLdvuZYCwri72tIlTFoXUh1",
+      "74zSaudwbqWmJXxImkU0nZILer43"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -306,7 +310,9 @@
       "6ayiikqXwHRPthKlESAshJRkume2",
       "96DbuNf1YqZ2lTxlRMOV89i6xIi1",
       "KCet1Py6tGSvW0qWKiIQa7Ilmrn2",
-      "UqCAWXlsLzeVFRbYvP7ItS4GndG2"
+      "UqCAWXlsLzeVFRbYvP7ItS4GndG2",
+      "NT1HWW1gJZQqgTH1pWu1dULd3m63",
+      "EA18EevbQoO69Od0aZVRxQKcOly1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -383,7 +389,8 @@
     "affectedTeacherIds": [
       "fQGNk56DKoTYiulULfY7v598N7i1",
       "krGTl4ilhKax0kJptTDErcf3V2E3",
-      "6eXW3XgL7sfrI5MtD7LQ395Wkao2"
+      "6eXW3XgL7sfrI5MtD7LQ395Wkao2",
+      "42dV930wj5fqW17xgobiqonH8Zm2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -464,7 +471,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KRTYWHSVXRTEDMY9G1J8381N",
