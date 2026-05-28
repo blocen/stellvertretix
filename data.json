@@ -1,5 +1,154 @@
 [
   {
+    "id": "01KSQ2NMNF2J9B45HZ4PZQTSTT",
+    "additionalInformation": "Du darfst das Programm ziemlich selbst gestalten. Am Nachmittag planst du am besten BG. ",
+    "affectedTeacherIds": [
+      "f1hoypu7hSdImemP4f0uo8bg48u2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779964760751,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1780012800000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1779964760823,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 7,
+    "publishTimestamp": 1779964760750,
+    "school": {
+      "email": "sl.steiacher@schulen-wb.ch",
+      "address": {
+        "city": "Brüttisellen",
+        "canton": "zurich",
+        "street": "Schulhausstrasse",
+        "country": "CH",
+        "zipCode": 8306,
+        "streetNr": "7",
+        "coordinates": {
+          "lat": 47.4242065,
+          "lng": 8.6340612
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulen-wb.ch",
+      "lastName": "Steiacher",
+      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
+      "firstName": "Schulleitung ",
+      "schoolName": "Steiacher",
+      "phoneNumber": "0432557607",
+      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
+      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
+    },
+    "schoolClass": {
+      "numberOfStudents": 18,
+      "additionalInformation": "lebhafte 6. Klasse"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780012800000,
+    "subjects": [
+      "english",
+      "mathematics",
+      "fineArts",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KSQ2NMNF2J9B45HZ4PZQTSTT/timeTables/3cb94fa7-f935-4b14-9383-9812648c513a.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "fridayMorning",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01KSQ06D34BPZ2W60GCPDEMHTX",
+    "additionalInformation": "Der Deutsch-, Mathe- und Musikunterricht ist vollständig gepräpt (teilweise muss noch kopiert werden) und darf (muss aber nicht) komplett übernommen werden. Sport und BG bitte selber präpen.\\n\\nUnterrichtszeiten: 8:15 - 11:55 und 13:50 - 15:25 Uhr\\nUnterrichtstage: \\nFr 5.6., 6 WL\\nDo 11.6., 6 WL\\nFr 12.6., 6 WL\\nDo 18.6., 6 WL\\nFr 19.6., 6 WL\\nDo 25.6., 6 WL\\nFr 26.6., 6 WL\\nDo 2.7., 6 WL\\nFr 3.7., 6 WL\\nDo 9.7., 6 WL\\nFr 10.7., 4 WL (8-12 Uhr)",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779962164324,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1783641600000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1779962164247,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1779962164323,
+    "school": {
+      "email": "annette.cathomas@schulefaellanden.ch",
+      "address": {
+        "city": "Fällanden",
+        "canton": "zurich",
+        "street": "Maurstrasse",
+        "country": "CH",
+        "zipCode": 8117,
+        "streetNr": "27",
+        "coordinates": {
+          "lat": 47.3700251,
+          "lng": 8.6432004
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulefaellanden.ch",
+      "lastName": "Cathomas",
+      "schoolId": "Bm2S1Kuq8QNLVvegSmwBR4fT1Lv2",
+      "firstName": "Annette",
+      "schoolName": "Primarschule Lätten",
+      "phoneNumber": "043 355 36 49 / 043 355 36 55",
+      "organisationId": "jjTZLJweUGp7yAr8AxJC",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 21,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780617600000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "fineArts",
+      "music",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KSPWR9X03X751KGJ9DWANK7G",
     "additionalInformation": "",
     "affectedTeacherIds": [
