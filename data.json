@@ -1,10 +1,85 @@
 [
   {
+    "id": "01KSPWR9X03X751KGJ9DWANK7G",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "qj2ZAF0KWqcTzNiqLE8F8kUohUF2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779958556576,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1782345600000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1779958556625,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1779958556576,
+    "school": {
+      "email": "marco.boesch@buelach.ch",
+      "address": {
+        "city": "Bülach",
+        "canton": "zurich",
+        "street": "Leeweg",
+        "country": "Schweiz",
+        "zipCode": 8180,
+        "streetNr": "21",
+        "coordinates": {
+          "lat": 47.512291,
+          "lng": 8.5311091
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-buelach.ch/schulen/schule-allmend/",
+      "lastName": "Bösch",
+      "schoolId": "CcbFvDU1SgS66gNBKIlxWiIFvZ02",
+      "firstName": "Marco",
+      "schoolName": "Primarschule Allmend",
+      "phoneNumber": "+41 44 863 16 60",
+      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780531200000,
+    "subjects": [
+      "mathematics",
+      "fineArts",
+      "music"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01KSPSG9B02TX5H8NG98V432TW",
     "additionalInformation": "Wir suchen eine Stellvertreterin für IF/ISR-Lektionen in zwei 2. Klassen, integrativ und separativ nach Absprache",
     "affectedTeacherIds": [
       "2URffkagQRNZhZBCYJyIpj9n0772",
-      "xDggVglsjJcJaTcHc99D1lWeUGx2"
+      "xDggVglsjJcJaTcHc99D1lWeUGx2",
+      "Xq95LoqXFiUdh3PeGxXpG0zQW9T2",
+      "ft4q2NLdvuZYCwri72tIlTFoXUh1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -70,82 +145,6 @@
       "thursdayMorning",
       "mondayAfternoon",
       "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KSPR8BGV6Q5T3NFN54XGFP45",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "RzEjuPuPBCV45jxh4BxCxovaEHD3",
-      "UqCAWXlsLzeVFRbYvP7ItS4GndG2",
-      "EA18EevbQoO69Od0aZVRxQKcOly1",
-      "bwsCgr7N4wNxPyLFQuNnemhjMmZ2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1779953839643,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1780531200000,
-    "grades": [
-      "thirdClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779953839684,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1779953839642,
-    "school": {
-      "email": "sekretariat.schulebachtobel@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Bachtobelstrasse",
-        "country": "CH",
-        "zipCode": 8045,
-        "streetNr": "111",
-        "coordinates": {
-          "lat": 47.3588387,
-          "lng": 8.5116538
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel.html",
-      "lastName": "Hofer",
-      "schoolId": "v827wIi6T8bfiRPbcKZH4u8HGzX2",
-      "firstName": "Sabrina",
-      "schoolName": "Bachtobel",
-      "phoneNumber": "044 413 18 37",
-      "organisationId": "wOjojIaUYufY86lm5eKY",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1780531200000,
-    "subjects": [
-      "ifIssIsr"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning",
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 4
@@ -228,164 +227,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KSMC3DFXGM5ZBHE8M8Y665SS",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "t7dXhOOVxHRRZxP2gsVg4yKmPjW2",
-      "exS9JAfzqSUIKSIXeqH1hLV8ACJ3",
-      "7o4Fj7EEuxR95PrIie2bSs5lgSx1",
-      "NT1HWW1gJZQqgTH1pWu1dULd3m63",
-      "kUaErFgrE1e9HUTNQcDLzRebHDu2",
-      "6WVoHhUovuUjGZYElO0D8groAjI2",
-      "S61qN6YU8JYw1nEaWrfwjnA6bIC2",
-      "PyaP3sqR27hySF6Tq0252HGMKQP2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1779873986045,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1780272000000,
-    "grades": [
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779873986052,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1779873986045,
-    "school": {
-      "email": "schulleitung@moenchaltorf.ch",
-      "address": {
-        "city": "Mönchaltorf",
-        "canton": "zurich",
-        "street": "Schulhausstrasse ",
-        "country": "CH",
-        "zipCode": 8617,
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.3085768,
-          "lng": 8.7193664
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulemoenchaltorf.ch",
-      "lastName": "Andermatt",
-      "schoolId": "vDkSxHQUuNell10ktvgT45WV28F2",
-      "firstName": "Monika",
-      "schoolName": "Schulanlage Rietwis",
-      "phoneNumber": "044 949 40 30",
-      "organisationId": "0emEmqkI9lk1PalVX44i",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Es handelt sich um eine 1./2. Klasse gemischt. Am Nachmittag sind nur die 1. Klässler anwesend."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1780272000000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KSJ666NEVBWTZSDAJYP19CTT",
-    "additionalInformation": "Alles Material wurde bereits vorbereitet.\\nanwesende Teammitglieder: 8 - 12 ist SHP, 8-9 DaZ Lehrperson, 11-12 und 15-16 Schulassistenz\\n13.30 - 15.10 Uhr Halbklasse (TTG)",
-    "affectedTeacherIds": [
-      "Uhag0vOLx5PCm3vYW7NDhXKmzaL2",
-      "j1Ax8JsD3WRx2nHMtswh0DPWk382",
-      "y9e0JqewM6cLGOPEClUe9lTdU823",
-      "bP18gdZd24eLnYc0f3XA9HbJnjC2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1779800677038,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1783555200000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779800675840,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 7,
-    "publishTimestamp": 1779800677037,
-    "school": {
-      "email": "schulverwaltung.bachenbuelach@psbb.ch",
-      "address": {
-        "city": "Bachenbülach",
-        "canton": "zurich",
-        "street": "Halden",
-        "country": "Schweiz",
-        "zipCode": 8184,
-        "streetNr": "16",
-        "coordinates": {
-          "lat": 47.5017422,
-          "lng": 8.551304199999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.psbb.ch",
-      "lastName": "Kalantar",
-      "schoolId": "zGgf9qmx1Na6MOMkSpTwmK1sMkh2",
-      "firstName": "Evelyn",
-      "schoolName": "Primarschule Halden",
-      "phoneNumber": "0445015252",
-      "organisationId": "ZZE3lwGaAKiHAuCOY3vw",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 24,
-      "additionalInformation": "FLP/SHP steht für gemeinsamen Austausch zur Verfügung"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1780531200000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   },
   {
     "id": "01KS5A527DHRR679QHASFP2A89",
