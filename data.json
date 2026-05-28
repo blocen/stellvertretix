@@ -1,106 +1,32 @@
 [
   {
-    "id": "01KSN6M6Z91RPBEQT4N1RGA2EX",
-    "additionalInformation": "Die KLP kann Auskunft geben.",
+    "id": "01KSPSG9B02TX5H8NG98V432TW",
+    "additionalInformation": "Wir suchen eine Stellvertreterin für IF/ISR-Lektionen in zwei 2. Klassen, integrativ und separativ nach Absprache",
     "affectedTeacherIds": [
-      "xRYcndsaVNZVoIiJAe6Cwnjcnzk2",
-      "RzEjuPuPBCV45jxh4BxCxovaEHD3",
-      "fpoHb0FvbLOQwlPXAjeSZV7pVBp2",
-      "Q9UbBn1mU1XU56Lm7Mj8ZS8v8Kq1"
+      "2URffkagQRNZhZBCYJyIpj9n0772",
+      "xDggVglsjJcJaTcHc99D1lWeUGx2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1779901799401,
+    "createdTimestamp": 1779955148129,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1779926400000,
+    "endTimestamp": 1780531200000,
     "grades": [
-      "fifthClass"
+      "secondClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779901799475,
+    "modifiedTimestamp": 1779955148058,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1779901799400,
-    "school": {
-      "email": "gabriel.terlemez@dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Schulleitung",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Steinmürli ",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1779926400000,
-    "subjects": [
-      "french",
-      "fineArts",
-      "sports",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KSN6M6Z91RPBEQT4N1RGA2EX/timeTables/3375932f-045b-497e-a9cd-a54db0025364.png",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KSMVKAWW1HYG87YP1WPB1TYK",
-    "additionalInformation": "",
-    "affectedTeacherIds": [],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1779890236317,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1780617600000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779890236398,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1779890236316,
+    "pensum": 14,
+    "publishTimestamp": 1779955148127,
     "school": {
       "email": "sl.steiacher@schulen-wb.ch",
       "address": {
@@ -126,34 +52,182 @@
       "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
     },
     "schoolClass": {
-      "numberOfStudents": 18,
-      "additionalInformation": "Die Klasse ist lebhaft und in Abschlussstimmung. Es ist gut, wenn du klar anleitest und viel Stillarbeit einplanst. "
+      "numberOfStudents": 20,
+      "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1779926400000,
+    "startTimestamp": 1780272000000,
     "subjects": [
-      "english",
-      "mathematics",
-      "fineArts",
-      "sports"
+      "ifIssIsr"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01KSMVKAWW1HYG87YP1WPB1TYK/timeTables/97017284-248d-440e-ac22-942b057b4471.pdf",
+    "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
       "mondayMorning",
-      "tuesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01KSPR8BGV6Q5T3NFN54XGFP45",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "RzEjuPuPBCV45jxh4BxCxovaEHD3",
+      "UqCAWXlsLzeVFRbYvP7ItS4GndG2",
+      "EA18EevbQoO69Od0aZVRxQKcOly1",
+      "bwsCgr7N4wNxPyLFQuNnemhjMmZ2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779953839643,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1780531200000,
+    "grades": [
+      "thirdClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1779953839684,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1779953839642,
+    "school": {
+      "email": "sekretariat.schulebachtobel@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bachtobelstrasse",
+        "country": "CH",
+        "zipCode": 8045,
+        "streetNr": "111",
+        "coordinates": {
+          "lat": 47.3588387,
+          "lng": 8.5116538
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel.html",
+      "lastName": "Hofer",
+      "schoolId": "v827wIi6T8bfiRPbcKZH4u8HGzX2",
+      "firstName": "Sabrina",
+      "schoolName": "Bachtobel",
+      "phoneNumber": "044 413 18 37",
+      "organisationId": "wOjojIaUYufY86lm5eKY",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780531200000,
+    "subjects": [
+      "ifIssIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01KSPNNVNT6MCE38DWCX9JA9PM",
+    "additionalInformation": "Projektwoche: Am Vormittag gemeinsam mit jeweils 1 Lehrperson \"Blumenwerkstatt\", Nachmittag's BG an 2. Klasse",
+    "affectedTeacherIds": [
+      "UXTVW5IFfuMNEIkDAKeiR1W92Yo1",
+      "6ayiikqXwHRPthKlESAshJRkume2",
+      "96DbuNf1YqZ2lTxlRMOV89i6xIi1",
+      "KCet1Py6tGSvW0qWKiIQa7Ilmrn2",
+      "UqCAWXlsLzeVFRbYvP7ItS4GndG2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1779951136442,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781222400000,
+    "grades": [
+      "firstClass",
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1779951136492,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 18,
+    "publishTimestamp": 1779951136441,
+    "school": {
+      "email": "andrea.mueller2@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Sihlweidstrasse",
+        "country": "CH",
+        "zipCode": 8041,
+        "streetNr": "5",
+        "coordinates": {
+          "lat": 47.3265721,
+          "lng": 8.5163177
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/sihlweid.html",
+      "lastName": "Müller",
+      "schoolId": "nV6k81qHbTdmgYKef3Ng8Xm61OV2",
+      "firstName": "Andrea ",
+      "schoolName": "Sihlweid",
+      "phoneNumber": "044 413 08 82",
+      "organisationId": "xZlqKzOOeHaQ85HjGKED",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 15,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1781049600000,
+    "subjects": [
+      "project"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
       "wednesdayMorning",
       "thursdayMorning",
       "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KSMC3DFXGM5ZBHE8M8Y665SS",
