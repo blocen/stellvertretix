@@ -1,5 +1,84 @@
 [
   {
+    "id": "01KSSH2EGJPJ5YQ63CPGCGFFFD",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "HLgVtjrWhthJaqp4rUsJKju2Iho2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780046969362,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1782259200000,
+    "grades": [
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780046969419,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 16,
+    "publishTimestamp": 1780046969362,
+    "school": {
+      "email": "cornelia.voltzenlogel@psog.ch",
+      "address": {
+        "city": "Geroldswil",
+        "canton": "zurich",
+        "street": "Poststrasse ",
+        "country": "CH",
+        "zipCode": 8954,
+        "streetNr": "14b",
+        "coordinates": {
+          "lat": 47.4232941,
+          "lng": 8.409260999999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.psog.ch",
+      "lastName": "Voltzenlogel",
+      "schoolId": "4lWXKMa9ADS0sAQ5ivgC1wcBw0z1",
+      "firstName": "Cornelia",
+      "schoolName": "Huebwies",
+      "phoneNumber": "+41793720820",
+      "organisationId": "6GXyw9tp35G3iWdPNx7M",
+      "directionInformation": "Das Schulhaus liegt im Zentrum von Geroldswil und ist sehr gut mit dem ÖV erreichbar. Parkplätze sind im Quartier vorhanden."
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1782086400000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "music",
+      "sports",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KSSH2EGJPJ5YQ63CPGCGFFFD/timeTables/dfadcf54-3001-4534-b08f-48f61123f05a.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01KSS5H8NB0QQVMHV2RH0K6VFJ",
     "additionalInformation": "Es gibt zwi Möglichkeiten die Lektionen abzudecken. Entweder Mi und Fr Morgen oder Do und Fr Morgen. Details sind im Stundenplan ersichtlich.\\n\\nBitte direkt mit zuständiger SL Kontakt aufnehmen:\\nBenjamin Gerber\\nbenjamin.gerber@schuleduernten.ch\\n055 511 24 03\\n077 232 49 03",
     "affectedTeacherIds": [],
@@ -69,85 +148,6 @@
       "fridayMorning"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KSQ06D34BPZ2W60GCPDEMHTX",
-    "additionalInformation": "Der Deutsch-, Mathe- und Musikunterricht ist vollständig gepräpt (teilweise muss noch kopiert werden) und darf (muss aber nicht) komplett übernommen werden. Sport und BG bitte selber präpen.\\n\\nUnterrichtszeiten: 8:15 - 11:55 und 13:50 - 15:25 Uhr\\nUnterrichtstage: \\nFr 5.6., 6 WL\\nDo 11.6., 6 WL\\nFr 12.6., 6 WL\\nDo 18.6., 6 WL\\nFr 19.6., 6 WL\\nDo 25.6., 6 WL\\nFr 26.6., 6 WL\\nDo 2.7., 6 WL\\nFr 3.7., 6 WL\\nDo 9.7., 6 WL\\nFr 10.7., 4 WL (8-12 Uhr)",
-    "affectedTeacherIds": [
-      "74zSaudwbqWmJXxImkU0nZILer43",
-      "NT1HWW1gJZQqgTH1pWu1dULd3m63",
-      "55L6wCoNZwXhfhlXWLHj8Wjcct22"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1779962164324,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1783641600000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779962164247,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1779962164323,
-    "school": {
-      "email": "annette.cathomas@schulefaellanden.ch",
-      "address": {
-        "city": "Fällanden",
-        "canton": "zurich",
-        "street": "Maurstrasse",
-        "country": "CH",
-        "zipCode": 8117,
-        "streetNr": "27",
-        "coordinates": {
-          "lat": 47.3700251,
-          "lng": 8.6432004
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulefaellanden.ch",
-      "lastName": "Cathomas",
-      "schoolId": "Bm2S1Kuq8QNLVvegSmwBR4fT1Lv2",
-      "firstName": "Annette",
-      "schoolName": "Primarschule Lätten",
-      "phoneNumber": "043 355 36 49 / 043 355 36 55",
-      "organisationId": "jjTZLJweUGp7yAr8AxJC",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1780617600000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "fineArts",
-      "music",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   },
   {
     "id": "01KSPSG9B02TX5H8NG98V432TW",
@@ -226,87 +226,6 @@
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KSPNNVNT6MCE38DWCX9JA9PM",
-    "additionalInformation": "Projektwoche: Am Vormittag gemeinsam mit jeweils 1 Lehrperson \"Blumenwerkstatt\", Nachmittag's BG an 2. Klasse",
-    "affectedTeacherIds": [
-      "UXTVW5IFfuMNEIkDAKeiR1W92Yo1",
-      "6ayiikqXwHRPthKlESAshJRkume2",
-      "96DbuNf1YqZ2lTxlRMOV89i6xIi1",
-      "KCet1Py6tGSvW0qWKiIQa7Ilmrn2",
-      "UqCAWXlsLzeVFRbYvP7ItS4GndG2",
-      "NT1HWW1gJZQqgTH1pWu1dULd3m63",
-      "EA18EevbQoO69Od0aZVRxQKcOly1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1779951136442,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1781222400000,
-    "grades": [
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779951136492,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 18,
-    "publishTimestamp": 1779951136441,
-    "school": {
-      "email": "andrea.mueller2@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Sihlweidstrasse",
-        "country": "CH",
-        "zipCode": 8041,
-        "streetNr": "5",
-        "coordinates": {
-          "lat": 47.3265721,
-          "lng": 8.5163177
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/sihlweid.html",
-      "lastName": "Müller",
-      "schoolId": "nV6k81qHbTdmgYKef3Ng8Xm61OV2",
-      "firstName": "Andrea ",
-      "schoolName": "Sihlweid",
-      "phoneNumber": "044 413 08 82",
-      "organisationId": "xZlqKzOOeHaQ85HjGKED",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 15,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1781049600000,
-    "subjects": [
-      "project"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
   },
   {
     "id": "01KS5A527DHRR679QHASFP2A89",
