@@ -1,68 +1,68 @@
 [
   {
-    "id": "01KT198Y0VFKKCM5E2VBDNCME9",
-    "additionalInformation": "4 WL Schulassistenz\\n3 WL IF\\nMaterial vorhanden und Möglichkeit zur Zusammenarbeit mit 2 Parallelklassen",
+    "id": "01KT1VG0RYBBZ7PER1E1KF4G5Y",
+    "additionalInformation": "",
     "affectedTeacherIds": [
-      "7pQY4k4QiPNWwLpaIUCSksnyWOh2",
-      "WSsuM3RxphQ2OuEB67DgqxWnUun2"
+      "BgUIVOobDQeuLkJ4LukfIObrstS2",
+      "GSMkMVxtgtaZ2MpxZZifoCFDth73",
+      "YeXuSxpra0UIDcCGLyJwPz4u6l83",
+      "leIHTKlZ14VCwKVMu0lUDJ5VaRN2",
+      "EuOAW6eRP7ZR1EkRuv7lTLK2qhE3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1780307228699,
+    "createdTimestamp": 1780326335264,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1781740800000,
+    "endTimestamp": 1780617600000,
     "grades": [
-      "sixthClass"
+      "thirdClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780307227788,
+    "modifiedTimestamp": 1780326335755,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1780307228699,
+    "pensum": 6,
+    "publishTimestamp": 1780326335257,
     "school": {
-      "email": "schulverwaltung.bachenbuelach@psbb.ch",
+      "email": "oliver.suter@schulezollikon.ch",
       "address": {
-        "city": "Bachenbülach",
+        "city": "Zollikerberg",
         "canton": "zurich",
-        "street": "Halden",
-        "country": "Schweiz",
-        "zipCode": 8184,
-        "streetNr": "16",
+        "street": "Schulweg ",
+        "country": "CH",
+        "zipCode": 8125,
+        "streetNr": "6",
         "coordinates": {
-          "lat": 47.5017422,
-          "lng": 8.551304199999999
+          "lat": 47.34508899999999,
+          "lng": 8.603265799999999
         }
       },
       "culture": "de-CH",
-      "website": "www.psbb.ch",
-      "lastName": "Kalantar",
-      "schoolId": "zGgf9qmx1Na6MOMkSpTwmK1sMkh2",
-      "firstName": "Evelyn",
-      "schoolName": "Primarschule Halden",
-      "phoneNumber": "0445015252",
-      "organisationId": "ZZE3lwGaAKiHAuCOY3vw",
-      "directionInformation": ""
+      "website": "https://www.schulezollikon.ch/rueterwis/4627",
+      "lastName": "Suter",
+      "schoolId": "AWrgoSh4nRaa05e3Sh3P1e9xPon2",
+      "firstName": "Oliver",
+      "schoolName": "Schule Rüterwis",
+      "phoneNumber": "0041443967601",
+      "organisationId": "Q8p9IQiGWtIDHFUFiPR0",
+      "directionInformation": "Lageplan siehe Homepage"
     },
     "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "Klasse kann sehr gut ruhig arbeiten. "
+      "numberOfStudents": 0,
+      "additionalInformation": null
     },
-    "startAsOfNow": true,
-    "startTimestamp": 1780272000000,
+    "startAsOfNow": false,
+    "startTimestamp": 1780617600000,
     "subjects": [
-      "german",
-      "french",
       "mathematics",
-      "music",
-      "sports",
+      "fineArts",
       "natureHumanSociety",
       "religionsCulturesEthics"
     ],
@@ -70,16 +70,12 @@
       "de-CH"
     ],
     "timeTableRef": null,
-    "vacancyType": "long",
+    "vacancyType": "short",
     "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
+      "fridayMorning",
+      "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KT0ZKGRD6F9DX71F92FVXAWX",
@@ -88,7 +84,8 @@
       "GSMkMVxtgtaZ2MpxZZifoCFDth73",
       "4uVx5R2tJbVEhKssx73XNVjQ5Ny2",
       "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "lluEQ5WFDlWuBGukN8w7cs4CVvv2"
+      "lluEQ5WFDlWuBGukN8w7cs4CVvv2",
+      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -152,7 +149,7 @@
     "workingBlocks": [
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KSS5H8NB0QQVMHV2RH0K6VFJ",
@@ -323,7 +320,8 @@
     "additionalInformation": "Es handelt sich um eine Mutterschaftsvikariat, allenfalls müsste auch bereits direkt nach den Sommerferien gestartet werden.\\nKostenlose Parkplätze sind für die Lehrpersonen vorhanden.",
     "affectedTeacherIds": [
       "qj2ZAF0KWqcTzNiqLE8F8kUohUF2",
-      "cEV5zrsxcwWVRSuplMasAqQc7fi1"
+      "cEV5zrsxcwWVRSuplMasAqQc7fi1",
+      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -392,7 +390,7 @@
       "wednesdayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KRE72VQSAAM2VJYNT4BR733T",
