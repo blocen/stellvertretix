@@ -1,11 +1,94 @@
 [
   {
+    "id": "01KT198Y0VFKKCM5E2VBDNCME9",
+    "additionalInformation": "4 WL Schulassistenz\\n3 WL IF\\nMaterial vorhanden und Möglichkeit zur Zusammenarbeit mit 2 Parallelklassen",
+    "affectedTeacherIds": [
+      "7pQY4k4QiPNWwLpaIUCSksnyWOh2",
+      "WSsuM3RxphQ2OuEB67DgqxWnUun2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780307228699,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781740800000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780307227788,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 22,
+    "publishTimestamp": 1780307228699,
+    "school": {
+      "email": "schulverwaltung.bachenbuelach@psbb.ch",
+      "address": {
+        "city": "Bachenbülach",
+        "canton": "zurich",
+        "street": "Halden",
+        "country": "Schweiz",
+        "zipCode": 8184,
+        "streetNr": "16",
+        "coordinates": {
+          "lat": 47.5017422,
+          "lng": 8.551304199999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.psbb.ch",
+      "lastName": "Kalantar",
+      "schoolId": "zGgf9qmx1Na6MOMkSpTwmK1sMkh2",
+      "firstName": "Evelyn",
+      "schoolName": "Primarschule Halden",
+      "phoneNumber": "0445015252",
+      "organisationId": "ZZE3lwGaAKiHAuCOY3vw",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": "Klasse kann sehr gut ruhig arbeiten. "
+    },
+    "startAsOfNow": true,
+    "startTimestamp": 1780272000000,
+    "subjects": [
+      "german",
+      "french",
+      "mathematics",
+      "music",
+      "sports",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01KT0ZKGRD6F9DX71F92FVXAWX",
     "additionalInformation": "",
     "affectedTeacherIds": [
       "GSMkMVxtgtaZ2MpxZZifoCFDth73",
       "4uVx5R2tJbVEhKssx73XNVjQ5Ny2",
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12"
+      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
+      "lluEQ5WFDlWuBGukN8w7cs4CVvv2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -484,7 +567,8 @@
     "id": "01KRB18XVEDCYHT0E0BRFVWEBV",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "B609Iayw1WTJ8YCtGPUx9Zi2Jq62"
+      "B609Iayw1WTJ8YCtGPUx9Zi2Jq62",
+      "C9P3of9q2PS1O2zF4SFD1xC0HVV2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -558,7 +642,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KR3T1AVMGQYGVJ5P08DEPP0G",
@@ -570,7 +654,8 @@
       "WFsTt7aYL9WVORWQi7YQcllERh92",
       "asN1Aq9Py2aOtWoJUTX6r1I2XPy2",
       "0mkOPRf86feBf4ZtOADfu4T7JhH2",
-      "FeOknTtZTnaj4UCBtPczq0ALNpw1"
+      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
+      "C9P3of9q2PS1O2zF4SFD1xC0HVV2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -644,7 +729,7 @@
       "tuesdayAfternoon",
       "wednesdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KQYBSHYM8CYEJHBDDKSMKF17",
