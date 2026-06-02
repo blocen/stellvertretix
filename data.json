@@ -1,5 +1,154 @@
 [
   {
+    "id": "01KT4BBFSHJK6V4K59Y8KPB2V5",
+    "additionalInformation": "Tolles Team, sehr gut ausgestattete Räume.",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780410072882,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1783382400000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780410073076,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1780410072881,
+    "school": {
+      "email": "schulleitung@schule-kilchberg.ch",
+      "address": {
+        "city": "Kilchberg ZH",
+        "canton": "zurich",
+        "street": "Alte Landstrasse",
+        "country": "CH",
+        "zipCode": 8802,
+        "streetNr": "120",
+        "coordinates": {
+          "lat": 47.3237144,
+          "lng": 8.5449845
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-kilchberg.ch",
+      "lastName": "Kilchberg",
+      "schoolId": "IJ7PiaBuWfe3Q58QpyYgqkzq2lq2",
+      "firstName": "Schulleitung",
+      "schoolName": "Primarschule Kilchberg",
+      "phoneNumber": "0447163300",
+      "organisationId": "01K6MZ0TGMB1F9XQ62AH2YMHRW",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780876800000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01KT47YMJJA4D6QWHDEWV3VNCV",
+    "additionalInformation": "Mittwochvormittag: Unterricht\\nDonnerstag Sporttag (Vormittag auf Sportplatz einen vorbereiteten Posten betreuen, Mittagspause individuell, Nachmittag auf dem Schulareal die Rangverkündigung) --> keine Vorbereitung notwendig.",
+    "affectedTeacherIds": [
+      "HLgVtjrWhthJaqp4rUsJKju2Iho2",
+      "K7fXCUHWTjTyugsNndiny5gac3F2",
+      "jYkZlJ0tqIMQlBmycoOZtS1kQLv2",
+      "ZCNocy1pmRSwi5KWc9J2iTDCQTD2",
+      "GSMkMVxtgtaZ2MpxZZifoCFDth73"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780406506067,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1780531200000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780406506375,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 10,
+    "publishTimestamp": 1780406506066,
+    "school": {
+      "email": "ayelet.ashkenazi@dietikon.ch",
+      "address": {
+        "city": "Dietikon",
+        "canton": "zurich",
+        "street": "Schöneggstrasse",
+        "country": "Schweiz",
+        "zipCode": 8953,
+        "streetNr": "70",
+        "coordinates": {
+          "lat": 47.3987116,
+          "lng": 8.408462799999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-dietikon.ch",
+      "lastName": "Ashkenazi",
+      "schoolId": "xuOdlRcqsyb82VZA8TrwIIQiWlj1",
+      "firstName": "Ayelet",
+      "schoolName": "Schulhaus Wolfsmatt",
+      "phoneNumber": "0447423262",
+      "organisationId": "R06fSyLP0sWaAz8f7d0k",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 21,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780444800000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01KT3V3KM5XDPZJYFWRNSGA0M2",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -73,83 +222,6 @@
       "thursdayMorning",
       "fridayMorning",
       "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01KT3RSGXHCEG933236YZNMTTV",
-    "additionalInformation": "Es sind 21 Lektionen an einer 3. Klasse und 6 Lektionen Französisch an zwei 6. Klassen",
-    "affectedTeacherIds": [
-      "GSMkMVxtgtaZ2MpxZZifoCFDth73"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780390609841,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1782777600000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780390609885,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1780390609841,
-    "school": {
-      "email": "franziska.hauser@buelach.ch",
-      "address": {
-        "city": "Bülach",
-        "canton": "zurich",
-        "street": "Unterweg",
-        "country": "Schweiz",
-        "zipCode": 8180,
-        "streetNr": 51,
-        "coordinates": {
-          "lat": 47.52650089999999,
-          "lng": 8.5435964
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-buelach.ch/schuleinheit-hohfuri/schule/",
-      "lastName": "Hauser",
-      "schoolId": "uSR9be2KroV3JLFf4ZV0by56KNe2",
-      "firstName": "Franziska",
-      "schoolName": "Schulhaus Hohfuri",
-      "phoneNumber": "079 692 32 02",
-      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1780963200000,
-    "subjects": [
-      "french"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 1
   },
@@ -231,80 +303,6 @@
       "mondayAfternoon",
       "tuesdayAfternoon",
       "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KSS5H8NB0QQVMHV2RH0K6VFJ",
-    "additionalInformation": "Es gibt zwi Möglichkeiten die Lektionen abzudecken. Entweder Mi und Fr Morgen oder Do und Fr Morgen. Details sind im Stundenplan ersichtlich.\\n\\nBitte direkt mit zuständiger SL Kontakt aufnehmen:\\nBenjamin Gerber\\nbenjamin.gerber@schuleduernten.ch\\n055 511 24 03\\n077 232 49 03",
-    "affectedTeacherIds": [
-      "fQGNk56DKoTYiulULfY7v598N7i1",
-      "foXwxxwZKXetJUaJ6BNmyF0GQVk2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780034871979,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1784246400000,
-    "grades": [
-      "firstClass",
-      "secondClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780034872117,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1780034871978,
-    "school": {
-      "email": "slk@schuleduernten.ch",
-      "address": {
-        "city": "Dürnten",
-        "canton": "zurich",
-        "street": "Rütistrasse",
-        "country": "Schweiz",
-        "zipCode": 8635,
-        "streetNr": "1",
-        "coordinates": {
-          "lat": 47.2778923,
-          "lng": 8.8427785
-        }
-      },
-      "culture": "de-CH",
-      "website": "schuleduernten.ch",
-      "lastName": "Dürnten",
-      "schoolId": "IAk0QvsbUwa5SkX55dewI2Nzi9s2",
-      "firstName": "Schule",
-      "schoolName": "Schule Dürnten",
-      "phoneNumber": "055 250 80 02",
-      "organisationId": "uLZ3Jw2onFt0i0D1P967",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 3,
-      "additionalInformation": "Wir suchen per sofort eine engagierte DaZ-Lehrperson für die Unterstufe bis zu den Sommerferien – mit Option auf Weiterführung im neuen Schuljahr.\\n\\nDas Tool „Sprachgewandt“ ist bei uns aktuell, und detaillierte Übergabedokumente liegen bereit."
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1780012800000,
-    "subjects": [
-      "germanAsSecondLanguage"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KSS5H8NB0QQVMHV2RH0K6VFJ/timeTables/9bc6f64a-45c7-4957-b0a7-d79788cdb919.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning"
     ],
     "numberOfOpenApplications": 2
   },
@@ -794,7 +792,8 @@
     "affectedTeacherIds": [
       "KhIpZdDTQibFFzOb5tVWM2IwAJJ2",
       "kvM5zrbZPlZOi3rMkPAF1aJelDE2",
-      "B609Iayw1WTJ8YCtGPUx9Zi2Jq62"
+      "B609Iayw1WTJ8YCtGPUx9Zi2Jq62",
+      "2fhaILda1WT3c9Y9tItcRh30QiJ3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -865,6 +864,6 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   }
 ]
