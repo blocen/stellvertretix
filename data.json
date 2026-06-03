@@ -1,56 +1,57 @@
 [
   {
-    "id": "01KT661W1SN9EG76BE7PJBF0BE",
+    "id": "01KT6F73TYGJSKZ12T4KD9X0TP",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "GSMkMVxtgtaZ2MpxZZifoCFDth73",
-      "Ewx5JFWf6nTIlFLvARUw7LmfHwq1",
-      "mdJYk68IABSwUpiqXsvwIpBJrKh2"
+      "HLgVtjrWhthJaqp4rUsJKju2Iho2",
+      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
+      "FLyEttJtqvPfS1lS9Zmp77K3PnD2",
+      "JmECWjzo9ST59LYwT0UUGYCcPnY2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1780471623738,
+    "createdTimestamp": 1780481232734,
     "curriculum": "lehrplan21",
     "endTimestamp": 1780617600000,
     "grades": [
-      "sixthClass"
+      "forthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780471623752,
+    "modifiedTimestamp": 1780481232859,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 13,
-    "publishTimestamp": 1780471623737,
+    "pensum": 11,
+    "publishTimestamp": 1780481232733,
     "school": {
-      "email": "michael.homberger@buelach.ch",
+      "email": "fabio.gaberthueel@schule-opfikon.ch",
       "address": {
-        "city": "Bülach",
+        "city": "Glattbrugg",
         "canton": "zurich",
-        "street": "Schwerzgruebstrasse",
-        "country": "Schweiz",
-        "zipCode": 8180,
-        "streetNr": 24,
+        "street": "Oberhauserstrasse",
+        "country": "CH",
+        "zipCode": 8152,
+        "streetNr": "81",
         "coordinates": {
-          "lat": 47.5154811,
-          "lng": 8.545547299999999
+          "lat": 47.4275982,
+          "lng": 8.5703622
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-buelach.ch/schuleinheit-schwerzgrueb/schule/",
-      "lastName": "Homberger",
-      "schoolId": "V14evtFRJPOBNUc1THVERstQmXC3",
-      "firstName": "Michael",
-      "schoolName": "Primarschule Schwerzgrueb",
-      "phoneNumber": "0448631622",
-      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
-      "directionInformation": ""
+      "website": "https://www.schule-opfikon.ch/gesamtschule-oberhausen/unsere-schule/ueber-uns/p-358/",
+      "lastName": "Gaberthüel ",
+      "schoolId": "eeZ205kzJVTk3E7Y5fkhZSSYR2w1",
+      "firstName": "Fabio ",
+      "schoolName": "Gesamtschule Oberhausen",
+      "phoneNumber": "+41 44 572 80 21",
+      "organisationId": "TedaNU8haam5uYt4MEFe",
+      "directionInformation": "Gute ÖV Verbindung"
     },
     "schoolClass": {
       "numberOfStudents": 0,
@@ -60,24 +61,179 @@
     "startTimestamp": 1780531200000,
     "subjects": [
       "german",
-      "english",
       "mathematics",
-      "music",
-      "sports",
       "natureHumanSociety"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": null,
+    "timeTableRef": "vacancies/01KT6F73TYGJSKZ12T4KD9X0TP/timeTables/22ff1270-ba7a-4cda-9e27-6f5a14db7ec9.pdf",
     "vacancyType": "short",
     "workingBlocks": [
       "thursdayMorning",
       "fridayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01KT6ET9NN8YWANZVK51VQS0MG",
+    "additionalInformation": "Doppelstunden Sport am Nachmittag\\nwahrscheinlich bis max. zu den Sommerferien",
+    "affectedTeacherIds": [
+      "BgUIVOobDQeuLkJ4LukfIObrstS2",
+      "qj2ZAF0KWqcTzNiqLE8F8kUohUF2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780480812725,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1783641600000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780480812797,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1780480812725,
+    "school": {
+      "email": "cristina.gremli@primarschule-uster.ch",
+      "address": {
+        "city": "Uster",
+        "canton": "zurich",
+        "street": "Seestrasse ",
+        "country": "Schweiz",
+        "zipCode": 8610,
+        "streetNr": "109",
+        "coordinates": {
+          "lat": 47.3440971,
+          "lng": 8.7031651
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.primarschule-uster.ch/niederuster/210",
+      "lastName": "Gremli",
+      "schoolId": "wyxpjkObOOaaRiknREt9V5nsdG02",
+      "firstName": "Cristina",
+      "schoolName": "Primarschule Niederuster",
+      "phoneNumber": "079 533 54 60",
+      "organisationId": "knQ7XrcVZ9n9BZIFDwgU",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1781222400000,
+    "subjects": [
+      "mathematics",
+      "music",
+      "sports",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "fridayMorning",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01KT6ECX2VR3EWQQ5XBPTZNEMJ",
+    "additionalInformation": "Vertretung DAG",
+    "affectedTeacherIds": [
+      "IYJnJcnSuqhtXsFeMhBBXuspETp1"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780480373851,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1783641600000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780480374228,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 23,
+    "publishTimestamp": 1780480373850,
+    "school": {
+      "email": "vera.metzler@schule-lufingen.ch",
+      "address": {
+        "city": "Lufingen",
+        "canton": "zurich",
+        "street": "Hintermarchlenstrasse",
+        "country": "CH",
+        "zipCode": 8426,
+        "streetNr": "31",
+        "coordinates": {
+          "lat": 47.4833502,
+          "lng": 8.5888113
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-lufingen.ch",
+      "lastName": "Metzler",
+      "schoolId": "01KFTE8MCAZ23X0JNC7F3BSWEW",
+      "firstName": "Vera",
+      "schoolName": "Primarschule Lufingen",
+      "phoneNumber": "0792724723",
+      "organisationId": "01KFTE8MC3RQCZNYYWDY11RB9Y",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 13,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780963200000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "mediaAndComputerScience",
+      "fineArts",
+      "textileAndTechnicalDesign",
+      "sports",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KT6ECX2VR3EWQQ5XBPTZNEMJ/timeTables/c2150ee0-e02a-4be3-a9dc-41209f746645.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "tuesdayAfternoon",
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KT648E843H91FY0BA6XNSNKN",
@@ -85,7 +241,8 @@
     "affectedTeacherIds": [
       "TJpdGCfzwUc7WDZT6U7P3PbRAD62",
       "uuqoP7KtE4X5QuhXoVsQbOzDvDx2",
-      "W9ZX8xBpOudcl14UrZHMVSSdRmg2"
+      "W9ZX8xBpOudcl14UrZHMVSSdRmg2",
+      "4dWfuF5vElYpNQp11InLfQCDVbU2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -149,7 +306,7 @@
     "workingBlocks": [
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KT4QSFBP1ZQCX498DR4DCMN5",
