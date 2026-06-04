@@ -1,62 +1,61 @@
 [
   {
-    "id": "01KT712J2YVWB6AAQHM3743PG1",
-    "additionalInformation": "Von 08.05 - 11.40 Uhr. Klasse: 5. und 6. Klasse. ",
+    "id": "01KT8KA66ZZJGCWWDXDM815Q8P",
+    "additionalInformation": "",
     "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1780499957854,
+    "createdTimestamp": 1780552636639,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1780617600000,
+    "endTimestamp": 1780531200000,
     "grades": [
-      "fifthClass",
       "sixthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780499957924,
+    "modifiedTimestamp": 1780552636744,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1780499957853,
+    "pensum": 2,
+    "publishTimestamp": 1780552636639,
     "school": {
-      "email": "vikariate.stallikon@schule-stallikon.ch",
+      "email": "antonella.granata@schulen.zuerich.ch",
       "address": {
-        "city": "Stallikon",
+        "city": "Zürich",
         "canton": "zurich",
-        "street": "Massholderenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8143,
-        "streetNr": "3",
+        "street": "Dachslernstrasse",
+        "country": "CH",
+        "zipCode": 8048,
+        "streetNr": "5",
         "coordinates": {
-          "lat": 47.33966059999999,
-          "lng": 8.4874437
+          "lat": 47.387924,
+          "lng": 8.481421
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule.stallikon.ch/",
-      "lastName": "Stallikon",
-      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
-      "firstName": "Schule",
-      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
-      "phoneNumber": "044 552 62 15",
-      "organisationId": "bHqcQAYtlvghgg50ASbW",
+      "website": "www.stadt-zuerich.ch/schulen/de/dachslernstrasse.html",
+      "lastName": "Antonella",
+      "schoolId": "9LEfeaRUhJTDS56lWOg5l3Ehrju1",
+      "firstName": "Granata",
+      "schoolName": "Dachslern-Feldblumen",
+      "phoneNumber": "0041788659788",
+      "organisationId": "ZLXeHTjIe84V659HWzIo",
       "directionInformation": ""
     },
     "schoolClass": {
       "numberOfStudents": 0,
-      "additionalInformation": ""
+      "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1780617600000,
+    "startTimestamp": 1780531200000,
     "subjects": [
-      "french"
+      "sports"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -64,92 +63,9 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KT6WMA2FGXD9BJDYW5D2VK1B",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "S3hMNfwLBLghq6Yys1Gy4pYWM2x1",
-      "UqCAWXlsLzeVFRbYvP7ItS4GndG2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780495296591,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1781222400000,
-    "grades": [
-      "mixedAgeLearning"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780495296828,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 26,
-    "publishTimestamp": 1780495296591,
-    "school": {
-      "email": "schulleitung.oberdorf@schulehinwil.ch",
-      "address": {
-        "city": "Hinwil",
-        "canton": "zurich",
-        "street": "Felsenhofstrasse",
-        "country": "CH",
-        "zipCode": "8340",
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.301646,
-          "lng": 8.8468494
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schulehinwil.ch/oberdorf/schulleben/kurzportrait/p-334/",
-      "lastName": "Gredig",
-      "schoolId": "01K4W8ZSJDW9KJ2PD9SV8S8H4P",
-      "firstName": "Stephanie",
-      "schoolName": "Oberdorf",
-      "phoneNumber": "044 938 93 95",
-      "organisationId": "gLS7SROqigIRllYWxm6D",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1780617600000,
-    "subjects": [
-      "german",
-      "fineArts",
-      "music",
-      "sports",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KT6WMA2FGXD9BJDYW5D2VK1B/timeTables/1b523d0d-39f9-4367-a3f3-23ed47f71b4a.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KT6ECX2VR3EWQQ5XBPTZNEMJ",
@@ -234,13 +150,14 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KT3V3KM5XDPZJYFWRNSGA0M2",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "K7fXCUHWTjTyugsNndiny5gac3F2"
+      "K7fXCUHWTjTyugsNndiny5gac3F2",
+      "WSsuM3RxphQ2OuEB67DgqxWnUun2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -311,7 +228,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KRTYWHSVXRTEDMY9G1J8381N",
@@ -319,7 +236,8 @@
     "affectedTeacherIds": [
       "qj2ZAF0KWqcTzNiqLE8F8kUohUF2",
       "cEV5zrsxcwWVRSuplMasAqQc7fi1",
-      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3"
+      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3",
+      "A1hgUf1hk1hKfo2YolNWgoI6a3u2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -388,7 +306,7 @@
       "wednesdayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KRE72VQSAAM2VJYNT4BR733T",
@@ -485,7 +403,8 @@
       "H4BB2inrTKOHWzT5ltDjHRw1UD32",
       "dpeHxB7DLggTzs4HwoSNIWWhVji1",
       "kvM5zrbZPlZOi3rMkPAF1aJelDE2",
-      "3f5cl3NdWHbMNHpGJkNBcrkRz4x1"
+      "3f5cl3NdWHbMNHpGJkNBcrkRz4x1",
+      "WSsuM3RxphQ2OuEB67DgqxWnUun2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -559,7 +478,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KRB18XVEDCYHT0E0BRFVWEBV",
