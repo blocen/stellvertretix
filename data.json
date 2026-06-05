@@ -1,8 +1,86 @@
 [
   {
+    "id": "01KTBF1SGXZ5RVQH7M92CJC56Y",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "EHyYj1zS48WvJDc2nH5lYxKg1ek1",
+      "yZP9poXLEJfIXabLQrFAgkdmYN13",
+      "nOxc2CDpgcQCdyzxU9lS2btJAv62",
+      "S3573IN2r9bDHWmOZvYMXaoAQdI3"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780648830494,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781568000000,
+    "grades": [
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780648830682,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1780648830493,
+    "school": {
+      "email": "alexander.schatt@schulethalwil.ch",
+      "address": {
+        "city": "Thalwil",
+        "canton": "zurich",
+        "street": "Alte Landstrasse ",
+        "country": "CH",
+        "zipCode": 8800,
+        "streetNr": "124/148",
+        "coordinates": {
+          "lat": 47.29344890000001,
+          "lng": 8.5646899
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulethalwil.ch/ludretikon-schwandel/unsere-schule/aktuelles/p-135/",
+      "lastName": "Schatt",
+      "schoolId": "wSx7qcAezkUUobMGtuZhQObjpXp2",
+      "firstName": "Alexander",
+      "schoolName": "Schuleinheit Ludretikon-Schwandel",
+      "phoneNumber": "044 723 25 53",
+      "organisationId": "YKAK9aP7js7r4VTR4hFd",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Teilweise im TT, teilweise ist auch Schulassistenz vor Ort"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1781568000000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01KTB7EJAWAB4VVGYE05HHGCGE",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -67,13 +145,14 @@
       "thursdayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KTA1S87HPNJ1J1M36Z4M3ABH",
     "additionalInformation": "Die Wochentage und Fächer sind verhandelbar.\\n\\nDie Stellvertretung ist bis auf Weiteres mit Option auf Festanstellung ab November",
     "affectedTeacherIds": [
-      "K7fXCUHWTjTyugsNndiny5gac3F2"
+      "K7fXCUHWTjTyugsNndiny5gac3F2",
+      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -151,7 +230,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KT3V3KM5XDPZJYFWRNSGA0M2",
