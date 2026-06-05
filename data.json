@@ -1,5 +1,81 @@
 [
   {
+    "id": "01KTC4NFJGNJ50K2S0040DAF3F",
+    "additionalInformation": "Angenehme Lehrpersonen, gute ÖV-Anbindungen, Holzofenpizzeria neben der Schule, neue Sofas im Lehrerzimmer",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780671495760,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795132800000,
+    "grades": [
+      "thirdClass",
+      "forthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780671495837,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 19,
+    "publishTimestamp": 1780671495760,
+    "school": {
+      "email": "scadipin@hotmail.com",
+      "address": {
+        "city": "winterthur",
+        "canton": "zurich",
+        "street": "Stadlerstrasse",
+        "country": "CH",
+        "zipCode": 8404,
+        "streetNr": "56",
+        "coordinates": {
+          "lat": 47.5134926,
+          "lng": 8.7582461
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-guggenbuehl.ch/",
+      "lastName": "scapin",
+      "schoolId": "wqvQt2ZicgR1vU5HLF1P1lTpQ0Z2",
+      "firstName": "diego",
+      "schoolName": "Schulhaus Guggenbühl",
+      "phoneNumber": "0797056077",
+      "organisationId": "WaNbIUWVQEi4g7ADuZWb",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "3. Klasse (2 ISR)\\n4. Klasse (2 ISR)\\n6. Klasse (0 ISR) "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1787011200000,
+    "subjects": [
+      "ifIssIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KTBF1SGXZ5RVQH7M92CJC56Y",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -145,7 +221,7 @@
       "thursdayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KTA1S87HPNJ1J1M36Z4M3ABH",
