@@ -1,8 +1,80 @@
 [
   {
+    "id": "01KTB7EJAWAB4VVGYE05HHGCGE",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780640860508,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1783555200000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780640860563,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1780640860507,
+    "school": {
+      "email": "viviane.farinha@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bullingerstrasse",
+        "country": "Schweiz",
+        "zipCode": 8004,
+        "streetNr": "62",
+        "coordinates": {
+          "lat": 47.3824228,
+          "lng": 8.5100637
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/hardau.html",
+      "lastName": "Farinha",
+      "schoolId": "WDvIjUzZE5gJPCfSOJO6n5YhnYi2",
+      "firstName": "Viviane",
+      "schoolName": "Hardau",
+      "phoneNumber": "0444131665",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": "Sehr zentral und gut an den ÖV angebunden. Über Bhf. Hardbrücke, Bhf. Altstetten oder Albisriederplatz erreichbar. "
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780876800000,
+    "subjects": [
+      "french"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KTA1S87HPNJ1J1M36Z4M3ABH",
     "additionalInformation": "Die Wochentage und Fächer sind verhandelbar.\\n\\nDie Stellvertretung ist bis auf Weiteres mit Option auf Festanstellung ab November",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "K7fXCUHWTjTyugsNndiny5gac3F2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -79,94 +151,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KT6ECX2VR3EWQQ5XBPTZNEMJ",
-    "additionalInformation": "Vertretung DAG",
-    "affectedTeacherIds": [
-      "IYJnJcnSuqhtXsFeMhBBXuspETp1",
-      "2URffkagQRNZhZBCYJyIpj9n0772",
-      "55L6wCoNZwXhfhlXWLHj8Wjcct22",
-      "UheUoU45wSQOucPPAsaHvMCFOqN2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780480373851,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1783641600000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780480374228,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 23,
-    "publishTimestamp": 1780480373850,
-    "school": {
-      "email": "vera.metzler@schule-lufingen.ch",
-      "address": {
-        "city": "Lufingen",
-        "canton": "zurich",
-        "street": "Hintermarchlenstrasse",
-        "country": "CH",
-        "zipCode": 8426,
-        "streetNr": "31",
-        "coordinates": {
-          "lat": 47.4833502,
-          "lng": 8.5888113
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-lufingen.ch",
-      "lastName": "Metzler",
-      "schoolId": "01KFTE8MCAZ23X0JNC7F3BSWEW",
-      "firstName": "Vera",
-      "schoolName": "Primarschule Lufingen",
-      "phoneNumber": "0792724723",
-      "organisationId": "01KFTE8MC3RQCZNYYWDY11RB9Y",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 13,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1780963200000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "mediaAndComputerScience",
-      "fineArts",
-      "textileAndTechnicalDesign",
-      "sports",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KT6ECX2VR3EWQQ5XBPTZNEMJ/timeTables/c2150ee0-e02a-4be3-a9dc-41209f746645.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KT3V3KM5XDPZJYFWRNSGA0M2",
@@ -245,84 +230,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KRTYWHSVXRTEDMY9G1J8381N",
-    "additionalInformation": "Es handelt sich um eine Mutterschaftsvikariat, allenfalls müsste auch bereits direkt nach den Sommerferien gestartet werden.\\nKostenlose Parkplätze sind für die Lehrpersonen vorhanden.",
-    "affectedTeacherIds": [
-      "qj2ZAF0KWqcTzNiqLE8F8kUohUF2",
-      "cEV5zrsxcwWVRSuplMasAqQc7fi1",
-      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3",
-      "A1hgUf1hk1hKfo2YolNWgoI6a3u2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1779021268795,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1802217600000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1779021271033,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 10,
-    "publishTimestamp": 1779021268795,
-    "school": {
-      "email": "schulleitung@primarschuleweiningen.ch",
-      "address": {
-        "city": "Weiningen",
-        "canton": "zurich",
-        "street": "Schlüechtistrasse ",
-        "country": "Schweiz",
-        "zipCode": 8104,
-        "streetNr": 10,
-        "coordinates": {
-          "lat": 47.4181956,
-          "lng": 8.4339198
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.primarschuleweiningen.ch",
-      "lastName": "Baader",
-      "schoolId": "dT4XLdHowPYSbaPLOelNdA7kiTI2",
-      "firstName": "Susan",
-      "schoolName": "Schlüechti",
-      "phoneNumber": "0041447525212",
-      "organisationId": "d3e9Ue2wlJy3KRWs56h9",
-      "directionInformation": "Parkplätze vorhanden"
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": "Der ganze Montag ist parallelisiert und wird in Halbklassen geführt (TTG bzw. MGA).\\nIn der Klasse befinden sich zwei Kinder mit einem ISR-Setting und entsprechender Unterstützung (SHP, Assistenz)."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788134400000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "wednesdayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
   },
   {
     "id": "01KRE72VQSAAM2VJYNT4BR733T",
