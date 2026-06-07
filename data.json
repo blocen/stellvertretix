@@ -1,8 +1,88 @@
 [
   {
+    "id": "01KTGHFRBPSDM3JKFJHW578A66",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "Myjmg41wLZgskdtI7P2PiCQn9vk1"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780819157366,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781222400000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780819157697,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1780819157366,
+    "school": {
+      "email": "barbara.siegfried@schulethalwil.ch",
+      "address": {
+        "city": "Thalwil",
+        "canton": "zurich",
+        "street": "Alte Landstrasse ",
+        "country": "CH",
+        "zipCode": 8800,
+        "streetNr": "124/148",
+        "coordinates": {
+          "lat": 47.29344890000001,
+          "lng": 8.5646899
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulethalwil.ch/ludretikon-schwandel/unsere-schule/aktuelles/p-135/",
+      "lastName": "Siegfried",
+      "schoolId": "wSx7qcAezkUUobMGtuZhQObjpXp2",
+      "firstName": "Barbara",
+      "schoolName": "Schuleinheit Ludretikon-Schwandel",
+      "phoneNumber": "044 723 25 53",
+      "organisationId": "YKAK9aP7js7r4VTR4hFd",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 25,
+      "additionalInformation": "Es sind zwei 4. Klassen in zwei Schulhäusern (400m Gehdistanz)"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1780876800000,
+    "subjects": [
+      "ifIssIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KTGHFRBPSDM3JKFJHW578A66/timeTables/8495c4e9-a519-4389-929d-e1ba4708436f.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01KTC4NFJGNJ50K2S0040DAF3F",
     "additionalInformation": "Angenehme Lehrpersonen, gute ÖV-Anbindungen, Holzofenpizzeria neben der Schule, neue Sofas im Lehrerzimmer",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "y9e0JqewM6cLGOPEClUe9lTdU823",
+      "K7fXCUHWTjTyugsNndiny5gac3F2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -73,7 +153,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KTBF1SGXZ5RVQH7M92CJC56Y",
@@ -228,7 +308,8 @@
     "additionalInformation": "Die Wochentage und Fächer sind verhandelbar.\\n\\nDie Stellvertretung ist bis auf Weiteres mit Option auf Festanstellung ab November",
     "affectedTeacherIds": [
       "K7fXCUHWTjTyugsNndiny5gac3F2",
-      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3"
+      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3",
+      "QBfpDYGBM2X3WE68t7oF8fls5l53"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -306,7 +387,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KT3V3KM5XDPZJYFWRNSGA0M2",
@@ -556,7 +637,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KRB18XVEDCYHT0E0BRFVWEBV",
