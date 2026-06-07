@@ -1,18 +1,18 @@
 [
   {
-    "id": "01KTGHFRBPSDM3JKFJHW578A66",
-    "additionalInformation": "",
+    "id": "01KTHBKXBK3MYPQVFT3W1P2V5P",
+    "additionalInformation": "Schulassistenz anwesend, am Nachmittag Halbklassenunterricht",
     "affectedTeacherIds": [
-      "Myjmg41wLZgskdtI7P2PiCQn9vk1"
+      "RzEjuPuPBCV45jxh4BxCxovaEHD3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1780819157366,
+    "createdTimestamp": 1780846556531,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1781222400000,
+    "endTimestamp": 1780876800000,
     "grades": [
       "forthClass"
     ],
@@ -20,59 +20,56 @@
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780819157697,
-    "partialTakeoverPossible": true,
+    "modifiedTimestamp": 1780846556644,
+    "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1780819157366,
+    "pensum": 6,
+    "publishTimestamp": 1780846556531,
     "school": {
-      "email": "barbara.siegfried@schulethalwil.ch",
+      "email": "barbara.meier@schulen.zuerich.ch",
       "address": {
-        "city": "Thalwil",
+        "city": "Zürich",
         "canton": "zurich",
-        "street": "Alte Landstrasse ",
-        "country": "CH",
-        "zipCode": 8800,
-        "streetNr": "124/148",
+        "street": "Bertastrasse ",
+        "country": "Schweiz",
+        "zipCode": 8003,
+        "streetNr": "50",
         "coordinates": {
-          "lat": 47.29344890000001,
-          "lng": 8.5646899
+          "lat": 47.3736727,
+          "lng": 8.5126336
         }
       },
       "culture": "de-CH",
-      "website": "www.schulethalwil.ch/ludretikon-schwandel/unsere-schule/aktuelles/p-135/",
-      "lastName": "Siegfried",
-      "schoolId": "wSx7qcAezkUUobMGtuZhQObjpXp2",
+      "website": "www.stadt-zuerich.ch/schulen/de/aemtler_a.html",
+      "lastName": "Meier",
+      "schoolId": "2QKN4tnDkeZG14ihtLZKFXglBCB2",
       "firstName": "Barbara",
-      "schoolName": "Schuleinheit Ludretikon-Schwandel",
-      "phoneNumber": "044 723 25 53",
-      "organisationId": "YKAK9aP7js7r4VTR4hFd",
+      "schoolName": "Schule Aemtler Primar",
+      "phoneNumber": "044 413 01 23",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 25,
-      "additionalInformation": "Es sind zwei 4. Klassen in zwei Schulhäusern (400m Gehdistanz)"
+      "numberOfStudents": 20,
+      "additionalInformation": null
     },
     "startAsOfNow": false,
     "startTimestamp": 1780876800000,
     "subjects": [
-      "ifIssIsr"
+      "german",
+      "english",
+      "mathematics",
+      "natureHumanSociety"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01KTGHFRBPSDM3JKFJHW578A66/timeTables/8495c4e9-a519-4389-929d-e1ba4708436f.pdf",
+    "timeTableRef": "vacancies/01KTHBKXBK3MYPQVFT3W1P2V5P/timeTables/bda00cf7-75e8-427d-9eb7-00c61c1e48ad.png",
     "vacancyType": "short",
     "workingBlocks": [
       "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
+      "mondayAfternoon"
     ],
     "numberOfOpenApplications": 1
   },
