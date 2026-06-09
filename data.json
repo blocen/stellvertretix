@@ -1,10 +1,240 @@
 [
   {
+    "id": "01KTNNTPB99222SV0GYD1205N4",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "zrC8f87TQtdlpSzPn7g6BbCkdxv2",
+      "jMyLPMhMKDPXe4H01w96QZpxY8B2",
+      "ccWR1hmOreWVi62KpJ5ghAWCKbc2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780991482218,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781568000000,
+    "grades": [
+      "firstClass",
+      "secondClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780991482247,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1780991482217,
+    "school": {
+      "email": "sekretariat.schulebachtobel@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bachtobelstrasse",
+        "country": "CH",
+        "zipCode": 8045,
+        "streetNr": "111",
+        "coordinates": {
+          "lat": 47.3588387,
+          "lng": 8.5116538
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel.html",
+      "lastName": "Hofer",
+      "schoolId": "v827wIi6T8bfiRPbcKZH4u8HGzX2",
+      "firstName": "Sabrina",
+      "schoolName": "Bachtobel",
+      "phoneNumber": "044 413 18 37",
+      "organisationId": "wOjojIaUYufY86lm5eKY",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1781568000000,
+    "subjects": [
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
+    "id": "01KTNHZBJ8ZGCW9BPWXYGEKAYD",
+    "additionalInformation": "offene Teamkultur, eingespielte Unterrichtsteam",
+    "affectedTeacherIds": [
+      "d4pVCIzl88UkqyM3LNxlnq9TyLe2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780987440712,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1801180800000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780987440846,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1780987440712,
+    "school": {
+      "email": "jonas.meyer@schule-lindau.ch",
+      "address": {
+        "city": "Tagelswangen",
+        "canton": "zurich",
+        "street": "Falkenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8317,
+        "streetNr": "1",
+        "coordinates": {
+          "lat": 47.4328894,
+          "lng": 8.6701076
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-lindau.ch/",
+      "lastName": "Meyer",
+      "schoolId": "lsN2o57xZZO5AKObisWzTVbGJuE2",
+      "firstName": "Jonas",
+      "schoolName": "Schulhaus Buck",
+      "phoneNumber": "0764980485",
+      "organisationId": "grUmUzhCwQQekXgXAYWx",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "DaZ-Unterricht an vier Klassen (5. und 6. Klassen)\\nintegrativ und separativ"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1786924800000,
+    "subjects": [
+      "germanAsSecondLanguage"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KTNHZBJ8ZGCW9BPWXYGEKAYD/timeTables/43169519-2b12-411e-8b77-093b035f8d12.png",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01KTNDDVFAEVQEJR8RSY2YHC2H",
+    "additionalInformation": "DAG",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1780982672874,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790812800000,
+    "grades": [
+      "firstClass",
+      "secondClass",
+      "thirdClass",
+      "forthClass",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1780982673023,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 22,
+    "publishTimestamp": 1780982672874,
+    "school": {
+      "email": "alexander.schatt@schulethalwil.ch",
+      "address": {
+        "city": "Thalwil",
+        "canton": "zurich",
+        "street": "Alte Landstrasse ",
+        "country": "CH",
+        "zipCode": 8800,
+        "streetNr": "124/148",
+        "coordinates": {
+          "lat": 47.29344890000001,
+          "lng": 8.5646899
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulethalwil.ch/ludretikon-schwandel/unsere-schule/aktuelles/p-135/",
+      "lastName": "Schatt",
+      "schoolId": "wSx7qcAezkUUobMGtuZhQObjpXp2",
+      "firstName": "Alexander",
+      "schoolName": "Schuleinheit Ludretikon-Schwandel",
+      "phoneNumber": "044 723 25 53",
+      "organisationId": "YKAK9aP7js7r4VTR4hFd",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1789948800000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KTNDDVFAEVQEJR8RSY2YHC2H/timeTables/3eb5f29b-e0f9-4475-8dbb-cf91eb2eb711.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KTKKXF2WZ6ARPAXJVXKTKPEC",
     "additionalInformation": "Die Stellvertretung ist an zwei Klassen. Mo + Di 7.30-8:15 an einer 5. Klasse, Di ganzer Tag, Fr morgen an einer 1. Klasse",
     "affectedTeacherIds": [
       "yZP9poXLEJfIXabLQrFAgkdmYN13",
-      "1ukMDgnzaAesz1gWurM9HNXpoiP2"
+      "1ukMDgnzaAesz1gWurM9HNXpoiP2",
+      "faveMpXafWh2V0gqOOTryC4oBdM2",
+      "6eXW3XgL7sfrI5MtD7LQ395Wkao2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -80,13 +310,16 @@
       "tuesdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KTKKWWZMHRV05P9X3AKC9VQG",
     "additionalInformation": "Doppelstunden Sport am Nachmittag\\nwahrscheinlich bis max. zu den Sommerferien",
     "affectedTeacherIds": [
-      "BgUIVOobDQeuLkJ4LukfIObrstS2"
+      "BgUIVOobDQeuLkJ4LukfIObrstS2",
+      "uG6QZsbTDkNvCW6MscoSmnLOys12",
+      "EjelWkYBJVYnOJPUJnuI3Joo9oc2",
+      "YHIkQJRc1NS0BU270Cldog7Gd3K2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -154,7 +387,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KTKJ6H6E6V6R7C3NDNBKA7XP",
@@ -164,7 +397,8 @@
       "01Qbp8xl0eR6vaN4JlObFbPA5Nh1",
       "U9qaa7C6rpcGpsrfB9c6v16nJO12",
       "EHyYj1zS48WvJDc2nH5lYxKg1ek1",
-      "TJpdGCfzwUc7WDZT6U7P3PbRAD62"
+      "TJpdGCfzwUc7WDZT6U7P3PbRAD62",
+      "DjNcgqj0KQOGoU2CK7cDgdtoGJg2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -303,80 +537,6 @@
     "numberOfOpenApplications": 1
   },
   {
-    "id": "01KTHZQ70WBAM9QHTNR3VVZQKZ",
-    "additionalInformation": "🏫Schule Gossau\\n\\nWICHTIG: Unsere Sport Lehrperson fällt aus und wir suchen eine Vertretung ⭐️\\n\\n📅 Di 09. Juni 2026\\n\\n🏫 Schulhaus Schönbüel, in Herschmetteln b. Gossau ZH\\n\\n📚 2 Lektionen am Dienstagnachmittag mit der 5. Klasse (13:35 -15:10 Uhr).\\n\\nBasisjahr oder Diplom erwünscht.\\nBewerbungen gerne direkt hier einreichen.",
-    "affectedTeacherIds": [
-      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3",
-      "ligEr0hAS9WxbQzBgsEdyuGpvw03",
-      "aIXZA9CkAuXDsXcp2UkqAdwhSn12",
-      "wz4eIzApH7Nojd6iyGo81OAvzPz1",
-      "TJpdGCfzwUc7WDZT6U7P3PbRAD62"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780867636252,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1780963200000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780867636431,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 2,
-    "publishTimestamp": 1780867636252,
-    "school": {
-      "email": "anne.engmann@schulegossau-zh.ch",
-      "address": {
-        "city": "Gossau ZH",
-        "canton": "zurich",
-        "street": "Bergstrasse",
-        "country": "Schweiz",
-        "zipCode": 8625,
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.3034049,
-          "lng": 8.759650599999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulegossau-zh.ch",
-      "lastName": "Engmann",
-      "schoolId": "2sVvfsUw6JaoJ5vvDictkzwi7bg1",
-      "firstName": "Anne",
-      "schoolName": "Primarschule Gossau ZH",
-      "phoneNumber": "+41799518625",
-      "organisationId": "Y9rJisfZePkiXLcjJMCO",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 24,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1780963200000,
-    "subjects": [
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01KTC4NFJGNJ50K2S0040DAF3F",
     "additionalInformation": "Angenehme Lehrpersonen, gute ÖV-Anbindungen, Holzofenpizzeria neben der Schule, neue Sofas im Lehrerzimmer",
     "affectedTeacherIds": [
@@ -454,241 +614,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KTBF1SGXZ5RVQH7M92CJC56Y",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "EHyYj1zS48WvJDc2nH5lYxKg1ek1",
-      "yZP9poXLEJfIXabLQrFAgkdmYN13",
-      "nOxc2CDpgcQCdyzxU9lS2btJAv62",
-      "S3573IN2r9bDHWmOZvYMXaoAQdI3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780648830494,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1781568000000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780648830682,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1780648830493,
-    "school": {
-      "email": "alexander.schatt@schulethalwil.ch",
-      "address": {
-        "city": "Thalwil",
-        "canton": "zurich",
-        "street": "Alte Landstrasse ",
-        "country": "CH",
-        "zipCode": 8800,
-        "streetNr": "124/148",
-        "coordinates": {
-          "lat": 47.29344890000001,
-          "lng": 8.5646899
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulethalwil.ch/ludretikon-schwandel/unsere-schule/aktuelles/p-135/",
-      "lastName": "Schatt",
-      "schoolId": "wSx7qcAezkUUobMGtuZhQObjpXp2",
-      "firstName": "Alexander",
-      "schoolName": "Schuleinheit Ludretikon-Schwandel",
-      "phoneNumber": "044 723 25 53",
-      "organisationId": "YKAK9aP7js7r4VTR4hFd",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": "Teilweise im TT, teilweise ist auch Schulassistenz vor Ort"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1781568000000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KTB7EJAWAB4VVGYE05HHGCGE",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3",
-      "EuOAW6eRP7ZR1EkRuv7lTLK2qhE3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780640860508,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1783555200000,
-    "grades": [
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780640860563,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1780640860507,
-    "school": {
-      "email": "viviane.farinha@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Bullingerstrasse",
-        "country": "Schweiz",
-        "zipCode": 8004,
-        "streetNr": "62",
-        "coordinates": {
-          "lat": 47.3824228,
-          "lng": 8.5100637
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/hardau.html",
-      "lastName": "Farinha",
-      "schoolId": "WDvIjUzZE5gJPCfSOJO6n5YhnYi2",
-      "firstName": "Viviane",
-      "schoolName": "Hardau",
-      "phoneNumber": "0444131665",
-      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
-      "directionInformation": "Sehr zentral und gut an den ÖV angebunden. Über Bhf. Hardbrücke, Bhf. Altstetten oder Albisriederplatz erreichbar. "
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1780876800000,
-    "subjects": [
-      "french"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01KTA1S87HPNJ1J1M36Z4M3ABH",
-    "additionalInformation": "Die Wochentage und Fächer sind verhandelbar.\\n\\nDie Stellvertretung ist bis auf Weiteres mit Option auf Festanstellung ab November",
-    "affectedTeacherIds": [
-      "K7fXCUHWTjTyugsNndiny5gac3F2",
-      "PaJZL26oQmUUB5U4W7gqgWHUhgJ3",
-      "QBfpDYGBM2X3WE68t7oF8fls5l53"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780601364722,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780601364891,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1780601364721,
-    "school": {
-      "email": "jonas.meyer@schule-lindau.ch",
-      "address": {
-        "city": "Tagelswangen",
-        "canton": "zurich",
-        "street": "Falkenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8317,
-        "streetNr": "1",
-        "coordinates": {
-          "lat": 47.4328894,
-          "lng": 8.6701076
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-lindau.ch/",
-      "lastName": "Meyer",
-      "schoolId": "lsN2o57xZZO5AKObisWzTVbGJuE2",
-      "firstName": "Jonas",
-      "schoolName": "Schulhaus Buck",
-      "phoneNumber": "0764980485",
-      "organisationId": "grUmUzhCwQQekXgXAYWx",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Tolles und unterstützendes Unterrichtsteam"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "fineArts",
-      "music",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "wednesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
   },
   {
     "id": "01KT3V3KM5XDPZJYFWRNSGA0M2",
