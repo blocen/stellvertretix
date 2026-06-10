@@ -1,10 +1,91 @@
 [
   {
+    "id": "01KTRDESY71PN0W9HZCGBMS9HM",
+    "additionalInformation": "Es wird am Do die KLP und am Fr die FLP vertreten. ",
+    "affectedTeacherIds": [
+      "YeXuSxpra0UIDcCGLyJwPz4u6l83",
+      "V0Xru9SeHPaUcWhPY1HNesM9HMk1"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1781083367367,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781222400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1781083367635,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1781083367367,
+    "school": {
+      "email": "feldhof@volketswil.schule",
+      "address": {
+        "city": "Volketswil",
+        "canton": "zurich",
+        "street": "Schulhausstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8604,
+        "streetNr": "21",
+        "coordinates": {
+          "lat": 47.389979,
+          "lng": 8.682638299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-volketswil.ch/primarschule/feldhof/home",
+      "lastName": "Feldhof",
+      "schoolId": "BVVIHZ82RaRi62SnGyM7GjLKC6n1",
+      "firstName": "Schulleitung",
+      "schoolName": "Feldhof",
+      "phoneNumber": "P. Lauruhn: 079 865 66 15 / S. Aebersold: 079 865 66 16",
+      "organisationId": "pBxKxfhFwaiYmqblY0Ug",
+      "directionInformation": "Gut mit ÖV erreichbar, Haltestelle Huzlenstrasse oder Wallberg "
+    },
+    "schoolClass": {
+      "numberOfStudents": 21,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1781136000000,
+    "subjects": [
+      "german",
+      "french",
+      "mathematics",
+      "mediaAndComputerScience",
+      "music",
+      "sports",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KTRDESY71PN0W9HZCGBMS9HM/timeTables/9f71ffae-d371-4386-a363-da158523a66e.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
     "id": "01KTR3TWKA6NEF5K7BWG5CJCES",
     "additionalInformation": "Es ist wichtig, dass die Vertretung komplett übernommen werden kann. ",
     "affectedTeacherIds": [
       "DjNcgqj0KQOGoU2CK7cDgdtoGJg2",
-      "lucOZgjNIidgO5Df2wbU4Oosh7z2"
+      "lucOZgjNIidgO5Df2wbU4Oosh7z2",
+      "FXgZq28dy6PLbdfIb4TvupX3RoH2",
+      "nQZaN87F11PuOnabADTupU3LDn63"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -75,7 +156,7 @@
       "fridayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KTNNTPB99222SV0GYD1205N4",
