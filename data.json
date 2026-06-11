@@ -1,218 +1,51 @@
 [
   {
-    "id": "01KTRDESY71PN0W9HZCGBMS9HM",
-    "additionalInformation": "Es wird am Do die KLP und am Fr die FLP vertreten. ",
-    "affectedTeacherIds": [
-      "YeXuSxpra0UIDcCGLyJwPz4u6l83",
-      "V0Xru9SeHPaUcWhPY1HNesM9HMk1"
-    ],
+    "id": "01KTV1FGT4H73P8XJPDC54AZZ9",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1781083367367,
+    "createdTimestamp": 1781171471173,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1781222400000,
+    "endTimestamp": 1781136000000,
     "grades": [
-      "fifthClass"
+      "sixthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781083367635,
+    "modifiedTimestamp": 1781171471242,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1781083367367,
+    "pensum": 3,
+    "publishTimestamp": 1781171471172,
     "school": {
-      "email": "feldhof@volketswil.schule",
+      "email": "schulleitungzw@psa.ch",
       "address": {
-        "city": "Volketswil",
+        "city": "Zwillikon",
         "canton": "zurich",
-        "street": "Schulhausstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8604,
-        "streetNr": "21",
-        "coordinates": {
-          "lat": 47.389979,
-          "lng": 8.682638299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-volketswil.ch/primarschule/feldhof/home",
-      "lastName": "Feldhof",
-      "schoolId": "BVVIHZ82RaRi62SnGyM7GjLKC6n1",
-      "firstName": "Schulleitung",
-      "schoolName": "Feldhof",
-      "phoneNumber": "P. Lauruhn: 079 865 66 15 / S. Aebersold: 079 865 66 16",
-      "organisationId": "pBxKxfhFwaiYmqblY0Ug",
-      "directionInformation": "Gut mit ÖV erreichbar, Haltestelle Huzlenstrasse oder Wallberg "
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1781136000000,
-    "subjects": [
-      "german",
-      "french",
-      "mathematics",
-      "mediaAndComputerScience",
-      "music",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KTRDESY71PN0W9HZCGBMS9HM/timeTables/9f71ffae-d371-4386-a363-da158523a66e.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KTR3TWKA6NEF5K7BWG5CJCES",
-    "additionalInformation": "Es ist wichtig, dass die Vertretung komplett übernommen werden kann. ",
-    "affectedTeacherIds": [
-      "DjNcgqj0KQOGoU2CK7cDgdtoGJg2",
-      "lucOZgjNIidgO5Df2wbU4Oosh7z2",
-      "FXgZq28dy6PLbdfIb4TvupX3RoH2",
-      "nQZaN87F11PuOnabADTupU3LDn63"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1781073277546,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1781827200000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1781073277692,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 8,
-    "publishTimestamp": 1781073277546,
-    "school": {
-      "email": "michael.seibold@schuleurdorf.ch",
-      "address": {
-        "city": "Urdorf",
-        "canton": "zurich",
-        "street": "Bahnhofstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8902,
-        "streetNr": "52",
-        "coordinates": {
-          "lat": 47.3857754,
-          "lng": 8.425315
-        }
-      },
-      "culture": "de-CH",
-      "website": "schuleurdorf.ch ",
-      "lastName": "Seibold",
-      "schoolId": "pHAoFt7UGgbXaOMGmMUh83oc6TT2",
-      "firstName": "Michael",
-      "schoolName": "Unterstufe Zentrum Urdorf",
-      "phoneNumber": "0798018093",
-      "organisationId": "aX21YhpMiJ95hOgQr2Ni",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1781481600000,
-    "subjects": [
-      "german",
-      "germanAsSecondLanguage",
-      "english",
-      "mathematics",
-      "music",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "fridayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
-    "id": "01KTNNTPB99222SV0GYD1205N4",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "zrC8f87TQtdlpSzPn7g6BbCkdxv2",
-      "jMyLPMhMKDPXe4H01w96QZpxY8B2",
-      "ccWR1hmOreWVi62KpJ5ghAWCKbc2",
-      "bwsCgr7N4wNxPyLFQuNnemhjMmZ2",
-      "9C5G8uSFFLbmEwz9oQ2G7GlBnVP2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780991482218,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1781568000000,
-    "grades": [
-      "firstClass",
-      "secondClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780991482247,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1780991482217,
-    "school": {
-      "email": "sekretariat.schulebachtobel@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Bachtobelstrasse",
+        "street": "Langacherstrasse",
         "country": "CH",
-        "zipCode": 8045,
-        "streetNr": "111",
+        "zipCode": 8909,
+        "streetNr": "1",
         "coordinates": {
-          "lat": 47.3588387,
-          "lng": 8.5116538
+          "lat": 47.28664759999999,
+          "lng": 8.430278699999999
         }
       },
       "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel.html",
-      "lastName": "Hofer",
-      "schoolId": "v827wIi6T8bfiRPbcKZH4u8HGzX2",
-      "firstName": "Sabrina",
-      "schoolName": "Bachtobel",
-      "phoneNumber": "044 413 18 37",
-      "organisationId": "wOjojIaUYufY86lm5eKY",
+      "website": "https://www.psa.ch",
+      "lastName": "Friedli",
+      "schoolId": "01KGQ8NGPEZ7A2D6PR994KRFP7",
+      "firstName": "Nicole",
+      "schoolName": "Zwillikon",
+      "phoneNumber": "077 481 99 09",
+      "organisationId": "pWOzxUaEkqT0y3LGJxVh",
       "directionInformation": ""
     },
     "schoolClass": {
@@ -220,8 +53,9 @@
       "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1781568000000,
+    "startTimestamp": 1781136000000,
     "subjects": [
+      "german",
       "sports"
     ],
     "teachingLanguages": [
@@ -230,9 +64,9 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "tuesdayMorning"
+      "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KTNHZBJ8ZGCW9BPWXYGEKAYD",
@@ -310,88 +144,6 @@
     "numberOfOpenApplications": 1
   },
   {
-    "id": "01KTNDDVFAEVQEJR8RSY2YHC2H",
-    "additionalInformation": "DAG",
-    "affectedTeacherIds": [
-      "cMfl4bNO7VaWT7FoGR2YF4uaAtu2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780982672874,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790812800000,
-    "grades": [
-      "firstClass",
-      "secondClass",
-      "thirdClass",
-      "forthClass",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780982673023,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1780982672874,
-    "school": {
-      "email": "alexander.schatt@schulethalwil.ch",
-      "address": {
-        "city": "Thalwil",
-        "canton": "zurich",
-        "street": "Alte Landstrasse ",
-        "country": "CH",
-        "zipCode": 8800,
-        "streetNr": "124/148",
-        "coordinates": {
-          "lat": 47.29344890000001,
-          "lng": 8.5646899
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulethalwil.ch/ludretikon-schwandel/unsere-schule/aktuelles/p-135/",
-      "lastName": "Schatt",
-      "schoolId": "wSx7qcAezkUUobMGtuZhQObjpXp2",
-      "firstName": "Alexander",
-      "schoolName": "Schuleinheit Ludretikon-Schwandel",
-      "phoneNumber": "044 723 25 53",
-      "organisationId": "YKAK9aP7js7r4VTR4hFd",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1789948800000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KTNDDVFAEVQEJR8RSY2YHC2H/timeTables/3eb5f29b-e0f9-4475-8dbb-cf91eb2eb711.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
     "id": "01KTKKXF2WZ6ARPAXJVXKTKPEC",
     "additionalInformation": "Die Stellvertretung ist an zwei Klassen. Mo + Di 7.30-8:15 an einer 5. Klasse, Di ganzer Tag, Fr morgen an einer 1. Klasse",
     "affectedTeacherIds": [
@@ -399,7 +151,8 @@
       "1ukMDgnzaAesz1gWurM9HNXpoiP2",
       "faveMpXafWh2V0gqOOTryC4oBdM2",
       "6eXW3XgL7sfrI5MtD7LQ395Wkao2",
-      "DjNcgqj0KQOGoU2CK7cDgdtoGJg2"
+      "DjNcgqj0KQOGoU2CK7cDgdtoGJg2",
+      "UTyIgVhgc0MQUJxrGoIcbJklCRF3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -478,89 +231,11 @@
     "numberOfOpenApplications": 4
   },
   {
-    "id": "01KTKKWWZMHRV05P9X3AKC9VQG",
-    "additionalInformation": "Doppelstunden Sport am Nachmittag\\nwahrscheinlich bis max. zu den Sommerferien",
-    "affectedTeacherIds": [
-      "BgUIVOobDQeuLkJ4LukfIObrstS2",
-      "uG6QZsbTDkNvCW6MscoSmnLOys12",
-      "EjelWkYBJVYnOJPUJnuI3Joo9oc2",
-      "YHIkQJRc1NS0BU270Cldog7Gd3K2",
-      "ygGXdDN0dlPn1LQVmYjdmnQRhtL2",
-      "6mqVGE7ZQqfAbyehXCBV3uPvLdS2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780922348532,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1783641600000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780922348590,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1780922348532,
-    "school": {
-      "email": "cristina.gremli@primarschule-uster.ch",
-      "address": {
-        "city": "Uster",
-        "canton": "zurich",
-        "street": "Seestrasse ",
-        "country": "Schweiz",
-        "zipCode": 8610,
-        "streetNr": "109",
-        "coordinates": {
-          "lat": 47.3440971,
-          "lng": 8.7031651
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.primarschule-uster.ch/niederuster/210",
-      "lastName": "Gremli",
-      "schoolId": "wyxpjkObOOaaRiknREt9V5nsdG02",
-      "firstName": "Cristina",
-      "schoolName": "Primarschule Niederuster",
-      "phoneNumber": "079 533 54 60",
-      "organisationId": "knQ7XrcVZ9n9BZIFDwgU",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1781222400000,
-    "subjects": [
-      "mathematics",
-      "music",
-      "sports",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "fridayMorning",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01KTKBH5B3DWE0D2F9PJWNKDZ9",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "FeOknTtZTnaj4UCBtPczq0ALNpw1"
+      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
+      "5S9815QIDMfTKfJi9K3Qz8CsAng1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -626,7 +301,7 @@
       "tuesdayMorning",
       "wednesdayMorning"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KTC4NFJGNJ50K2S0040DAF3F",
@@ -634,7 +309,8 @@
     "affectedTeacherIds": [
       "y9e0JqewM6cLGOPEClUe9lTdU823",
       "K7fXCUHWTjTyugsNndiny5gac3F2",
-      "JAyV8Tzfh3fSxRviQAdSjGAuyxt1"
+      "JAyV8Tzfh3fSxRviQAdSjGAuyxt1",
+      "Nhz6mdO160RSOeIwCKkl4YE9UPF3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -706,7 +382,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KT3V3KM5XDPZJYFWRNSGA0M2",
@@ -794,7 +470,8 @@
       "wA09p31dxLgoYqdcTpcwFAmwGjq1",
       "0mkOPRf86feBf4ZtOADfu4T7JhH2",
       "FU3tvRTRDbWoHiW7LdOaVaNymFt1",
-      "JAyV8Tzfh3fSxRviQAdSjGAuyxt1"
+      "JAyV8Tzfh3fSxRviQAdSjGAuyxt1",
+      "Nhz6mdO160RSOeIwCKkl4YE9UPF3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -872,7 +549,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KRDPD1M28H1P3B889AZNTSF3",
