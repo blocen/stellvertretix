@@ -1,66 +1,64 @@
 [
   {
-    "id": "01KTVAJR9DT0M4K2BFD8QFK3F2",
-    "additionalInformation": "",
+    "id": "01KTVP42PB9YTBWBM2100W1MNX",
+    "additionalInformation": "Vikariat von 08.05 - 11.40 Uhr.\\n\\nIn den ersten zwei Lektionen sollte etwas Eigenes vorbereitet werden. In den zwei letzten Lektionen nähen die Kinder einen Jonglierball, dies könnte abgeschlossen werden. ",
     "affectedTeacherIds": [
-      "UTyIgVhgc0MQUJxrGoIcbJklCRF3",
-      "w0BBo3jGI1eQxN1Gi2PLgVYM88S2"
+      "O86t8BOEhAUU5emOV9F1tV8kQPU2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1781181014317,
+    "createdTimestamp": 1781193116364,
     "curriculum": "lehrplan21",
     "endTimestamp": 1781222400000,
     "grades": [
+      "firstClass",
       "secondClass"
     ],
     "levelsDetailed": [
       "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781181014362,
+    "modifiedTimestamp": 1781193116432,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 4,
-    "publishTimestamp": 1781181014317,
+    "publishTimestamp": 1781193116363,
     "school": {
-      "email": "chantal.waefler@buelach.ch",
+      "email": "vikariate.stallikon@schule-stallikon.ch",
       "address": {
-        "city": "Bülach",
+        "city": "Stallikon",
         "canton": "zurich",
-        "street": "Schulhausstrasse",
+        "street": "Massholderenstrasse",
         "country": "Schweiz",
-        "zipCode": 8180,
-        "streetNr": "1",
+        "zipCode": 8143,
+        "streetNr": "3",
         "coordinates": {
-          "lat": 47.5183989,
-          "lng": 8.5371962
+          "lat": 47.33966059999999,
+          "lng": 8.4874437
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-buelach.ch/",
-      "lastName": "Wäfler",
-      "schoolId": "ZnLVnUtl38X7mQyCuksbpuZ3XMj2",
-      "firstName": "Chantal",
-      "schoolName": "Lindenhof Bülach",
-      "phoneNumber": "+41795680491",
-      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "website": "https://www.schule.stallikon.ch/",
+      "lastName": "Stallikon",
+      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
+      "firstName": "Schule",
+      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
+      "phoneNumber": "044 552 62 15",
+      "organisationId": "bHqcQAYtlvghgg50ASbW",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 19,
+      "numberOfStudents": 0,
       "additionalInformation": null
     },
     "startAsOfNow": false,
     "startTimestamp": 1781222400000,
     "subjects": [
-      "music",
-      "sports",
-      "religionsCulturesEthics"
+      "textileAndTechnicalDesign"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -70,7 +68,7 @@
     "workingBlocks": [
       "fridayMorning"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KTNHZBJ8ZGCW9BPWXYGEKAYD",
@@ -305,7 +303,7 @@
       "tuesdayMorning",
       "wednesdayMorning"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KTC4NFJGNJ50K2S0040DAF3F",
@@ -646,7 +644,8 @@
     "additionalInformation": "",
     "affectedTeacherIds": [
       "B609Iayw1WTJ8YCtGPUx9Zi2Jq62",
-      "C9P3of9q2PS1O2zF4SFD1xC0HVV2"
+      "C9P3of9q2PS1O2zF4SFD1xC0HVV2",
+      "5l6Rlpk66gaySahLrfV3Wr7LDlp2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -720,7 +719,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KPNVHK9QRAQZM1FK1TX9XH0E",
