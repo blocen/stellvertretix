@@ -1,78 +1,75 @@
 [
   {
-    "id": "01KTVWGMEQ826J0RYF7099MW14",
-    "additionalInformation": "In den Nachmittagslektionen ist eine Klassenassistenz anwesend. ",
-    "affectedTeacherIds": [
-      "FXgZq28dy6PLbdfIb4TvupX3RoH2",
-      "oaJJ8pQsMSPgYmQMYVHAgxz2wvP2",
-      "aMOMMODxhdf1qZWHQyQx8khqSav1"
-    ],
+    "id": "01KTW258TF6G5XQEKYC876F5NC",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1781199819223,
+    "createdTimestamp": 1781205738319,
     "curriculum": "lehrplan21",
     "endTimestamp": 1781222400000,
     "grades": [
-      "secondClass",
-      "fifthClass"
+      "sixthClass"
     ],
     "levelsDetailed": [
-      "levelLower",
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781199819290,
+    "modifiedTimestamp": 1781205738284,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 6,
-    "publishTimestamp": 1781199819222,
+    "publishTimestamp": 1781205738319,
     "school": {
-      "email": "Tobias.Goeldi@schule-dietikon.ch",
+      "email": "lena.tosconi@schulen.zuerich.ch",
       "address": {
-        "city": "Dietikon",
+        "city": "Zürich-Oerlikon",
         "canton": "zurich",
-        "street": "Römerstrasse ",
+        "street": "Maienstrasse ",
         "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
+        "zipCode": 8050,
+        "streetNr": 9,
         "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
+          "lat": 47.4110028,
+          "lng": 8.5282216
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Göldi",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Tobias",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
+      "website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo.html",
+      "lastName": "Tosconi",
+      "schoolId": "oAFDSxIAxDg0FUhXrKaqlp6IIpE3",
+      "firstName": "Lena",
+      "schoolName": "Schulhaus Kügeliloo (Schulkreis Glattal)",
+      "phoneNumber": "044 413 22 50 Schulleitungssekretariat",
+      "organisationId": "RzdKnC1uXWaCCAjP2aQw",
+      "directionInformation": "Das Schulhaus ist problemlos mit ÖV erreichbar (Zug bis Bahnhof Oerlikon, Bus oder Tram). Kostenpflichtige Parkplätze stehen zur Verfügung."
     },
     "schoolClass": {
-      "numberOfStudents": 10,
-      "additionalInformation": ""
+      "numberOfStudents": 22,
+      "additionalInformation": "- von 8.15 - 11.55 und 13.40 - 15.20 Uhr\\n-am Morgen ist Halbklassenunterricht. \\n- eine ISR Schülerin"
     },
     "startAsOfNow": false,
     "startTimestamp": 1781222400000,
     "subjects": [
-      "textileAndTechnicalDesign"
+      "mathematics",
+      "sports",
+      "natureAndTechnology",
+      "religionsCulturesEthics"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01KTVWGMEQ826J0RYF7099MW14/timeTables/98b1295a-3003-471c-b960-5f9b41337a17.jpeg",
+    "timeTableRef": "vacancies/01KTW258TF6G5XQEKYC876F5NC/timeTables/18cc0c06-a594-4173-a0bc-a73d9d6b3376.jpg",
     "vacancyType": "short",
     "workingBlocks": [
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KTVTGW7KW38BHYF21D2RFQHT",
@@ -149,77 +146,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KTVP42PB9YTBWBM2100W1MNX",
-    "additionalInformation": "Vikariat von 08.05 - 11.40 Uhr.\\n\\nIn den ersten zwei Lektionen sollte etwas Eigenes vorbereitet werden. In den zwei letzten Lektionen nähen die Kinder einen Jonglierball, dies könnte abgeschlossen werden. ",
-    "affectedTeacherIds": [
-      "O86t8BOEhAUU5emOV9F1tV8kQPU2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1781193116364,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1781222400000,
-    "grades": [
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781193116432,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1781193116363,
-    "school": {
-      "email": "vikariate.stallikon@schule-stallikon.ch",
-      "address": {
-        "city": "Stallikon",
-        "canton": "zurich",
-        "street": "Massholderenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8143,
-        "streetNr": "3",
-        "coordinates": {
-          "lat": 47.33966059999999,
-          "lng": 8.4874437
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule.stallikon.ch/",
-      "lastName": "Stallikon",
-      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
-      "firstName": "Schule",
-      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
-      "phoneNumber": "044 552 62 15",
-      "organisationId": "bHqcQAYtlvghgg50ASbW",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1781222400000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 1
   },
   {
     "id": "01KTNHZBJ8ZGCW9BPWXYGEKAYD",
