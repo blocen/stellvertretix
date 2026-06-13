@@ -1,69 +1,71 @@
 [
   {
-    "id": "01KTXB897CW49YT9YAER0ZW0SE",
-    "additionalInformation": "",
+    "id": "01KV13EF2235JYRA2JR1Z4P209",
+    "additionalInformation": "Guten Tag\\n\\nWir sind auf der Suche nach einer Stellvertretung für eine 5./6. Klasse. Es wäre super, wenn Du gleich alle drei Tage abdecken könntest.\\n\\nDienstag: 8.05 - 11.40 & 13.30 - 15.05 Uhr\\nMittwoch: 8.05 - 10.50 Uhr\\nDonnerstag: 8.05 - 11.40 Uhr\\n\\nWir freuen uns auf Deine Unterlagen.\\n\\nFreundliche Grüsse\\nSchule Stallikon",
     "affectedTeacherIds": [
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "l3fYpiHEDier8BxyVpwjfAUDv9z2",
-      "YfNDQK3maBNxVLIGyCe9Bise9u53",
-      "x6CCsx3j4iU45uLt6lSZ1kfHxt33"
+      "UTyIgVhgc0MQUJxrGoIcbJklCRF3",
+      "2fhaILda1WT3c9Y9tItcRh30QiJ3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1781248828652,
+    "createdTimestamp": 1781374860354,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1782259200000,
+    "endTimestamp": 1781740800000,
     "grades": [
-      "firstClass",
-      "secondClass",
+      "mixedAgeLearning",
+      "fifthClass",
       "sixthClass"
     ],
     "levelsDetailed": [
-      "levelLower",
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781248828717,
+    "modifiedTimestamp": 1781374859245,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 10,
-    "publishTimestamp": 1781248889647,
+    "pensum": 13,
+    "publishTimestamp": 1781374860352,
     "school": {
-      "email": "andrea.wydler@buelach.ch",
+      "email": "vikariate.stallikon@schule-stallikon.ch",
       "address": {
-        "city": "Bülach",
+        "city": "Stallikon",
         "canton": "zurich",
-        "street": "Unterweg",
-        "country": "CH",
-        "zipCode": 8180,
-        "streetNr": "51",
+        "street": "Massholderenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8143,
+        "streetNr": "3",
         "coordinates": {
-          "lat": 47.5266387,
-          "lng": 8.5433037
+          "lat": 47.33966059999999,
+          "lng": 8.4874437
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-buelach.ch/schulen/schule-hohfuri/entdecke-die-schule-hohfuri/",
-      "lastName": "Wydler",
-      "schoolId": "bqaGYOOuqJbadKiobXNuSPH0Cf22",
-      "firstName": "Andrea",
-      "schoolName": "Schule Hohfuri",
-      "phoneNumber": "0448631600",
-      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "website": "https://www.schule.stallikon.ch/",
+      "lastName": "Stallikon",
+      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
+      "firstName": "Schule",
+      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
+      "phoneNumber": "044 552 62 15",
+      "organisationId": "bHqcQAYtlvghgg50ASbW",
       "directionInformation": ""
     },
     "schoolClass": {
       "numberOfStudents": 0,
-      "additionalInformation": ""
+      "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1782086400000,
+    "startTimestamp": 1781568000000,
     "subjects": [
-      "textileAndTechnicalDesign"
+      "german",
+      "english",
+      "mathematics",
+      "fineArts",
+      "music",
+      "religionsCulturesEthics"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -73,88 +75,10 @@
     "workingBlocks": [
       "tuesdayMorning",
       "wednesdayMorning",
-      "mondayAfternoon",
+      "thursdayMorning",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KTVTGW7KW38BHYF21D2RFQHT",
-    "additionalInformation": "8 WL Halbklassenunterricht\\nGute Schulassistenz\\nSchwimmen mit externem Schwimmlehrer",
-    "affectedTeacherIds": [
-      "nOxc2CDpgcQCdyzxU9lS2btJAv62"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1781197730035,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1783641600000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781197734417,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1781197730034,
-    "school": {
-      "email": "christine.finney@schule.wallisellen.ch",
-      "address": {
-        "city": "Wallisellen",
-        "canton": "zurich",
-        "street": "Alpenstrasse ",
-        "country": "CH",
-        "zipCode": 8304,
-        "streetNr": "11",
-        "coordinates": {
-          "lat": 47.4174111,
-          "lng": 8.5898539
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule.wallisellen.ch/schulen/alpen",
-      "lastName": "Finney",
-      "schoolId": "hhQhe52udacndE5YGYdffWaZii62",
-      "firstName": "Christine ",
-      "schoolName": "Schule Alpen",
-      "phoneNumber": "Christine Finney: 076 560 30 47 / Renate Sgier: 079 687 78 17",
-      "organisationId": "01K2HGNP674MEAJV3FQVWTNEMA",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 24,
-      "additionalInformation": "Angenehme Klasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1781654400000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "music",
-      "swimming",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KTVTGW7KW38BHYF21D2RFQHT/timeTables/11ac2163-4ca3-4bc2-9c5e-8ebdb49e0fe3.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KTNHZBJ8ZGCW9BPWXYGEKAYD",
@@ -230,93 +154,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01KTKKXF2WZ6ARPAXJVXKTKPEC",
-    "additionalInformation": "Die Stellvertretung ist an zwei Klassen. Mo + Di 7.30-8:15 an einer 5. Klasse, Di ganzer Tag, Fr morgen an einer 1. Klasse",
-    "affectedTeacherIds": [
-      "yZP9poXLEJfIXabLQrFAgkdmYN13",
-      "1ukMDgnzaAesz1gWurM9HNXpoiP2",
-      "faveMpXafWh2V0gqOOTryC4oBdM2",
-      "6eXW3XgL7sfrI5MtD7LQ395Wkao2",
-      "DjNcgqj0KQOGoU2CK7cDgdtoGJg2",
-      "UTyIgVhgc0MQUJxrGoIcbJklCRF3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780922367068,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1782172800000,
-    "grades": [
-      "firstClass",
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780922367150,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 25,
-    "publishTimestamp": 1780922367068,
-    "school": {
-      "email": "schulleitung.ruemelbach@psruemlang.ch",
-      "address": {
-        "city": "Rümlang",
-        "canton": "zurich",
-        "street": "Rümelbachstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8153,
-        "streetNr": "30",
-        "coordinates": {
-          "lat": 47.4465563,
-          "lng": 8.5345593
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.psruemlang.ch",
-      "lastName": "Rümelbach",
-      "schoolId": "eU54hNc32QUxa1YLGzvnVz7wGEp1",
-      "firstName": "Schule",
-      "schoolName": "Schule Rümelbach",
-      "phoneNumber": "043 211 20 44",
-      "organisationId": "VOOZdWP91gOOxsJhsS8g",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1781827200000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "sports",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
   },
   {
     "id": "01KTKBH5B3DWE0D2F9PJWNKDZ9",
