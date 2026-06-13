@@ -4,6 +4,8 @@
 
 A public portal for substitution-teaching vacancies in Zürich, sourced from [epalero.ch](https://www.epalero.ch). Updates every 5 minutes via GitHub Actions and sends push notifications via [ntfy](https://ntfy.sh) when new listings appear.
 
+**Live portal: [blocen.github.io/stellvertretix](https://blocen.github.io/stellvertretix/)**
+
 ## How it works
 
 1. **GitHub Actions** runs `poller.py` every 5 minutes.
