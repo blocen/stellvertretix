@@ -1,65 +1,63 @@
 [
   {
-    "id": "01KV3JYZJWMQFQ81G6MPGJCGHT",
-    "additionalInformation": "",
+    "id": "01KV3NCEJ9481SNH7EVJD9RPZB",
+    "additionalInformation": "In den ersten 2 Lektionen ist noch eine SHP und SA anwesend. Im Turnen darf ohne BS im Profil nur gespielt werden - keine Geräte!",
     "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1781458239068,
+    "createdTimestamp": 1781460777545,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1781568000000,
+    "endTimestamp": 1781481600000,
     "grades": [
-      "sixthClass"
+      "thirdClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781458239123,
+    "modifiedTimestamp": 1781460784963,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 11,
-    "publishTimestamp": 1781458239068,
+    "pensum": 4,
+    "publishTimestamp": 1781460777545,
     "school": {
-      "email": "schulleitungchst@psa.ch",
+      "email": "christine.finney@schule.wallisellen.ch",
       "address": {
-        "city": "Affoltern am Albis",
+        "city": "Wallisellen",
         "canton": "zurich",
-        "street": "Butzenstrasse",
+        "street": "Alpenstrasse ",
         "country": "CH",
-        "zipCode": 8910,
-        "streetNr": "2",
+        "zipCode": 8304,
+        "streetNr": "11",
         "coordinates": {
-          "lat": 47.2791647,
-          "lng": 8.4569835
+          "lat": 47.4174111,
+          "lng": 8.5898539
         }
       },
       "culture": "de-CH",
-      "website": "www.psa.ch",
-      "lastName": "Schmid ",
-      "schoolId": "HbkOfHY0WORNl4xlhrylkiIekZk2",
-      "firstName": "Kay ",
-      "schoolName": "Chilefeld-Stigeli ",
-      "phoneNumber": "077 254 75 32",
-      "organisationId": "pWOzxUaEkqT0y3LGJxVh",
+      "website": "www.schule.wallisellen.ch/schulen/alpen",
+      "lastName": "Finney",
+      "schoolId": "hhQhe52udacndE5YGYdffWaZii62",
+      "firstName": "Christine ",
+      "schoolName": "Schule Alpen",
+      "phoneNumber": "Christine Finney: 076 560 30 47 / Renate Sgier: 079 687 78 17",
+      "organisationId": "01K2HGNP674MEAJV3FQVWTNEMA",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": null
+      "numberOfStudents": 22,
+      "additionalInformation": "Angenehme Klasse, die klar geführt werden muss. "
     },
     "startAsOfNow": false,
     "startTimestamp": 1781481600000,
     "subjects": [
-      "german",
       "mathematics",
       "music",
-      "sports",
-      "natureAndTechnology"
+      "sports"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -67,9 +65,7 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "mondayAfternoon"
+      "mondayMorning"
     ],
     "numberOfOpenApplications": 0
   },
