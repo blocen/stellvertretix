@@ -1,70 +1,62 @@
 [
   {
-    "id": "01KV5BKQ5M816D797QKN691D9P",
-    "additionalInformation": "Vormittag 5 Lektionen (7:25 - 11:55)\\n\\nNachmittag 2 Lektionen in Halbklasse (13:50 - 15:25)",
-    "affectedTeacherIds": [
-      "4Y12Ms0g1ke5PnzYVGBnzeOePEx1",
-      "2fhaILda1WT3c9Y9tItcRh30QiJ3",
-      "YfNDQK3maBNxVLIGyCe9Bise9u53",
-      "4dLgy5L4ubZlj2BfWJS3nYbYPyf2"
-    ],
+    "id": "01KV5YED0YRJB4YB7X9K5EGYQD",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1781517638836,
+    "createdTimestamp": 1781537387550,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1781568000000,
+    "endTimestamp": 1781654400000,
     "grades": [
-      "fifthClass"
+      "firstClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781517638917,
+    "modifiedTimestamp": 1781537387610,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 7,
-    "publishTimestamp": 1781517638836,
+    "pensum": 4,
+    "publishTimestamp": 1781537387550,
     "school": {
-      "email": "annette.cathomas@schulefaellanden.ch",
+      "email": "marinela.grabovac@schulen.zuerich.ch",
       "address": {
-        "city": "Fällanden",
+        "city": "Zürich",
         "canton": "zurich",
-        "street": "Maurstrasse",
-        "country": "CH",
-        "zipCode": 8117,
-        "streetNr": "27",
+        "street": "Rebenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8041,
+        "streetNr": "67",
         "coordinates": {
-          "lat": 47.3700251,
-          "lng": 8.6432004
+          "lat": 47.3337812,
+          "lng": 8.5154284
         }
       },
       "culture": "de-CH",
-      "website": "www.schulefaellanden.ch",
-      "lastName": "Cathomas",
-      "schoolId": "Bm2S1Kuq8QNLVvegSmwBR4fT1Lv2",
-      "firstName": "Annette",
-      "schoolName": "Primarschule Lätten",
-      "phoneNumber": "043 355 36 49 / 043 355 36 55",
-      "organisationId": "jjTZLJweUGp7yAr8AxJC",
+      "website": "www.stadt-zuerich.ch/schulen/de/leimbach.html",
+      "lastName": "Grabovac",
+      "schoolId": "oMGZz8y6eDRBocZN1A3NN6set862",
+      "firstName": "Marinela",
+      "schoolName": "Schulhaus Leimbach",
+      "phoneNumber": "044 413 11 74",
+      "organisationId": "LeGHxqCB4JoJlvIDlNvQ",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": ""
+      "numberOfStudents": 0,
+      "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1781568000000,
+    "startTimestamp": 1781654400000,
     "subjects": [
       "german",
-      "french",
-      "mathematics",
-      "fineArts",
-      "sports"
+      "mathematics"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -72,8 +64,233 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "tuesdayMorning",
-      "tuesdayAfternoon"
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01KV5XAAB8A6NRM44PC3CWG4GE",
+    "additionalInformation": "Der Unterricht findet in der Halbklasse statt (1 Lektion Deutsch; 1 Lektion Mathematik pro Halbklasse)",
+    "affectedTeacherIds": [
+      "bwsCgr7N4wNxPyLFQuNnemhjMmZ2",
+      "m8cqySlqyVPhFtT5nnevf2bMhvP2",
+      "2fhaILda1WT3c9Y9tItcRh30QiJ3",
+      "U9qaa7C6rpcGpsrfB9c6v16nJO12"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1781536205160,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781654400000,
+    "grades": [
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1781536205286,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1781536205160,
+    "school": {
+      "email": "Tobias.Goeldi@schule-dietikon.ch",
+      "address": {
+        "city": "Dietikon",
+        "canton": "zurich",
+        "street": "Römerstrasse ",
+        "country": "CH",
+        "zipCode": 8953,
+        "streetNr": "15",
+        "coordinates": {
+          "lat": 47.4047072,
+          "lng": 8.3947644
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
+      "lastName": "Göldi",
+      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
+      "firstName": "Tobias",
+      "schoolName": "Schule Steinmürli, Dietikon",
+      "phoneNumber": "0447437700",
+      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1781654400000,
+    "subjects": [
+      "german",
+      "mathematics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KV5XAAB8A6NRM44PC3CWG4GE/timeTables/3a5593b8-05d4-4e32-b1c6-ea276aaab9d8.jpeg",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01KV5T6EWTP0WBWXJY0VREF47M",
+    "additionalInformation": "Mi: 1:1 Setting integriert in der 1./2. Klasse (8:20 - 12:00)\\nDo: 10:30 - 12:00 TTG 6. Klasse und 1h Betreuung\\nFR: 08:00 - 10:00 TTG 5. Klasse\\nTTG ein eigenes in sich abgeschlossenes Projekt für 2 Lektionen mitbringen\\nFR: 10:30 - 12:00/13:30 - 16:00 Einzelunterricht im 1:1 Setting",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1781532933018,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781827200000,
+    "grades": [
+      "forthClass",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1781532933055,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 13,
+    "publishTimestamp": 1781532933018,
+    "school": {
+      "email": "katja.meier@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Limmtstrasse ",
+        "country": "CH",
+        "zipCode": 8005,
+        "streetNr": "90",
+        "coordinates": {
+          "lat": 47.3893214,
+          "lng": 8.5131587
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/limmat.html",
+      "lastName": "Meier",
+      "schoolId": "h6ALS3uotMMtaqbKxmRtJMeUN6i1",
+      "firstName": "Katja",
+      "schoolName": "Tagesschule Limmat",
+      "phoneNumber": "0444130482",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": "5min vom HB Zürich entfernt. "
+    },
+    "schoolClass": {
+      "numberOfStudents": 8,
+      "additionalInformation": "TTG Halbklassenunterricht 5. und 6. Klasse\\nBegleitung von einem zukünftigen ISR Kind (4. Klasse) im 1:1 Setting in der 1./2. Klasse"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1781654400000,
+    "subjects": [
+      "textileAndTechnicalDesign",
+      "advancedEducationalConcerns"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01KV5SE8JJ1C7GSDXNBFSM8XZF",
+    "additionalInformation": "IF, Teamteaching in 3. Klasse, IF und DaZ in 1. Klassen",
+    "affectedTeacherIds": [
+      "nkX63a3QazNIe4nUBSn8R1K6VZm2",
+      "mdJYk68IABSwUpiqXsvwIpBJrKh2",
+      "72eHRMuTrzVZvEVsnJJDp65OjIG3",
+      "wYHhD9WJrAQcaEfaF4ud4xZ2GtB2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1781532140114,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781827200000,
+    "grades": [
+      "firstClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1781532140205,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1781532140114,
+    "school": {
+      "email": "schulleitungsaw@ps-regensdorf.ch",
+      "address": {
+        "city": "Watt",
+        "canton": "zurich",
+        "street": "Unterdorfstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8105,
+        "streetNr": "52",
+        "coordinates": {
+          "lat": 47.4440424,
+          "lng": 8.4784022
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.ps-regensdorf.ch/watt/kontakt-1/p-1067/",
+      "lastName": "Priska Haller",
+      "schoolId": "Qfwh80YYiOXLJ4UsudGw3KKyUAg2",
+      "firstName": "Romina Eichenberger /",
+      "schoolName": "Schule Watt",
+      "phoneNumber": "043 343 84 81",
+      "organisationId": "Bhc2hU5TZBiY12DWXQkD",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1781740800000,
+    "subjects": [
+      "germanAsSecondLanguage",
+      "ifIssIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KV5SE8JJ1C7GSDXNBFSM8XZF/timeTables/b522b8ee-5399-478a-83ca-34b7af1dd976.jpeg",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
     ],
     "numberOfOpenApplications": 4
   },
@@ -233,87 +450,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KV55MS84EMNW44TVRCZ3GGBK",
-    "additionalInformation": "Für meine 3. Klasse suche ich in der letzten Woche vor den Sommerferien eine Stellvertretung. Der Unterricht ist bereits vorbereitet. Am Montag ist jeweils eine Klassenassistenz und teilweise eine SHP anwesend. Die erste Lektion am Dienstag sowie der Dienstagnachmittag sind ebenfalls abgedeckt. Am Dienstagmorgen begleitet die LP die Klasse ins Schwimmen, der Unterricht wird von einer Schwimmlehrperson durchgeführt. Ich bin während der Stellvertretung erreichbar.",
-    "affectedTeacherIds": [
-      "HLgVtjrWhthJaqp4rUsJKju2Iho2",
-      "XDT8GhxtaTfUae9ZZEgJS0AAanj2",
-      "4dWfuF5vElYpNQp11InLfQCDVbU2",
-      "T4NUXT7mUoTScDqwIw1VaacQVm33"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1781511382276,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1783382400000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781511382659,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1781511620346,
-    "school": {
-      "email": "tadek.harabasz@schule-kilchberg.ch",
-      "address": {
-        "city": "Kilchberg ZH",
-        "canton": "zurich",
-        "street": "Brunnenmoosstrasse",
-        "country": "CH",
-        "zipCode": 8802,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.31948879999999,
-          "lng": 8.5445078
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-kilchberg.ch/",
-      "lastName": "Harabasz",
-      "schoolId": "01KTKYWKMQ5PVMQTZ8N5RP32X2",
-      "firstName": "Tadek",
-      "schoolName": "Brunnenmoos Kilchberg",
-      "phoneNumber": "+41 44 244 55 39",
-      "organisationId": "01KTKYWKMK8QNN247C35ZNY1MZ",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 13,
-      "additionalInformation": "Die Klasse umfasst 13 Kinder und ist eine aufgeweckte, interessierte Gruppe. Die Schülerinnen und Schüler kennen die Abläufe gut und arbeiten in der Regel selbstständig. Da es sich um die letzte Schulwoche vor den Sommerferien handelt, ist das Unterrichtsprogramm bewusst etwas lockerer gestaltet. Bei gutem Wetter bietet es sich an, einzelne Aktivitäten nach draussen zu verlegen."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1783296000000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "fineArts",
-      "swimming",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
   },
   {
     "id": "01KV30KV6GZRYMKBPKWHKAB48P",
