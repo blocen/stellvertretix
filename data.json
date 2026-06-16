@@ -1,10 +1,86 @@
 [
   {
+    "id": "01KV8H593DQ4CDB9V7FT2HJGVH",
+    "additionalInformation": "Schulreise in den Wald zzsammen mit weiteren LP",
+    "affectedTeacherIds": [
+      "l86YaNl200TmSSQJZlQaBxMaZUj1",
+      "5N5o1hYDHjY8NWCXK9QncwHOvwE2",
+      "TEcSyHoVnaT3QC93zQkJALSzSSf1",
+      "f1rr0ByKy4efeITZIykB4zRuhV63",
+      "QCr6JfzVp4UIxspiy7MOU9Mau5l2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1781624120429,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1781654400000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1781624125878,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1781624120428,
+    "school": {
+      "email": "andrea.mueller2@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Sihlweidstrasse",
+        "country": "CH",
+        "zipCode": 8041,
+        "streetNr": "5",
+        "coordinates": {
+          "lat": 47.3265721,
+          "lng": 8.5163177
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/sihlweid.html",
+      "lastName": "Müller",
+      "schoolId": "nV6k81qHbTdmgYKef3Ng8Xm61OV2",
+      "firstName": "Andrea ",
+      "schoolName": "Sihlweid",
+      "phoneNumber": "044 413 08 82",
+      "organisationId": "xZlqKzOOeHaQ85HjGKED",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 18,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1781654400000,
+    "subjects": [
+      "otherSubject"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01KV807BY7CS2E7N1RWW68M5GA",
     "additionalInformation": "",
     "affectedTeacherIds": [
       "T4NUXT7mUoTScDqwIw1VaacQVm33",
-      "ft2J8tWB71PRALQ5ADI1gb4sHH22"
+      "ft2J8tWB71PRALQ5ADI1gb4sHH22",
+      "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
+      "faveMpXafWh2V0gqOOTryC4oBdM2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -73,7 +149,7 @@
       "tuesdayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KV7YRRN3BJ33GYDA19KWJQ02",
@@ -846,7 +922,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KRE72VQSAAM2VJYNT4BR733T",
