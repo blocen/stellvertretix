@@ -1,8 +1,95 @@
 [
   {
+    "id": "01KVAFJVRW2CS7FEC3P8YDBMB7",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "3BfozSrVC8OgvQ8rQrvxNTceopT2",
+      "vlrkyRvmdqffCzkULpOBJzQaqp22",
+      "IzsmAkUxFSV6weELDHONnEicbAA3",
+      "S5nyTMIdvhf1k9omCiCnJzmhu6g1"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1781689577244,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1787875200000,
+    "grades": [
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1781689577315,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 24,
+    "publishTimestamp": 1781689577244,
+    "school": {
+      "email": "schulleitungeselriet@schule-ilef.ch",
+      "address": {
+        "city": "Effretikon",
+        "canton": "zurich",
+        "street": "Sportplatzstrasse",
+        "country": "Schweiz",
+        "zipCode": 8307,
+        "streetNr": "7",
+        "coordinates": {
+          "lat": 47.4233745,
+          "lng": 8.7006711
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-ilef.ch",
+      "lastName": "Städeli",
+      "schoolId": "2zlIjXPW7HVoYObJsmkrI4TsIX33",
+      "firstName": "Seraina",
+      "schoolName": "Schule Eselriet",
+      "phoneNumber": "079 732 68 57",
+      "organisationId": "aFYUMrhRFPlSgDs7X3hQ",
+      "directionInformation": "Das Schulhaus ist gut mit dem ÖV erreichbar. Auch stehen Gratisparkplätze zur Verfügung."
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1787529600000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "fineArts",
+      "music",
+      "sports",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01KVABARKFGM1MXFRK854ND274",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "WzoHOk71tOP1kO1EgQsVof5WRq12"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -69,84 +156,7 @@
       "wednesdayMorning",
       "thursdayMorning"
     ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KVA6A7AD7ETG0WQ84QWY9YCA",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "vlrkyRvmdqffCzkULpOBJzQaqp22",
-      "4gR5cbfk9ubZXtWNK0cfYMzZZgi2",
-      "7kzZGyf3nGSIi7ASOaK62gzuNns2",
-      "SawSMxhIp3eAjbj8NecEeUKFq0l2",
-      "FyzngrTV3ePrHhEVXUTLoILkhPt2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1781679856974,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1783555200000,
-    "grades": [
-      "firstClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781679857087,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 8,
-    "publishTimestamp": 1781679856973,
-    "school": {
-      "email": "schulleitungchst@psa.ch",
-      "address": {
-        "city": "Affoltern am Albis",
-        "canton": "zurich",
-        "street": "Butzenstrasse",
-        "country": "CH",
-        "zipCode": 8910,
-        "streetNr": "2",
-        "coordinates": {
-          "lat": 47.2791647,
-          "lng": 8.4569835
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.psa.ch",
-      "lastName": "Schmid ",
-      "schoolId": "HbkOfHY0WORNl4xlhrylkiIekZk2",
-      "firstName": "Kay ",
-      "schoolName": "Chilefeld-Stigeli ",
-      "phoneNumber": "077 254 75 32",
-      "organisationId": "pWOzxUaEkqT0y3LGJxVh",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1783382400000,
-    "subjects": [
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KVA6A7AD7ETG0WQ84QWY9YCA/timeTables/85757508-2441-478f-9dc7-6332b92452f4.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning"
-    ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KV807BY7CS2E7N1RWW68M5GA",
