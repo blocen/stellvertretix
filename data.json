@@ -1,77 +1,73 @@
 [
   {
-    "id": "01KVDXTWRVJA0CMV65JB3ST8HC",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "bP18gdZd24eLnYc0f3XA9HbJnjC2"
-    ],
+    "id": "01KVFEFVV4REAK2CX1FQGCVT55",
+    "additionalInformation": "Wir suchen eine SHP/DaZ-Vertretung jeweils am Montagnachmittag 2 Lektionen und am Dienstagmorgen 3 Lektionen (9-12 Uhr) bis zu den Sommerferien.",
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1781805183772,
+    "createdTimestamp": 1781856202596,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1781827200000,
+    "endTimestamp": 1783382400000,
     "grades": [
-      "firstClass"
+      "secondClass"
     ],
     "levelsDetailed": [
       "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781805183833,
+    "modifiedTimestamp": 1781856202707,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1781805183771,
+    "pensum": 5,
+    "publishTimestamp": 1781856202596,
     "school": {
-      "email": "schulverwaltung@schule-uitikon.ch",
+      "email": "sl.steiacher@schulen-wb.ch",
       "address": {
-        "city": "Uitikon",
+        "city": "Brüttisellen",
         "canton": "zurich",
-        "street": "Lättenstrasse",
+        "street": "Schulhausstrasse",
         "country": "CH",
-        "zipCode": 8142,
-        "streetNr": "55",
+        "zipCode": 8306,
+        "streetNr": "7",
         "coordinates": {
-          "lat": 47.37292009999999,
-          "lng": 8.452513999999999
+          "lat": 47.4242065,
+          "lng": 8.6340612
         }
       },
       "culture": "de-CH",
-      "website": "www.schule-uitikon.ch",
-      "lastName": "Elbert",
-      "schoolId": "g83VTmEnCMWT54FUDJBkIEraXTD2",
-      "firstName": "Daniela",
-      "schoolName": "Schule Uitikon",
-      "phoneNumber": "044 200 16 00",
-      "organisationId": "vKebMANF5uYI62xB4XS7",
-      "directionInformation": ""
+      "website": "www.schulen-wb.ch",
+      "lastName": "Steiacher",
+      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
+      "firstName": "Schulleitung ",
+      "schoolName": "Steiacher",
+      "phoneNumber": "0432557607",
+      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
+      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
     },
     "schoolClass": {
-      "numberOfStudents": 17,
+      "numberOfStudents": 0,
       "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1781827200000,
+    "startTimestamp": 1782086400000,
     "subjects": [
-      "german",
-      "fineArts",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
+      "germanAsSecondLanguage",
+      "ifIssIsr"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
     "timeTableRef": null,
-    "vacancyType": "short",
+    "vacancyType": "long",
     "workingBlocks": [
-      "fridayMorning",
-      "fridayAfternoon"
+      "tuesdayMorning",
+      "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KV7YRRN3BJ33GYDA19KWJQ02",
@@ -952,6 +948,6 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   }
 ]
