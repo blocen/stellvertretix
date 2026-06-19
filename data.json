@@ -1,78 +1,90 @@
 [
   {
-    "id": "01KVFN1TY0NRNW9XND8VQJZMDY",
-    "additionalInformation": "Hallo zusammen wir suchen für den Montag, 29. Juni 2026 eine Begleitperson für eine Exkursion mit einer 6. Klasse. Wanderung um den Pfäffikersee. \\nDie Entlöhnung ist für den ganzen Tag CHF 80.- \\nWer hätte Lust und Zeit die Klasse zu begleiten? \\nDanke und Liebe Grüsse Antonella",
-    "affectedTeacherIds": [],
+    "id": "01KVFXV13QG1WYJD6HE2SP9RN0",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "krGTl4ilhKax0kJptTDErcf3V2E3",
+      "bP18gdZd24eLnYc0f3XA9HbJnjC2",
+      "3BfozSrVC8OgvQ8rQrvxNTceopT2",
+      "ALKyH8zHxvO8VNoQvgiUDvZ4yj92"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1781863082944,
+    "createdTimestamp": 1781872297080,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1782691200000,
+    "endTimestamp": 1782345600000,
     "grades": [
-      "sixthClass"
+      "firstClass",
+      "secondClass",
+      "thirdClass",
+      "forthClass"
     ],
     "levelsDetailed": [
+      "levelLower",
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781863082988,
-    "partialTakeoverPossible": false,
+    "modifiedTimestamp": 1781872297210,
+    "partialTakeoverPossible": true,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 1,
-    "publishTimestamp": 1781863082943,
+    "pensum": 12,
+    "publishTimestamp": 1781872297079,
     "school": {
-      "email": "antonella.albanese@schulen.zuerich.ch",
+      "email": "pascale.kohler@neftenbach.ch",
       "address": {
-        "city": "Zürich-Oerlikon",
+        "city": "Neftenbach",
         "canton": "zurich",
-        "street": "Maienstrasse ",
+        "street": "Schulstrasse",
         "country": "CH",
-        "zipCode": 8050,
-        "streetNr": 9,
+        "zipCode": 8413,
+        "streetNr": "17a",
         "coordinates": {
-          "lat": 47.4110028,
-          "lng": 8.5282216
+          "lat": 47.5256573,
+          "lng": 8.666277
         }
       },
       "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo.html",
-      "lastName": "Albanese",
-      "schoolId": "oAFDSxIAxDg0FUhXrKaqlp6IIpE3",
-      "firstName": "Antonella",
-      "schoolName": "Schulhaus Kügeliloo (Schulkreis Glattal)",
-      "phoneNumber": "044 413 22 50 Schulleitungssekretariat",
-      "organisationId": "RzdKnC1uXWaCCAjP2aQw",
-      "directionInformation": "Das Schulhaus ist problemlos mit ÖV erreichbar (Zug bis Bahnhof Oerlikon, Bus oder Tram). Kostenpflichtige Parkplätze stehen zur Verfügung."
+      "website": "www.schule-neftenbach.ch",
+      "lastName": "Kohler",
+      "schoolId": "rlMxSCGULXOK8kaqQmtIRpCoxxx2",
+      "firstName": "Pascale",
+      "schoolName": "Schule Neftenbach",
+      "phoneNumber": "0523153543",
+      "organisationId": "01K0BJS6XPTCCJY59S0P1GGK0Q",
+      "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": null
+      "numberOfStudents": 4,
+      "additionalInformation": "Es handelt sich um DAZ Stunden. Diese könnten integrativ in der Klasse vor allem als Unterstützung für die Klassenlehrperson erteilt werden. Es bieten sich Sprachspiele und Übungen an. Material ist vorhanden, der Einsatz muss aber vor allem in Absprache mit der Klassenlehrpersonen relativ flexibel erfolgen. "
     },
     "startAsOfNow": false,
-    "startTimestamp": 1782691200000,
+    "startTimestamp": 1782172800000,
     "subjects": [
-      "otherSubject"
+      "germanAsSecondLanguage"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": null,
+    "timeTableRef": "vacancies/01KVFXV13QG1WYJD6HE2SP9RN0/timeTables/5b4ed5e5-fdbf-4847-b662-e4ef26e9992b.pdf",
     "vacancyType": "short",
     "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KVFM7Q6Z83FF8F220PAHPEM2",
     "additionalInformation": "Klassenlehrperson ist während dieser Zeit in der Intensiv-Weiterbildung.\\nStellenpartnerin arbeitet jeweils Montag und Dienstag, sowie Donnerstagnachmittag an der Klasse.\\nAm Freitag sind es 7 WL, Start um 07.30 Uhr. Am Mittwoch- und Donnerstagvormittag sind es jeweils 4 WL.",
     "affectedTeacherIds": [
-      "WzoHOk71tOP1kO1EgQsVof5WRq12"
+      "WzoHOk71tOP1kO1EgQsVof5WRq12",
+      "iTXDatzPzhUuzVggrEJALxAST9u2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -145,7 +157,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KV7YRRN3BJ33GYDA19KWJQ02",
