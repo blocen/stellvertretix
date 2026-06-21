@@ -1,83 +1,79 @@
 [
   {
-    "id": "01KVN7BHHTAVK20ACHYGW0T5VH",
-    "additionalInformation": "Gesucht ist jemand, der sicher morgen einspringt, und auch am Dienstag noch Zeit hätte. Es ist noch nicht ganz klar, ob die Lehrperson bis am Dienstag wieder fit ist. Unterrichtspräp ist vorhanden.",
+    "id": "01KVNECRCG5ZMT7MBM5CS331G7",
+    "additionalInformation": "Ggf. verlängerbar bis Dienstag",
     "affectedTeacherIds": [
-      "nZh0fjFwtTNQZLPWV8RB5jHt9mn1",
-      "j7liWnED3fZK8wLAfhk3r5iy61D3"
+      "LcASwlYTpUOC8BKWKwfyuyyj8ow2",
+      "jMyLPMhMKDPXe4H01w96QZpxY8B2",
+      "j7liWnED3fZK8wLAfhk3r5iy61D3",
+      "GE6m99wnX2QtuK7bw0XRPsdfuEn1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1782050047546,
+    "createdTimestamp": 1782057427344,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1782172800000,
+    "endTimestamp": 1782086400000,
     "grades": [
-      "fifthClass"
+      "firstClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1782050049121,
+    "modifiedTimestamp": 1782057427090,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 13,
-    "publishTimestamp": 1782050047545,
+    "pensum": 6,
+    "publishTimestamp": 1782057427343,
     "school": {
-      "email": "sl.steiacher@schulen-wb.ch",
+      "email": "michael.seibold@schuleurdorf.ch",
       "address": {
-        "city": "Brüttisellen",
+        "city": "Urdorf",
         "canton": "zurich",
-        "street": "Schulhausstrasse",
-        "country": "CH",
-        "zipCode": 8306,
-        "streetNr": "7",
+        "street": "Bahnhofstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8902,
+        "streetNr": "52",
         "coordinates": {
-          "lat": 47.4242065,
-          "lng": 8.6340612
+          "lat": 47.3857754,
+          "lng": 8.425315
         }
       },
       "culture": "de-CH",
-      "website": "www.schulen-wb.ch",
-      "lastName": "Steiacher",
-      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
-      "firstName": "Schulleitung ",
-      "schoolName": "Steiacher",
-      "phoneNumber": "0432557607",
-      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
-      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
+      "website": "schuleurdorf.ch ",
+      "lastName": "Seibold",
+      "schoolId": "pHAoFt7UGgbXaOMGmMUh83oc6TT2",
+      "firstName": "Michael",
+      "schoolName": "Unterstufe Zentrum Urdorf",
+      "phoneNumber": "0798018093",
+      "organisationId": "aX21YhpMiJ95hOgQr2Ni",
+      "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 20,
+      "numberOfStudents": 22,
       "additionalInformation": null
     },
     "startAsOfNow": false,
     "startTimestamp": 1782086400000,
     "subjects": [
       "german",
-      "english",
-      "french",
       "mathematics",
-      "sports",
-      "natureHumanSociety",
-      "project"
+      "natureHumanSociety"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01KVN7BHHTAVK20ACHYGW0T5VH/timeTables/7b96557e-13c8-4f8b-9646-37e8bb179ac9.pdf",
+    "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
       "mondayMorning",
-      "tuesdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
+      "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KVFZWTQWEVY7WGWYTBFKXEGQ",
