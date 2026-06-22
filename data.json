@@ -1,5 +1,76 @@
 [
   {
+    "id": "01KVQPW6CC69HXKG3RSJTMW5YF",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1782133430669,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1782172800000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1782133430846,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1782133430668,
+    "school": {
+      "email": "michael.seibold@schuleurdorf.ch",
+      "address": {
+        "city": "Urdorf",
+        "canton": "zurich",
+        "street": "Bahnhofstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8902,
+        "streetNr": "52",
+        "coordinates": {
+          "lat": 47.3857754,
+          "lng": 8.425315
+        }
+      },
+      "culture": "de-CH",
+      "website": "schuleurdorf.ch ",
+      "lastName": "Seibold",
+      "schoolId": "pHAoFt7UGgbXaOMGmMUh83oc6TT2",
+      "firstName": "Michael",
+      "schoolName": "Unterstufe Zentrum Urdorf",
+      "phoneNumber": "0798018093",
+      "organisationId": "aX21YhpMiJ95hOgQr2Ni",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1782172800000,
+    "subjects": [
+      "mathematics",
+      "swimming",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KVQ9C5ZECNHZYM7HEZCACP1H",
     "additionalInformation": "",
     "affectedTeacherIds": [
