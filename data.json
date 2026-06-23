@@ -1,74 +1,83 @@
 [
   {
-    "id": "01KVQPW6CC69HXKG3RSJTMW5YF",
+    "id": "01KVTNVJDYW6B1KVXRT0SSAK7V",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "RzEjuPuPBCV45jxh4BxCxovaEHD3",
+      "9RzXwoq8hoTdieILTZ9QGMfjGWg1",
+      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
+      "oaJJ8pQsMSPgYmQMYVHAgxz2wvP2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1782133430669,
+    "createdTimestamp": 1782233024958,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1782172800000,
+    "endTimestamp": 1783641600000,
     "grades": [
-      "firstClass"
+      "firstClass",
+      "thirdClass",
+      "fifthClass"
     ],
     "levelsDetailed": [
-      "levelLower"
+      "levelLower",
+      "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1782133430846,
-    "partialTakeoverPossible": false,
+    "modifiedTimestamp": 1782233025014,
+    "partialTakeoverPossible": true,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1782133430668,
+    "pensum": 16,
+    "publishTimestamp": 1782233024958,
     "school": {
-      "email": "michael.seibold@schuleurdorf.ch",
+      "email": "renate.sgier@schule.wallisellen.ch",
       "address": {
-        "city": "Urdorf",
+        "city": "Wallisellen",
         "canton": "zurich",
-        "street": "Bahnhofstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8902,
-        "streetNr": "52",
+        "street": "Alpenstrasse ",
+        "country": "CH",
+        "zipCode": 8304,
+        "streetNr": "11",
         "coordinates": {
-          "lat": 47.3857754,
-          "lng": 8.425315
+          "lat": 47.4174111,
+          "lng": 8.5898539
         }
       },
       "culture": "de-CH",
-      "website": "schuleurdorf.ch ",
-      "lastName": "Seibold",
-      "schoolId": "pHAoFt7UGgbXaOMGmMUh83oc6TT2",
-      "firstName": "Michael",
-      "schoolName": "Unterstufe Zentrum Urdorf",
-      "phoneNumber": "0798018093",
-      "organisationId": "aX21YhpMiJ95hOgQr2Ni",
+      "website": "www.schule.wallisellen.ch/schulen/alpen",
+      "lastName": "Sgier",
+      "schoolId": "hhQhe52udacndE5YGYdffWaZii62",
+      "firstName": "Renate",
+      "schoolName": "Schule Alpen",
+      "phoneNumber": "Christine Finney: 076 560 30 47 / Renate Sgier: 079 687 78 17",
+      "organisationId": "01K2HGNP674MEAJV3FQVWTNEMA",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": null
+      "numberOfStudents": 0,
+      "additionalInformation": "Montagmorgen: 1. Klasse\\nMontagnachmittag: 3. Klasse\\nDienstagmorgen: 3. Klasse\\nDienstagnachmittag: 3. Klasse\\nMittwochmorgen: 5. Klasse"
     },
-    "startAsOfNow": false,
+    "startAsOfNow": true,
     "startTimestamp": 1782172800000,
     "subjects": [
-      "mathematics",
-      "swimming",
-      "natureHumanSociety"
+      "textileAndTechnicalDesign"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
     "timeTableRef": null,
-    "vacancyType": "short",
+    "vacancyType": "long",
     "workingBlocks": [
+      "mondayMorning",
       "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KVQ9C5ZECNHZYM7HEZCACP1H",
@@ -301,84 +310,12 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01KVPXBMQP7EM1JG6DCAMWBC1A",
-    "additionalInformation": "Gerne auch ab der 2. Lektion.",
-    "affectedTeacherIds": [],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1782106673910,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1782086400000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1782106669871,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1782106673910,
-    "school": {
-      "email": "gabriel.terlemez@dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Schulleitung",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Steinmürli ",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1782086400000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "music",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KVPXBMQP7EM1JG6DCAMWBC1A/timeTables/9fcbfaec-cc40-4098-bbe5-9c695f92219e.png",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
     "id": "01KVPTX6C93B78SRS049DPEDY6",
     "additionalInformation": "",
     "affectedTeacherIds": [
       "AuoZ3theU4PnZZ5p2d93q2ZO6qS2",
-      "HhWcKKKShYeaYHuaTEtybdMSoMK2"
+      "HhWcKKKShYeaYHuaTEtybdMSoMK2",
+      "ntp2MpzxNAOyY2eNlQkGIgCVVRw2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -535,7 +472,8 @@
     "affectedTeacherIds": [
       "ft2J8tWB71PRALQ5ADI1gb4sHH22",
       "4lLuIiHHq3Tb9fa8ekOLEjN5V062",
-      "krGTl4ilhKax0kJptTDErcf3V2E3"
+      "krGTl4ilhKax0kJptTDErcf3V2E3",
+      "ft4q2NLdvuZYCwri72tIlTFoXUh1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -603,7 +541,7 @@
       "mondayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KV57SCQVD400V8XNC67BTANC",
@@ -1003,7 +941,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KTKBH5B3DWE0D2F9PJWNKDZ9",
@@ -1253,7 +1191,8 @@
     "affectedTeacherIds": [
       "B609Iayw1WTJ8YCtGPUx9Zi2Jq62",
       "C9P3of9q2PS1O2zF4SFD1xC0HVV2",
-      "5l6Rlpk66gaySahLrfV3Wr7LDlp2"
+      "5l6Rlpk66gaySahLrfV3Wr7LDlp2",
+      "S2mpqrgBDSYyxXMN44j9UlgMFyN2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -1327,6 +1266,6 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   }
 ]
