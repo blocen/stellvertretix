@@ -1,5 +1,81 @@
 [
   {
+    "id": "01KVWWR1X5P8F654FN3DJ39K7D",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "HRQv4eIkH2OFMVdMSSh4J9OINw03",
+      "klqQFrVPdDXjMOCDFsbEUcA05Jq2",
+      "0jfpmrwM7LZNY5j5lcW3IKJqA533",
+      "5E8yWHyxV9OLbdwbVr7wRCFv1EY2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1782307358629,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1782432000000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1782307358771,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1782307358628,
+    "school": {
+      "email": "michael.homberger@buelach.ch",
+      "address": {
+        "city": "Bülach",
+        "canton": "zurich",
+        "street": "Schwerzgruebstrasse",
+        "country": "Schweiz",
+        "zipCode": 8180,
+        "streetNr": 24,
+        "coordinates": {
+          "lat": 47.5154811,
+          "lng": 8.545547299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-buelach.ch/schuleinheit-schwerzgrueb/schule/",
+      "lastName": "Homberger",
+      "schoolId": "V14evtFRJPOBNUc1THVERstQmXC3",
+      "firstName": "Michael",
+      "schoolName": "Primarschule Schwerzgrueb",
+      "phoneNumber": "0448631622",
+      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1782432000000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "sports",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "fridayMorning"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01KVWQBPVXPZDKRJ7SK910Y45K",
     "additionalInformation": "🏫 Schule Gossau, Schulhaus Männetsriet\\n\\nUnsere LP der 3. Klasse ist abwesend und wir suchen eine Vertretung ⭐️\\n\\n📅 Freitag 26.06.2026, 10:15-11:50 Uhr\\n\\n🏫 Schulhaus Männetsriet, in Bertschikon b. Gossau ZH\\n\\n📚 2 Lektionen am Freitagvormittag (RKE / NMG) in der Halbklasse mit 8 SuS.\\n\\nBasisjahr oder Diplom erwünscht.\\nGerne Bewerbung direkt hier einreichen.",
     "affectedTeacherIds": [
