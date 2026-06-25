@@ -1,77 +1,80 @@
 [
   {
-    "id": "01KVX587KD26D66MNG4Z3XHMQW",
-    "additionalInformation": "Am Morgen sind alle Stunden Halbklasse, von 8-10 die eine und von 10-12 die andere. ",
+    "id": "01KVYVVPVAF6V3AK9HQW3JWMFA",
+    "additionalInformation": "",
     "affectedTeacherIds": [
-      "RzEjuPuPBCV45jxh4BxCxovaEHD3"
+      "UTyIgVhgc0MQUJxrGoIcbJklCRF3",
+      "yMYviBReTUTlTjVsWmm2Cpq3R542",
+      "K7fXCUHWTjTyugsNndiny5gac3F2",
+      "NPluZve152eatPjED8Kb1qeKTUm2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1782316277357,
+    "createdTimestamp": 1782373538666,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1782345600000,
+    "endTimestamp": 1783036800000,
     "grades": [
-      "secondClass"
+      "firstClass"
     ],
     "levelsDetailed": [
       "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1782316277419,
+    "modifiedTimestamp": 1782373538642,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1782316277357,
+    "pensum": 10,
+    "publishTimestamp": 1782373538666,
     "school": {
-      "email": "Tobias.Goeldi@schule-dietikon.ch",
+      "email": "sekretariat.schulewollishofen-imlee@schulen.zuerich.ch",
       "address": {
-        "city": "Dietikon",
+        "city": "Zürich",
         "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
+        "street": "Kilchbergstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8038,
+        "streetNr": "23",
         "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
+          "lat": 47.3423908,
+          "lng": 8.53439
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Göldi",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Tobias",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
+      "website": "www.stadt-zuerich.ch/schulen/de/wollishofen",
+      "lastName": "Troitzsch",
+      "schoolId": "lxPKpqfgH1XuY2XIRirNkijeCPg1",
+      "firstName": "Christine",
+      "schoolName": "Wollishofen-Im Lee",
+      "phoneNumber": "044 413 12 40",
+      "organisationId": "kubcWZrkicpKvM10rZHQ",
+      "directionInformation": "Gut erreichbar mit ÖV (Tram, Bus, S-Bahn) + wenige Minuten Fussweg. Auto-Parkplätze nur beschränkt verfügbar."
     },
     "schoolClass": {
       "numberOfStudents": 20,
-      "additionalInformation": ""
+      "additionalInformation": "Vormittags in Halbklasse."
     },
     "startAsOfNow": false,
-    "startTimestamp": 1782345600000,
+    "startTimestamp": 1782950400000,
     "subjects": [
       "german",
       "mathematics",
-      "sports",
       "natureHumanSociety"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01KVX587KD26D66MNG4Z3XHMQW/timeTables/ea0f7500-daec-4bc8-93cf-0bec73b06390.jpeg",
+    "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
       "thursdayMorning",
+      "fridayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KVWQBPVXPZDKRJ7SK910Y45K",
@@ -80,7 +83,8 @@
       "U5vFu8HeGwbgwXLC4ckyaL6GMgt2",
       "5E8yWHyxV9OLbdwbVr7wRCFv1EY2",
       "QnNIcWEGP0gLQjrrG2PjPJyfQD62",
-      "nOxc2CDpgcQCdyzxU9lS2btJAv62"
+      "nOxc2CDpgcQCdyzxU9lS2btJAv62",
+      "lP3LTC52JTQYZgHxDDCyJMIHS0n1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -685,7 +689,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KV7YRRN3BJ33GYDA19KWJQ02",
@@ -926,7 +930,7 @@
       "tuesdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KV30KV6GZRYMKBPKWHKAB48P",
