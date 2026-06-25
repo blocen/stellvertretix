@@ -1,5 +1,84 @@
 [
   {
+    "id": "01KVZBSCJJB0FNA7GYYSARFW84",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "omq9zxfZQXZbQfI0OBQqUe0xJEl2",
+      "2kI2JQY1cvbaJEVmE2elsVA7Nv03"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1782390239826,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1783641600000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1782390239875,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 14,
+    "publishTimestamp": 1782390239826,
+    "school": {
+      "email": "marco.boesch@buelach.ch",
+      "address": {
+        "city": "Bülach",
+        "canton": "zurich",
+        "street": "Leeweg",
+        "country": "Schweiz",
+        "zipCode": 8180,
+        "streetNr": "21",
+        "coordinates": {
+          "lat": 47.512291,
+          "lng": 8.5311091
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-buelach.ch/schulen/schule-allmend/",
+      "lastName": "Bösch",
+      "schoolId": "CcbFvDU1SgS66gNBKIlxWiIFvZ02",
+      "firstName": "Marco",
+      "schoolName": "Primarschule Allmend",
+      "phoneNumber": "+41 44 863 16 60",
+      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Am Mittwochmorgen unterrichtest du mit deiner Stellenpartnerin im Teamteaching. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1782432000000,
+    "subjects": [
+      "german",
+      "germanAsSecondLanguage",
+      "mathematics",
+      "sports",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
     "id": "01KVZ0W9YXTVR69FJZG8TRX4SS",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -72,86 +151,6 @@
     ],
     "timeTableRef": "vacancies/01KVZ0W9YXTVR69FJZG8TRX4SS/timeTables/7d3de876-6915-4eb8-a454-6638bcb5890d.png",
     "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KVTNVJDYW6B1KVXRT0SSAK7V",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "RzEjuPuPBCV45jxh4BxCxovaEHD3",
-      "9RzXwoq8hoTdieILTZ9QGMfjGWg1",
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "oaJJ8pQsMSPgYmQMYVHAgxz2wvP2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1782233024958,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1783641600000,
-    "grades": [
-      "firstClass",
-      "thirdClass",
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1782233025014,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1782233024958,
-    "school": {
-      "email": "renate.sgier@schule.wallisellen.ch",
-      "address": {
-        "city": "Wallisellen",
-        "canton": "zurich",
-        "street": "Alpenstrasse ",
-        "country": "CH",
-        "zipCode": 8304,
-        "streetNr": "11",
-        "coordinates": {
-          "lat": 47.4174111,
-          "lng": 8.5898539
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule.wallisellen.ch/schulen/alpen",
-      "lastName": "Sgier",
-      "schoolId": "hhQhe52udacndE5YGYdffWaZii62",
-      "firstName": "Renate",
-      "schoolName": "Schule Alpen",
-      "phoneNumber": "Christine Finney: 076 560 30 47 / Renate Sgier: 079 687 78 17",
-      "organisationId": "01K2HGNP674MEAJV3FQVWTNEMA",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": "Montagmorgen: 1. Klasse\\nMontagnachmittag: 3. Klasse\\nDienstagmorgen: 3. Klasse\\nDienstagnachmittag: 3. Klasse\\nMittwochmorgen: 5. Klasse"
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1782172800000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
     "workingBlocks": [
       "mondayMorning",
       "tuesdayMorning",
