@@ -1,5 +1,73 @@
 [
   {
+    "id": "01KW6VAFSK95G4ZHPC6H2THTZF",
+    "additionalInformation": "Guten Tag\\n\\nWir suchen für morgen Nachmittag eine Stellvertretung in einer 4. Klasse für 2 Lektionen NMG.\\nWir freuen uns auf Deine Unterlagen.\\n\\nLiebe Grüsse\\nSchule Stallikon",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1782641409843,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1782691200000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1782641409909,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 2,
+    "publishTimestamp": 1782641409842,
+    "school": {
+      "email": "vikariate.stallikon@schule-stallikon.ch",
+      "address": {
+        "city": "Stallikon",
+        "canton": "zurich",
+        "street": "Massholderenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8143,
+        "streetNr": "3",
+        "coordinates": {
+          "lat": 47.33966059999999,
+          "lng": 8.4874437
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule.stallikon.ch/",
+      "lastName": "Stallikon",
+      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
+      "firstName": "Schule",
+      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
+      "phoneNumber": "044 552 62 15",
+      "organisationId": "bHqcQAYtlvghgg50ASbW",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1782691200000,
+    "subjects": [
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KW21NVCTQD7DXQM01EVYQWJT",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -69,7 +137,7 @@
     "workingBlocks": [
       "thursdayMorning"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KVQ9C5ZECNHZYM7HEZCACP1H",
@@ -630,7 +698,8 @@
       "C9P3of9q2PS1O2zF4SFD1xC0HVV2",
       "zL1MScwiqCf8uus8mfgAia7YwNR2",
       "HrBqeKoQHaYPBFWVcpSBQKrsZiq2",
-      "OK5B40YWx3TqEFqT1NZA5SdFQ5t2"
+      "OK5B40YWx3TqEFqT1NZA5SdFQ5t2",
+      "UZ2uEFMznPNJ4xdt5NPpMyKZVtg2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -707,7 +776,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KV30DN0ERC44CDDKCV4T9YG0",
@@ -716,7 +785,8 @@
       "WzoHOk71tOP1kO1EgQsVof5WRq12",
       "zLWLAvzdYKUCqZ8xMJD7sWMbBG53",
       "F1EjQZK9mCbsDiBtrnvDN8axg6B2",
-      "5Zmtrxs0QgOArC45v19g39yyfWl1"
+      "5Zmtrxs0QgOArC45v19g39yyfWl1",
+      "UZ2uEFMznPNJ4xdt5NPpMyKZVtg2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -782,7 +852,7 @@
       "mondayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KTKBH5B3DWE0D2F9PJWNKDZ9",
