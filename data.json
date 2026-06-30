@@ -1,9 +1,85 @@
 [
   {
+    "id": "01KWBY6WAYQAEJEZFST1QWGDVQ",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "ALKyH8zHxvO8VNoQvgiUDvZ4yj92",
+      "4CcPOLKfnWhTkzAMv3scAvqO71x2",
+      "NrtrNl5drfftzOLoshajBGRhPnt2",
+      "klqQFrVPdDXjMOCDFsbEUcA05Jq2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1782812209502,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1782864000000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1782812208868,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1782812209502,
+    "school": {
+      "email": "michael.homberger@buelach.ch",
+      "address": {
+        "city": "Bülach",
+        "canton": "zurich",
+        "street": "Schwerzgruebstrasse",
+        "country": "Schweiz",
+        "zipCode": 8180,
+        "streetNr": 24,
+        "coordinates": {
+          "lat": 47.5154811,
+          "lng": 8.545547299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-buelach.ch/schuleinheit-schwerzgrueb/schule/",
+      "lastName": "Homberger",
+      "schoolId": "V14evtFRJPOBNUc1THVERstQmXC3",
+      "firstName": "Michael",
+      "schoolName": "Primarschule Schwerzgrueb",
+      "phoneNumber": "0448631622",
+      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1782864000000,
+    "subjects": [
+      "english",
+      "mathematics",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01KWBWAN4EP69C5TSMN7978QAA",
     "additionalInformation": "Es handelt sich um eine Mutterschaftsvertretung in einer angenehmen und unkomplizierten Klasse ohne ISR-Situation. Die Klasse wird zusätzlich durch eine IF-Lehrperson unterstützt. Unser Team ist sehr hilfsbereit, kollegial und humorvoll – bei uns wird engagiert gearbeitet, aber auch viel gelacht.",
     "affectedTeacherIds": [
-      "K7fXCUHWTjTyugsNndiny5gac3F2"
+      "K7fXCUHWTjTyugsNndiny5gac3F2",
+      "m6yi4OmsTue2JYTB0N2eF29LHQl1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -78,7 +154,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KWBR7XVGFB95838HGN5VN281",
