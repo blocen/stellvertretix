@@ -1,5 +1,84 @@
 [
   {
+    "id": "01KWEG2JYCDSM1FKBFW8SVJH7A",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "JmECWjzo9ST59LYwT0UUGYCcPnY2",
+      "TJpdGCfzwUc7WDZT6U7P3PbRAD62",
+      "HyuaSaoDgzPjg7f4OqVJkCe8WQf2",
+      "SawSMxhIp3eAjbj8NecEeUKFq0l2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1782898052044,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1782950400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1782898052060,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 8,
+    "publishTimestamp": 1782898052044,
+    "school": {
+      "email": "michael.homberger@buelach.ch",
+      "address": {
+        "city": "Bülach",
+        "canton": "zurich",
+        "street": "Schwerzgruebstrasse",
+        "country": "Schweiz",
+        "zipCode": 8180,
+        "streetNr": 24,
+        "coordinates": {
+          "lat": 47.5154811,
+          "lng": 8.545547299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-buelach.ch/schuleinheit-schwerzgrueb/schule/",
+      "lastName": "Homberger",
+      "schoolId": "V14evtFRJPOBNUc1THVERstQmXC3",
+      "firstName": "Michael",
+      "schoolName": "Primarschule Schwerzgrueb",
+      "phoneNumber": "0448631622",
+      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1782950400000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "mediaAndComputerScience",
+      "music",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01KWE1NV2V3MNJJ3KZ193VFNAM",
     "additionalInformation": "MGA-Lektionen in der Halbklasse Donnerstag, 2.7 – 2 WL",
     "affectedTeacherIds": [
