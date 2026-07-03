@@ -1,5 +1,91 @@
 [
   {
+    "id": "01KWM5K6NGYSMPEHW7XBC2ZJGY",
+    "additionalInformation": "Wir suchen eine Fachlehrperson für eine Sonderschule A mit Internat an zwei Klassen (UST und MST), wobei die meisten Lektionen an der UST sind. Die Klassen zählen 6 - 7 SuS und oft wird im Teamteaching unterrichtet und / oder mit Klassenassistenz oder einem Zivi.",
+    "affectedTeacherIds": [
+      "ft2J8tWB71PRALQ5ADI1gb4sHH22",
+      "ndDHlKX43LQZanuzTvJhDy8u1xY2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1783088388784,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "specialClass",
+      "firstClass",
+      "secondClass",
+      "thirdClass",
+      "forthClass",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1783088388694,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 19,
+    "publishTimestamp": 1783088388784,
+    "school": {
+      "email": "andreas.baenninger@wohnschule.ch",
+      "address": {
+        "city": "Freienstein",
+        "canton": "zurich",
+        "street": "Rüedistrasse",
+        "country": "CH",
+        "zipCode": 8427,
+        "streetNr": "1",
+        "coordinates": {
+          "lat": 47.5332192,
+          "lng": 8.5889104
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.wohnschule.ch",
+      "lastName": "Bänninger",
+      "schoolId": "01KQZ68RT9A25NZTHBXT177YG7",
+      "firstName": "Andreas",
+      "schoolName": "Wohnschule Freienstein (ZH)",
+      "phoneNumber": "0448663116",
+      "organisationId": "01KQZ68RT578TR1KQN4VE7TG2Y",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 7,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1786924800000,
+    "subjects": [
+      "german",
+      "french",
+      "mathematics",
+      "otherSubject"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
     "id": "01KWKN11Y9EQWZP8DSQ7GGR84M",
     "additionalInformation": "SHP und Assistenz nach Stundenplan anwesend",
     "affectedTeacherIds": [],
@@ -77,7 +163,8 @@
     "additionalInformation": "Es handelt sich um eine befristete Anstellung vom 10. August 2026 bis 30. Juni 2027. Eine Verlängerung ist bei entsprechendem Bedarf und beiderseitigem Einverständnis möglich.",
     "affectedTeacherIds": [
       "Wom4nDWSBRVwhddmQmYPvesKbJG2",
-      "JXUOxwF3EEYgCqS5H514nhkXH9Y2"
+      "JXUOxwF3EEYgCqS5H514nhkXH9Y2",
+      "uTVWn4ZHH3b7sVsi4xuGxXNtqm12"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -154,7 +241,7 @@
       "tuesdayAfternoon",
       "wednesdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KWHTKPP9YXAHSBZSHD23PSQB",
