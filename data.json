@@ -1,88 +1,90 @@
 [
   {
-    "id": "01KWSH83PCD6KHRTRH3NW8QPEW",
-    "additionalInformation": "Beim Schwimmunterricht ist eine Schwimmlehrperson anwesend, der Unterricht in diese Stunde muss somit nur unterstütz werden. ",
-    "affectedTeacherIds": [
-      "RzEjuPuPBCV45jxh4BxCxovaEHD3",
-      "xRYcndsaVNZVoIiJAe6Cwnjcnzk2",
-      "qpguoyPayvaSMPLFWBheEHeSqxj2",
-      "SawSMxhIp3eAjbj8NecEeUKFq0l2"
-    ],
+    "id": "01KX0D7FAY1RHE2K6MTNY8Q2VT",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1783268380364,
+    "createdTimestamp": 1783499046238,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1783296000000,
+    "endTimestamp": 1790899200000,
     "grades": [
-      "firstClass"
+      "thirdClass",
+      "forthClass",
+      "fifthClass",
+      "firstClass",
+      "secondClass"
     ],
     "levelsDetailed": [
-      "levelLower"
+      "levelLower",
+      "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1783268380462,
+    "modifiedTimestamp": 1783499046299,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1783268380364,
+    "pensum": 19,
+    "publishTimestamp": 1783499046238,
     "school": {
-      "email": "Tobias.Goeldi@schule-dietikon.ch",
+      "email": "minhet.fakic@schule-feuerthalen.ch",
       "address": {
-        "city": "Dietikon",
+        "city": "Feuerthalen",
         "canton": "zurich",
-        "street": "Römerstrasse ",
+        "street": "Erlenstrasse",
         "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
+        "zipCode": 8245,
+        "streetNr": "4",
         "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
+          "lat": 47.6871349,
+          "lng": 8.6479874
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Göldi",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Tobias",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "website": "www.schule-feuerthalen.ch",
+      "lastName": "Fakic",
+      "schoolId": "01KRXW1C98FM6YFZ7PN5TN1X31",
+      "firstName": "Minhet",
+      "schoolName": "Stumpenboden",
+      "phoneNumber": "0786920602",
+      "organisationId": "01KRXW1C944Y70VYKAC4C1Z0W0",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 20,
+      "numberOfStudents": 0,
       "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1783296000000,
+    "startTimestamp": 1790553600000,
     "subjects": [
-      "german",
-      "mathematics",
-      "fineArts",
-      "swimming",
-      "natureHumanSociety"
+      "germanAsSecondLanguage",
+      "textileAndTechnicalDesign"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01KWSH83PCD6KHRTRH3NW8QPEW/timeTables/0cf35c6b-26fb-4373-9f27-ccd60a384002.jpeg",
+    "timeTableRef": "vacancies/01KX0D7FAY1RHE2K6MTNY8Q2VT/timeTables/b0ec8716-cdd6-4f43-b48d-24bbc474bd94.pdf",
     "vacancyType": "short",
     "workingBlocks": [
       "mondayMorning",
-      "mondayAfternoon"
+      "tuesdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KWM5K6NGYSMPEHW7XBC2ZJGY",
     "additionalInformation": "Wir suchen eine Fachlehrperson für eine Sonderschule A mit Internat an zwei Klassen (UST und MST), wobei die meisten Lektionen an der UST sind. Die Klassen zählen 6 - 7 SuS und oft wird im Teamteaching unterrichtet und / oder mit Klassenassistenz oder einem Zivi.",
     "affectedTeacherIds": [
       "ft2J8tWB71PRALQ5ADI1gb4sHH22",
-      "ndDHlKX43LQZanuzTvJhDy8u1xY2"
+      "ndDHlKX43LQZanuzTvJhDy8u1xY2",
+      "qnOzqtQm3YTpcCEUAccz0mk9cF22"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -162,81 +164,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KWKN11Y9EQWZP8DSQ7GGR84M",
-    "additionalInformation": "SHP und Assistenz nach Stundenplan anwesend",
-    "affectedTeacherIds": [
-      "4cmINdG9ExQJEojFeeWBcM1TDli1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1783071016905,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1783071017049,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 10,
-    "publishTimestamp": 1783071016904,
-    "school": {
-      "email": "isabelle.balliet@schule-rft.ch",
-      "address": {
-        "city": "Rorbas",
-        "canton": "zurich",
-        "street": "Zilacherstrasse",
-        "country": "CH",
-        "zipCode": 8427,
-        "streetNr": "19",
-        "coordinates": {
-          "lat": 47.5323808,
-          "lng": 8.57748
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-rft.ch",
-      "lastName": "Balliet",
-      "schoolId": "yEGZCGxVlwQLkOLhOtyp8Qdynbq1",
-      "firstName": "Isabelle",
-      "schoolName": "Primarschule Rorbas (MST)",
-      "phoneNumber": "0786243799",
-      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "german",
-      "french",
-      "mathematics",
-      "fineArts",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KWKN11Y9EQWZP8DSQ7GGR84M/timeTables/c00d697f-d86e-4231-8333-d1ae11453765.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 1
   },
   {
     "id": "01KWKCTWHW45W0208K4AYXVNMK",
@@ -408,7 +335,9 @@
   {
     "id": "01KWBR7XVGFB95838HGN5VN281",
     "additionalInformation": "Freitagnachmittag (Musik) kann auch auf den Montag gelegt werden.  ",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "ft2J8tWB71PRALQ5ADI1gb4sHH22"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -476,14 +405,15 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KWBKXKFGX1MW8J1VV93PTV5R",
     "additionalInformation": "In zwei verschiedenen 1. Klassen je 4 WL TTG jeweils in der Halbklasse sowie in einer 3. Klassen zwei Lektionen Teamteaching.",
     "affectedTeacherIds": [
       "ft2J8tWB71PRALQ5ADI1gb4sHH22",
-      "wyaLFPcDxqVsgnbVe6dQVNCSfBG2"
+      "wyaLFPcDxqVsgnbVe6dQVNCSfBG2",
+      "TTAus11luNWJky64ehPrllgDJ9n1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -551,7 +481,7 @@
       "fridayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KVQ9C5ZECNHZYM7HEZCACP1H",
@@ -637,7 +567,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KVQ2XQDQR3Y27P03P0TFNH29",
@@ -792,7 +722,9 @@
       "iTXDatzPzhUuzVggrEJALxAST9u2",
       "y9e0JqewM6cLGOPEClUe9lTdU823",
       "ZW6NdMGNNQgyhrFIlHsZQs3hD603",
-      "4cmINdG9ExQJEojFeeWBcM1TDli1"
+      "4cmINdG9ExQJEojFeeWBcM1TDli1",
+      "ft4q2NLdvuZYCwri72tIlTFoXUh1",
+      "0rccypSLdtMgUpgI0dOAlb9fY102"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -865,14 +797,15 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KV57CYQDBTYARFGB00PPKS94",
-    "additionalInformation": "SHP und Assistenz sind nach Stundenplan anwesend, TTG findet in Halbklassen statt. \\nEs wäre auch möglich den Mittwoch wegzulassen. ",
+    "additionalInformation": "SHP und Assistenz sind nach Stundenplan anwesend, TTG findet in Halbklassen statt. Es wäre auch möglich den Mittwoch wegzulassen und/oder zu verlängern bis Ende Januar. ",
     "affectedTeacherIds": [
       "y9e0JqewM6cLGOPEClUe9lTdU823",
-      "JXUOxwF3EEYgCqS5H514nhkXH9Y2"
+      "JXUOxwF3EEYgCqS5H514nhkXH9Y2",
+      "dj1m7LwmKRUxHZDWVHNC6kFLIFi2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -881,7 +814,7 @@
     "closedReasonDetail": null,
     "createdTimestamp": 1781513222893,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1801180800000,
+    "endTimestamp": 1790899200000,
     "grades": [
       "sixthClass"
     ],
@@ -945,171 +878,6 @@
       "mondayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KV30KV6GZRYMKBPKWHKAB48P",
-    "additionalInformation": "Es handelt sich um eine Mutterschaftsvikariat, allenfalls müsste auch bereits direkt nach den Sommerferien gestartet werden.\\n\\nEnde Januar muss der Klasse das Zeugnis fürs erste Semester ausgestellt werden.\\n\\nGuter Anschluss an den ÖV sowie kostenlose Parkplätze sind vorhanden.",
-    "affectedTeacherIds": [
-      "C9P3of9q2PS1O2zF4SFD1xC0HVV2",
-      "zL1MScwiqCf8uus8mfgAia7YwNR2",
-      "HrBqeKoQHaYPBFWVcpSBQKrsZiq2",
-      "OK5B40YWx3TqEFqT1NZA5SdFQ5t2",
-      "UZ2uEFMznPNJ4xdt5NPpMyKZVtg2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1781438999760,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1802390400000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781439001934,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 28,
-    "publishTimestamp": 1781438999760,
-    "school": {
-      "email": "schulleitung@primarschuleweiningen.ch",
-      "address": {
-        "city": "Weiningen",
-        "canton": "zurich",
-        "street": "Schlüechtistrasse ",
-        "country": "Schweiz",
-        "zipCode": 8104,
-        "streetNr": 10,
-        "coordinates": {
-          "lat": 47.4181956,
-          "lng": 8.4339198
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.primarschuleweiningen.ch",
-      "lastName": "Baader",
-      "schoolId": "dT4XLdHowPYSbaPLOelNdA7kiTI2",
-      "firstName": "Susan",
-      "schoolName": "Schlüechti",
-      "phoneNumber": "0041447525212",
-      "organisationId": "d3e9Ue2wlJy3KRWs56h9",
-      "directionInformation": "Parkplätze vorhanden"
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "In der Klasse befinden sich zwei Kinder mit einem ISR-Setting und entsprechender Unterstützung (SHP, Assistenz)."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1793577600000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "fineArts",
-      "music",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KV30KV6GZRYMKBPKWHKAB48P/timeTables/e5026300-bca9-4117-8fe8-eb16c858c6c2.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KT3V3KM5XDPZJYFWRNSGA0M2",
-    "additionalInformation": "Es kann auch nur ein Quintal übernommen werden.",
-    "affectedTeacherIds": [
-      "K7fXCUHWTjTyugsNndiny5gac3F2",
-      "WSsuM3RxphQ2OuEB67DgqxWnUun2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1780393037445,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "mixedAgeLearning"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1780393039844,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 10,
-    "publishTimestamp": 1780393037444,
-    "school": {
-      "email": "schulleitungeselriet@schule-ilef.ch",
-      "address": {
-        "city": "Kyburg",
-        "canton": "zurich",
-        "street": "Allmendstrasse ",
-        "country": "CH",
-        "zipCode": 8314,
-        "streetNr": "1",
-        "coordinates": {
-          "lat": 47.4554432,
-          "lng": 8.7436454
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.ilef.ch",
-      "lastName": "Städeli",
-      "schoolId": "rLgL53uEDceVCw3x0y6flNQA4bi1",
-      "firstName": "Seraina",
-      "schoolName": "Schule Ottikon-Kyburg",
-      "phoneNumber": "079 732 68 57",
-      "organisationId": "aFYUMrhRFPlSgDs7X3hQ",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "mediaAndComputerScience",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   }
 ]
