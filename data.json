@@ -1,8 +1,252 @@
 [
   {
+    "id": "01KX3JHZ509WSDCV4X4PXVSV06",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "5E8yWHyxV9OLbdwbVr7wRCFv1EY2",
+      "f1hoypu7hSdImemP4f0uo8bg48u2",
+      "rcT6zrxxvAW0wbmAZA8zyXq8Nqy1",
+      "mp4BbfUTFCW57jPFIK0LfQszcGi1"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1783605296288,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1792713600000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1783605296341,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 25,
+    "publishTimestamp": 1783605296288,
+    "school": {
+      "email": "viviane.farinha@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bullingerstrasse",
+        "country": "Schweiz",
+        "zipCode": 8004,
+        "streetNr": "62",
+        "coordinates": {
+          "lat": 47.3824228,
+          "lng": 8.5100637
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/hardau.html",
+      "lastName": "Farinha",
+      "schoolId": "WDvIjUzZE5gJPCfSOJO6n5YhnYi2",
+      "firstName": "Viviane",
+      "schoolName": "Hardau",
+      "phoneNumber": "0444131665",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": "Sehr zentral und gut an den ÖV angebunden. Über Bhf. Hardbrücke, Bhf. Altstetten oder Albisriederplatz erreichbar. "
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": "Tagesschule\\nAnfangszeit: 08.00–08.15 Uhr\\nIndividuelle Lernzeit: 15.15–16.00 Uhr\\n\\nUnterrichtszeiten\\nMontag: 11.10–16.00 Uhr\\nDienstag: 08.00–15.00 Uhr\\nMittwoch: 07.30–11.55 Uhr\\nDonnerstag: 10.20–16.00 Uhr\\nFreitag: 08.00–15.00 Uhr"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "mediaAndComputerScience",
+      "music",
+      "sports",
+      "natureHumanSociety",
+      "otherSubject"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01KX3JH1SMMCJ0RZKKE4J2XREA",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1783605266228,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1783605266282,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 17,
+    "publishTimestamp": 1783605266228,
+    "school": {
+      "email": "viviane.farinha@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bullingerstrasse",
+        "country": "Schweiz",
+        "zipCode": 8004,
+        "streetNr": "62",
+        "coordinates": {
+          "lat": 47.3824228,
+          "lng": 8.5100637
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/hardau.html",
+      "lastName": "Farinha",
+      "schoolId": "WDvIjUzZE5gJPCfSOJO6n5YhnYi2",
+      "firstName": "Viviane",
+      "schoolName": "Hardau",
+      "phoneNumber": "0444131665",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": "Sehr zentral und gut an den ÖV angebunden. Über Bhf. Hardbrücke, Bhf. Altstetten oder Albisriederplatz erreichbar. "
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1786924800000,
+    "subjects": [
+      "french",
+      "mediaAndComputerScience",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01KX3HCX3XE6TTFHQD4RDRBVGY",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1783604081789,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790899200000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1783604081830,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 14,
+    "publishTimestamp": 1783604081789,
+    "school": {
+      "email": "schulleitung@schulehittnau.ch",
+      "address": {
+        "city": "Hittnau",
+        "canton": "zurich",
+        "street": "Hermetsbüelweg",
+        "country": "Schweiz",
+        "zipCode": 8335,
+        "streetNr": "10",
+        "coordinates": {
+          "lat": 47.3640453,
+          "lng": 8.824408199999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schulehittnau.ch/willkommen",
+      "lastName": "Hittnau",
+      "schoolId": "QA9zDwOip4UMzV6VzxNcxDabblA2",
+      "firstName": "Schulleitung",
+      "schoolName": "Primar- und Sekschule Hermetsbüel",
+      "phoneNumber": "043 288 67 70",
+      "organisationId": "72WTXu8JdOfMw6Dt0CJy",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1786924800000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "fineArts",
+      "music",
+      "sports",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KX0VNE43PJ48FRW3F47NKQZW",
     "additionalInformation": "Wir suchen eine Lehrperson für die interne Gymivorbereitung für die 6. Klasskinder der Gemeinde Wangen-Brüttisellen. In der Regel bieten wir 1-2 Kurse à 7-12 Schüler:innen an. Der Kurs startet nach den Herbstferien und dauert bis zum Zeitpunkt der kantonalen Aufnahmeprüfungen (ZAP). Der Kurs findet ausserhalb des regulären Schulunterrichts statt. Die Zeit kann von der Lehrperson in Zusammenarbeit mit der Schule bestimmt werden. Genauere Informationen gerne persönlich.",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "zgpoxzLQjJU53XmPSPXe1mH0KXR2",
+      "hBAajJ34AyVe2tVPmZWByFFvSda2",
+      "P3KdRF7RiYVVyEgpMuzzFblk9XC2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -65,84 +309,7 @@
     "workingBlocks": [
       "wednesdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KX0RCM8Z2JGBYBTQ1R0C124Y",
-    "additionalInformation": "Es handelt sich hier um ein Vik für Vik.",
-    "affectedTeacherIds": [
-      "pW8nRZnY2yPFEHko0gfzBZ4qaH63"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1783510749472,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1789689600000,
-    "grades": [
-      "firstClass",
-      "secondClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1783510749485,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 20,
-    "publishTimestamp": 1783510749471,
-    "school": {
-      "email": "diana.guntersweiler@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Dennlerstrasse ",
-        "country": "CH",
-        "zipCode": 8047,
-        "streetNr": "55",
-        "coordinates": {
-          "lat": 47.37970809999999,
-          "lng": 8.4960425
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/utogrund.html",
-      "lastName": "Guntersweiler",
-      "schoolId": "SaXP5JLIhaacAiCyPCVRZh7p3412",
-      "firstName": "Diana",
-      "schoolName": "Utogrund",
-      "phoneNumber": "044 413 30 05",
-      "organisationId": "iMyOq6jVtzJpVwFMRLSM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1787529600000,
-    "subjects": [
-      "ifIssIsr"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KX0RCM8Z2JGBYBTQ1R0C124Y/timeTables/ec31f526-ba18-4a88-9346-2260cb9018f1.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KX0D7FAY1RHE2K6MTNY8Q2VT",
@@ -316,7 +483,8 @@
     "affectedTeacherIds": [
       "Wom4nDWSBRVwhddmQmYPvesKbJG2",
       "JXUOxwF3EEYgCqS5H514nhkXH9Y2",
-      "uTVWn4ZHH3b7sVsi4xuGxXNtqm12"
+      "uTVWn4ZHH3b7sVsi4xuGxXNtqm12",
+      "kvM5zrbZPlZOi3rMkPAF1aJelDE2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -393,7 +561,7 @@
       "tuesdayAfternoon",
       "wednesdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KWHTKPP9YXAHSBZSHD23PSQB",
@@ -475,7 +643,7 @@
       "fridayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KWBR7XVGFB95838HGN5VN281",
@@ -629,92 +797,6 @@
     "numberOfOpenApplications": 3
   },
   {
-    "id": "01KVQ9C5ZECNHZYM7HEZCACP1H",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "1GJJZwUg2xXYoKrLTNDXMxftY8i1",
-      "VVJGDUYmMAaRl0qCCIYY6C1xXzW2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1782119274478,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1792713600000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1782119274526,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 25,
-    "publishTimestamp": 1782119274478,
-    "school": {
-      "email": "viviane.farinha@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Bullingerstrasse",
-        "country": "Schweiz",
-        "zipCode": 8004,
-        "streetNr": "62",
-        "coordinates": {
-          "lat": 47.3824228,
-          "lng": 8.5100637
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/hardau.html",
-      "lastName": "Farinha",
-      "schoolId": "WDvIjUzZE5gJPCfSOJO6n5YhnYi2",
-      "firstName": "Viviane",
-      "schoolName": "Hardau",
-      "phoneNumber": "0444131665",
-      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
-      "directionInformation": "Sehr zentral und gut an den ÖV angebunden. Über Bhf. Hardbrücke, Bhf. Altstetten oder Albisriederplatz erreichbar. "
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": "Tagesschule\\nAnfangszeit: 08.00–08.15 Uhr\\nIndividuelle Lernzeit: 15.15–16.00 Uhr\\n\\nUnterrichtszeiten\\nMontag: 11.10–16.00 Uhr\\nDienstag: 08.00–15.00 Uhr\\nMittwoch: 07.30–11.55 Uhr\\nDonnerstag: 10.20–16.00 Uhr\\nFreitag: 08.00–15.00 Uhr"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792368000000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "mediaAndComputerScience",
-      "music",
-      "sports",
-      "natureHumanSociety",
-      "otherSubject"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
     "id": "01KVQ2XQDQR3Y27P03P0TFNH29",
     "additionalInformation": "Ich suche eine Lehrperson für eine Begleitung eines ISR Schülers während eines dreiwöchigen Schnupperns in der Regelklasse. Nach den drei Wochen wird entschieden, wie weitergegangen wird. Sollte die Reintegration weitergeführt werden, wird ein-e Sozialpädagog:In gesucht. Bis jemand gefunden wurde, wird die Begleitung weitergeführt. \\nWenn die Reintegration nicht klappt, wird eine externe Sonderschule gesucht. Bis eine gefunden wurde, wird die Einzelbeschulung weitergeführt. ",
     "affectedTeacherIds": [],
@@ -858,86 +940,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KV57CYQDBTYARFGB00PPKS94",
-    "additionalInformation": "SHP und Assistenz sind nach Stundenplan anwesend, TTG findet in Halbklassen statt. Es wäre auch möglich den Mittwoch wegzulassen und/oder zu verlängern bis Ende Januar. ",
-    "affectedTeacherIds": [
-      "y9e0JqewM6cLGOPEClUe9lTdU823",
-      "JXUOxwF3EEYgCqS5H514nhkXH9Y2",
-      "dj1m7LwmKRUxHZDWVHNC6kFLIFi2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1781513222893,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1781513223195,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 17,
-    "publishTimestamp": 1781513222893,
-    "school": {
-      "email": "isabelle.balliet@schule-rft.ch",
-      "address": {
-        "city": "Rorbas",
-        "canton": "zurich",
-        "street": "Zilacherstrasse",
-        "country": "CH",
-        "zipCode": 8427,
-        "streetNr": "19",
-        "coordinates": {
-          "lat": 47.5323808,
-          "lng": 8.57748
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-rft.ch",
-      "lastName": "Balliet",
-      "schoolId": "yEGZCGxVlwQLkOLhOtyp8Qdynbq1",
-      "firstName": "Isabelle",
-      "schoolName": "Primarschule Rorbas (MST)",
-      "phoneNumber": "0786243799",
-      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "english",
-      "mathematics",
-      "textileAndTechnicalDesign",
-      "music",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KV57CYQDBTYARFGB00PPKS94/timeTables/0b4fa27f-e257-4257-b4fa-fec979aaed48.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "wednesdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
   }
 ]
