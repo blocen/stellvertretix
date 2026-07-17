@@ -1,5 +1,75 @@
 [
   {
+    "id": "01KXRC4AGVY4M00988PZEWW4Y1",
+    "additionalInformation": "Unterstützung durch Schulassistenz in allen Lektionen ",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1784303200796,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790899200000,
+    "grades": [
+      "firstClass",
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1784303201359,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1784303200795,
+    "school": {
+      "email": "jeannette.forster@schule-maur.ch",
+      "address": {
+        "city": "Forch",
+        "canton": "zurich",
+        "street": "Aeschstrasse ",
+        "country": "CH",
+        "zipCode": "8127",
+        "streetNr": "17",
+        "coordinates": {
+          "lat": 47.3270335,
+          "lng": 8.6558294
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule-maur.ch",
+      "lastName": "Forster",
+      "schoolId": "01KFFXWA2HXXSTFE6P7JRD8V1E",
+      "firstName": "Jeannette",
+      "schoolName": "Schulhaus Aesch",
+      "phoneNumber": "044 980 05 32",
+      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1787184000000,
+    "subjects": [
+      "swimming"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KXR4S6D3DNJBTHEB9JX2868G",
     "additionalInformation": "",
     "affectedTeacherIds": [],
