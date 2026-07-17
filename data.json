@@ -1,9 +1,93 @@
 [
   {
+    "id": "01KXR4S6D3DNJBTHEB9JX2868G",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1784295496099,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1784295496175,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 23,
+    "publishTimestamp": 1784295496099,
+    "school": {
+      "email": "minhet.fakic@schule-feuerthalen.ch",
+      "address": {
+        "city": "Feuerthalen",
+        "canton": "zurich",
+        "street": "Erlenstrasse",
+        "country": "CH",
+        "zipCode": 8245,
+        "streetNr": "4",
+        "coordinates": {
+          "lat": 47.6871349,
+          "lng": 8.6479874
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-feuerthalen.ch",
+      "lastName": "Fakic",
+      "schoolId": "01KRXW1C98FM6YFZ7PN5TN1X31",
+      "firstName": "Minhet",
+      "schoolName": "Stumpenboden",
+      "phoneNumber": "0786920602",
+      "organisationId": "01KRXW1C944Y70VYKAC4C1Z0W0",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 21,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1805068800000,
+    "subjects": [
+      "english",
+      "french",
+      "mathematics",
+      "fineArts",
+      "sports",
+      "swimming",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KXR4S6D3DNJBTHEB9JX2868G/timeTables/374dde9d-158f-428e-aabb-f4e3f3291bac.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KXQM64ZHMPTY7J13VV2CX39P",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "FU3tvRTRDbWoHiW7LdOaVaNymFt1"
+      "FU3tvRTRDbWoHiW7LdOaVaNymFt1",
+      "hD5gc09svbR6dkZD1zY8Npg5fXD2",
+      "4cmINdG9ExQJEojFeeWBcM1TDli1",
+      "S5nyTMIdvhf1k9omCiCnJzmhu6g1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -81,7 +165,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KXQJ00AJ9H0X6SA52DXQVXR1",
@@ -150,94 +234,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KXNWHW2DCTN66JG5DY9WSZ1E",
-    "additionalInformation": "Das Vikariat könnte ab dem 31.8. noch an 2 Tagen (Mo und Di) weitergeführt werden.\\nAb dem 31.8.-ca. Mitte November.",
-    "affectedTeacherIds": [
-      "hVpzWivWGNPhG7wBjbWvKpomrNB3",
-      "5E8yWHyxV9OLbdwbVr7wRCFv1EY2",
-      "5i964VdLgaSNgKJQ007NA9UfD933",
-      "mp4BbfUTFCW57jPFIK0LfQszcGi1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1784219758669,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1787702400000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1784219758257,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 28,
-    "publishTimestamp": 1784219758668,
-    "school": {
-      "email": "gabriel.terlemez@dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Schulleitung",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Steinmürli ",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": "Eine gut zu führende 5. Klasse."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "mediaAndComputerScience",
-      "fineArts",
-      "music",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KXNWHW2DCTN66JG5DY9WSZ1E/timeTables/0ee55a3d-221e-4c0a-9a44-2ed1c6641f6e.png",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
   },
   {
     "id": "01KX3HCX3XE6TTFHQD4RDRBVGY",
@@ -566,7 +562,8 @@
       "JXUOxwF3EEYgCqS5H514nhkXH9Y2",
       "uTVWn4ZHH3b7sVsi4xuGxXNtqm12",
       "kvM5zrbZPlZOi3rMkPAF1aJelDE2",
-      "BfG3gNQq6jaMKx7k19ON3r8Wy5d2"
+      "BfG3gNQq6jaMKx7k19ON3r8Wy5d2",
+      "hD5gc09svbR6dkZD1zY8Npg5fXD2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -643,7 +640,7 @@
       "tuesdayAfternoon",
       "wednesdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KWBR7XVGFB95838HGN5VN281",
