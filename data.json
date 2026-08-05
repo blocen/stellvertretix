@@ -1,5 +1,179 @@
 [
   {
+    "id": "01KZ8ZGQW9WMSS10M9T02JPSVV",
+    "additionalInformation": "In den 5 IF-Stunden unterstützt eine erfahrene SHP, die die integrative Zusammenarbeit schätzt.",
+    "affectedTeacherIds": [
+      "g3HQC19MSuVBMcyqLCqTqgfOO192",
+      "01Qbp8xl0eR6vaN4JlObFbPA5Nh1",
+      "1RIonvhsCMXVG4Dgwe0VhDxsZm22"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1785934143369,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1793923200000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1785934143031,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 28,
+    "publishTimestamp": 1785934143369,
+    "school": {
+      "email": "vonbueren@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "Peyer",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Stephan",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41765580000",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": "Die Klasse zeichnet sich durch einen starken Teamgeist und hohe Motivation aus. Sie begegnet neuen Herausforderungen offen und arbeitet engagiert mit."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1786924800000,
+    "subjects": [
+      "german",
+      "english",
+      "french",
+      "mathematics",
+      "mediaAndComputerScience",
+      "music",
+      "sports",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
+    "id": "01KZ8Z2Z0R0G9E2B1QEVZ542CF",
+    "additionalInformation": "In den 5 IF-Stunden unterstützt eine erfahrene SHP, die die integrative Zusammenarbeit schätzt.",
+    "affectedTeacherIds": [
+      "g3HQC19MSuVBMcyqLCqTqgfOO192",
+      "fyHpgoxvAhOBMGPVSFfw7MMryOq1",
+      "01Qbp8xl0eR6vaN4JlObFbPA5Nh1",
+      "ft2J8tWB71PRALQ5ADI1gb4sHH22"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1785933691928,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1793923200000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1785933691632,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 28,
+    "publishTimestamp": 1785933691927,
+    "school": {
+      "email": "vonbueren@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "Peyer",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Stephan",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41765580000",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 21,
+      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1786924800000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "mediaAndComputerScience",
+      "fineArts",
+      "music",
+      "sports",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01KZ8GN7HNR96N0AZSC0A9ZEHH",
     "additionalInformation": "Wir suchen eine TTG-Stellvertretung für eine 5. Klasse bis zu den Herbstferien. Der Unterricht findet im TTG-Zimmer oder im Werkraum und in Halbklassen statt. Ein Lehrdiplom ist erwünscht, wir berücksichtigen nach Möglichkeit jedoch auch Studierende mit TTG im Profil (abgeschlossenes Basisjahr zwingend).",
     "affectedTeacherIds": [],
@@ -314,7 +488,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KXRC4AGVY4M00988PZEWW4Y1",
@@ -616,7 +790,7 @@
     "workingBlocks": [
       "wednesdayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KX0D7FAY1RHE2K6MTNY8Q2VT",
