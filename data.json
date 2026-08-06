@@ -1,5 +1,76 @@
 [
   {
+    "id": "01KZBDNGCV572CRG9MKBY7SKZJ",
+    "additionalInformation": "Mutterschaftsvertretung DaZ/IF in einer 3. Klasse mit Option auf Festanstellung",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1786016088476,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815436800000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1786016088863,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 10,
+    "publishTimestamp": 1786016088474,
+    "school": {
+      "email": "sl.steiacher@schulen-wb.ch",
+      "address": {
+        "city": "Brüttisellen",
+        "canton": "zurich",
+        "street": "Schulhausstrasse",
+        "country": "CH",
+        "zipCode": 8306,
+        "streetNr": "7",
+        "coordinates": {
+          "lat": 47.4242065,
+          "lng": 8.6340612
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulen-wb.ch",
+      "lastName": "Steiacher",
+      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
+      "firstName": "Schulleitung ",
+      "schoolName": "Steiacher",
+      "phoneNumber": "0432557607",
+      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
+      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "germanAsSecondLanguage",
+      "ifIssIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KZAY39K57X01GKY8NAMWBMWK",
     "additionalInformation": "Im ersten Semester ist der zu besetzende Tag der Freitag. Im zweiten Semester handelt es sich um den Donnerstag.\\nEs sind jeweils 6 Lektionen, die du an der Klasse unterrichtest.",
     "affectedTeacherIds": [],
