@@ -1,5 +1,82 @@
 [
   {
+    "id": "01KZBWMETDCSNDGQ2H47GBSKSD",
+    "additionalInformation": "Donnerstag- und Freitagnachmittag Unterricht in der Halbklasse",
+    "affectedTeacherIds": [
+      "qnOzqtQm3YTpcCEUAccz0mk9cF22",
+      "JEbvVAUV0lY1u753Eh0HT1QMNs42"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1786031782733,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790899200000,
+    "grades": [
+      "secondClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1786031782782,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 7,
+    "publishTimestamp": 1786031782733,
+    "school": {
+      "email": "nico.meienberg@schuleschlieren.ch",
+      "address": {
+        "city": "Schlieren",
+        "canton": "zurich",
+        "street": "Schulstrasse",
+        "country": "Schweiz",
+        "zipCode": 8952,
+        "streetNr": "18",
+        "coordinates": {
+          "lat": 47.39673450000001,
+          "lng": 8.4525693
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule.schlieren.ch/schulstrasse",
+      "lastName": "Meienberg",
+      "schoolId": "Sw1FUrXDs1h6Ff1Y9gKvZmou7io2",
+      "firstName": "Nico",
+      "schoolName": "Schule Schulstrasse",
+      "phoneNumber": "044 738 44 90",
+      "organisationId": "7xhOwB506KrlEDYO0jXr",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1786924800000,
+    "subjects": [
+      "mathematics",
+      "fineArts",
+      "sports",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KZBWMETDCSNDGQ2H47GBSKSD/timeTables/812989c1-63ba-4357-aad0-79c5d0f8413a.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
     "id": "01KZBDNGCV572CRG9MKBY7SKZJ",
     "additionalInformation": "Mutterschaftsvertretung DaZ/IF in einer 3. Klasse mit Option auf Festanstellung",
     "affectedTeacherIds": [],
@@ -390,7 +467,8 @@
     "id": "01KZ8GKQQ1VQNDC323EK8V65BS",
     "additionalInformation": "Am Dienstag Morgen unterrichtest du Englisch im AdL:\\n1 Lektion mit der 5. & 6. Klasse, sowie 2 Lektionen mit der 3. & 4. Klasse. \\nAm Donnerstag Morgen: je 1 Lektion Englisch, sowie 1 Lektion RKE mit der 3. & 4. Klasse\\nAm Donnerstag Nachmittag findet BS (Bewegung & Sport) statt. Dafür fährst du mit der gesamten Unterstufe mit dem Schulbus nach Saland ins Schulhaus Haselhalden. \\nDie Stellvertretung kann auch für ein ganzes Jahr übernommen werden. \\nKostenloser Parkplatz auf dem Sternenberg.",
     "affectedTeacherIds": [
-      "SOKy6QA5n8bP3wxGlT7N5OwoGwT2"
+      "SOKy6QA5n8bP3wxGlT7N5OwoGwT2",
+      "JEbvVAUV0lY1u753Eh0HT1QMNs42"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -465,13 +543,14 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KZ8DA7WXPXTVC2Q7V2MWS4DB",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "VKWI5VN7rgaYE7YmH9WoaWQUpaD3"
+      "VKWI5VN7rgaYE7YmH9WoaWQUpaD3",
+      "JEbvVAUV0lY1u753Eh0HT1QMNs42"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -548,7 +627,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KYHAHDVYD3PFH4FW9E04NPB5",
