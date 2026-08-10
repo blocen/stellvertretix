@@ -1,11 +1,85 @@
 [
   {
+    "id": "01KZNH1WJMPDYM0EDRQQ07N9E3",
+    "additionalInformation": "Während zwei Lektionen findet ein sonderpädagogisches Angebot mit einer anderen Lehrperson statt \"spielendes Lernen\".",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1786355184212,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790812800000,
+    "grades": [
+      "secondClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1786355184350,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 16,
+    "publishTimestamp": 1786355184212,
+    "school": {
+      "email": "anna.dimaggio@schule-rft.ch",
+      "address": {
+        "city": "Rorbas",
+        "canton": "zurich",
+        "street": "Schulhausstrasse ",
+        "country": "CH",
+        "zipCode": 8427,
+        "streetNr": "10",
+        "coordinates": {
+          "lat": 47.53138510000001,
+          "lng": 8.5768493
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-rft.ch",
+      "lastName": "Di Maggio",
+      "schoolId": "uQ3mXiYi3SSVXtABxRWehGhAZaY2",
+      "firstName": "Anna",
+      "schoolName": "Primarschule Rorbas (UST)",
+      "phoneNumber": "077 522 95 53",
+      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": "Die Stellvertretung findet in zwei Klassen statt.\\nEine 2. und eine 3. Klasse."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1790208000000,
+    "subjects": [
+      "ifIssIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01KZNH1WJMPDYM0EDRQQ07N9E3/timeTables/39778d00-1c80-45e6-8313-2d8986869982.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KZDN5WVSVJR2H7NNDCQK0A02",
     "additionalInformation": "Montag und Freitag gewünscht (oder nach Absprache mit den Lehrpersonen). Option auf Festanstellung.",
     "affectedTeacherIds": [
       "5MuL7INNuuZ9B34hKzbZvGS8M552",
       "OLPEafA9NMND1Qz4vAOKdRTFr4t1",
-      "1RIonvhsCMXVG4Dgwe0VhDxsZm22"
+      "1RIonvhsCMXVG4Dgwe0VhDxsZm22",
+      "TTsNosmm1WZubLtxzfgRwMo1MAI2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -72,7 +146,7 @@
       "mondayMorning",
       "fridayMorning"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KZBWMETDCSNDGQ2H47GBSKSD",
@@ -158,7 +232,8 @@
     "additionalInformation": "Mutterschaftsvertretung DaZ/IF in einer 3. Klasse mit Option auf Festanstellung",
     "affectedTeacherIds": [
       "FeOknTtZTnaj4UCBtPczq0ALNpw1",
-      "5MuL7INNuuZ9B34hKzbZvGS8M552"
+      "5MuL7INNuuZ9B34hKzbZvGS8M552",
+      "zUErfq4rBKPHHwTgwpZrWt5pjlE2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -225,13 +300,15 @@
       "tuesdayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KZAY39K57X01GKY8NAMWBMWK",
     "additionalInformation": "Im ersten Semester ist der zu besetzende Tag der Freitag. Im zweiten Semester handelt es sich um den Donnerstag.\\nEs sind jeweils 6 Lektionen, die du an der Klasse unterrichtest.",
     "affectedTeacherIds": [
-      "5MuL7INNuuZ9B34hKzbZvGS8M552"
+      "5MuL7INNuuZ9B34hKzbZvGS8M552",
+      "zUErfq4rBKPHHwTgwpZrWt5pjlE2",
+      "4ySdEQrq2UUosjgOMw4RThuTZ4L2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -298,7 +375,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KZ8ZGQW9WMSS10M9T02JPSVV",
@@ -633,7 +710,8 @@
     "affectedTeacherIds": [
       "VKWI5VN7rgaYE7YmH9WoaWQUpaD3",
       "JEbvVAUV0lY1u753Eh0HT1QMNs42",
-      "5MuL7INNuuZ9B34hKzbZvGS8M552"
+      "5MuL7INNuuZ9B34hKzbZvGS8M552",
+      "TTsNosmm1WZubLtxzfgRwMo1MAI2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -710,7 +788,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KYHAHDVYD3PFH4FW9E04NPB5",
@@ -724,7 +802,8 @@
       "ch9xb8etrChhBOjm2ZpguV3lKKT2",
       "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
       "VKWI5VN7rgaYE7YmH9WoaWQUpaD3",
-      "o9NGAu5CMYSjIEU3KMrir6ZANHG2"
+      "o9NGAu5CMYSjIEU3KMrir6ZANHG2",
+      "0VBDz9bCsmNyxOEUZyKDKVEiAz83"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -797,7 +876,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KXRC4AGVY4M00988PZEWW4Y1",
@@ -805,7 +884,8 @@
     "affectedTeacherIds": [
       "uL4zk0P8NIWoSnT9MNHuHH8zwTg2",
       "pW8nRZnY2yPFEHko0gfzBZ4qaH63",
-      "ft2J8tWB71PRALQ5ADI1gb4sHH22"
+      "ft2J8tWB71PRALQ5ADI1gb4sHH22",
+      "zUErfq4rBKPHHwTgwpZrWt5pjlE2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -1280,7 +1360,8 @@
       "hD5gc09svbR6dkZD1zY8Npg5fXD2",
       "FeOknTtZTnaj4UCBtPczq0ALNpw1",
       "Py7dRfpb7GT23lv75Pa6HwQjG8j1",
-      "4DJjAaARSIScoC11oEX9GDo0dJS2"
+      "4DJjAaARSIScoC11oEX9GDo0dJS2",
+      "uW15VMC87HN0rrZAoJpZ4TaBp9D3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -1357,6 +1438,6 @@
       "tuesdayAfternoon",
       "wednesdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   }
 ]
