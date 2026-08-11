@@ -1,8 +1,93 @@
 [
   {
+    "id": "01KZRFVFGA0EVF3DZZ7DMVH28W",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1786454588938,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790899200000,
+    "grades": [
+      "forthClass",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1786454589041,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 20,
+    "publishTimestamp": 1786454588938,
+    "school": {
+      "logo": null,
+      "email": "schulleitungeselriet@schule-ilef.ch",
+      "address": {
+        "city": "Effretikon",
+        "canton": "zurich",
+        "street": "Sportplatzstrasse",
+        "country": "Schweiz",
+        "zipCode": 8307,
+        "streetNr": "7",
+        "coordinates": {
+          "lat": 47.4233745,
+          "lng": 8.7006711
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-ilef.ch",
+      "lastName": "Städeli",
+      "schoolId": "2zlIjXPW7HVoYObJsmkrI4TsIX33",
+      "firstName": "Seraina",
+      "schoolName": "Schule Eselriet",
+      "phoneNumber": "079 732 68 57",
+      "organisationId": "aFYUMrhRFPlSgDs7X3hQ",
+      "directionInformation": "Das Schulhaus ist gut mit dem ÖV erreichbar. Auch stehen Gratisparkplätze zur Verfügung."
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1788825600000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01KZNT5C8QDRZB750JZBDM97VA",
     "additionalInformation": "Wir suchen ab sofort eine Lehrperson für Französisch, die 2 WL Montagnachmittag und eine Lektion mittwochs um 8.15 Uhr erteilen kann. ",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "NVAAUOvu0zfwldN3BwH4clwsxw52",
+      "cgWbP3eHu7TCIfMPzdrUG8nvXK73",
+      "P3KdRF7RiYVVyEgpMuzzFblk9XC2",
+      "6Exs6a4xGHR5Ln0d2FEL8pJWPOy1",
+      "YU8AzUMUc5Odq74cU3sFxnIg1rn1",
+      "5S9815QIDMfTKfJi9K3Qz8CsAng1",
+      "pP2rxrV0f0bDA0MDds8xg8U3iCs1",
+      "SOKy6QA5n8bP3wxGlT7N5OwoGwT2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -68,160 +153,6 @@
     "workingBlocks": [
       "wednesdayMorning",
       "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KZNH1WJMPDYM0EDRQQ07N9E3",
-    "additionalInformation": "Während zwei Lektionen findet ein sonderpädagogisches Angebot mit einer anderen Lehrperson statt \"spielendes Lernen\".",
-    "affectedTeacherIds": [
-      "efFEZX7H43V0xM0Qlv13suMiwbs1",
-      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
-      "1RIonvhsCMXVG4Dgwe0VhDxsZm22",
-      "qXEQ6RhugqV0oG6vjeMGp0Wq3yx2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786355184212,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790812800000,
-    "grades": [
-      "secondClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786355184350,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1786355184212,
-    "school": {
-      "email": "anna.dimaggio@schule-rft.ch",
-      "address": {
-        "city": "Rorbas",
-        "canton": "zurich",
-        "street": "Schulhausstrasse ",
-        "country": "CH",
-        "zipCode": 8427,
-        "streetNr": "10",
-        "coordinates": {
-          "lat": 47.53138510000001,
-          "lng": 8.5768493
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-rft.ch",
-      "lastName": "Di Maggio",
-      "schoolId": "uQ3mXiYi3SSVXtABxRWehGhAZaY2",
-      "firstName": "Anna",
-      "schoolName": "Primarschule Rorbas (UST)",
-      "phoneNumber": "077 522 95 53",
-      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": "Die Stellvertretung findet in zwei Klassen statt.\\nEine 2. und eine 3. Klasse."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1790208000000,
-    "subjects": [
-      "ifIssIsr"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KZNH1WJMPDYM0EDRQQ07N9E3/timeTables/39778d00-1c80-45e6-8313-2d8986869982.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KZDN5WVSVJR2H7NNDCQK0A02",
-    "additionalInformation": "Montag und Freitag gewünscht (oder nach Absprache mit den Lehrpersonen). Option auf Festanstellung.",
-    "affectedTeacherIds": [
-      "5MuL7INNuuZ9B34hKzbZvGS8M552",
-      "OLPEafA9NMND1Qz4vAOKdRTFr4t1",
-      "1RIonvhsCMXVG4Dgwe0VhDxsZm22",
-      "TTsNosmm1WZubLtxzfgRwMo1MAI2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786091074425,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "firstClass",
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786091074540,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 8,
-    "publishTimestamp": 1786091074425,
-    "school": {
-      "email": "schulleitung.ruemelbach@psruemlang.ch",
-      "address": {
-        "city": "Rümlang",
-        "canton": "zurich",
-        "street": "Rümelbachstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8153,
-        "streetNr": "30",
-        "coordinates": {
-          "lat": 47.4465563,
-          "lng": 8.5345593
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.psruemlang.ch",
-      "lastName": "Rümelbach",
-      "schoolId": "eU54hNc32QUxa1YLGzvnVz7wGEp1",
-      "firstName": "Schule",
-      "schoolName": "Schule Rümelbach",
-      "phoneNumber": "043 211 20 44",
-      "organisationId": "VOOZdWP91gOOxsJhsS8g",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": "DaZ an 1. und 4. Klasse, je 4 WL (Total 8). "
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "germanAsSecondLanguage"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "fridayMorning"
     ],
     "numberOfOpenApplications": 4
   },
@@ -385,7 +316,8 @@
     "affectedTeacherIds": [
       "5MuL7INNuuZ9B34hKzbZvGS8M552",
       "zUErfq4rBKPHHwTgwpZrWt5pjlE2",
-      "4ySdEQrq2UUosjgOMw4RThuTZ4L2"
+      "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
+      "TNXkSwNKxcbcyy5I2FdCffLOfTp2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -452,7 +384,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KZ8ZGQW9WMSS10M9T02JPSVV",
@@ -885,7 +817,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01KXRC4AGVY4M00988PZEWW4Y1",
@@ -1356,97 +1288,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KWKCTWHW45W0208K4AYXVNMK",
-    "additionalInformation": "Es handelt sich um eine befristete Anstellung vom 10. August 2026 bis 30. Juni 2027. Eine Verlängerung ist bei entsprechendem Bedarf und beiderseitigem Einverständnis möglich.",
-    "affectedTeacherIds": [
-      "Wom4nDWSBRVwhddmQmYPvesKbJG2",
-      "JXUOxwF3EEYgCqS5H514nhkXH9Y2",
-      "uTVWn4ZHH3b7sVsi4xuGxXNtqm12",
-      "kvM5zrbZPlZOi3rMkPAF1aJelDE2",
-      "BfG3gNQq6jaMKx7k19ON3r8Wy5d2",
-      "hD5gc09svbR6dkZD1zY8Npg5fXD2",
-      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
-      "Py7dRfpb7GT23lv75Pa6HwQjG8j1",
-      "4DJjAaARSIScoC11oEX9GDo0dJS2",
-      "uW15VMC87HN0rrZAoJpZ4TaBp9D3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1783062426172,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1814313600000,
-    "grades": [
-      "thirdClass",
-      "forthClass",
-      "fifthClass",
-      "sixthClass",
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1783062426783,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 17,
-    "publishTimestamp": 1783062426172,
-    "school": {
-      "email": "kate.fraser@iszn.ch",
-      "address": {
-        "city": "Wallisellen",
-        "canton": "zurich",
-        "street": "Industriestrasse",
-        "country": "CH",
-        "zipCode": 8304,
-        "streetNr": "50",
-        "coordinates": {
-          "lat": 47.4097496,
-          "lng": 8.5938405
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.iszn.ch",
-      "lastName": "Fraser",
-      "schoolId": "01KFNDWPG4MBP79A1H03FNHAD7",
-      "firstName": "Kate",
-      "schoolName": "International School Zurich North",
-      "phoneNumber": "+41448307000",
-      "organisationId": "QV1AafL6NXVoXDT3x6Ev",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 15,
-      "additionalInformation": "Die Schülerinnen und Schüler besuchen eine internationale Schule und werden überwiegend auf Englisch unterrichtet. Der Deutschunterricht wird als Fach für Kinder mit unterschiedlichen Deutschkenntnissen erteilt. Erfahrung im Unterrichten von Deutsch als Zweit- oder Fremdsprache sowie Freude an der Arbeit in einem internationalen Umfeld sind von Vorteil. Es wird nicht nach dem Lehrplan 21 unterrichtet."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786320000000,
-    "subjects": [
-      "german",
-      "germanAsSecondLanguage",
-      "english"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "wednesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
   }
 ]
