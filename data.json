@@ -1,9 +1,93 @@
 [
   {
+    "id": "01KZXW3M8NDGR4TXSSWJ8RQHSX",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "NVAAUOvu0zfwldN3BwH4clwsxw52",
+      "y0DPoTCPS3hsLs2dnAnEClkJDaj1"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1786635211030,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1787270400000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1786635211264,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 17,
+    "publishTimestamp": 1786635211028,
+    "school": {
+      "logo": null,
+      "email": "michael.homberger@buelach.ch",
+      "address": {
+        "city": "Bülach",
+        "canton": "zurich",
+        "street": "Schwerzgruebstrasse",
+        "country": "Schweiz",
+        "zipCode": 8180,
+        "streetNr": 24,
+        "coordinates": {
+          "lat": 47.5154811,
+          "lng": 8.545547299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-buelach.ch/schuleinheit-schwerzgrueb/schule/",
+      "lastName": "Homberger",
+      "schoolId": "V14evtFRJPOBNUc1THVERstQmXC3",
+      "firstName": "Michael",
+      "schoolName": "Primarschule Schwerzgrueb",
+      "phoneNumber": "0448631622",
+      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1787097600000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "mediaAndComputerScience",
+      "sports",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
     "id": "01KZXM0Y054MVGJ4HG3F6D2CZ5",
     "additionalInformation": "Leider fällt die Klassenlehrperson der 2. Klasse aufgrund einer Operation ab Mittwoch, 19. August aus. Voraussichtlich wird sie für zwei bis drei Monate krankgeschrieben. Es ist daher gut möglich, dass die Vertretung länger als bis zu den Herbstferien, vielleicht sogar bis zu den Weihnachtsferien dauern wird.",
     "affectedTeacherIds": [
-      "KWoQJozDpgM99GTs02SEcP7fmsp1"
+      "KWoQJozDpgM99GTs02SEcP7fmsp1",
+      "7NzEp1ZaxgednjZ24QkRxkYkJHB3",
+      "f1hoypu7hSdImemP4f0uo8bg48u2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -81,7 +165,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KZWY597Y47BZZ6WPZP319K12",
