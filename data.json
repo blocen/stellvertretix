@@ -1,153 +1,71 @@
 [
   {
-    "id": "01KZXW3M8NDGR4TXSSWJ8RQHSX",
+    "id": "01M00BVW6X1V12KBRCK2EV0QDW",
     "additionalInformation": "",
-    "affectedTeacherIds": [
-      "NVAAUOvu0zfwldN3BwH4clwsxw52",
-      "y0DPoTCPS3hsLs2dnAnEClkJDaj1"
-    ],
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1786635211030,
+    "createdTimestamp": 1786718843101,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1787270400000,
+    "endTimestamp": 1793318400000,
     "grades": [
+      "mixedAgeLearning",
+      "fifthClass",
       "sixthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786635211264,
-    "partialTakeoverPossible": false,
+    "modifiedTimestamp": 1786718843201,
+    "partialTakeoverPossible": true,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 17,
-    "publishTimestamp": 1786635211028,
+    "pensum": 14,
+    "publishTimestamp": 1786719537657,
     "school": {
-      "logo": null,
-      "email": "michael.homberger@buelach.ch",
+      "logo": {
+        "logoUrl": "public_schools/01M00B2KZ5QA1V7B84EHM97DGT/logos/54f21559-ae24-436e-a8bf-ab6c9f005dde.jpg",
+        "blurhash": "LlP6$.{hMP$k?G$MSjf6npKKTHXR",
+        "cloudflareId": "school:01M00B2KZ5QA1V7B84EHM97DGT:54f21559-ae24-436e-a8bf-ab6c9f005dde.jpg"
+      },
+      "email": "smaurer@salzh.ch",
       "address": {
-        "city": "Bülach",
+        "city": "Winterthur",
         "canton": "zurich",
-        "street": "Schwerzgruebstrasse",
-        "country": "Schweiz",
-        "zipCode": 8180,
-        "streetNr": 24,
+        "street": "Zeughausstrasse ",
+        "country": "CH",
+        "zipCode": 8400,
+        "streetNr": "54",
         "coordinates": {
-          "lat": 47.5154811,
-          "lng": 8.545547299999999
+          "lat": 47.494115,
+          "lng": 8.7348739
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-buelach.ch/schuleinheit-schwerzgrueb/schule/",
-      "lastName": "Homberger",
-      "schoolId": "V14evtFRJPOBNUc1THVERstQmXC3",
-      "firstName": "Michael",
-      "schoolName": "Primarschule Schwerzgrueb",
-      "phoneNumber": "0448631622",
-      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "website": "www.salzh.ch",
+      "lastName": "Maurer",
+      "schoolId": "01M00B2KZ5QA1V7B84EHM97DGT",
+      "firstName": "Seraina",
+      "schoolName": "Zeughaus",
+      "phoneNumber": "052 222 41 18",
+      "organisationId": "01M00B2KZ2QQBQ1T29JT2BWRG1",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
+      "numberOfStudents": 10,
+      "additionalInformation": "Es handelt sich um eine altersdurchmischte Klasse 5.- 7. Klasse. "
     },
-    "startAsOfNow": false,
-    "startTimestamp": 1787097600000,
+    "startAsOfNow": true,
+    "startTimestamp": 1786665600000,
     "subjects": [
       "german",
       "english",
       "mathematics",
-      "mediaAndComputerScience",
-      "sports",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KZXM0Y054MVGJ4HG3F6D2CZ5",
-    "additionalInformation": "Leider fällt die Klassenlehrperson der 2. Klasse aufgrund einer Operation ab Mittwoch, 19. August aus. Voraussichtlich wird sie für zwei bis drei Monate krankgeschrieben. Es ist daher gut möglich, dass die Vertretung länger als bis zu den Herbstferien, vielleicht sogar bis zu den Weihnachtsferien dauern wird.",
-    "affectedTeacherIds": [
-      "KWoQJozDpgM99GTs02SEcP7fmsp1",
-      "7NzEp1ZaxgednjZ24QkRxkYkJHB3",
-      "f1hoypu7hSdImemP4f0uo8bg48u2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786626734085,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786626734267,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 26,
-    "publishTimestamp": 1786626734084,
-    "school": {
-      "logo": null,
-      "email": "michael.homberger@buelach.ch",
-      "address": {
-        "city": "Bülach",
-        "canton": "zurich",
-        "street": "Schwerzgruebstrasse",
-        "country": "Schweiz",
-        "zipCode": 8180,
-        "streetNr": 24,
-        "coordinates": {
-          "lat": 47.5154811,
-          "lng": 8.545547299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-buelach.ch/schuleinheit-schwerzgrueb/schule/",
-      "lastName": "Homberger",
-      "schoolId": "V14evtFRJPOBNUc1THVERstQmXC3",
-      "firstName": "Michael",
-      "schoolName": "Primarschule Schwerzgrueb",
-      "phoneNumber": "0448631622",
-      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1787097600000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "fineArts",
-      "music",
-      "sports",
-      "natureHumanSociety"
+      "sports"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -155,17 +73,14 @@
     "timeTableRef": null,
     "vacancyType": "long",
     "workingBlocks": [
-      "mondayMorning",
       "tuesdayMorning",
       "wednesdayMorning",
       "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
       "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
+      "wednesdayAfternoon",
+      "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01KZWY597Y47BZZ6WPZP319K12",
@@ -246,7 +161,7 @@
       "thursdayMorning",
       "fridayMorning"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KZV09860SNQN0FJT1PY7A6HA",
@@ -254,7 +169,8 @@
     "affectedTeacherIds": [
       "zLWLAvzdYKUCqZ8xMJD7sWMbBG53",
       "TMMbemnv09hKuhSFbVoRI8xGm4d2",
-      "7D3WjVGQrQX6WszJCQ9ub5JC2Pr2"
+      "7D3WjVGQrQX6WszJCQ9ub5JC2Pr2",
+      "vXmIHnFiL5dxUcFmwSoy8iK4ZTp1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -323,7 +239,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KZBDNGCV572CRG9MKBY7SKZJ",
@@ -409,7 +325,8 @@
       "zUErfq4rBKPHHwTgwpZrWt5pjlE2",
       "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
       "TNXkSwNKxcbcyy5I2FdCffLOfTp2",
-      "efFEZX7H43V0xM0Qlv13suMiwbs1"
+      "efFEZX7H43V0xM0Qlv13suMiwbs1",
+      "6mrGDAnjmKPYhyMC2Ya3sJAUqF82"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -476,7 +393,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KZ8ZGQW9WMSS10M9T02JPSVV",
@@ -739,182 +656,6 @@
     "numberOfOpenApplications": 2
   },
   {
-    "id": "01KZ8DA7WXPXTVC2Q7V2MWS4DB",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "VKWI5VN7rgaYE7YmH9WoaWQUpaD3",
-      "JEbvVAUV0lY1u753Eh0HT1QMNs42",
-      "5MuL7INNuuZ9B34hKzbZvGS8M552",
-      "TTsNosmm1WZubLtxzfgRwMo1MAI2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1785915056029,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "mixedAgeLearning",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1785915058256,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 21,
-    "publishTimestamp": 1785915251095,
-    "school": {
-      "email": "fabian.binder@schulefischenthal.ch",
-      "address": {
-        "city": "Fischenthal",
-        "canton": "zurich",
-        "street": "Burghaldenstrasse",
-        "country": "CH",
-        "zipCode": 8497,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.3436518,
-          "lng": 8.9304915
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulefischenthal.ch",
-      "lastName": "Binder",
-      "schoolId": "01KZ8AVXM27431TP9AY221RMAM",
-      "firstName": "Fabian",
-      "schoolName": "Burghalden",
-      "phoneNumber": "055 245 51 05",
-      "organisationId": "01KZ8AVXKT63HHBN0JWB3NX8BV",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 15,
-      "additionalInformation": "17 Lektionen sind an der 5./6. Klasse, 4 TTG Lektionen an der 4. Klasse.\\nAufgeweckte SuS, eingespieltes Team von Lehrpersonen."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "german",
-      "french",
-      "mathematics",
-      "mediaAndComputerScience",
-      "fineArts",
-      "textileAndTechnicalDesign",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KZ8DA7WXPXTVC2Q7V2MWS4DB/timeTables/5589fa5a-5a2d-40b5-8c7b-59c69ba468c9.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KYHAHDVYD3PFH4FW9E04NPB5",
-    "additionalInformation": "Das Team des Zyklus 2 ist sehr unterstützend und die gute Zusammenarbeit im Unterrichtsteam ist uns sehr wichtig.",
-    "affectedTeacherIds": [
-      "DFmOsMorSCRIvE8AaVD0kyOC6Ct2",
-      "msNHciQyp3bzRyYxpOpat0nOi4u2",
-      "a42GBwoFMrffwvf0FOQqV7h3Fpv2",
-      "no8OkZEnPced4s7itxUltoLGSkB3",
-      "SxaSo6y5IONAwXZ2f4ERjaVELpw2",
-      "ch9xb8etrChhBOjm2ZpguV3lKKT2",
-      "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
-      "VKWI5VN7rgaYE7YmH9WoaWQUpaD3",
-      "o9NGAu5CMYSjIEU3KMrir6ZANHG2",
-      "0VBDz9bCsmNyxOEUZyKDKVEiAz83",
-      "RmuZUO7A3RhVGPnpMZG3zLCjAwb2",
-      "lAoivf5iAvODpqYxmOipa0PpKnC2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1785140393854,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "thirdClass",
-      "forthClass",
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1785140393914,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 28,
-    "publishTimestamp": 1785140393853,
-    "school": {
-      "email": "schulleitung@moenchaltorf.ch",
-      "address": {
-        "city": "Mönchaltorf",
-        "canton": "zurich",
-        "street": "Schulhausstrasse ",
-        "country": "CH",
-        "zipCode": 8617,
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.3085768,
-          "lng": 8.7193664
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulemoenchaltorf.ch",
-      "lastName": "Andermatt",
-      "schoolId": "vDkSxHQUuNell10ktvgT45WV28F2",
-      "firstName": "Monika",
-      "schoolName": "Schulanlage Rietwis",
-      "phoneNumber": "044 949 40 30",
-      "organisationId": "0emEmqkI9lk1PalVX44i",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": "Die Klassengrössen umfassen 18-24 Schülerinnen und Schüler. \\nDas Pensum beinhaltet die Unterstützung in ISR sowie in den gleichen Klassen auch im IF Bereich.\\n\\nEine Aufteilung des Pensums ist gut möglich."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "ifIssIsr"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01KXRC4AGVY4M00988PZEWW4Y1",
     "additionalInformation": "Unterstützung durch Schulassistenz in allen Lektionen ",
     "affectedTeacherIds": [
@@ -1069,87 +810,6 @@
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KX0D7FAY1RHE2K6MTNY8Q2VT",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "HYfUuxePK0ejKUynWMR7yCBHt9m1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1783499046238,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "thirdClass",
-      "forthClass",
-      "fifthClass",
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1783499046299,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 19,
-    "publishTimestamp": 1783499046238,
-    "school": {
-      "email": "minhet.fakic@schule-feuerthalen.ch",
-      "address": {
-        "city": "Feuerthalen",
-        "canton": "zurich",
-        "street": "Erlenstrasse",
-        "country": "CH",
-        "zipCode": 8245,
-        "streetNr": "4",
-        "coordinates": {
-          "lat": 47.6871349,
-          "lng": 8.6479874
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-feuerthalen.ch",
-      "lastName": "Fakic",
-      "schoolId": "01KRXW1C98FM6YFZ7PN5TN1X31",
-      "firstName": "Minhet",
-      "schoolName": "Stumpenboden",
-      "phoneNumber": "0786920602",
-      "organisationId": "01KRXW1C944Y70VYKAC4C1Z0W0",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1790553600000,
-    "subjects": [
-      "germanAsSecondLanguage",
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KX0D7FAY1RHE2K6MTNY8Q2VT/timeTables/b0ec8716-cdd6-4f43-b48d-24bbc474bd94.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
   },
   {
     "id": "01KWM5K6NGYSMPEHW7XBC2ZJGY",
