@@ -1,8 +1,89 @@
 [
   {
+    "id": "01M058P9BBP9VD6340K7X1NB53",
+    "additionalInformation": "Bitte melde dich direkt hier oder via tamara.alessi@schule-uitikon.ch",
+    "affectedTeacherIds": [
+      "hVpzWivWGNPhG7wBjbWvKpomrNB3",
+      "YeXuSxpra0UIDcCGLyJwPz4u6l83",
+      "WGmHPYxAvKdjnV9mo9oxxxn29B12",
+      "y0DPoTCPS3hsLs2dnAnEClkJDaj1"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1786883286379,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790208000000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1786883286442,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 14,
+    "publishTimestamp": 1786883286378,
+    "school": {
+      "logo": null,
+      "email": "schulverwaltung@schule-uitikon.ch",
+      "address": {
+        "city": "Uitikon",
+        "canton": "zurich",
+        "street": "Lättenstrasse",
+        "country": "CH",
+        "zipCode": 8142,
+        "streetNr": "55",
+        "coordinates": {
+          "lat": 47.37292009999999,
+          "lng": 8.452513999999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-uitikon.ch",
+      "lastName": "Elbert",
+      "schoolId": "g83VTmEnCMWT54FUDJBkIEraXTD2",
+      "firstName": "Daniela",
+      "schoolName": "Schule Uitikon",
+      "phoneNumber": "044 200 16 00",
+      "organisationId": "vKebMANF5uYI62xB4XS7",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1789948800000,
+    "subjects": [
+      "german",
+      "mathematics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01M00BVW6X1V12KBRCK2EV0QDW",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "Y2Tyaraz0Vf4wGLwTIjxbUIZhMv2",
+      "e1WEGppt6zfGUPprJqbwOWw9SGF2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -80,7 +161,7 @@
       "wednesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01KZWY597Y47BZZ6WPZP319K12",
@@ -92,7 +173,8 @@
       "cQVhNQnH53hysXkLIrjlHaFrsml1",
       "klqQFrVPdDXjMOCDFsbEUcA05Jq2",
       "JmECWjzo9ST59LYwT0UUGYCcPnY2",
-      "7hw2dguiZjbiGadbl88MVFrwov73"
+      "7hw2dguiZjbiGadbl88MVFrwov73",
+      "zLWLAvzdYKUCqZ8xMJD7sWMbBG53"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -161,7 +243,7 @@
       "thursdayMorning",
       "fridayMorning"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KZV09860SNQN0FJT1PY7A6HA",
@@ -248,7 +330,8 @@
       "FeOknTtZTnaj4UCBtPczq0ALNpw1",
       "5MuL7INNuuZ9B34hKzbZvGS8M552",
       "zUErfq4rBKPHHwTgwpZrWt5pjlE2",
-      "nwSgGuR5MBf7vLTJJ4Yr1EQ5rYH2"
+      "nwSgGuR5MBf7vLTJJ4Yr1EQ5rYH2",
+      "vXmIHnFiL5dxUcFmwSoy8iK4ZTp1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -315,7 +398,7 @@
       "tuesdayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01KZAY39K57X01GKY8NAMWBMWK",
