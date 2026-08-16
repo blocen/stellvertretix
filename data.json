@@ -1,5 +1,83 @@
 [
   {
+    "id": "01M05DAGXV38E870T6K4WH29RD",
+    "additionalInformation": "Das Vikariat ist von 10.05 - 11.40 Uhr und von 13.30 - 16 Uhr. \\nDie letzte Lektion ist die Betreuung der Hausaufgabenstunde. ",
+    "affectedTeacherIds": [
+      "qpguoyPayvaSMPLFWBheEHeSqxj2",
+      "AblCEikepSc9UwxowHxbCPXVbMH2",
+      "wOEJeC4nLNQc68JPQ2VWdBjzKJo2",
+      "NVAAUOvu0zfwldN3BwH4clwsxw52"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1786888143804,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1786924800000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1786888143869,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1786888143803,
+    "school": {
+      "logo": null,
+      "email": "vikariate.stallikon@schule-stallikon.ch",
+      "address": {
+        "city": "Stallikon",
+        "canton": "zurich",
+        "street": "Massholderenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8143,
+        "streetNr": "3",
+        "coordinates": {
+          "lat": 47.33966059999999,
+          "lng": 8.4874437
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule.stallikon.ch/",
+      "lastName": "Stallikon",
+      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
+      "firstName": "Schule",
+      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
+      "phoneNumber": "044 552 62 15",
+      "organisationId": "bHqcQAYtlvghgg50ASbW",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1786924800000,
+    "subjects": [
+      "french",
+      "music",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
     "id": "01M058P9BBP9VD6340K7X1NB53",
     "additionalInformation": "Bitte melde dich direkt hier oder via tamara.alessi@schule-uitikon.ch",
     "affectedTeacherIds": [
