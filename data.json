@@ -1,79 +1,88 @@
 [
   {
-    "id": "01M05DAGXV38E870T6K4WH29RD",
-    "additionalInformation": "Das Vikariat ist von 10.05 - 11.40 Uhr und von 13.30 - 16 Uhr. \\nDie letzte Lektion ist die Betreuung der Hausaufgabenstunde. ",
+    "id": "01M07GM29QTF8CDQR826WZWM0H",
+    "additionalInformation": "Wir sind eine multikulturelle Schule, die sich durch ein kooperatives und humorvolles Team auszeichnet. Unser pädagogischer Ansatz orientiert sich am Konzept der Neuen Autorität, das es uns ermöglicht, die täglichen Herausforderungen gemeinsam und effektiv zu bewältigen.",
     "affectedTeacherIds": [
-      "qpguoyPayvaSMPLFWBheEHeSqxj2",
-      "AblCEikepSc9UwxowHxbCPXVbMH2",
-      "wOEJeC4nLNQc68JPQ2VWdBjzKJo2",
-      "NVAAUOvu0zfwldN3BwH4clwsxw52"
+      "FU3tvRTRDbWoHiW7LdOaVaNymFt1",
+      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
+      "oBt4a1AAFuYKArdyezXJ3VnUYBC2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1786888143804,
+    "createdTimestamp": 1786958711095,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1786924800000,
+    "endTimestamp": 1796342400000,
     "grades": [
-      "fifthClass",
-      "sixthClass"
+      "thirdClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786888143869,
+    "modifiedTimestamp": 1786958711115,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1786888143803,
+    "pensum": 26,
+    "publishTimestamp": 1786958711095,
     "school": {
       "logo": null,
-      "email": "vikariate.stallikon@schule-stallikon.ch",
+      "email": "sebastian.fritschi@schulen.zuerich.ch",
       "address": {
-        "city": "Stallikon",
+        "city": "Zürich",
         "canton": "zurich",
-        "street": "Massholderenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8143,
-        "streetNr": "3",
+        "street": "Höhenring",
+        "country": "CH",
+        "zipCode": 8052,
+        "streetNr": "36",
         "coordinates": {
-          "lat": 47.33966059999999,
-          "lng": 8.4874437
+          "lat": 47.420868,
+          "lng": 8.545286899999999
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule.stallikon.ch/",
-      "lastName": "Stallikon",
-      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
-      "firstName": "Schule",
-      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
-      "phoneNumber": "044 552 62 15",
-      "organisationId": "bHqcQAYtlvghgg50ASbW",
-      "directionInformation": ""
+      "website": "www.buhn.ch",
+      "lastName": "Fritschi",
+      "schoolId": "01KZDT083K6NY2BM6WVHJZ7QDP",
+      "firstName": "Sebastian",
+      "schoolName": "Primarschule Buhn",
+      "phoneNumber": "+41 44 413 22 25",
+      "organisationId": "01KZDT083FX7EJCW4FCARX66WA",
+      "directionInformation": "5' Gehminuten vom Bahnhof Seebach"
     },
     "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
+      "numberOfStudents": 17,
+      "additionalInformation": "Die Klasse ist motiviert, freundlich, hilfsbereit und sehr sozial. Ebenfalls ist sie gut abgestützt mit IF und Assistenzstunden."
     },
     "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
+    "startTimestamp": 1795996800000,
     "subjects": [
-      "french",
+      "german",
+      "english",
+      "mathematics",
+      "fineArts",
       "music",
-      "natureHumanSociety"
+      "natureHumanSociety",
+      "religionsCulturesEthics"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": null,
+    "timeTableRef": "vacancies/01M07GM29QTF8CDQR826WZWM0H/timeTables/824d0fc9-b81b-435e-890c-b314b9dea8b0.png",
     "vacancyType": "short",
     "workingBlocks": [
       "mondayMorning",
-      "mondayAfternoon"
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
     ],
     "numberOfOpenApplications": 3
   },
@@ -242,88 +251,6 @@
     "numberOfOpenApplications": 2
   },
   {
-    "id": "01KZWY597Y47BZZ6WPZP319K12",
-    "additionalInformation": "Die KLP steht für Absprachen zur Verfügung.\\nAm Donnerstag Halbklassenunterricht. 2x gleiches Programm.\\nAm Freitag den ganzen Morgen Unterstützung durch eine erfahrene Schulassistentin.",
-    "affectedTeacherIds": [
-      "JgWad3WznOVnU2ygwupkZl0VIIr2",
-      "zQFrIjV4nmMpsqiXBEeajfI0don1",
-      "YleoWF1uXAPFOsSSrBWc4ezUlWx1",
-      "cQVhNQnH53hysXkLIrjlHaFrsml1",
-      "klqQFrVPdDXjMOCDFsbEUcA05Jq2",
-      "JmECWjzo9ST59LYwT0UUGYCcPnY2",
-      "7hw2dguiZjbiGadbl88MVFrwov73",
-      "zLWLAvzdYKUCqZ8xMJD7sWMbBG53"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786603807998,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1787875200000,
-    "grades": [
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786603807644,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 8,
-    "publishTimestamp": 1786603807998,
-    "school": {
-      "logo": null,
-      "email": "karin.rotta@schulen-wb.ch",
-      "address": {
-        "city": "Wangen",
-        "canton": "zurich",
-        "street": "Unterdorfstrasse",
-        "country": "Schweiz",
-        "zipCode": 8602,
-        "streetNr": "50A",
-        "coordinates": {
-          "lat": 47.4132799,
-          "lng": 8.6418935
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulen-wb.ch",
-      "lastName": "Rotta",
-      "schoolId": "FgVTTR9KKHNDW2y11rP5RbHEw0D2",
-      "firstName": "Karin",
-      "schoolName": "Schule Oberwisen",
-      "phoneNumber": "+41448328534",
-      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1787788800000,
-    "subjects": [
-      "mathematics",
-      "fineArts",
-      "sports",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KZWY597Y47BZZ6WPZP319K12/timeTables/b5d014dc-5b11-46d7-bd81-89c2bd2e28e9.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01KZV09860SNQN0FJT1PY7A6HA",
     "additionalInformation": "In den 4.5 Wochen ist es schön, wenn die Kinder im TTG erste kleine Werke produzieren oder eine neue Technik kennenlernen.",
     "affectedTeacherIds": [
@@ -475,84 +402,6 @@
       "mondayMorning",
       "tuesdayMorning",
       "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KZAY39K57X01GKY8NAMWBMWK",
-    "additionalInformation": "Im ersten Semester ist der zu besetzende Tag der Freitag. Im zweiten Semester handelt es sich um den Donnerstag.\\nEs sind jeweils 6 Lektionen, die du an der Klasse unterrichtest.",
-    "affectedTeacherIds": [
-      "5MuL7INNuuZ9B34hKzbZvGS8M552",
-      "zUErfq4rBKPHHwTgwpZrWt5pjlE2",
-      "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
-      "TNXkSwNKxcbcyy5I2FdCffLOfTp2",
-      "efFEZX7H43V0xM0Qlv13suMiwbs1",
-      "6mrGDAnjmKPYhyMC2Ya3sJAUqF82"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1785999763045,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1801180800000,
-    "grades": [
-      "specialClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1785999763179,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1785999763045,
-    "school": {
-      "email": "chantal.bucher@ps-regensdorf.ch",
-      "address": {
-        "city": "Regensdorf",
-        "canton": "zurich",
-        "street": "Schulstrasse ",
-        "country": "CH",
-        "zipCode": 8105,
-        "streetNr": "73",
-        "coordinates": {
-          "lat": 47.4345003,
-          "lng": 8.4657672
-        }
-      },
-      "culture": "de-CH",
-      "website": "ps-regensdorf.ch",
-      "lastName": "Bucher",
-      "schoolId": "01KZ5Q1N6W1DB9KXST0H9XYE56",
-      "firstName": "Chantal",
-      "schoolName": "Ruggenacher 1",
-      "phoneNumber": "043 343 84 21",
-      "organisationId": "Bhc2hU5TZBiY12DWXQkD",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 13,
-      "additionalInformation": "Bei der Klasse handelt es sich um unsere Einschulungsklasse. Die Klassenlehrperson beginnt ihr Studium an der HfH, daher ist ein Tag an der Klasse als Vikariat für sie zu besetzen.\\n\\nDie Mitarbeit mit unserer erfahrenen und sehr engagierten Klassenlehrerin wird dir viele Einblicke in die individualisierte Arbeit an einer Spezialklasse ermöglichen. \\n\\nDie Schüler*innen sind quasi in einer Vorschlaufe zur 1. Klasse und weisen unterschiedliche Herausforderungen auf."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1787270400000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "swimming"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "fridayMorning",
-      "fridayAfternoon"
     ],
     "numberOfOpenApplications": 4
   },
@@ -815,81 +664,6 @@
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01KXRC4AGVY4M00988PZEWW4Y1",
-    "additionalInformation": "Unterstützung durch Schulassistenz in allen Lektionen ",
-    "affectedTeacherIds": [
-      "uL4zk0P8NIWoSnT9MNHuHH8zwTg2",
-      "pW8nRZnY2yPFEHko0gfzBZ4qaH63",
-      "ft2J8tWB71PRALQ5ADI1gb4sHH22",
-      "zUErfq4rBKPHHwTgwpZrWt5pjlE2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1784303200796,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1784303201359,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1784303200795,
-    "school": {
-      "email": "jeannette.forster@schule-maur.ch",
-      "address": {
-        "city": "Forch",
-        "canton": "zurich",
-        "street": "Aeschstrasse ",
-        "country": "CH",
-        "zipCode": "8127",
-        "streetNr": "17",
-        "coordinates": {
-          "lat": 47.3270335,
-          "lng": 8.6558294
-        }
-      },
-      "culture": "de-CH",
-      "website": "schule-maur.ch",
-      "lastName": "Forster",
-      "schoolId": "01KFFXWA2HXXSTFE6P7JRD8V1E",
-      "firstName": "Jeannette",
-      "schoolName": "Schulhaus Aesch",
-      "phoneNumber": "044 980 05 32",
-      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1787184000000,
-    "subjects": [
-      "swimming"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 1
   },
   {
     "id": "01KXR4S6D3DNJBTHEB9JX2868G",
