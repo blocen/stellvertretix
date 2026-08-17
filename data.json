@@ -1,80 +1,84 @@
 [
   {
-    "id": "01M07MT4A2CJMV4WY1MQFWHAEN",
-    "additionalInformation": "Guten Tag\\n\\nWir suchen für morgen, 18.08.2026 eine Stellvertretung für eine Fachlehrperson im Schulhaus Pünten.\\n8.05 - 11.40\\n13.30 - 15.05\\n15.15-16.00 Hausaufgabenstunde (0.5 Le)\\n\\nWir freuen uns auf Deine Unterlagen.\\n\\nLiebe Grüsse\\nSchule Stallikon",
-    "affectedTeacherIds": [
-      "UXZagyzvDKNFy336fjZNtz69mof2",
-      "oGp67E8begSj2WO5Nnubg0UvJvm2",
-      "vlrkyRvmdqffCzkULpOBJzQaqp22"
-    ],
+    "id": "01M07XY71GT88CSVY6F5WGG8D3",
+    "additionalInformation": "FLP am Mo 1 WL im TT und Freitag in Klasse, Montag in Parallelklasse \\nSchulassistenz Mo 10-12 und Do 8 - 12 anwesend\\nDienstagvormittag Halbklasse (TTG)\\n\\nAusfall Lehrperson auf unbestimmte Zeit ",
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1786963104066,
+    "createdTimestamp": 1786972675120,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1787011200000,
+    "endTimestamp": 1797465600000,
     "grades": [
-      "fifthClass",
-      "sixthClass"
+      "forthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786963104101,
+    "modifiedTimestamp": 1786972675325,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1786963104066,
+    "pensum": 21,
+    "publishTimestamp": 1786972675120,
+    "role": "subject",
     "school": {
       "logo": null,
-      "email": "vikariate.stallikon@schule-stallikon.ch",
+      "email": "schulverwaltung.bachenbuelach@psbb.ch",
       "address": {
-        "city": "Stallikon",
+        "city": "Bachenbülach",
         "canton": "zurich",
-        "street": "Massholderenstrasse",
+        "street": "Halden",
         "country": "Schweiz",
-        "zipCode": 8143,
-        "streetNr": "3",
+        "zipCode": 8184,
+        "streetNr": "16",
         "coordinates": {
-          "lat": 47.33966059999999,
-          "lng": 8.4874437
+          "lat": 47.5017422,
+          "lng": 8.551304199999999
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule.stallikon.ch/",
-      "lastName": "Stallikon",
-      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
-      "firstName": "Schule",
-      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
-      "phoneNumber": "044 552 62 15",
-      "organisationId": "bHqcQAYtlvghgg50ASbW",
+      "website": "www.psbb.ch",
+      "lastName": "Kalantar",
+      "schoolId": "zGgf9qmx1Na6MOMkSpTwmK1sMkh2",
+      "firstName": "Evelyn",
+      "schoolName": "Primarschule Halden",
+      "phoneNumber": "0445015252",
+      "organisationId": "ZZE3lwGaAKiHAuCOY3vw",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
+      "numberOfStudents": 20,
+      "additionalInformation": "Tolle 4. Klasse"
     },
     "startAsOfNow": false,
-    "startTimestamp": 1787011200000,
+    "startTimestamp": 1788134400000,
     "subjects": [
-      "french",
-      "mediaAndComputerScience",
-      "music"
+      "german",
+      "english",
+      "mathematics",
+      "fineArts",
+      "music",
+      "sports",
+      "natureHumanSociety"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
     "timeTableRef": null,
-    "vacancyType": "short",
+    "vacancyType": "long",
     "workingBlocks": [
+      "mondayMorning",
       "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M07GM29QTF8CDQR826WZWM0H",
@@ -106,6 +110,7 @@
     "pausedTimestamp": null,
     "pensum": 26,
     "publishTimestamp": 1786958711095,
+    "role": "subject",
     "school": {
       "logo": null,
       "email": "sebastian.fritschi@schulen.zuerich.ch",
@@ -194,6 +199,7 @@
     "pausedTimestamp": null,
     "pensum": 14,
     "publishTimestamp": 1786883286378,
+    "role": "subject",
     "school": {
       "logo": null,
       "email": "schulverwaltung@schule-uitikon.ch",
@@ -243,92 +249,6 @@
     "numberOfOpenApplications": 4
   },
   {
-    "id": "01M00BVW6X1V12KBRCK2EV0QDW",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "Y2Tyaraz0Vf4wGLwTIjxbUIZhMv2",
-      "e1WEGppt6zfGUPprJqbwOWw9SGF2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786718843101,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1793318400000,
-    "grades": [
-      "mixedAgeLearning",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786718843201,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 14,
-    "publishTimestamp": 1786719537657,
-    "school": {
-      "logo": {
-        "logoUrl": "public_schools/01M00B2KZ5QA1V7B84EHM97DGT/logos/54f21559-ae24-436e-a8bf-ab6c9f005dde.jpg",
-        "blurhash": "LlP6$.{hMP$k?G$MSjf6npKKTHXR",
-        "cloudflareId": "school:01M00B2KZ5QA1V7B84EHM97DGT:54f21559-ae24-436e-a8bf-ab6c9f005dde.jpg"
-      },
-      "email": "smaurer@salzh.ch",
-      "address": {
-        "city": "Winterthur",
-        "canton": "zurich",
-        "street": "Zeughausstrasse ",
-        "country": "CH",
-        "zipCode": 8400,
-        "streetNr": "54",
-        "coordinates": {
-          "lat": 47.494115,
-          "lng": 8.7348739
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.salzh.ch",
-      "lastName": "Maurer",
-      "schoolId": "01M00B2KZ5QA1V7B84EHM97DGT",
-      "firstName": "Seraina",
-      "schoolName": "Zeughaus",
-      "phoneNumber": "052 222 41 18",
-      "organisationId": "01M00B2KZ2QQBQ1T29JT2BWRG1",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 10,
-      "additionalInformation": "Es handelt sich um eine altersdurchmischte Klasse 5.- 7. Klasse. "
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1786665600000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "tuesdayAfternoon",
-      "wednesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
     "id": "01KZV09860SNQN0FJT1PY7A6HA",
     "additionalInformation": "In den 4.5 Wochen ist es schön, wenn die Kinder im TTG erste kleine Werke produzieren oder eine neue Technik kennenlernen.",
     "affectedTeacherIds": [
@@ -360,6 +280,7 @@
     "pausedTimestamp": null,
     "pensum": 12,
     "publishTimestamp": 1786538926272,
+    "role": "subject",
     "school": {
       "email": "chantal.bucher@ps-regensdorf.ch",
       "address": {
@@ -437,6 +358,7 @@
     "pausedTimestamp": null,
     "pensum": 10,
     "publishTimestamp": 1786016088474,
+    "role": "currative",
     "school": {
       "email": "sl.steiacher@schulen-wb.ch",
       "address": {
@@ -468,8 +390,10 @@
     "startAsOfNow": false,
     "startTimestamp": 1792368000000,
     "subjects": [
+      "isr",
       "germanAsSecondLanguage",
-      "ifIssIsr"
+      "if",
+      "iss"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -514,6 +438,7 @@
     "pausedTimestamp": null,
     "pensum": 28,
     "publishTimestamp": 1785934143369,
+    "role": "subject",
     "school": {
       "email": "vonbueren@imwidmer.ch",
       "address": {
@@ -603,6 +528,7 @@
     "pausedTimestamp": null,
     "pensum": 28,
     "publishTimestamp": 1785933691927,
+    "role": "subject",
     "school": {
       "email": "vonbueren@imwidmer.ch",
       "address": {
@@ -696,6 +622,7 @@
     "pausedTimestamp": null,
     "pensum": 8,
     "publishTimestamp": 1785918512864,
+    "role": "subject",
     "school": {
       "email": "christian.koller@schulebauma.ch",
       "address": {
@@ -768,6 +695,7 @@
     "pausedTimestamp": null,
     "pensum": 23,
     "publishTimestamp": 1784295496099,
+    "role": "subject",
     "school": {
       "email": "minhet.fakic@schule-feuerthalen.ch",
       "address": {
@@ -862,6 +790,7 @@
     "pausedTimestamp": null,
     "pensum": 19,
     "publishTimestamp": 1783088388784,
+    "role": "subject",
     "school": {
       "email": "andreas.baenninger@wohnschule.ch",
       "address": {
