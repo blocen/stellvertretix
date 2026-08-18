@@ -1,8 +1,88 @@
 [
   {
+    "id": "01M0A00C4QMKZSZATPFPEQK1BR",
+    "additionalInformation": "Es handelt sich um eine Mutterschaftsvertretung. \\nDie zwei Klassenzimmer sind im selben Gebäude und liegen gleich nebeneinander. \\nNachmittags (Mo und Di) Halbklassenunterricht bei der 1a mit NMG und RKE. ",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787041951896,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1813276800000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787041951977,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1787041951895,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "cristina.gremli@primarschule-uster.ch",
+      "address": {
+        "city": "Uster",
+        "canton": "zurich",
+        "street": "Seestrasse ",
+        "country": "Schweiz",
+        "zipCode": 8610,
+        "streetNr": "109",
+        "coordinates": {
+          "lat": 47.3440971,
+          "lng": 8.7031651
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.primarschule-uster.ch/niederuster/210",
+      "lastName": "Gremli",
+      "schoolId": "wyxpjkObOOaaRiknREt9V5nsdG02",
+      "firstName": "Cristina",
+      "schoolName": "Primarschule Niederuster",
+      "phoneNumber": "079 533 54 60",
+      "organisationId": "knQ7XrcVZ9n9BZIFDwgU",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": "Es handelt sich um zwei erste Klassen. 6Lektionen in der Klasse 1a und 6L in der Klasse 1b.\\n1a: 22SuS\\n1b: 23Sus "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "sports",
+      "german",
+      "mathematics",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M0A00C4QMKZSZATPFPEQK1BR/timeTables/cd19a5a7-8a6d-4e40-8bdc-a5dcc3215b00.png",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M07XY71GT88CSVY6F5WGG8D3",
     "additionalInformation": "FLP am Mo 1 WL im TT und Freitag in Klasse, Montag in Parallelklasse \\nSchulassistenz Mo 10-12 und Do 8 - 12 anwesend\\nDienstagvormittag Halbklasse (TTG)\\n\\nAusfall Lehrperson auf unbestimmte Zeit ",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "yfWhYItrDAblhstWq56xkc3XaZA2",
+      "Ezyc0IJJ0FQzFeVOu0esgF6HA182"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -78,7 +158,7 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M07GM29QTF8CDQR826WZWM0H",
@@ -408,185 +488,6 @@
     "numberOfOpenApplications": 4
   },
   {
-    "id": "01KZ8ZGQW9WMSS10M9T02JPSVV",
-    "additionalInformation": "In den 5 IF-Stunden unterstützt eine erfahrene SHP, die die integrative Zusammenarbeit schätzt.",
-    "affectedTeacherIds": [
-      "g3HQC19MSuVBMcyqLCqTqgfOO192",
-      "01Qbp8xl0eR6vaN4JlObFbPA5Nh1",
-      "1RIonvhsCMXVG4Dgwe0VhDxsZm22",
-      "o9NGAu5CMYSjIEU3KMrir6ZANHG2",
-      "yhaamskIy2dAgQdvPlTIkb0WdKc2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1785934143369,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1793923200000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1785934143031,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 28,
-    "publishTimestamp": 1785934143369,
-    "role": "subject",
-    "school": {
-      "email": "vonbueren@imwidmer.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Widmerstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.2893895,
-          "lng": 8.540627299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch/schuleinheit/3248",
-      "lastName": "Peyer",
-      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
-      "firstName": "Stephan",
-      "schoolName": " Schulhaus Im Widmer",
-      "phoneNumber": "+41765580000",
-      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "Die Klasse zeichnet sich durch einen starken Teamgeist und hohe Motivation aus. Sie begegnet neuen Herausforderungen offen und arbeitet engagiert mit."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "german",
-      "english",
-      "french",
-      "mathematics",
-      "mediaAndComputerScience",
-      "music",
-      "sports",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KZ8Z2Z0R0G9E2B1QEVZ542CF",
-    "additionalInformation": "In den 5 IF-Stunden unterstützt eine erfahrene SHP, die die integrative Zusammenarbeit schätzt.",
-    "affectedTeacherIds": [
-      "g3HQC19MSuVBMcyqLCqTqgfOO192",
-      "fyHpgoxvAhOBMGPVSFfw7MMryOq1",
-      "01Qbp8xl0eR6vaN4JlObFbPA5Nh1",
-      "ft2J8tWB71PRALQ5ADI1gb4sHH22",
-      "o9NGAu5CMYSjIEU3KMrir6ZANHG2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1785933691928,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1793923200000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1785933691632,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 28,
-    "publishTimestamp": 1785933691927,
-    "role": "subject",
-    "school": {
-      "email": "vonbueren@imwidmer.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Widmerstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.2893895,
-          "lng": 8.540627299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch/schuleinheit/3248",
-      "lastName": "Peyer",
-      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
-      "firstName": "Stephan",
-      "schoolName": " Schulhaus Im Widmer",
-      "phoneNumber": "+41765580000",
-      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "mediaAndComputerScience",
-      "fineArts",
-      "music",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01KZ8GKQQ1VQNDC323EK8V65BS",
     "additionalInformation": "Am Dienstag Morgen unterrichtest du Englisch im AdL:\\n1 Lektion mit der 5. & 6. Klasse, sowie 2 Lektionen mit der 3. & 4. Klasse. \\nAm Donnerstag Morgen: je 1 Lektion Englisch, sowie 1 Lektion RKE mit der 3. & 4. Klasse\\nAm Donnerstag Nachmittag findet BS (Bewegung & Sport) statt. Dafür fährst du mit der gesamten Unterstufe mit dem Schulbus nach Saland ins Schulhaus Haselhalden. \\nDie Stellvertretung kann auch für ein ganzes Jahr übernommen werden. \\nKostenloser Parkplatz auf dem Sternenberg.",
     "affectedTeacherIds": [
@@ -749,96 +650,6 @@
       "mondayAfternoon",
       "tuesdayAfternoon",
       "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01KWM5K6NGYSMPEHW7XBC2ZJGY",
-    "additionalInformation": "Wir suchen eine Fachlehrperson für eine Sonderschule A mit Internat an zwei Klassen (UST und MST), wobei die meisten Lektionen an der UST sind. Die Klassen zählen 6 - 7 SuS und oft wird im Teamteaching unterrichtet und / oder mit Klassenassistenz oder einem Zivi.",
-    "affectedTeacherIds": [
-      "ft2J8tWB71PRALQ5ADI1gb4sHH22",
-      "ndDHlKX43LQZanuzTvJhDy8u1xY2",
-      "qnOzqtQm3YTpcCEUAccz0mk9cF22",
-      "o9NGAu5CMYSjIEU3KMrir6ZANHG2",
-      "Y2Tyaraz0Vf4wGLwTIjxbUIZhMv2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1783088388784,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "specialClass",
-      "firstClass",
-      "secondClass",
-      "thirdClass",
-      "forthClass",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1783088388694,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 19,
-    "publishTimestamp": 1783088388784,
-    "role": "subject",
-    "school": {
-      "email": "andreas.baenninger@wohnschule.ch",
-      "address": {
-        "city": "Freienstein",
-        "canton": "zurich",
-        "street": "Rüedistrasse",
-        "country": "CH",
-        "zipCode": 8427,
-        "streetNr": "1",
-        "coordinates": {
-          "lat": 47.5332192,
-          "lng": 8.5889104
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.wohnschule.ch",
-      "lastName": "Bänninger",
-      "schoolId": "01KQZ68RT9A25NZTHBXT177YG7",
-      "firstName": "Andreas",
-      "schoolName": "Wohnschule Freienstein (ZH)",
-      "phoneNumber": "0448663116",
-      "organisationId": "01KQZ68RT578TR1KQN4VE7TG2Y",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 7,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1786924800000,
-    "subjects": [
-      "german",
-      "french",
-      "mathematics",
-      "otherSubject"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
   }
