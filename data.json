@@ -572,84 +572,82 @@
     "numberOfOpenApplications": 2
   },
   {
-    "id": "01KXR4S6D3DNJBTHEB9JX2868G",
+    "id": "01KWHTKPP9YXAHSBZSHD23PSQB",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "ft2J8tWB71PRALQ5ADI1gb4sHH22",
+      "JXUOxwF3EEYgCqS5H514nhkXH9Y2",
+      "4cmINdG9ExQJEojFeeWBcM1TDli1",
+      "YU8AzUMUc5Odq74cU3sFxnIg1rn1",
+      "suy3szJwjHdvRXS0QEcrn6pfTuI3"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1784295496099,
+    "createdTimestamp": 1783009761993,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1815696000000,
+    "endTimestamp": 1797552000000,
     "grades": [
-      "fifthClass"
+      "smallClass",
+      "specialClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1784295496175,
+    "modifiedTimestamp": 1783009762384,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 23,
-    "publishTimestamp": 1784295496099,
-    "role": "subject",
+    "pensum": 16,
+    "publishTimestamp": 1783009761992,
+    "role": "currative",
     "school": {
-      "email": "minhet.fakic@schule-feuerthalen.ch",
+      "email": "rebekka.eichhorn@zuerich.ch",
       "address": {
-        "city": "Feuerthalen",
+        "city": "Zürich",
         "canton": "zurich",
-        "street": "Erlenstrasse",
+        "street": "Himmeristrasse",
         "country": "CH",
-        "zipCode": 8245,
-        "streetNr": "4",
+        "zipCode": 8052,
+        "streetNr": "57",
         "coordinates": {
-          "lat": 47.6871349,
-          "lng": 8.6479874
+          "lat": 47.4186029,
+          "lng": 8.5356422
         }
       },
       "culture": "de-CH",
-      "website": "www.schule-feuerthalen.ch",
-      "lastName": "Fakic",
-      "schoolId": "01KRXW1C98FM6YFZ7PN5TN1X31",
-      "firstName": "Minhet",
-      "schoolName": "Stumpenboden",
-      "phoneNumber": "0786920602",
-      "organisationId": "01KRXW1C944Y70VYKAC4C1Z0W0",
+      "website": "https://www.stadt-zuerich.ch/schule/de/hps.html",
+      "lastName": "Eichhorn",
+      "schoolId": "bllJ7Gi6Gpf242PfOv2GmUxFdfC3",
+      "firstName": "Rebekka",
+      "schoolName": "HPS der Stadt Zürich, Standort Staudenbühl",
+      "phoneNumber": "044 413 31 41",
+      "organisationId": "01K9YQZ5CH649SCKTCHPMWV6AB",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": null
+      "numberOfStudents": 7,
+      "additionalInformation": "Unterstützung durch drei Betreungspersonen in der Klasse"
     },
     "startAsOfNow": false,
-    "startTimestamp": 1805068800000,
+    "startTimestamp": 1788739200000,
     "subjects": [
-      "english",
-      "french",
-      "mathematics",
-      "fineArts",
-      "sports",
-      "swimming",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
+      "specialEducation"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01KXR4S6D3DNJBTHEB9JX2868G/timeTables/374dde9d-158f-428e-aabb-f4e3f3291bac.pdf",
+    "timeTableRef": null,
     "vacancyType": "long",
     "workingBlocks": [
       "mondayMorning",
-      "tuesdayMorning",
       "wednesdayMorning",
-      "thursdayMorning",
+      "fridayMorning",
       "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
+      "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
   }
