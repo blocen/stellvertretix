@@ -1,73 +1,69 @@
 [
   {
-    "id": "01M0CTBJ5CYHXVCNSPDVST5W1N",
-    "additionalInformation": "Donnerstag Frühstunde",
+    "id": "01M0CVQAAT8438RXCANN63F23H",
+    "additionalInformation": "",
     "affectedTeacherIds": [
       "5fQq2RqOaye52rwm0CJ4Lpzm6wh2",
-      "t2PA945dfycHARiFhfA0WioeUTi1",
-      "DyH8IISfe6fAebEISVts6lRoJC62",
-      "NVAAUOvu0zfwldN3BwH4clwsxw52",
-      "y0DPoTCPS3hsLs2dnAnEClkJDaj1"
+      "y0DPoTCPS3hsLs2dnAnEClkJDaj1",
+      "VxRLlMJ75qgqjGsTIXd6KiByvxw1",
+      "IJhpZQ2M9ZWkEFEruIuU0KIxSei1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1787136690348,
+    "createdTimestamp": 1787138124122,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1787270400000,
+    "endTimestamp": 1788307200000,
     "grades": [
-      "fifthClass"
+      "thirdClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787136690385,
+    "modifiedTimestamp": 1787138124197,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 13,
-    "publishTimestamp": 1787136690348,
+    "pensum": 4,
+    "publishTimestamp": 1787138124121,
     "role": "class",
     "school": {
       "logo": null,
-      "email": "antonella.granata@schulen.zuerich.ch",
+      "email": "c.haering@nueri.ch",
       "address": {
-        "city": "Zürich",
+        "city": "Nürensdorf",
         "canton": "zurich",
-        "street": "Dachslernstrasse",
+        "street": "Uebrichstrasse",
         "country": "CH",
-        "zipCode": 8048,
+        "zipCode": 8309,
         "streetNr": "5",
         "coordinates": {
-          "lat": 47.387924,
-          "lng": 8.481421
+          "lat": 47.4474238,
+          "lng": 8.6519418
         }
       },
       "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/dachslernstrasse.html",
-      "lastName": "Antonella",
-      "schoolId": "9LEfeaRUhJTDS56lWOg5l3Ehrju1",
-      "firstName": "Granata",
-      "schoolName": "Dachslern-Feldblumen",
-      "phoneNumber": "0041788659788",
-      "organisationId": "ZLXeHTjIe84V659HWzIo",
+      "website": "https://www.schule-nuerensdorf.ch/",
+      "lastName": "Häring",
+      "schoolId": "01KCRPCVV6XKHSTN9XMPWQNGDV",
+      "firstName": "Christoph",
+      "schoolName": "Schulhaus Ebnet",
+      "phoneNumber": "044 836 65 54",
+      "organisationId": "01KCRPCVTV16Y7B5YQWQ0MSYZJ",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": "5. Klasse"
+      "numberOfStudents": 27,
+      "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1787184000000,
+    "startTimestamp": 1788307200000,
     "subjects": [
-      "german",
-      "english",
-      "mathematics",
       "natureHumanSociety",
-      "french"
+      "english"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -75,10 +71,7 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
+      "wednesdayMorning"
     ],
     "numberOfOpenApplications": 4
   },
