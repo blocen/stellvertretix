@@ -1,8 +1,93 @@
 [
   {
+    "id": "01M0CTBJ5CYHXVCNSPDVST5W1N",
+    "additionalInformation": "Donnerstag Frühstunde",
+    "affectedTeacherIds": [
+      "5fQq2RqOaye52rwm0CJ4Lpzm6wh2",
+      "t2PA945dfycHARiFhfA0WioeUTi1",
+      "DyH8IISfe6fAebEISVts6lRoJC62",
+      "NVAAUOvu0zfwldN3BwH4clwsxw52",
+      "y0DPoTCPS3hsLs2dnAnEClkJDaj1"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787136690348,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1787270400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787136690385,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 13,
+    "publishTimestamp": 1787136690348,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "antonella.granata@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Dachslernstrasse",
+        "country": "CH",
+        "zipCode": 8048,
+        "streetNr": "5",
+        "coordinates": {
+          "lat": 47.387924,
+          "lng": 8.481421
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/dachslernstrasse.html",
+      "lastName": "Antonella",
+      "schoolId": "9LEfeaRUhJTDS56lWOg5l3Ehrju1",
+      "firstName": "Granata",
+      "schoolName": "Dachslern-Feldblumen",
+      "phoneNumber": "0041788659788",
+      "organisationId": "ZLXeHTjIe84V659HWzIo",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": "5. Klasse"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1787184000000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "natureHumanSociety",
+      "french"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01M0A00C4QMKZSZATPFPEQK1BR",
     "additionalInformation": "Es handelt sich um eine Mutterschaftsvertretung. \\nDie zwei Klassenzimmer sind im selben Gebäude und liegen gleich nebeneinander. \\nNachmittags (Mo und Di) Halbklassenunterricht bei der 1a mit NMG und RKE. ",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "iGkW4RVQfMQtqTpj0BJjQMhbeHa2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -74,7 +159,7 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M07XY71GT88CSVY6F5WGG8D3",
@@ -248,328 +333,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01M058P9BBP9VD6340K7X1NB53",
-    "additionalInformation": "Bitte melde dich direkt hier oder via tamara.alessi@schule-uitikon.ch",
-    "affectedTeacherIds": [
-      "hVpzWivWGNPhG7wBjbWvKpomrNB3",
-      "YeXuSxpra0UIDcCGLyJwPz4u6l83",
-      "WGmHPYxAvKdjnV9mo9oxxxn29B12",
-      "y0DPoTCPS3hsLs2dnAnEClkJDaj1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786883286379,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790208000000,
-    "grades": [
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786883286442,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 14,
-    "publishTimestamp": 1786883286378,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "schulverwaltung@schule-uitikon.ch",
-      "address": {
-        "city": "Uitikon",
-        "canton": "zurich",
-        "street": "Lättenstrasse",
-        "country": "CH",
-        "zipCode": 8142,
-        "streetNr": "55",
-        "coordinates": {
-          "lat": 47.37292009999999,
-          "lng": 8.452513999999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-uitikon.ch",
-      "lastName": "Elbert",
-      "schoolId": "g83VTmEnCMWT54FUDJBkIEraXTD2",
-      "firstName": "Daniela",
-      "schoolName": "Schule Uitikon",
-      "phoneNumber": "044 200 16 00",
-      "organisationId": "vKebMANF5uYI62xB4XS7",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1789948800000,
-    "subjects": [
-      "german",
-      "mathematics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KZV09860SNQN0FJT1PY7A6HA",
-    "additionalInformation": "In den 4.5 Wochen ist es schön, wenn die Kinder im TTG erste kleine Werke produzieren oder eine neue Technik kennenlernen.",
-    "affectedTeacherIds": [
-      "zLWLAvzdYKUCqZ8xMJD7sWMbBG53",
-      "TMMbemnv09hKuhSFbVoRI8xGm4d2",
-      "7D3WjVGQrQX6WszJCQ9ub5JC2Pr2",
-      "vXmIHnFiL5dxUcFmwSoy8iK4ZTp1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786538926272,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1789430400000,
-    "grades": [
-      "firstClass",
-      "secondClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786538926417,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1786538926272,
-    "role": "subject",
-    "school": {
-      "email": "chantal.bucher@ps-regensdorf.ch",
-      "address": {
-        "city": "Regensdorf",
-        "canton": "zurich",
-        "street": "Schulstrasse ",
-        "country": "CH",
-        "zipCode": 8105,
-        "streetNr": "73",
-        "coordinates": {
-          "lat": 47.4345003,
-          "lng": 8.4657672
-        }
-      },
-      "culture": "de-CH",
-      "website": "ps-regensdorf.ch",
-      "lastName": "Bucher",
-      "schoolId": "01KZ5Q1N6W1DB9KXST0H9XYE56",
-      "firstName": "Chantal",
-      "schoolName": "Ruggenacher 1",
-      "phoneNumber": "043 343 84 21",
-      "organisationId": "Bhc2hU5TZBiY12DWXQkD",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 54,
-      "additionalInformation": "Es handelt sich um den TTG-Unterricht in den Klassen 1a, 2b und 3i am Ruggenacher 1.\\n\\nDu unterrichtest in Halbklassen und hast jeweils zwischen 7-9 Kindern."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1787011200000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "thursdayMorning",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KZBDNGCV572CRG9MKBY7SKZJ",
-    "additionalInformation": "Mutterschaftsvertretung DaZ/IF in einer 3. Klasse mit Option auf Festanstellung",
-    "affectedTeacherIds": [
-      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
-      "5MuL7INNuuZ9B34hKzbZvGS8M552",
-      "zUErfq4rBKPHHwTgwpZrWt5pjlE2",
-      "nwSgGuR5MBf7vLTJJ4Yr1EQ5rYH2",
-      "vXmIHnFiL5dxUcFmwSoy8iK4ZTp1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786016088476,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815436800000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786016088863,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 10,
-    "publishTimestamp": 1786016088474,
-    "role": "currative",
-    "school": {
-      "email": "sl.steiacher@schulen-wb.ch",
-      "address": {
-        "city": "Brüttisellen",
-        "canton": "zurich",
-        "street": "Schulhausstrasse",
-        "country": "CH",
-        "zipCode": 8306,
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.4242065,
-          "lng": 8.6340612
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulen-wb.ch",
-      "lastName": "Steiacher",
-      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
-      "firstName": "Schulleitung ",
-      "schoolName": "Steiacher",
-      "phoneNumber": "0432557607",
-      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
-      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792368000000,
-    "subjects": [
-      "isr",
-      "germanAsSecondLanguage",
-      "if",
-      "iss"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01KZ8GKQQ1VQNDC323EK8V65BS",
-    "additionalInformation": "Am Dienstag Morgen unterrichtest du Englisch im AdL:\\n1 Lektion mit der 5. & 6. Klasse, sowie 2 Lektionen mit der 3. & 4. Klasse. \\nAm Donnerstag Morgen: je 1 Lektion Englisch, sowie 1 Lektion RKE mit der 3. & 4. Klasse\\nAm Donnerstag Nachmittag findet BS (Bewegung & Sport) statt. Dafür fährst du mit der gesamten Unterstufe mit dem Schulbus nach Saland ins Schulhaus Haselhalden. \\nDie Stellvertretung kann auch für ein ganzes Jahr übernommen werden. \\nKostenloser Parkplatz auf dem Sternenberg.",
-    "affectedTeacherIds": [
-      "SOKy6QA5n8bP3wxGlT7N5OwoGwT2",
-      "JEbvVAUV0lY1u753Eh0HT1QMNs42",
-      "nwSgGuR5MBf7vLTJJ4Yr1EQ5rYH2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1785918512865,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815004800000,
-    "grades": [
-      "mixedAgeLearning",
-      "firstClass",
-      "secondClass",
-      "thirdClass",
-      "forthClass",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1785918513755,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 8,
-    "publishTimestamp": 1785918512864,
-    "role": "subject",
-    "school": {
-      "email": "christian.koller@schulebauma.ch",
-      "address": {
-        "city": "Saland",
-        "canton": "zurich",
-        "street": "Haselhalden",
-        "country": "Schweiz",
-        "zipCode": 8493,
-        "streetNr": "27",
-        "coordinates": {
-          "lat": 47.383469,
-          "lng": 8.8590606
-        }
-      },
-      "culture": "de-CH",
-      "website": "schulebauma",
-      "lastName": "Koller",
-      "schoolId": "nhNeRDfaGXhdoEOhdVAcuog1FnF2",
-      "firstName": "Christian",
-      "schoolName": "Schule Bauma",
-      "phoneNumber": "0523941751",
-      "organisationId": "b3Afskdy9YNGT4TYiARc",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Das Schulhaus Sternenberg umfasst zwei AdL (Altersdurchmischtes Lernen) Klassen.\\nPro Jahrgang sind 7 SuS in der entsprechenden Klasse.\\nAusser Sport unterrichtest du somit jeweils 14 Schülerinnen und Schüler aus zwei Jahrgängen.\\nDer Sport am Donnerstag Nachmittag wird mit der ganzen Unterstufe durchgeführt."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1787011200000,
-    "subjects": [
-      "english",
-      "sports",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01KZ8GKQQ1VQNDC323EK8V65BS/timeTables/01679ded-6fd5-4a9c-938e-fc27fccd2d3d.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "thursdayMorning",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   },
   {
     "id": "01KWHTKPP9YXAHSBZSHD23PSQB",
