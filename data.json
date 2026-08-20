@@ -309,9 +309,7 @@
     },
     "startAsOfNow": false,
     "startTimestamp": 1788739200000,
-    "subjects": [
-      "specialEducation"
-    ],
+    "subjects": [],
     "teachingLanguages": [
       "de-CH"
     ],
