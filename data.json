@@ -1,77 +1,77 @@
 [
   {
-    "id": "01M0CVQAAT8438RXCANN63F23H",
+    "id": "01M0F82XWHXFCBHRFC8W0Y4AN0",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "5fQq2RqOaye52rwm0CJ4Lpzm6wh2",
+      "hVpzWivWGNPhG7wBjbWvKpomrNB3",
       "y0DPoTCPS3hsLs2dnAnEClkJDaj1",
-      "VxRLlMJ75qgqjGsTIXd6KiByvxw1",
-      "IJhpZQ2M9ZWkEFEruIuU0KIxSei1"
+      "JmECWjzo9ST59LYwT0UUGYCcPnY2",
+      "fJXqeHhdGNVrpNl5RYFy8S6n1OB2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1787138124122,
+    "createdTimestamp": 1787218196369,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1788307200000,
+    "endTimestamp": 1787616000000,
     "grades": [
-      "thirdClass"
+      "forthClass"
     ],
     "levelsDetailed": [
-      "levelLower"
+      "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787138124197,
+    "modifiedTimestamp": 1787218196421,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 4,
-    "publishTimestamp": 1787138124121,
+    "publishTimestamp": 1787218196369,
     "role": "class",
     "school": {
       "logo": null,
-      "email": "c.haering@nueri.ch",
+      "email": "sekretariat.schulewollishofen-imlee@schulen.zuerich.ch",
       "address": {
-        "city": "Nürensdorf",
+        "city": "Zürich",
         "canton": "zurich",
-        "street": "Uebrichstrasse",
-        "country": "CH",
-        "zipCode": 8309,
-        "streetNr": "5",
+        "street": "Kilchbergstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8038,
+        "streetNr": "23",
         "coordinates": {
-          "lat": 47.4474238,
-          "lng": 8.6519418
+          "lat": 47.3423908,
+          "lng": 8.53439
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-nuerensdorf.ch/",
-      "lastName": "Häring",
-      "schoolId": "01KCRPCVV6XKHSTN9XMPWQNGDV",
-      "firstName": "Christoph",
-      "schoolName": "Schulhaus Ebnet",
-      "phoneNumber": "044 836 65 54",
-      "organisationId": "01KCRPCVTV16Y7B5YQWQ0MSYZJ",
-      "directionInformation": ""
+      "website": "www.stadt-zuerich.ch/schulen/de/wollishofen",
+      "lastName": "Troitzsch",
+      "schoolId": "lxPKpqfgH1XuY2XIRirNkijeCPg1",
+      "firstName": "Christine",
+      "schoolName": "Wollishofen-Im Lee",
+      "phoneNumber": "044 413 12 40",
+      "organisationId": "kubcWZrkicpKvM10rZHQ",
+      "directionInformation": "Gut erreichbar mit ÖV (Tram, Bus, S-Bahn) + wenige Minuten Fussweg. Auto-Parkplätze nur beschränkt verfügbar."
     },
     "schoolClass": {
-      "numberOfStudents": 27,
-      "additionalInformation": null
+      "numberOfStudents": 20,
+      "additionalInformation": "Auffangzeit um 8 Uhr.  Schulassistentin anwesend. 2 Lektionen mit integriertem IF-Unterricht. Unterricht vorbereitet."
     },
     "startAsOfNow": false,
-    "startTimestamp": 1788307200000,
+    "startTimestamp": 1787616000000,
     "subjects": [
-      "natureHumanSociety",
-      "english"
+      "mathematics",
+      "natureHumanSociety"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": null,
+    "timeTableRef": "vacancies/01M0F82XWHXFCBHRFC8W0Y4AN0/timeTables/3a5a0737-fac0-427a-ab9f-672d5729364a.pdf",
     "vacancyType": "short",
     "workingBlocks": [
-      "wednesdayMorning"
+      "tuesdayMorning"
     ],
     "numberOfOpenApplications": 4
   },
@@ -79,7 +79,8 @@
     "id": "01M0A00C4QMKZSZATPFPEQK1BR",
     "additionalInformation": "Es handelt sich um eine Mutterschaftsvertretung. \\nDie zwei Klassenzimmer sind im selben Gebäude und liegen gleich nebeneinander. \\nNachmittags (Mo und Di) Halbklassenunterricht bei der 1a mit NMG und RKE. ",
     "affectedTeacherIds": [
-      "iGkW4RVQfMQtqTpj0BJjQMhbeHa2"
+      "iGkW4RVQfMQtqTpj0BJjQMhbeHa2",
+      "ELQtmvRf6vdToKKaJ2crB4xkyzl1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -152,90 +153,6 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M07XY71GT88CSVY6F5WGG8D3",
-    "additionalInformation": "FLP am Mo 1 WL im TT und Freitag in Klasse, Montag in Parallelklasse \\nSchulassistenz Mo 10-12 und Do 8 - 12 anwesend\\nDienstagvormittag Halbklasse (TTG)\\n\\nAusfall Lehrperson auf unbestimmte Zeit ",
-    "affectedTeacherIds": [
-      "yfWhYItrDAblhstWq56xkc3XaZA2",
-      "Ezyc0IJJ0FQzFeVOu0esgF6HA182"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786972675120,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797465600000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786972675325,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 21,
-    "publishTimestamp": 1786972675120,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "schulverwaltung.bachenbuelach@psbb.ch",
-      "address": {
-        "city": "Bachenbülach",
-        "canton": "zurich",
-        "street": "Halden",
-        "country": "Schweiz",
-        "zipCode": 8184,
-        "streetNr": "16",
-        "coordinates": {
-          "lat": 47.5017422,
-          "lng": 8.551304199999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.psbb.ch",
-      "lastName": "Kalantar",
-      "schoolId": "zGgf9qmx1Na6MOMkSpTwmK1sMkh2",
-      "firstName": "Evelyn",
-      "schoolName": "Primarschule Halden",
-      "phoneNumber": "0445015252",
-      "organisationId": "ZZE3lwGaAKiHAuCOY3vw",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Tolle 4. Klasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788134400000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "fineArts",
-      "music",
-      "sports",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
-    ],
     "numberOfOpenApplications": 2
   },
   {
@@ -245,7 +162,8 @@
       "FU3tvRTRDbWoHiW7LdOaVaNymFt1",
       "FeOknTtZTnaj4UCBtPczq0ALNpw1",
       "oBt4a1AAFuYKArdyezXJ3VnUYBC2",
-      "oe1oG3JmtzM8WhgWHAGuv6ZoEYM2"
+      "oe1oG3JmtzM8WhgWHAGuv6ZoEYM2",
+      "4HE9MX1pxaPJ99Goy26zLV6RBKH2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -325,7 +243,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01KWHTKPP9YXAHSBZSHD23PSQB",
@@ -335,7 +253,8 @@
       "JXUOxwF3EEYgCqS5H514nhkXH9Y2",
       "4cmINdG9ExQJEojFeeWBcM1TDli1",
       "YU8AzUMUc5Odq74cU3sFxnIg1rn1",
-      "suy3szJwjHdvRXS0QEcrn6pfTuI3"
+      "suy3szJwjHdvRXS0QEcrn6pfTuI3",
+      "Hg0M7jeHdxf2DpYTX6JKGwLshrm2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -405,6 +324,6 @@
       "mondayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   }
 ]
