@@ -1,8 +1,87 @@
 [
   {
+    "id": "01M0J1863PKTG3WFKZMZE23D33",
+    "additionalInformation": "Es handelt sich um eine Vertretung während eines Mutterschaftsurlaubs. Als SHP bist du in verschiedenen Klassen für den IF und ISR Unterricht zuständig.",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787311691895,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1816905600000,
+    "grades": [
+      "forthClass",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787311692049,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 23,
+    "publishTimestamp": 1787311691894,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "pascale.kohler@neftenbach.ch",
+      "address": {
+        "city": "Neftenbach",
+        "canton": "zurich",
+        "street": "Schulstrasse",
+        "country": "CH",
+        "zipCode": 8413,
+        "streetNr": "17a",
+        "coordinates": {
+          "lat": 47.5256573,
+          "lng": 8.666277
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-neftenbach.ch",
+      "lastName": "Kohler",
+      "schoolId": "rlMxSCGULXOK8kaqQmtIRpCoxxx2",
+      "firstName": "Pascale",
+      "schoolName": "Schule Neftenbach",
+      "phoneNumber": "0523153543",
+      "organisationId": "01K0BJS6XPTCCJY59S0P1GGK0Q",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1798761600000,
+    "subjects": [
+      "issIsr",
+      "if"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M0J1863PKTG3WFKZMZE23D33/timeTables/36cdff6f-170e-42a2-b11a-dcf3cd18dfda.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M0HQEJ8JQ96DPGT0RT0MDQR5",
     "additionalInformation": "SHP und Assistenz sind nach Stundenplan anwesend, TTG findet in Halbklassen statt. Es wäre auch möglich den Mittwoch wegzulassen.",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "y0DPoTCPS3hsLs2dnAnEClkJDaj1"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -76,12 +155,14 @@
       "mondayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M0HQC7K89Y6PRWP4B2C42VY6",
     "additionalInformation": "Mutterschaftsvertretung, Übergabe mit der Lehrperson ist noch gut möglich, Lektionen bis zu den Weihnachtsferien übernommen werden, weitere DaZ Lehrperson vor Ort, ",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "zwxnZDRy4mQABPulkRJyTNYy1863"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -152,7 +233,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M0HKVWQZ0K27MX6HVX1BMDCX",
