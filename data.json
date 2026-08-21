@@ -1,23 +1,17 @@
 [
   {
-    "id": "01M0FXZD2JY3GCV0PMPJYVJQJK",
-    "additionalInformation": "🏫 Schule Gossau, Schulhaus Männetsriet\\n\\nUnsere LP ist abwesend und wir suchen eine Vertretung für Mo 24.08.2026 ⭐️\\n\\n📅 Montag 24.08.2026\\n\\n🏫 Schulhaus Männetsriet, in Bertschikon b. Gossau ZH\\n\\n📚 4 Lektionen am Vormittag (MA, D, NMG, Mu) und 2 Lektionen am Nachmittag (BG).\\n\\nBasisjahr oder Diplom erwünscht.\\nGerne Bewerbung direkt hier einreichen.",
-    "affectedTeacherIds": [
-      "NVAAUOvu0zfwldN3BwH4clwsxw52",
-      "Z2aY76kjDTXn5yI177z7o7xs4M32",
-      "icUiWYSR1oeVvxyj0Q4BPjEuNUB2",
-      "JmECWjzo9ST59LYwT0UUGYCcPnY2"
-    ],
+    "id": "01M0HKVWQZ0K27MX6HVX1BMDCX",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1787241149522,
+    "createdTimestamp": 1787297657599,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1787529600000,
+    "endTimestamp": 1797552000000,
     "grades": [
-      "mixedAgeLearning",
       "fifthClass",
       "sixthClass"
     ],
@@ -25,137 +19,62 @@
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787241149745,
+    "modifiedTimestamp": 1787297657644,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1787241149522,
+    "pensum": 17,
+    "publishTimestamp": 1787297657599,
     "role": "subject",
     "school": {
       "logo": null,
-      "email": "anne.engmann@schulegossau-zh.ch",
+      "email": "viviane.farinha@schulen.zuerich.ch",
       "address": {
-        "city": "Gossau ZH",
+        "city": "Zürich",
         "canton": "zurich",
-        "street": "Bergstrasse",
+        "street": "Bullingerstrasse",
         "country": "Schweiz",
-        "zipCode": 8625,
-        "streetNr": "7",
+        "zipCode": 8004,
+        "streetNr": "62",
         "coordinates": {
-          "lat": 47.3034049,
-          "lng": 8.759650599999999
+          "lat": 47.3824228,
+          "lng": 8.5100637
         }
       },
       "culture": "de-CH",
-      "website": "www.schulegossau-zh.ch",
-      "lastName": "Engmann",
-      "schoolId": "2sVvfsUw6JaoJ5vvDictkzwi7bg1",
-      "firstName": "Anne",
-      "schoolName": "Primarschule Gossau ZH",
-      "phoneNumber": "+41799518625",
-      "organisationId": "Y9rJisfZePkiXLcjJMCO",
-      "directionInformation": ""
+      "website": "https://www.stadt-zuerich.ch/schulen/de/hardau.html",
+      "lastName": "Farinha",
+      "schoolId": "WDvIjUzZE5gJPCfSOJO6n5YhnYi2",
+      "firstName": "Viviane",
+      "schoolName": "Hardau",
+      "phoneNumber": "0444131665",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": "Sehr zentral und gut an den ÖV angebunden. Über Bhf. Hardbrücke, Bhf. Altstetten oder Albisriederplatz erreichbar. "
     },
     "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "5./6. Klasse altersdurchmischt."
+      "numberOfStudents": 0,
+      "additionalInformation": "Jeden Morgen: Auffangszeit von 08.00–08.15 Uhr\\nDienstag: 6 Lektionen Französisch\\nMittwoch: 1 Lektion MI, 1 Lektion Sport und 2 Lektionen Französisch\\nDonnerstag: 7 Lektionen Französisch"
     },
     "startAsOfNow": false,
-    "startTimestamp": 1787529600000,
+    "startTimestamp": 1787616000000,
     "subjects": [
-      "mathematics",
-      "german",
-      "natureHumanSociety",
-      "music",
-      "fineArts"
+      "french",
+      "mediaAndComputerScience",
+      "sports"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
     "timeTableRef": null,
-    "vacancyType": "short",
+    "vacancyType": "long",
     "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01M0FXTKT1Q7A04JVZ9FT2ETNP",
-    "additionalInformation": "🏫 Schule Gossau, Schulhaus Schönbüel\\n\\nUnsere LP fällt aus und wir suchen eine Vertretung für Do 27.08.2026 ⭐️\\n\\n📅 Donnerstag 27.08.2026\\n\\n🏫 Schulhaus Schönbüel, in Herschmettlen b. Gossau ZH\\n\\n📚 4 Lektionen TTG am Vormittag (je eine Doppellektion mit den Erst- und Zweitklässlern).\\n\\nBasisjahr oder Diplom erwünscht.\\nGerne Bewerbung direkt hier einreichen.",
-    "affectedTeacherIds": [
-      "NVAAUOvu0zfwldN3BwH4clwsxw52",
-      "ExmvgHlqFUgRHpT2LU0G8TSKY6J2",
-      "JmECWjzo9ST59LYwT0UUGYCcPnY2",
-      "5MR7znC26Ae1BTJp123Hvp9B7a33"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787240992577,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1787788800000,
-    "grades": [
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787240992716,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1787240992577,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "anne.engmann@schulegossau-zh.ch",
-      "address": {
-        "city": "Gossau ZH",
-        "canton": "zurich",
-        "street": "Bergstrasse",
-        "country": "Schweiz",
-        "zipCode": 8625,
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.3034049,
-          "lng": 8.759650599999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulegossau-zh.ch",
-      "lastName": "Engmann",
-      "schoolId": "2sVvfsUw6JaoJ5vvDictkzwi7bg1",
-      "firstName": "Anne",
-      "schoolName": "Primarschule Gossau ZH",
-      "phoneNumber": "+41799518625",
-      "organisationId": "Y9rJisfZePkiXLcjJMCO",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 11,
-      "additionalInformation": "7 Erstklässler, 11 Zweitklässler"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1787788800000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning"
-    ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M0FM87FW9E21NDCP8WBDKE3R",
@@ -313,97 +232,6 @@
       "tuesdayAfternoon"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M07GM29QTF8CDQR826WZWM0H",
-    "additionalInformation": "Wir sind eine multikulturelle Schule, die sich durch ein kooperatives und humorvolles Team auszeichnet. Unser pädagogischer Ansatz orientiert sich am Konzept der Neuen Autorität, das es uns ermöglicht, die täglichen Herausforderungen gemeinsam und effektiv zu bewältigen.",
-    "affectedTeacherIds": [
-      "FU3tvRTRDbWoHiW7LdOaVaNymFt1",
-      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
-      "oBt4a1AAFuYKArdyezXJ3VnUYBC2",
-      "oe1oG3JmtzM8WhgWHAGuv6ZoEYM2",
-      "4HE9MX1pxaPJ99Goy26zLV6RBKH2",
-      "t5L7qIg8j3UXQQWOJ6NVre26baS2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1786958711095,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1796342400000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1786958711115,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 26,
-    "publishTimestamp": 1786958711095,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "sebastian.fritschi@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Höhenring",
-        "country": "CH",
-        "zipCode": 8052,
-        "streetNr": "36",
-        "coordinates": {
-          "lat": 47.420868,
-          "lng": 8.545286899999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.buhn.ch",
-      "lastName": "Fritschi",
-      "schoolId": "01KZDT083K6NY2BM6WVHJZ7QDP",
-      "firstName": "Sebastian",
-      "schoolName": "Primarschule Buhn",
-      "phoneNumber": "+41 44 413 22 25",
-      "organisationId": "01KZDT083FX7EJCW4FCARX66WA",
-      "directionInformation": "5' Gehminuten vom Bahnhof Seebach"
-    },
-    "schoolClass": {
-      "numberOfStudents": 17,
-      "additionalInformation": "Die Klasse ist motiviert, freundlich, hilfsbereit und sehr sozial. Ebenfalls ist sie gut abgestützt mit IF und Assistenzstunden."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795996800000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "fineArts",
-      "music",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M07GM29QTF8CDQR826WZWM0H/timeTables/824d0fc9-b81b-435e-890c-b314b9dea8b0.png",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
   },
   {
     "id": "01KWHTKPP9YXAHSBZSHD23PSQB",
