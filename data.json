@@ -1,81 +1,78 @@
 [
   {
-    "id": "01M0J751YDC76KRMHTYHHRE9XT",
-    "additionalInformation": "Du arbeitest fast immer im Teamteaching. (siehe Stundenplan, leuchtgelb)\\nAm Dienstagmorgen unterrichtest du Französisch an der Parallelklasse. Hier besteht auch die Möglichkeit, dass diese zwei Lektionen nicht übernommen werden müssen. Falls du keine Erfahrung in Französisch hast, kannst du auch nur die 6 Lektionen an der Klasse Bisang/Wohlgroth übernehmen. Bei Interesse werde ich deinen Kontakt an Kotomi Bisang, die Klassenlehrerin die ebenfalls vor Ort ist, weitergeben.",
+    "id": "01M0QZKM6062EM84DCT29MEAP2",
+    "additionalInformation": "",
     "affectedTeacherIds": [
-      "JmECWjzo9ST59LYwT0UUGYCcPnY2",
-      "qHStmhlNuzM41rs6i09oFEWsXlH2",
-      "5kpEVGGxJzPP0qxFzU9xsYP6WY83",
-      "TndYaVr0hBdfZI8zmL71WklQHIn1"
+      "NVAAUOvu0zfwldN3BwH4clwsxw52",
+      "yZtFqOGm7fM9cUu74j6vViZWJHs2",
+      "tuJMg1p8BEM5BCRJWhbAotDcdSD3",
+      "wnjHiCOPtoVPLWXdVpueD5vy0NS2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1787317880782,
+    "createdTimestamp": 1787511296193,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1787702400000,
+    "endTimestamp": 1787529600000,
     "grades": [
-      "sixthClass"
+      "firstClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787317880889,
+    "modifiedTimestamp": 1787511296345,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 8,
-    "publishTimestamp": 1787317880781,
+    "pensum": 4,
+    "publishTimestamp": 1787511296192,
     "role": "class",
     "school": {
       "logo": null,
-      "email": "sl.steiacher@schulen-wb.ch",
+      "email": "thomas.zuber@win.ch",
       "address": {
-        "city": "Brüttisellen",
+        "city": "Winterthur",
         "canton": "zurich",
-        "street": "Schulhausstrasse",
+        "street": "Ida-Sträuli-Strasse ",
         "country": "CH",
-        "zipCode": 8306,
-        "streetNr": "7",
+        "zipCode": 8404,
+        "streetNr": "50",
         "coordinates": {
-          "lat": 47.4242065,
-          "lng": 8.6340612
+          "lat": 47.5042019,
+          "lng": 8.7669544
         }
       },
       "culture": "de-CH",
-      "website": "www.schulen-wb.ch",
-      "lastName": "Steiacher",
-      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
-      "firstName": "Schulleitung ",
-      "schoolName": "Steiacher",
-      "phoneNumber": "0432557607",
-      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
-      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
+      "website": "https://www.schule-neuhegi.ch",
+      "lastName": "Zuber",
+      "schoolId": "Gg3Qh4x6WVMhU56ni2rWmapURWf2",
+      "firstName": "Thomas",
+      "schoolName": "Primarschule Neuhegi",
+      "phoneNumber": "052 257 17 70",
+      "organisationId": "g5LjebcOcuOXG1U1URAw",
+      "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": ""
+      "numberOfStudents": 20,
+      "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1787616000000,
+    "startTimestamp": 1787529600000,
     "subjects": [
-      "french",
       "german",
       "mathematics",
-      "project"
+      "fineArts"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01M0J751YDC76KRMHTYHHRE9XT/timeTables/d70c9398-fac2-49fd-bea4-ed64c68bbb4c.pdf",
+    "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "tuesdayAfternoon"
+      "mondayMorning"
     ],
     "numberOfOpenApplications": 4
   },
@@ -160,7 +157,10 @@
     "id": "01M0J1863PKTG3WFKZMZE23D33",
     "additionalInformation": "Es handelt sich um eine Vertretung während eines Mutterschaftsurlaubs. Als SHP bist du in verschiedenen Klassen für den IF und ISR Unterricht zuständig.",
     "affectedTeacherIds": [
-      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73"
+      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73",
+      "P21zMNanDia8bNuauWarQ5cEuL33",
+      "StqAUHcQ20aDqrSN0nRIR7c3o912",
+      "Q6OYknWrhCOl3vT1frnjIYIFG1e2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -233,7 +233,7 @@
       "thursdayMorning",
       "fridayMorning"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01M0HQEJ8JQ96DPGT0RT0MDQR5",
@@ -321,7 +321,8 @@
     "additionalInformation": "Mutterschaftsvertretung, Übergabe mit der Lehrperson ist noch gut möglich, Lektionen bis zu den Weihnachtsferien übernommen werden, weitere DaZ Lehrperson vor Ort, ",
     "affectedTeacherIds": [
       "zwxnZDRy4mQABPulkRJyTNYy1863",
-      "efFEZX7H43V0xM0Qlv13suMiwbs1"
+      "efFEZX7H43V0xM0Qlv13suMiwbs1",
+      "u6wUh7VuQncFuTHRcGYQV3IxBLk1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -393,12 +394,14 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M0HKVWQZ0K27MX6HVX1BMDCX",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "tHtyGUQXSCMrbtmdC723E9NI7I43"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -470,7 +473,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M0FM87FW9E21NDCP8WBDKE3R",
