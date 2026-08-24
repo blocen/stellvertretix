@@ -1,7 +1,78 @@
 [
   {
+    "id": "01M0SH9W5WZM3MDTS1BP7FWD1V",
+    "additionalInformation": "Die Schule Kügeliloo ist nahe beim Bahnhof Zürich Oerlikon und gut mit dem ÖV erreichbar.",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787563405500,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1802304000000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787563405537,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 2,
+    "publishTimestamp": 1787563405500,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "beatrice.futter@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich-Oerlikon",
+        "canton": "zurich",
+        "street": "Maienstrasse ",
+        "country": "CH",
+        "zipCode": 8050,
+        "streetNr": 9,
+        "coordinates": {
+          "lat": 47.4110028,
+          "lng": 8.5282216
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo.html",
+      "lastName": "Futter",
+      "schoolId": "oAFDSxIAxDg0FUhXrKaqlp6IIpE3",
+      "firstName": "Beatrice",
+      "schoolName": "Schulhaus Kügeliloo (Schulkreis Glattal)",
+      "phoneNumber": "044 413 22 50 Schulleitungssekretariat",
+      "organisationId": "RzdKnC1uXWaCCAjP2aQw",
+      "directionInformation": "Das Schulhaus ist problemlos mit ÖV erreichbar (Zug bis Bahnhof Oerlikon, Bus oder Tram). Kostenpflichtige Parkplätze stehen zur Verfügung."
+    },
+    "schoolClass": {
+      "numberOfStudents": 10,
+      "additionalInformation": "Es handelt sich um die Vorbereitungslektion zur Gymi-Prüfung im Fach Deutsch. Es wird in den beiden Lektionen zweimal der gleiche Inhalt angeboten. \\nDie Lektionen finden in der Schule Kügeliloo (Zürich Neuaffoltern) ab Dienstag, 1.9.2026 jeweils am Dienstag- und am Donnerstagnachmittag von 15:15 Uhr bis 16:00 Uhr statt. \\nDie Gruppengrösse ist jeweils 10 Kinder der 6. Klasse; die Zahl kann sich im Laufe des Kurses verringern. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1788220800000,
+    "subjects": [
+      "german"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M0SE2G6X778TTSF4G9HN9VXS",
-    "additionalInformation": "Gewisse Affinität zur Sonderschule Typ A muss vorhanden sein.\\nBei Unsicherheiten bitte bei David Sigos, Schulleiter Springer, 044 244 89 37 oder schulleitung@schulemomo.ch",
+    "additionalInformation": "Gewisse Affinität zur Sonderschule Typ A muss vorhanden sein.\\nBei Unsicherheiten bitte bei David Sigos, Schulleiter Springer, 044 244 89 37 oder schulleitung@schulemomo.ch melden.",
     "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -91,7 +162,9 @@
     "additionalInformation": "Wir suchen eine TTG-Stellvertretung für unsere 5. Klasse. Vorläufig betrifft es zwei Mal den Mittwoch (23.9. & 30.9.), evtl. jedoch auch länger.\\n\\nDer Unterricht findet im TTG-Zimmer oder im Werkraum und in Halbklassen statt. Ein Lehrdiplom ist erwünscht, wir berücksichtigen nach Möglichkeit jedoch auch Studierende mit TTG im Profil (abgeschlossenes Basisjahr zwingend).",
     "affectedTeacherIds": [
       "EHyYj1zS48WvJDc2nH5lYxKg1ek1",
-      "tuJMg1p8BEM5BCRJWhbAotDcdSD3"
+      "tuJMg1p8BEM5BCRJWhbAotDcdSD3",
+      "Wb9hULAJiZcIw5blrKLkSpQoGb62",
+      "aS5SIJtd7DM85G6uxh83DLmVjbJ3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -157,7 +230,7 @@
     "workingBlocks": [
       "wednesdayMorning"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M0SB7WQ0AS9S6YSZD3M4SCP1",
