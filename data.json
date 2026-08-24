@@ -1,5 +1,165 @@
 [
   {
+    "id": "01M0SE2G6X778TTSF4G9HN9VXS",
+    "additionalInformation": "Gewisse Affinität zur Sonderschule Typ A muss vorhanden sein.\\nBei Unsicherheiten bitte bei David Sigos, Schulleiter Springer, 044 244 89 37 oder schulleitung@schulemomo.ch",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787560018141,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1808438400000,
+    "grades": [
+      "smallClass",
+      "specialClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787560018288,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 22,
+    "publishTimestamp": 1787560018141,
+    "role": "class",
+    "school": {
+      "logo": {
+        "logoUrl": "public_schools/b7It5wBwcXR8HdhUC4VSHahrM3V2/logos/0e2e0439-6d48-48ca-9c26-f57d6e7637da.jpg",
+        "blurhash": "LSQ,L1xu-;%M~qRjRjay9FWBRjay",
+        "cloudflareId": "school:b7It5wBwcXR8HdhUC4VSHahrM3V2:0e2e0439-6d48-48ca-9c26-f57d6e7637da.jpg"
+      },
+      "email": "schulleitung@schulemomo.ch",
+      "address": {
+        "city": "Uster",
+        "canton": "zurich",
+        "street": "Seestrasse ",
+        "country": "CH",
+        "zipCode": 8610,
+        "streetNr": "110",
+        "coordinates": {
+          "lat": 47.3480011,
+          "lng": 8.696028
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulemomo.ch ",
+      "lastName": "Schule momo",
+      "schoolId": "b7It5wBwcXR8HdhUC4VSHahrM3V2",
+      "firstName": "Schulleitung",
+      "schoolName": "Schule momo",
+      "phoneNumber": "0449401086",
+      "organisationId": "h6HjLQWf10Xjd3OjOkLS",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 9,
+      "additionalInformation": "Mittelstufenklasse gemischt 5. und 6. Klasse.\\nEs handelt sich um eine Klasse der Tagessonderschule momo, welche sich um Kinder mit Beeinträchtigungen im Bereich Verhalten, Lernen oder Sprache kümmert."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1791763200000,
+    "subjects": [
+      "fineArts",
+      "german",
+      "english",
+      "mathematics",
+      "music",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M0SDTMDG96A1HNSM67T5XN1G",
+    "additionalInformation": "Wir suchen eine TTG-Stellvertretung für unsere 5. Klasse. Vorläufig betrifft es zwei Mal den Mittwoch (23.9. & 30.9.), evtl. jedoch auch länger.\\n\\nDer Unterricht findet im TTG-Zimmer oder im Werkraum und in Halbklassen statt. Ein Lehrdiplom ist erwünscht, wir berücksichtigen nach Möglichkeit jedoch auch Studierende mit TTG im Profil (abgeschlossenes Basisjahr zwingend).",
+    "affectedTeacherIds": [
+      "EHyYj1zS48WvJDc2nH5lYxKg1ek1",
+      "tuJMg1p8BEM5BCRJWhbAotDcdSD3"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787559760305,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790726400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787559760471,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1787559760304,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "patrik.marthaler@schulehinwil.ch",
+      "address": {
+        "city": "Hinwil",
+        "canton": "zurich",
+        "street": "Schulhausstrasse ",
+        "country": "CH",
+        "zipCode": 8340,
+        "streetNr": "10",
+        "coordinates": {
+          "lat": 47.2884587,
+          "lng": 8.8527069
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schulehinwil.ch/aussenwachten/schulleben/kurzportrait/p-322/",
+      "lastName": "Marthaler",
+      "schoolId": "01K4W945ERCCE7B3YK539VB13Q",
+      "firstName": "Patrik",
+      "schoolName": "Aussenwachten",
+      "phoneNumber": "043 843 25 66",
+      "organisationId": "gLS7SROqigIRllYWxm6D",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 10,
+      "additionalInformation": "Es ist eine gut geführte, heterogene Klasse mit bereits sehr selbstständigen Kindern."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1790121600000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
     "id": "01M0SB7WQ0AS9S6YSZD3M4SCP1",
     "additionalInformation": "Wir suchen eine Lehrperson, die unsere Gymivorbereitung im Fach Deutsch übernehmen könnte. De Unterricht kann Montag, Dienstag oder Freitag über Mittag, 12.55 - 13.40 Uhr stattfinden.",
     "affectedTeacherIds": [],
