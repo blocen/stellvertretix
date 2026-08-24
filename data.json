@@ -1,5 +1,164 @@
 [
   {
+    "id": "01M0SRXP027ER0E9Y8G3KEA2MV",
+    "additionalInformation": "Dienstag Frühstunde -> Start 7.30 Uhr\\nMittwoch Auffangzeit 8.00 Uhr",
+    "affectedTeacherIds": [
+      "5fQq2RqOaye52rwm0CJ4Lpzm6wh2",
+      "t3mOxjm7Tue2iTmOBvBGFOpB20O2",
+      "kt4JfuQEgCbEA7Jgy9ztsv0OflM2",
+      "N2SgNTvo82WVq49aQjdmjXy3fls2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787571394562,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1787702400000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787571394616,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 11,
+    "publishTimestamp": 1787571394562,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "marinela.grabovac@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Rebenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8041,
+        "streetNr": "67",
+        "coordinates": {
+          "lat": 47.3337812,
+          "lng": 8.5154284
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/leimbach.html",
+      "lastName": "Grabovac",
+      "schoolId": "oMGZz8y6eDRBocZN1A3NN6set862",
+      "firstName": "Marinela",
+      "schoolName": "Schulhaus Leimbach",
+      "phoneNumber": "044 413 11 74",
+      "organisationId": "LeGHxqCB4JoJlvIDlNvQ",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1787616000000,
+    "subjects": [
+      "german",
+      "french",
+      "music",
+      "mathematics",
+      "english",
+      "sports",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01M0SR6CB5286M44STN9EV2FDC",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "NVAAUOvu0zfwldN3BwH4clwsxw52",
+      "XZaQaRPnNTSryPtauGc1aEeDoI32",
+      "efFEZX7H43V0xM0Qlv13suMiwbs1",
+      "hhPT4eipdrOTXRgG30u5lV0gUW03"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787570631014,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1787702400000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787570631011,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1787570631013,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "sekretariat.schulebachtobel@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bachtobelstrasse",
+        "country": "CH",
+        "zipCode": 8045,
+        "streetNr": "111",
+        "coordinates": {
+          "lat": 47.3588387,
+          "lng": 8.5116538
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel.html",
+      "lastName": "Hofer",
+      "schoolId": "v827wIi6T8bfiRPbcKZH4u8HGzX2",
+      "firstName": "Sabrina",
+      "schoolName": "Bachtobel",
+      "phoneNumber": "044 413 18 37",
+      "organisationId": "wOjojIaUYufY86lm5eKY",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1787702400000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01M0SH9W5WZM3MDTS1BP7FWD1V",
     "additionalInformation": "Die Schule Kügeliloo ist nahe beim Bahnhof Zürich Oerlikon und gut mit dem ÖV erreichbar.",
     "affectedTeacherIds": [],
@@ -158,81 +317,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M0SDTMDG96A1HNSM67T5XN1G",
-    "additionalInformation": "Wir suchen eine TTG-Stellvertretung für unsere 5. Klasse. Vorläufig betrifft es zwei Mal den Mittwoch (23.9. & 30.9.), evtl. jedoch auch länger.\\n\\nDer Unterricht findet im TTG-Zimmer oder im Werkraum und in Halbklassen statt. Ein Lehrdiplom ist erwünscht, wir berücksichtigen nach Möglichkeit jedoch auch Studierende mit TTG im Profil (abgeschlossenes Basisjahr zwingend).",
-    "affectedTeacherIds": [
-      "EHyYj1zS48WvJDc2nH5lYxKg1ek1",
-      "tuJMg1p8BEM5BCRJWhbAotDcdSD3",
-      "Wb9hULAJiZcIw5blrKLkSpQoGb62",
-      "aS5SIJtd7DM85G6uxh83DLmVjbJ3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787559760305,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790726400000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787559760471,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1787559760304,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "patrik.marthaler@schulehinwil.ch",
-      "address": {
-        "city": "Hinwil",
-        "canton": "zurich",
-        "street": "Schulhausstrasse ",
-        "country": "CH",
-        "zipCode": 8340,
-        "streetNr": "10",
-        "coordinates": {
-          "lat": 47.2884587,
-          "lng": 8.8527069
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schulehinwil.ch/aussenwachten/schulleben/kurzportrait/p-322/",
-      "lastName": "Marthaler",
-      "schoolId": "01K4W945ERCCE7B3YK539VB13Q",
-      "firstName": "Patrik",
-      "schoolName": "Aussenwachten",
-      "phoneNumber": "043 843 25 66",
-      "organisationId": "gLS7SROqigIRllYWxm6D",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 10,
-      "additionalInformation": "Es ist eine gut geführte, heterogene Klasse mit bereits sehr selbstständigen Kindern."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1790121600000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M0SB7WQ0AS9S6YSZD3M4SCP1",
     "additionalInformation": "Wir suchen eine Lehrperson, die unsere Gymivorbereitung im Fach Deutsch übernehmen könnte. De Unterricht kann Montag, Dienstag oder Freitag über Mittag, 12.55 - 13.40 Uhr stattfinden.",
     "affectedTeacherIds": [],
@@ -303,90 +387,14 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M0J231STH6R2KH9G73RDR59T",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "EHyYj1zS48WvJDc2nH5lYxKg1ek1",
-      "FU3tvRTRDbWoHiW7LdOaVaNymFt1",
-      "ExmvgHlqFUgRHpT2LU0G8TSKY6J2",
-      "y0DPoTCPS3hsLs2dnAnEClkJDaj1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787312572218,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1789516800000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787312572336,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1787312572218,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "anna.dimaggio@schule-rft.ch",
-      "address": {
-        "city": "Rorbas",
-        "canton": "zurich",
-        "street": "Schulhausstrasse ",
-        "country": "CH",
-        "zipCode": 8427,
-        "streetNr": "10",
-        "coordinates": {
-          "lat": 47.53138510000001,
-          "lng": 8.5768493
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-rft.ch",
-      "lastName": "Di Maggio",
-      "schoolId": "uQ3mXiYi3SSVXtABxRWehGhAZaY2",
-      "firstName": "Anna",
-      "schoolName": "Primarschule Rorbas (UST)",
-      "phoneNumber": "077 522 95 53",
-      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 15,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1789516800000,
-    "subjects": [
-      "german",
-      "natureHumanSociety",
-      "mathematics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M0J231STH6R2KH9G73RDR59T/timeTables/8564cb8c-aa2a-4b7b-b41c-71f59d92f195.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01M0J1863PKTG3WFKZMZE23D33",
     "additionalInformation": "Es handelt sich um eine Vertretung während eines Mutterschaftsurlaubs. Als SHP bist du in verschiedenen Klassen für den IF und ISR Unterricht zuständig.",
     "affectedTeacherIds": [
       "x7c3RWTC4VaqNfyMiAoIXcN5Xc73",
       "P21zMNanDia8bNuauWarQ5cEuL33",
       "StqAUHcQ20aDqrSN0nRIR7c3o912",
-      "Q6OYknWrhCOl3vT1frnjIYIFG1e2"
+      "Q6OYknWrhCOl3vT1frnjIYIFG1e2",
+      "EKLZQPsJ8xX1Y5B64U6K1iI352G3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -459,7 +467,7 @@
       "thursdayMorning",
       "fridayMorning"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M0HQEJ8JQ96DPGT0RT0MDQR5",
