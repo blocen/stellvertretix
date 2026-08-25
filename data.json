@@ -1,8 +1,84 @@
 [
   {
+    "id": "01M0WNQDBZT53GTJBNBFSFD4TE",
+    "additionalInformation": "Einsatztage verhandelbar ",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787668706687,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1808438400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787668706901,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 5,
+    "publishTimestamp": 1787668706686,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "jeannette.forster@schule-maur.ch",
+      "address": {
+        "city": "Forch",
+        "canton": "zurich",
+        "street": "Aeschstrasse ",
+        "country": "CH",
+        "zipCode": "8127",
+        "streetNr": "17",
+        "coordinates": {
+          "lat": 47.3270335,
+          "lng": 8.6558294
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule-maur.ch",
+      "lastName": "Forster",
+      "schoolId": "01KFFXWA2HXXSTFE6P7JRD8V1E",
+      "firstName": "Jeannette",
+      "schoolName": "Schulhaus Aesch",
+      "phoneNumber": "044 980 05 32",
+      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": "gut geführte 5. Klasse "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "french",
+      "music"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M0SXF71T0QRP2ZJHWZX4DMMD",
     "additionalInformation": "Liebe Kollegen\\nIch suche eine Lehrperson, die mich während eines Pflicht-Praktikums an der PH vertritt. Es könnten auch notfalls weniger Fächer unterrichtet werden. Wir finden sicherlich eine flexible und individuelle Lösung.\\n\\nLiebe Grüsse \\nR. Trop\\nKlassenlehrerin ",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "4CcPOLKfnWhTkzAMv3scAvqO71x2",
+      "UEB664AzQOdSzgoQIZZOsrBpAKC2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -83,13 +159,14 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M0T0B0ZEZ2HTJDTV5PMVAG9Q",
     "additionalInformation": "An der Klasse könnten ab sofort 2-3 Vormittage (Mi, Fr, evtl. Do) als zusätzliche Unterstützung übernommen werden, um die Klassenbildung zu unterstützen und bereits Beziehungen aufbauen zu können. ",
     "affectedTeacherIds": [
-      "8FQuASMzaLOszN8Pu0CktfHuscp1"
+      "8FQuASMzaLOszN8Pu0CktfHuscp1",
+      "yfWhYItrDAblhstWq56xkc3XaZA2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -166,7 +243,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M0SH9W5WZM3MDTS1BP7FWD1V",
@@ -325,159 +402,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M0SB7WQ0AS9S6YSZD3M4SCP1",
-    "additionalInformation": "Wir suchen eine Lehrperson, die unsere Gymivorbereitung im Fach Deutsch übernehmen könnte. De Unterricht kann Montag, Dienstag oder Freitag über Mittag, 12.55 - 13.40 Uhr stattfinden.",
-    "affectedTeacherIds": [],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787557049057,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1802044800000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787557050016,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 1,
-    "publishTimestamp": 1787557049056,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "martina.launer@schule-duebendorf.ch",
-      "address": {
-        "city": "Dübendorf",
-        "canton": "zurich",
-        "street": "Schulhausstrasse",
-        "country": "CH",
-        "zipCode": 8600,
-        "streetNr": "5",
-        "coordinates": {
-          "lat": 47.3971923,
-          "lng": 8.6199016
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-duebendorf.ch/dorf/3310",
-      "lastName": "Launer",
-      "schoolId": "01KN1EAW3QNZVRD2JTWREF8X8Z",
-      "firstName": "Martina",
-      "schoolName": "Schule Dorf",
-      "phoneNumber": "044 821 09 85",
-      "organisationId": "01K1ZFY7G3ZBNY37BY8B3T8E2Y",
-      "directionInformation": "Die Schule ist gut mit ÖV erreichbar."
-    },
-    "schoolClass": {
-      "numberOfStudents": 10,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1787529600000,
-    "subjects": [
-      "gymnasiumPreparation"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M0J1863PKTG3WFKZMZE23D33",
-    "additionalInformation": "Es handelt sich um eine Vertretung während eines Mutterschaftsurlaubs. Als SHP bist du in verschiedenen Klassen für den IF und ISR Unterricht zuständig.",
-    "affectedTeacherIds": [
-      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73",
-      "P21zMNanDia8bNuauWarQ5cEuL33",
-      "StqAUHcQ20aDqrSN0nRIR7c3o912",
-      "Q6OYknWrhCOl3vT1frnjIYIFG1e2",
-      "EKLZQPsJ8xX1Y5B64U6K1iI352G3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787311691895,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1816905600000,
-    "grades": [
-      "forthClass",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787311692049,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 23,
-    "publishTimestamp": 1787311691894,
-    "role": "currative",
-    "school": {
-      "logo": null,
-      "email": "pascale.kohler@neftenbach.ch",
-      "address": {
-        "city": "Neftenbach",
-        "canton": "zurich",
-        "street": "Schulstrasse",
-        "country": "CH",
-        "zipCode": 8413,
-        "streetNr": "17a",
-        "coordinates": {
-          "lat": 47.5256573,
-          "lng": 8.666277
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-neftenbach.ch",
-      "lastName": "Kohler",
-      "schoolId": "rlMxSCGULXOK8kaqQmtIRpCoxxx2",
-      "firstName": "Pascale",
-      "schoolName": "Schule Neftenbach",
-      "phoneNumber": "0523153543",
-      "organisationId": "01K0BJS6XPTCCJY59S0P1GGK0Q",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1798761600000,
-    "subjects": [
-      "issIsr",
-      "if"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M0J1863PKTG3WFKZMZE23D33/timeTables/36cdff6f-170e-42a2-b11a-dcf3cd18dfda.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 3
   },
   {
     "id": "01M0HQEJ8JQ96DPGT0RT0MDQR5",
@@ -640,7 +564,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M0HKVWQZ0K27MX6HVX1BMDCX",
@@ -887,7 +811,8 @@
       "4cmINdG9ExQJEojFeeWBcM1TDli1",
       "YU8AzUMUc5Odq74cU3sFxnIg1rn1",
       "suy3szJwjHdvRXS0QEcrn6pfTuI3",
-      "Hg0M7jeHdxf2DpYTX6JKGwLshrm2"
+      "Hg0M7jeHdxf2DpYTX6JKGwLshrm2",
+      "5xsWLVXTuNRZUBWEJj5L6XbgCqt2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -955,6 +880,6 @@
       "mondayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   }
 ]
