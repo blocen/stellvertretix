@@ -1,5 +1,85 @@
 [
   {
+    "id": "01M13SZKQMWNF15AF5396X2KKY",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "1RIonvhsCMXVG4Dgwe0VhDxsZm22"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787908050676,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1801785600000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolled",
+    "modifiedTimestamp": 1787908050763,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 17,
+    "publishTimestamp": 1787908050676,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "brigitte.maag@schule-ilef.ch",
+      "address": {
+        "city": "Effretikon ",
+        "canton": "zurich",
+        "street": "Schlimpergstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8307,
+        "streetNr": "18",
+        "coordinates": {
+          "lat": 47.4307531,
+          "lng": 8.685014599999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule-schlimperg.ch",
+      "lastName": "Maag",
+      "schoolId": "0fp7d1ufHIdUfSMkDo5hqGR3HEz2",
+      "firstName": "Brigitte ",
+      "schoolName": "Schulhaus Schlimperg",
+      "phoneNumber": "0523543406",
+      "organisationId": "aFYUMrhRFPlSgDs7X3hQ",
+      "directionInformation": "Parkplatz vorhanden; Nähe Bahnhof und Zentrum "
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Du führst die Klasse mit einem QUEST-Studierenden gemeinsam."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1789344000000,
+    "subjects": [
+      "german",
+      "sports",
+      "mathematics",
+      "natureHumanSociety",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "wednesdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M11TAF5MRG8SP1P98RAX4T5Z",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -81,92 +161,6 @@
       "tuesdayAfternoon"
     ],
     "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01M10TBNCN0JJ9GN05BE06MP8V",
-    "additionalInformation": "Teilweise Unterstützung durch Klassenassistenz.",
-    "affectedTeacherIds": [
-      "l3fYpiHEDier8BxyVpwjfAUDv9z2",
-      "8jolyWiP0zRMyXvm0pknx9nS9Cs2",
-      "MyYABEs0kBYJDxoWdF6aE1oujRk2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787807782293,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "mixedAgeLearning",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787807782428,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1787807782292,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "schulleitung.oberdorf@schulehinwil.ch",
-      "address": {
-        "city": "Hinwil",
-        "canton": "zurich",
-        "street": "Felsenhofstrasse",
-        "country": "CH",
-        "zipCode": "8340",
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.301646,
-          "lng": 8.8468494
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schulehinwil.ch/oberdorf/schulleben/kurzportrait/p-334/",
-      "lastName": "Gredig",
-      "schoolId": "01K4W8ZSJDW9KJ2PD9SV8S8H4P",
-      "firstName": "Stephanie",
-      "schoolName": "Oberdorf",
-      "phoneNumber": "044 938 93 95",
-      "organisationId": "gLS7SROqigIRllYWxm6D",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1789689600000,
-    "subjects": [
-      "french",
-      "sports",
-      "mathematics",
-      "music",
-      "fineArts",
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M10TBNCN0JJ9GN05BE06MP8V/timeTables/ce6ae828-42ca-4294-bd7d-59ac1d235fe1.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
   },
   {
     "id": "01M0YS3FWDXZQA9G4DKN1M8ZDT",
@@ -345,7 +339,9 @@
   {
     "id": "01M0WNQDBZT53GTJBNBFSFD4TE",
     "additionalInformation": "Einsatztage verhandelbar ",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "hAMAOGdaSXfXJt7RnEIqCWxvJkO2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -413,7 +409,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M0SXF71T0QRP2ZJHWZX4DMMD",
@@ -686,7 +682,8 @@
     "affectedTeacherIds": [
       "KWoQJozDpgM99GTs02SEcP7fmsp1",
       "oBt4a1AAFuYKArdyezXJ3VnUYBC2",
-      "lnG9r6wLqTcqguQloVPKEes2XEX2"
+      "lnG9r6wLqTcqguQloVPKEes2XEX2",
+      "onTYxbFKdebd2vlx2Qi4iGe9hRF3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -756,14 +753,15 @@
       "wednesdayMorning",
       "thursdayMorning"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01M0A00C4QMKZSZATPFPEQK1BR",
     "additionalInformation": "Es handelt sich um eine Mutterschaftsvertretung. \\nDie zwei Klassenzimmer sind im selben Gebäude und liegen gleich nebeneinander. \\nNachmittags (Mo und Di) Halbklassenunterricht bei der 1a mit NMG und RKE. ",
     "affectedTeacherIds": [
       "iGkW4RVQfMQtqTpj0BJjQMhbeHa2",
-      "ELQtmvRf6vdToKKaJ2crB4xkyzl1"
+      "ELQtmvRf6vdToKKaJ2crB4xkyzl1",
+      "onTYxbFKdebd2vlx2Qi4iGe9hRF3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
