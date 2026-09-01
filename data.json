@@ -1,5 +1,83 @@
 [
   {
+    "id": "01M1DY09XC269V9M5B7DV4JCW6",
+    "additionalInformation": "Für unsere 5. & 6. Klasse suchen wir ab sofort eine Mutterschaftsvertretung für 23 WL / 84%. \\nWir bieten ein spannendes interdisziplinäres Arbeitsfeld und eine einmalige Lage am Zürichsee. Kontakt Schulleitung: Marcel Vosswinkel 078 224 12 60",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788247812013,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1808438400000,
+    "grades": [
+      "mixedAgeLearning",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788247813023,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 23,
+    "publishTimestamp": 1788247812012,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "marcel.vosswinkel@sprachheilschulen.ch",
+      "address": {
+        "city": "Stäfa",
+        "canton": "zurich",
+        "street": "Seestrasse",
+        "country": "CH",
+        "zipCode": 8712,
+        "streetNr": "101",
+        "coordinates": {
+          "lat": 47.2382305,
+          "lng": 8.7260323
+        }
+      },
+      "culture": "de-CH",
+      "website": "sprachheilschulen.ch/sprachheilschulen/staefa",
+      "lastName": "Vosswinkel",
+      "schoolId": "01KG245JAJS9W161ENBJVCT5AG",
+      "firstName": "Marcel",
+      "schoolName": "Sprachheilschule Stäfa",
+      "phoneNumber": "+41782241260",
+      "organisationId": "01KKKKCRTAD4AQCNB86XB7JXK3",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 11,
+      "additionalInformation": "Die Sprachheilschule Stäfa ist eine Tagessonderschule für normalbegabte Kinder mit Spracherwerbsstörung. "
+    },
+    "startAsOfNow": true,
+    "startTimestamp": 1788220800000,
+    "subjects": [
+      "if"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M1C9WQN15R1RETW1VG4EG82R",
     "additionalInformation": "Unterrichtszeiten\\nMittwoch, 08.20 bis 11.55 Uhr\\nDonnerstag, 08.20 bis 11.55 Uhr / 13.45 bis 16.15 Uhr\\nFreitag, 08.20  bis 11.55 Uhr / 13.45 bis 15.20 Uhr",
     "affectedTeacherIds": [
@@ -333,85 +411,6 @@
     "numberOfOpenApplications": 4
   },
   {
-    "id": "01M1BXKJT1655CAH1JXHC8FFBX",
-    "additionalInformation": "🏫 Schule Gossau, Schulhaus Schönbüel\\n\\nUnsere LP ist abwesend und wir suchen eine Vertretung für Mi 02.09.2026 ⭐️\\n\\n📅 Mittwoch 02.09.2026\\n\\n🏫 Schulhaus Schönbüel, in Herschmettlen b. Gossau ZH\\n\\n📚 4 Lektionen am Vormittag (D, MA, MA, BS).\\n\\nBasisjahr oder Diplom erwünscht.\\nGerne Bewerbung direkt hier einreichen.",
-    "affectedTeacherIds": [
-      "Ac1Em56jzNUyJ9HxxJ4HC9YZWDQ2",
-      "EHyYj1zS48WvJDc2nH5lYxKg1ek1",
-      "qpguoyPayvaSMPLFWBheEHeSqxj2",
-      "ZRZkEY70eAaAYEr75fOPnFdgLU62"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788180286273,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1788307200000,
-    "grades": [
-      "mixedAgeLearning",
-      "forthClass",
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788180286604,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1788180286273,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "anne.engmann@schulegossau-zh.ch",
-      "address": {
-        "city": "Gossau ZH",
-        "canton": "zurich",
-        "street": "Bergstrasse",
-        "country": "Schweiz",
-        "zipCode": 8625,
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.3034049,
-          "lng": 8.759650599999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulegossau-zh.ch",
-      "lastName": "Engmann",
-      "schoolId": "2sVvfsUw6JaoJ5vvDictkzwi7bg1",
-      "firstName": "Anne",
-      "schoolName": "Primarschule Gossau ZH",
-      "phoneNumber": "+41799518625",
-      "organisationId": "Y9rJisfZePkiXLcjJMCO",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": "4./5. Klasse altersdurchmischt."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788307200000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01M1BQED3Q5HX8JYRCVZ1M89MN",
     "additionalInformation": "Falls du nur den Montag oder nur Dienstag - Donnerstag übernehmen könntest, wäre das Vikariat auch aufteilbar. ",
     "affectedTeacherIds": [
@@ -503,7 +502,8 @@
     "additionalInformation": "zusätzlich zu den 22 WL: 2 Aufgabenstunden; 4x15min Auffangzeit; 2x60min Mittagsbetreuung (mit den Schüler*innen zusammen essen)",
     "affectedTeacherIds": [
       "hYI4WDCmctRv7BuPI7UonPnqayg2",
-      "kXKfBGO4XyZV20sGWTJWLnqkTIW2"
+      "kXKfBGO4XyZV20sGWTJWLnqkTIW2",
+      "ZpbdUKfG4VSFpThXoApGPgPvKgX2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -582,94 +582,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M1BHPB1TX5Z01R6M3X874D2J",
-    "additionalInformation": "zusätzlich zu den 22 WL: 2 Aufgabenstunden; 4x15min Auffangzeit; 2x60min Mittagsbetreuung (mit den Schüler*innen zusammen essen)",
-    "affectedTeacherIds": [
-      "FU3tvRTRDbWoHiW7LdOaVaNymFt1",
-      "IEHbZCSWUffIotq2Iytxr5NFtmt1",
-      "nVip7iLBdAXV1jatGkWEnjYCYXA3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788167793722,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "mixedAgeLearning",
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788167793829,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1788167793722,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "katja.meier@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Limmtstrasse ",
-        "country": "CH",
-        "zipCode": 8005,
-        "streetNr": "90",
-        "coordinates": {
-          "lat": 47.3893214,
-          "lng": 8.5131587
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/limmat.html",
-      "lastName": "Meier",
-      "schoolId": "h6ALS3uotMMtaqbKxmRtJMeUN6i1",
-      "firstName": "Katja",
-      "schoolName": "Tagesschule Limmat",
-      "phoneNumber": "0444130482",
-      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
-      "directionInformation": "5min vom HB Zürich entfernt. "
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": "Mutterschaftsvertretung; Absprache im Vorfeld ist zwingend; Unterstützendes Team im Schulhaus - herzige Klasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792454400000,
-    "subjects": [
-      "mathematics",
-      "german",
-      "natureHumanSociety",
-      "fineArts",
-      "music",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M1BBMGMZBMNB0CYT83N3748Z",
@@ -841,7 +754,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M13SZKQMWNF15AF5396X2KKY",
@@ -922,90 +835,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M0YS3FWDXZQA9G4DKN1M8ZDT",
-    "additionalInformation": "Es handelt sich hier um eine Einzelbeschulung an der Tagessonderschule momo in Uster. Das Kind ist in der 1. Klasse, angedacht sind 3 Lektionen 8-11 Uhr Montag bis Freitag.\\nErfahrungen in Einzelbeschulung sind erwünscht.\\nBei Unsicherheiten bitte bei David Sigos, Schulleiter Springer, 044 244 89 37 oder schulleitung@schulemomo.ch melden.",
-    "affectedTeacherIds": [
-      "yfWhYItrDAblhstWq56xkc3XaZA2",
-      "PTjqFSUsY5UInsbUO2oZicrULSH3",
-      "Py7dRfpb7GT23lv75Pa6HwQjG8j1",
-      "1o94h7sy6qR3ptfUW9iWzdOtfuo1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787739357069,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "specialClass",
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1787739357136,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 15,
-    "publishTimestamp": 1787739357068,
-    "role": "currative",
-    "school": {
-      "logo": {
-        "logoUrl": "public_schools/b7It5wBwcXR8HdhUC4VSHahrM3V2/logos/0e2e0439-6d48-48ca-9c26-f57d6e7637da.jpg",
-        "blurhash": "LSQ,L1xu-;%M~qRjRjay9FWBRjay",
-        "cloudflareId": "school:b7It5wBwcXR8HdhUC4VSHahrM3V2:0e2e0439-6d48-48ca-9c26-f57d6e7637da.jpg"
-      },
-      "email": "schulleitung@schulemomo.ch",
-      "address": {
-        "city": "Uster",
-        "canton": "zurich",
-        "street": "Seestrasse ",
-        "country": "CH",
-        "zipCode": 8610,
-        "streetNr": "110",
-        "coordinates": {
-          "lat": 47.3480011,
-          "lng": 8.696028
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulemomo.ch ",
-      "lastName": "Schule momo",
-      "schoolId": "b7It5wBwcXR8HdhUC4VSHahrM3V2",
-      "firstName": "Schulleitung",
-      "schoolName": "Schule momo",
-      "phoneNumber": "0449401086",
-      "organisationId": "h6HjLQWf10Xjd3OjOkLS",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 1,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788739200000,
-    "subjects": [
-      "issIsr"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 1
   },
   {
     "id": "01M0WNQDBZT53GTJBNBFSFD4TE",
@@ -1435,85 +1264,6 @@
     "numberOfOpenApplications": 2
   },
   {
-    "id": "01M0FM87FW9E21NDCP8WBDKE3R",
-    "additionalInformation": "Di und Do: Sport in ADL: 1./3. Klasse\\nMi: BG in Halbklassen: 1. Klasse\\n\\nAb 31.08.2026 oder nach Vereinbarung\\nWäre super, wenn bis zu den Sommerferien. \\nFalls nur kürzerer Einsatz, freue ich mich auch auf die Zuschriften!",
-    "affectedTeacherIds": [
-      "KWoQJozDpgM99GTs02SEcP7fmsp1",
-      "oBt4a1AAFuYKArdyezXJ3VnUYBC2",
-      "lnG9r6wLqTcqguQloVPKEes2XEX2",
-      "onTYxbFKdebd2vlx2Qi4iGe9hRF3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787230952956,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815696000000,
-    "grades": [
-      "firstClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787230952993,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 8,
-    "publishTimestamp": 1787230952956,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "sekretariat.schulebachtobel@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Bachtobelstrasse",
-        "country": "CH",
-        "zipCode": 8045,
-        "streetNr": "111",
-        "coordinates": {
-          "lat": 47.3588387,
-          "lng": 8.5116538
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel.html",
-      "lastName": "Hofer",
-      "schoolId": "v827wIi6T8bfiRPbcKZH4u8HGzX2",
-      "firstName": "Sabrina",
-      "schoolName": "Bachtobel",
-      "phoneNumber": "044 413 18 37",
-      "organisationId": "wOjojIaUYufY86lm5eKY",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788134400000,
-    "subjects": [
-      "sports",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01M0A00C4QMKZSZATPFPEQK1BR",
     "additionalInformation": "Es handelt sich um eine Mutterschaftsvertretung. \\nDie zwei Klassenzimmer sind im selben Gebäude und liegen gleich nebeneinander. \\nNachmittags (Mo und Di) Halbklassenunterricht bei der 1a mit NMG und RKE. ",
     "affectedTeacherIds": [
@@ -1593,85 +1343,5 @@
       "tuesdayAfternoon"
     ],
     "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01KWHTKPP9YXAHSBZSHD23PSQB",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "ft2J8tWB71PRALQ5ADI1gb4sHH22",
-      "JXUOxwF3EEYgCqS5H514nhkXH9Y2",
-      "4cmINdG9ExQJEojFeeWBcM1TDli1",
-      "YU8AzUMUc5Odq74cU3sFxnIg1rn1",
-      "suy3szJwjHdvRXS0QEcrn6pfTuI3",
-      "Hg0M7jeHdxf2DpYTX6JKGwLshrm2",
-      "5xsWLVXTuNRZUBWEJj5L6XbgCqt2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1783009761993,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "smallClass",
-      "specialClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1783009762384,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1783009761992,
-    "role": "currative",
-    "school": {
-      "email": "rebekka.eichhorn@zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Himmeristrasse",
-        "country": "CH",
-        "zipCode": 8052,
-        "streetNr": "57",
-        "coordinates": {
-          "lat": 47.4186029,
-          "lng": 8.5356422
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schule/de/hps.html",
-      "lastName": "Eichhorn",
-      "schoolId": "bllJ7Gi6Gpf242PfOv2GmUxFdfC3",
-      "firstName": "Rebekka",
-      "schoolName": "HPS der Stadt Zürich, Standort Staudenbühl",
-      "phoneNumber": "044 413 31 41",
-      "organisationId": "01K9YQZ5CH649SCKTCHPMWV6AB",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 7,
-      "additionalInformation": "Unterstützung durch drei Betreungspersonen in der Klasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788739200000,
-    "subjects": [],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "wednesdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   }
 ]
