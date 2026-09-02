@@ -1,8 +1,90 @@
 [
   {
+    "id": "01M1HHYH9F5WF6SPRTNB1M3J1S",
+    "additionalInformation": "Die Klassenlehrperson fällt verletzungsbedingt aktuell zu 50 % aus. Sie bleibt während dieser Zeit für Absprachen und einen Austausch erreichbar, sodass eine gute Übergabe und Begleitung gewährleistet sind. Im Unterricht wird die Stellvertretung zudem durch die IF-Lehrperson sowie eine Schulassistenz unterstützt. Eine enge Zusammenarbeit im Klassenteam ist sichergestellt.",
+    "affectedTeacherIds": [
+      "lYqQm6Huj2Ueuy3EnRwQ0Xd9IZA2",
+      "sutalrVc7UcFLj4PUuwtQoktKxi2",
+      "WWtNh8loEkZN7VK9Zoj3VFWbnQo1",
+      "JhZasV5RkcMYtSfJa7L8qws0o6I2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788369388847,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1788912000000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788369388810,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 8,
+    "publishTimestamp": 1788369388846,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "sekretariat.schulekuengenmatt@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Küngenmatt",
+        "country": "Schweiz",
+        "zipCode": 8055,
+        "streetNr": "66",
+        "coordinates": {
+          "lat": 47.3684065,
+          "lng": 8.5026941
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulen-zuerich.ch/kuengenmatt",
+      "lastName": "Becker",
+      "schoolId": "IdJNw31W1zTGrf3aXDG3DOq07mJ3",
+      "firstName": "Sarah",
+      "schoolName": "Küngenmatt",
+      "phoneNumber": "+41444130920",
+      "organisationId": "tMn9rXqLaF0aVyTNNbNO",
+      "directionInformation": "Anfahrt per ÖV (VBZ): Haltestelle Schaufelbergerstrasse | Rückfragen per Tel. oder E-Mail"
+    },
+    "schoolClass": {
+      "numberOfStudents": 24,
+      "additionalInformation": "Die Klasse 1b besteht aus 24 fröhlichen und lebendigen Kindern, die im August gemeinsam in ihren neuen Schulabschnitt gestartet sind. Die Klasse ist bunt zusammengesetzt und befindet sich noch im Prozess, als Gemeinschaft zusammenzuwachsen sowie die neuen Strukturen und Abläufe des Schulalltags kennenzulernen."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1788739200000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "fineArts",
+      "music"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M1HHYH9F5WF6SPRTNB1M3J1S/timeTables/82e6f069-cfd8-4a3a-b4a1-1ad317db7e87.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01M1GYNTDSBBA2KE8PK39FY8C7",
     "additionalInformation": "Sämtliche Lektionen an der ADL 5./6. Klasse",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -73,170 +155,7 @@
       "fridayMorning",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M1GVC0FE6HH1015ER3BAA76Q",
-    "additionalInformation": "Eine kommunale Stellvertretung am Montagnachmittag 2 Lektionen DaZ könnte ebenfalls übernommen werden.",
-    "affectedTeacherIds": [],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788345713134,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1789084800000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788345713221,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1788345713133,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "anna.dimaggio@schule-rft.ch",
-      "address": {
-        "city": "Rorbas",
-        "canton": "zurich",
-        "street": "Schulhausstrasse ",
-        "country": "CH",
-        "zipCode": 8427,
-        "streetNr": "10",
-        "coordinates": {
-          "lat": 47.53138510000001,
-          "lng": 8.5768493
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-rft.ch",
-      "lastName": "Di Maggio",
-      "schoolId": "uQ3mXiYi3SSVXtABxRWehGhAZaY2",
-      "firstName": "Anna",
-      "schoolName": "Primarschule Rorbas (UST)",
-      "phoneNumber": "077 522 95 53",
-      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 25,
-      "additionalInformation": "16 Lektionen begleitet durch die Unterrichtsassistenz\\n12 Lektionen TT oder Halbklassenunterricht\\n7 Lektionen begleitet durch die Heilpädagogin"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788393600000,
-    "subjects": [
-      "german",
-      "music",
-      "sports",
-      "mathematics",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts",
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M1GVC0FE6HH1015ER3BAA76Q/timeTables/37d29e6d-35d2-46d1-ae75-900e83e14a5d.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M1GJ15CHJ2NW7QCH4YZVBVJ1",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "t3mOxjm7Tue2iTmOBvBGFOpB20O2",
-      "MyYABEs0kBYJDxoWdF6aE1oujRk2",
-      "DpLIbMcdInhBzy8ht4VD3DYlrYr1",
-      "W2Rp9p7TNXUZgX80Ki6VqjbAnut1",
-      "PTjqFSUsY5UInsbUO2oZicrULSH3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788335920529,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1788480000000,
-    "grades": [
-      "secondClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788335920636,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 11,
-    "publishTimestamp": 1788335920528,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "schulleitung.ruemelbach@psruemlang.ch",
-      "address": {
-        "city": "Rümlang",
-        "canton": "zurich",
-        "street": "Rümelbachstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8153,
-        "streetNr": "30",
-        "coordinates": {
-          "lat": 47.4465563,
-          "lng": 8.5345593
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.psruemlang.ch",
-      "lastName": "Rümelbach",
-      "schoolId": "eU54hNc32QUxa1YLGzvnVz7wGEp1",
-      "firstName": "Schule",
-      "schoolName": "Schule Rümelbach",
-      "phoneNumber": "043 211 20 44",
-      "organisationId": "VOOZdWP91gOOxsJhsS8g",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 6,
-      "additionalInformation": "Liebe*r Vikar*in\\nWir suchen eine DaZ Lektionen eine Stellvertretung für die 2. und 3.Klasse\\nAlles ist vorbereitet und es hat viel Material.\\n\\nDo.3.9.26 7L\\n07.30 bis 10.00 / 13.00 bi s16.30\\n\\nFr. 4.9.26 4L\\n10.00 bis 12.00 / 13.00 bis 14.30\\n\\nDanke\\nLiebe Grüsse Andrea Rhyner"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788393600000,
-    "subjects": [
-      "germanAsSecondLanguage"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M1DY09XC269V9M5B7DV4JCW6",
