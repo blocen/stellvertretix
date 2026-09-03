@@ -1,5 +1,234 @@
 [
   {
+    "id": "01M1KH9TPW1K9E1PX47ECB1YGE",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "efFEZX7H43V0xM0Qlv13suMiwbs1",
+      "FXgZq28dy6PLbdfIb4TvupX3RoH2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788435819228,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1789084800000,
+    "grades": [
+      "mixedAgeLearning"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788435819274,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1788435819228,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "cornelia.voltzenlogel@psog.ch",
+      "address": {
+        "city": "Fahrweid",
+        "canton": "zurich",
+        "street": "Lenggenbachstrasse",
+        "country": "CH",
+        "zipCode": 8951,
+        "streetNr": "25",
+        "coordinates": {
+          "lat": 47.4106912,
+          "lng": 8.416206899999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.psog.ch",
+      "lastName": "Voltzenlogel",
+      "schoolId": "01KEEYX81QX08QGMYXM2A50BQ6",
+      "firstName": "Cornelia",
+      "schoolName": "Fahrweid",
+      "phoneNumber": "+41447474343",
+      "organisationId": "6GXyw9tp35G3iWdPNx7M",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1788739200000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "natureAndTechnology"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M1KH9TPW1K9E1PX47ECB1YGE/timeTables/97cec97c-c6d0-4db3-a31c-820479b65052.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M1KENWECQ3PP62VNZF2E9AQQ",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788433068492,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1810771200000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788433068702,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1788433068492,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "antonella.granata@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Dachslernstrasse",
+        "country": "CH",
+        "zipCode": 8048,
+        "streetNr": "5",
+        "coordinates": {
+          "lat": 47.387924,
+          "lng": 8.481421
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/dachslernstrasse.html",
+      "lastName": "Antonella",
+      "schoolId": "9LEfeaRUhJTDS56lWOg5l3Ehrju1",
+      "firstName": "Granata",
+      "schoolName": "Dachslern-Feldblumen",
+      "phoneNumber": "0041788659788",
+      "organisationId": "ZLXeHTjIe84V659HWzIo",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1806537600000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M1K7TP08WZ9M0855FWNCZ1V1",
+    "additionalInformation": "übernächste Woche ist Mo schulfrei (Knabenschiessen) und der Dienstag noch unsicher. ",
+    "affectedTeacherIds": [
+      "x6CCsx3j4iU45uLt6lSZ1kfHxt33",
+      "BhbsIrUqWje4iI2FVjk0ok6TFr43",
+      "FXgZq28dy6PLbdfIb4TvupX3RoH2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788425885704,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1789430400000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788425885794,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1788425885703,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "schulleitung@schule-kilchberg.ch",
+      "address": {
+        "city": "Kilchberg ZH",
+        "canton": "zurich",
+        "street": "Alte Landstrasse",
+        "country": "CH",
+        "zipCode": 8802,
+        "streetNr": "120",
+        "coordinates": {
+          "lat": 47.3237144,
+          "lng": 8.5449845
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-kilchberg.ch",
+      "lastName": "Kilchberg",
+      "schoolId": "IJ7PiaBuWfe3Q58QpyYgqkzq2lq2",
+      "firstName": "Schulleitung",
+      "schoolName": "Primarschule Kilchberg",
+      "phoneNumber": "0447163300",
+      "organisationId": "01K6MZ0TGMB1F9XQ62AH2YMHRW",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1788739200000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
     "id": "01M1HHYH9F5WF6SPRTNB1M3J1S",
     "additionalInformation": "Die Klassenlehrperson fällt verletzungsbedingt aktuell zu 50 % aus. Sie bleibt während dieser Zeit für Absprachen und einen Austausch erreichbar, sodass eine gute Übergabe und Begleitung gewährleistet sind. Im Unterricht wird die Stellvertretung zudem durch die IF-Lehrperson sowie eine Schulassistenz unterstützt. Eine enge Zusammenarbeit im Klassenteam ist sichergestellt.",
     "affectedTeacherIds": [
@@ -83,7 +312,8 @@
     "id": "01M1GYNTDSBBA2KE8PK39FY8C7",
     "additionalInformation": "Sämtliche Lektionen an der ADL 5./6. Klasse",
     "affectedTeacherIds": [
-      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73"
+      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73",
+      "FXgZq28dy6PLbdfIb4TvupX3RoH2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -404,85 +634,6 @@
     "numberOfOpenApplications": 4
   },
   {
-    "id": "01M1BY7KP7WAN80ZB3BXRHESWV",
-    "additionalInformation": "Mo: 8 bis 10 Uhr\\nDi 8 bis 12 Uhr\\nMi 10 bis 12 Uhr\\nDo 8 bis 12 Uhr\\nEs ist alles TTG Unterricht, welcher jeweils in der Halbklasse stattfindet.",
-    "affectedTeacherIds": [
-      "x6CCsx3j4iU45uLt6lSZ1kfHxt33",
-      "yMYviBReTUTlTjVsWmm2Cpq3R542",
-      "PTjqFSUsY5UInsbUO2oZicrULSH3",
-      "5MR7znC26Ae1BTJp123Hvp9B7a33"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788180942535,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790208000000,
-    "grades": [
-      "forthClass",
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788180942652,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1788180942534,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "barbara.neff@schulemeilen.ch",
-      "address": {
-        "city": "Meilen",
-        "canton": "zurich",
-        "street": "Höschstrasse",
-        "country": "Schweiz",
-        "zipCode": 8706,
-        "streetNr": "57",
-        "coordinates": {
-          "lat": 47.2776844,
-          "lng": 8.622463
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulemeilen.ch",
-      "lastName": "Neff Konprifti",
-      "schoolId": "MCtsCdWbCoNC5IxE54yGOqZFVz12",
-      "firstName": "Barbara",
-      "schoolName": "Primarschule Feldmeilen",
-      "phoneNumber": "079 451 79 88",
-      "organisationId": "7XBa2ubGpMVvlQ1NrrdK",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": "Es sind unterschiedliche Klassen an den einzelnen Tagen (verschiedene 4.  und eine 5. Klasse)."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1789948800000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M1BQED3Q5HX8JYRCVZ1M89MN",
     "additionalInformation": "Falls du nur den Montag oder nur Dienstag - Donnerstag übernehmen könntest, wäre das Vikariat auch aufteilbar. ",
     "affectedTeacherIds": [
@@ -736,95 +887,6 @@
       "tuesdayAfternoon",
       "thursdayAfternoon",
       "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M1B1ETVVVMGZNJ5Q4BKZC6PC",
-    "additionalInformation": "Die Lehrperson fällt leider krankheitshalber seit heute Morgen aus. Danke für jede Unterstützung.",
-    "affectedTeacherIds": [
-      "rZc4Ku0XL3PYrcLsziUpbE5DwxX2",
-      "PTjqFSUsY5UInsbUO2oZicrULSH3",
-      "19KpQCyqkXSJpY2bUAX0L758H2o2",
-      "dNSUMvme7rcjkIiblqefBHgYJK82"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788150770556,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1788480000000,
-    "grades": [
-      "smallClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1788150770763,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 26,
-    "publishTimestamp": 1788150770555,
-    "role": "class",
-    "school": {
-      "logo": {
-        "logoUrl": "public_schools/b7It5wBwcXR8HdhUC4VSHahrM3V2/logos/0e2e0439-6d48-48ca-9c26-f57d6e7637da.jpg",
-        "blurhash": "LSQ,L1xu-;%M~qRjRjay9FWBRjay",
-        "cloudflareId": "school:b7It5wBwcXR8HdhUC4VSHahrM3V2:0e2e0439-6d48-48ca-9c26-f57d6e7637da.jpg"
-      },
-      "email": "schulleitung@schulemomo.ch",
-      "address": {
-        "city": "Uster",
-        "canton": "zurich",
-        "street": "Seestrasse ",
-        "country": "CH",
-        "zipCode": 8610,
-        "streetNr": "110",
-        "coordinates": {
-          "lat": 47.3480011,
-          "lng": 8.696028
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulemomo.ch ",
-      "lastName": "Schule momo",
-      "schoolId": "b7It5wBwcXR8HdhUC4VSHahrM3V2",
-      "firstName": "Schulleitung",
-      "schoolName": "Schule momo",
-      "phoneNumber": "0449401086",
-      "organisationId": "h6HjLQWf10Xjd3OjOkLS",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 5,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1788134400000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "natureAndTechnology",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 0
   },
@@ -1247,7 +1309,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M0J9EHN6P0B6WRQXV4RA3RDP",
