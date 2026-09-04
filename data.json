@@ -1,5 +1,247 @@
 [
   {
+    "id": "01M1NZ6BN1D3JR5EFA8SGV47A6",
+    "additionalInformation": "Die Klassenlehrperson fällt verletzungsbedingt aktuell zu 50 % aus. Sie bleibt während dieser Zeit für Absprachen und einen Austausch erreichbar, sodass eine gute Übergabe und Begleitung gewährleistet sind. Im Unterricht wird die Stellvertretung zudem durch die IF-Lehrperson sowie eine Schulassistenz unterstützt. Eine enge Zusammenarbeit im Klassenteam ist sichergestellt.",
+    "affectedTeacherIds": [
+      "FlkgPVXPlnRNQVLgWzQKMzTAPzG2",
+      "5eZAl0MedlZCchamuCbZfDzGmGX2",
+      "ZpbdUKfG4VSFpThXoApGPgPvKgX2",
+      "vlrkyRvmdqffCzkULpOBJzQaqp22",
+      "WGmHPYxAvKdjnV9mo9oxxxn29B12"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788517494433,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1788825600000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788517494442,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 8,
+    "publishTimestamp": 1788517494433,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "sekretariat.schulekuengenmatt@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Küngenmatt",
+        "country": "Schweiz",
+        "zipCode": 8055,
+        "streetNr": "66",
+        "coordinates": {
+          "lat": 47.3684065,
+          "lng": 8.5026941
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulen-zuerich.ch/kuengenmatt",
+      "lastName": "Becker",
+      "schoolId": "IdJNw31W1zTGrf3aXDG3DOq07mJ3",
+      "firstName": "Sarah",
+      "schoolName": "Küngenmatt",
+      "phoneNumber": "+41444130920",
+      "organisationId": "tMn9rXqLaF0aVyTNNbNO",
+      "directionInformation": "Anfahrt per ÖV (VBZ): Haltestelle Schaufelbergerstrasse | Rückfragen per Tel. oder E-Mail"
+    },
+    "schoolClass": {
+      "numberOfStudents": 24,
+      "additionalInformation": "Die Klasse 1b besteht aus 24 fröhlichen und lebendigen Kindern, die im August gemeinsam in ihren neuen Schulabschnitt gestartet sind. Die Klasse ist bunt zusammengesetzt und befindet sich noch im Prozess, als Gemeinschaft zusammenzuwachsen sowie die neuen Strukturen und Abläufe des Schulalltags kennenzulernen."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1788739200000,
+    "subjects": [
+      "fineArts",
+      "mathematics",
+      "german"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M1NZ6BN1D3JR5EFA8SGV47A6/timeTables/f5100b08-4c76-4e89-915f-27d2d493f225.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01M1NX8NM9F4GXS102D2FYNKPR",
+    "additionalInformation": "Suche für dieselbe Lehrperson (DaZ Unterricht MST) auch eine Stellvertretung an folgenden Tagen:\\n- DO, 22.4.27\\n- MI, 19.5.27",
+    "affectedTeacherIds": [
+      "P2ubJJ2J9tTqEBP5p1ydNDNs5bx2",
+      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
+      "MyYABEs0kBYJDxoWdF6aE1oujRk2",
+      "pUyJRJSYgjQhGZ4fsVKVUq6w0Gf1"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788515473033,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795564800000,
+    "grades": [
+      "forthClass",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788515473074,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 18,
+    "publishTimestamp": 1788515473033,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "karin.rotta@schulen-wb.ch",
+      "address": {
+        "city": "Wangen",
+        "canton": "zurich",
+        "street": "Unterdorfstrasse",
+        "country": "Schweiz",
+        "zipCode": 8602,
+        "streetNr": "50A",
+        "coordinates": {
+          "lat": 47.4132799,
+          "lng": 8.6418935
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulen-wb.ch",
+      "lastName": "Rotta",
+      "schoolId": "FgVTTR9KKHNDW2y11rP5RbHEw0D2",
+      "firstName": "Karin",
+      "schoolName": "Schule Oberwisen",
+      "phoneNumber": "+41448328534",
+      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 12,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795392000000,
+    "subjects": [
+      "germanAsSecondLanguage"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M1NX8NM9F4GXS102D2FYNKPR/timeTables/3c18e1b8-5b0d-4a0d-8528-a10e94865c25.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01M1NS9QWBYWYF51RG4WJEEVGG",
+    "additionalInformation": "Wir suchen ab sofort, es besteht die Möglichkeit einer Festanstellung (falls Interesse) ab 19.10.2026.",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788511313803,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790899200000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788511313880,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 18,
+    "publishTimestamp": 1788511313802,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "susanne.twerenboldadank@primarschule-uster.ch",
+      "address": {
+        "city": "Uster",
+        "canton": "zurich",
+        "street": "Gschwaderstrasse",
+        "country": "CH",
+        "zipCode": 8610,
+        "streetNr": "70",
+        "coordinates": {
+          "lat": 47.3608038,
+          "lng": 8.716761
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.primarschule-uster.ch/gschwader/2636",
+      "lastName": "Twerenbold Adank",
+      "schoolId": "szQB1Z6J6HZMybzDl94Po5Bmrqc2",
+      "firstName": "Susanne",
+      "schoolName": "Gschwader",
+      "phoneNumber": "044 994 15 02",
+      "organisationId": "01K9C93F2HS777MGQ84870A1XN",
+      "directionInformation": "Bus vom Bahnhof Uster"
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": true,
+    "startTimestamp": 1788480000000,
+    "subjects": [
+      "german",
+      "english",
+      "music",
+      "mathematics",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "tuesdayAfternoon",
+      "wednesdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M1KTB658NPRTJ0WHF9VX12CF",
     "additionalInformation": "Mutterschaftsvertretung. Klassenlehrerin zu 50% krankgeschrieben infolge Schwangerschaft. Entsprechend Möglichkeit zur Zusammenarbeit und Übernahme von Vorbereitung. \\nEbenfalls: Möglich, dass das Pensum, je nach Verlauf der Schwangerschaft, während des VIKs noch ansteigt. ",
     "affectedTeacherIds": [],
@@ -80,7 +322,9 @@
   {
     "id": "01M1KSR2KDYQQ80A0VEEC24SAQ",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "hAMAOGdaSXfXJt7RnEIqCWxvJkO2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -146,7 +390,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M1KPR4FVGHKFXVJNYFPP49ZP",
@@ -245,7 +489,7 @@
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1788440536919,
-    "partialTakeoverPossible": true,
+    "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 16,
@@ -283,7 +527,10 @@
     "startAsOfNow": false,
     "startTimestamp": 1789516800000,
     "subjects": [
-      "germanAsSecondLanguage"
+      "german",
+      "mathematics",
+      "natureHumanSociety",
+      "otherSubject"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -617,83 +864,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M1BYCCPR0QRJZPEKHX6RAYDZ",
-    "additionalInformation": "Am Dienstag sind es 4 WL in zwei verschiedenen 1. Klassen (8 bis 12 Uhr).\\nAm Donnerstag sind es 2 WL von 10 bis 12 Uhr in einer 3. Klasse.",
-    "affectedTeacherIds": [
-      "TndYaVr0hBdfZI8zmL71WklQHIn1",
-      "g4zaEVH1CoRtQljW7TfQdWcs9Dt2",
-      "B8mhJiHXyUMiXoFWZqXv0esIrGr2",
-      "KS9R4cNztYZNAw4oFAHCsW74Gzp2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788181099224,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790208000000,
-    "grades": [
-      "firstClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788181099309,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1788181099224,
-    "role": "currative",
-    "school": {
-      "logo": null,
-      "email": "barbara.neff@schulemeilen.ch",
-      "address": {
-        "city": "Meilen",
-        "canton": "zurich",
-        "street": "Höschstrasse",
-        "country": "Schweiz",
-        "zipCode": 8706,
-        "streetNr": "57",
-        "coordinates": {
-          "lat": 47.2776844,
-          "lng": 8.622463
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulemeilen.ch",
-      "lastName": "Neff Konprifti",
-      "schoolId": "MCtsCdWbCoNC5IxE54yGOqZFVz12",
-      "firstName": "Barbara",
-      "schoolName": "Primarschule Feldmeilen",
-      "phoneNumber": "079 451 79 88",
-      "organisationId": "7XBa2ubGpMVvlQ1NrrdK",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1790035200000,
-    "subjects": [
-      "if"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "thursdayMorning"
-    ],
-    "numberOfOpenApplications": 4
   },
   {
     "id": "01M1BQED3Q5HX8JYRCVZ1M89MN",
@@ -1054,7 +1224,7 @@
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1787668706901,
-    "partialTakeoverPossible": false,
+    "partialTakeoverPossible": true,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 5,
@@ -1105,7 +1275,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M0SXF71T0QRP2ZJHWZX4DMMD",
@@ -1372,93 +1542,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M0J9EHN6P0B6WRQXV4RA3RDP",
-    "additionalInformation": "zusätzlich zu den 22 WL: 2 Aufgabenstunden; 4x15min Auffangzeit; 2x60min Mittagsbetreuung (mit den Schüler*innen zusammen essen)",
-    "affectedTeacherIds": [
-      "ELQtmvRf6vdToKKaJ2crB4xkyzl1",
-      "Py7dRfpb7GT23lv75Pa6HwQjG8j1",
-      "o5s7JHPDx4VRcSkQLrvCZcChsPR2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787320288934,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "mixedAgeLearning",
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1787320289006,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1787320288934,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "katja.meier@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Limmtstrasse ",
-        "country": "CH",
-        "zipCode": 8005,
-        "streetNr": "90",
-        "coordinates": {
-          "lat": 47.3893214,
-          "lng": 8.5131587
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/limmat.html",
-      "lastName": "Meier",
-      "schoolId": "h6ALS3uotMMtaqbKxmRtJMeUN6i1",
-      "firstName": "Katja",
-      "schoolName": "Tagesschule Limmat",
-      "phoneNumber": "0444130482",
-      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
-      "directionInformation": "5min vom HB Zürich entfernt. "
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": "Mutterschaftsvertretung; Absprache im Vorfeld ist zwingend; Unterstützendes Team im Schulhaus - herzige Klasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788825600000,
-    "subjects": [
-      "mathematics",
-      "german",
-      "natureHumanSociety",
-      "fineArts",
-      "music",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   },
   {
     "id": "01M0A00C4QMKZSZATPFPEQK1BR",
