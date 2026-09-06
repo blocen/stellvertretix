@@ -1,8 +1,101 @@
 [
   {
+    "id": "01M1VEXSCR4NF5JA2CFRPPT2VD",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "oJpgF6dU3VMV4LYaPRvQup6s7a73",
+      "NrtrNl5drfftzOLoshajBGRhPnt2",
+      "smHV8c5I77SlhKUy73CBZLN4Nb73",
+      "S3hMNfwLBLghq6Yys1Gy4pYWM2x1",
+      "5fQq2RqOaye52rwm0CJ4Lpzm6wh2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788701762968,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1789084800000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788701763147,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1788701762967,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "schulleitung@schule-kilchberg.ch",
+      "address": {
+        "city": "Kilchberg ZH",
+        "canton": "zurich",
+        "street": "Alte Landstrasse",
+        "country": "CH",
+        "zipCode": 8802,
+        "streetNr": "120",
+        "coordinates": {
+          "lat": 47.3237144,
+          "lng": 8.5449845
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-kilchberg.ch",
+      "lastName": "Kilchberg",
+      "schoolId": "IJ7PiaBuWfe3Q58QpyYgqkzq2lq2",
+      "firstName": "Schulleitung",
+      "schoolName": "Primarschule Kilchberg",
+      "phoneNumber": "0447163300",
+      "organisationId": "01K6MZ0TGMB1F9XQ62AH2YMHRW",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1788739200000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts",
+      "music",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
     "id": "01M1PE659W31RVQPZ54V2N5ES6",
     "additionalInformation": "Wir suchen eine Stellvertretung für Montags, 1. und 2. Lektion für folgende Daten:\\n21.09. / 28.09. / 5.10. / 12.10 / 26.10. / 2.11 / 9. 11 / 23.11. / 30.11. / 7.12.",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "4dWfuF5vElYpNQp11InLfQCDVbU2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -67,7 +160,7 @@
     "workingBlocks": [
       "mondayMorning"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M1P610AGDNJ0NCJ4NJ9Q4NFW",
@@ -689,7 +782,9 @@
   {
     "id": "01M1DY09XC269V9M5B7DV4JCW6",
     "additionalInformation": "Für unsere 5. & 6. Klasse suchen wir ab sofort eine Mutterschaftsvertretung für 23 WL / 84%. \\nWir bieten ein spannendes interdisziplinäres Arbeitsfeld und eine einmalige Lage am Zürichsee. Kontakt Schulleitung: Marcel Vosswinkel 078 224 12 60",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "3EAFBRLtxORE8rFSAEcdXlSZcS33"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -762,7 +857,7 @@
       "tuesdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M1C727Z5BQD073ETFPFDPDYP",
@@ -1362,7 +1457,8 @@
     "id": "01M0SE2G6X778TTSF4G9HN9VXS",
     "additionalInformation": "Gewisse Affinität zur Sonderschule Typ A ist erwünscht.\\nBei Unsicherheiten bitte bei David Sigos, Schulleiter Springer, 044 244 89 37 oder schulleitung@schulemomo.ch melden.",
     "affectedTeacherIds": [
-      "suy3szJwjHdvRXS0QEcrn6pfTuI3"
+      "suy3szJwjHdvRXS0QEcrn6pfTuI3",
+      "3EAFBRLtxORE8rFSAEcdXlSZcS33"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -1445,7 +1541,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M0A00C4QMKZSZATPFPEQK1BR",
