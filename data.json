@@ -1,82 +1,10 @@
 [
   {
-    "id": "01M20TXE5FGHB90QXFBJFM5EX7",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "tEgaaFm9I7OGjouA6PrJJZWMNfv1",
-      "vQEzdx5VaKY638ESjQHPp3kV1Ce2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788882106544,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1788912000000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788882106696,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1788882106543,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "sekretariat.schulebachtobel@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Bachtobelstrasse",
-        "country": "CH",
-        "zipCode": 8045,
-        "streetNr": "111",
-        "coordinates": {
-          "lat": 47.3588387,
-          "lng": 8.5116538
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel.html",
-      "lastName": "Hofer",
-      "schoolId": "v827wIi6T8bfiRPbcKZH4u8HGzX2",
-      "firstName": "Sabrina",
-      "schoolName": "Bachtobel",
-      "phoneNumber": "044 413 18 37",
-      "organisationId": "wOjojIaUYufY86lm5eKY",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1788912000000,
-    "subjects": [
-      "germanAsSecondLanguage"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
     "id": "01M20QX2S1AB1GB9QZYQ34HM8A",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "BRjuV3nxSwhvQaIuOfRBFFbQuiM2"
+      "BRjuV3nxSwhvQaIuOfRBFFbQuiM2",
+      "3EAFBRLtxORE8rFSAEcdXlSZcS33"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -153,12 +81,14 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M20R4WZCA8S2KNX8XXKXWTV3",
     "additionalInformation": "Montag und Dienstag Frühstunde -> Start 7.30 Uhr \\nKlassenassistenz vorhanden. ",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "1RIonvhsCMXVG4Dgwe0VhDxsZm22"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -238,7 +168,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M20KFKGD9KWD2GRT522H1TNH",
@@ -1626,5 +1556,80 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M0WNQDBZT53GTJBNBFSFD4TE",
+    "additionalInformation": "Einsatztage verhandelbar ",
+    "affectedTeacherIds": [
+      "hAMAOGdaSXfXJt7RnEIqCWxvJkO2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787668706687,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1808438400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1787668706901,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 5,
+    "publishTimestamp": 1787668706686,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "jeannette.forster@schule-maur.ch",
+      "address": {
+        "city": "Forch",
+        "canton": "zurich",
+        "street": "Aeschstrasse ",
+        "country": "CH",
+        "zipCode": "8127",
+        "streetNr": "17",
+        "coordinates": {
+          "lat": 47.3270335,
+          "lng": 8.6558294
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule-maur.ch",
+      "lastName": "Forster",
+      "schoolId": "01KFFXWA2HXXSTFE6P7JRD8V1E",
+      "firstName": "Jeannette",
+      "schoolName": "Schulhaus Aesch",
+      "phoneNumber": "044 980 05 32",
+      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": "gut geführte 5. Klasse "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "french",
+      "music"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
   }
 ]
