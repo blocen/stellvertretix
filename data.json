@@ -1,82 +1,5 @@
 [
   {
-    "id": "01M2JXTFXH2B18A51BM74G453V",
-    "additionalInformation": "Von 7:30-12 Uhr. Bibi, 2L NMG, 2L M. ",
-    "affectedTeacherIds": [
-      "dcpAJXxGY4YsXHb9ZJ7QCwKc9oH2",
-      "MIiAa8wN1vcKWH8oYjeNdWsIhVv1",
-      "P2ubJJ2J9tTqEBP5p1ydNDNs5bx2",
-      "MJXdiaBRPaa3RCbG0iqXeCTVKga2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1789489135537,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1789516800000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1789489135598,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 5,
-    "publishTimestamp": 1789489135536,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "adelina.bajra@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Schürbungert",
-        "country": "Schweiz",
-        "zipCode": 8057,
-        "streetNr": "25",
-        "coordinates": {
-          "lat": 47.4023657,
-          "lng": 8.5389609
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/allenmoos.html",
-      "lastName": "Bajra",
-      "schoolId": "8PbeVcBhPYQU7bmdP1rUXTfX4Gi1",
-      "firstName": "Adelina",
-      "schoolName": "Allenmoos",
-      "phoneNumber": "044 413 05 06",
-      "organisationId": "dAeC2YqfW6Hbis8YiI49",
-      "directionInformation": "Die Schule Allenmoos liegt in 10min Gehdistanz zum Bucheggplatz und zum Milchbuck (diverse Bus-  und Tramverbindungen)."
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1789516800000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01M2JX5KVE4DRHEQS30WKNM3WR",
     "additionalInformation": "",
     "affectedTeacherIds": [],
@@ -644,7 +567,8 @@
     "additionalInformation": "Assistenzperson zur Unterstützung",
     "affectedTeacherIds": [
       "8eQf5hOkrmQbVYPmYHawiBnHees2",
-      "rBNIYD4gM9UhWMAblAv8PY0BbV72"
+      "rBNIYD4gM9UhWMAblAv8PY0BbV72",
+      "wlzOEQ2FPZWEFxW1Ed7kQeORyjp1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -712,7 +636,7 @@
     "workingBlocks": [
       "fridayMorning"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M2J3NHJF9GFTVB1FKH88K4BT",
@@ -1631,5 +1555,93 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 3
+  },
+  {
+    "id": "01M1BQED3Q5HX8JYRCVZ1M89MN",
+    "additionalInformation": "Falls du nur den Montag oder nur Dienstag - Donnerstag übernehmen könntest, wäre das Vikariat auch aufteilbar. ",
+    "affectedTeacherIds": [
+      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
+      "KNEus1X9YQSNfyOZNETRbr7jDLU2",
+      "fxYTqfgX9jXo7kkZyDyrsXsEmkq2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788173825144,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "secondClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolled",
+    "modifiedTimestamp": 1788173825216,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 22,
+    "publishTimestamp": 1788173825143,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "Tobias.Goeldi@schule-dietikon.ch",
+      "address": {
+        "city": "Dietikon",
+        "canton": "zurich",
+        "street": "Römerstrasse ",
+        "country": "CH",
+        "zipCode": 8953,
+        "streetNr": "15",
+        "coordinates": {
+          "lat": 47.4047072,
+          "lng": 8.3947644
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
+      "lastName": "Göldi",
+      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
+      "firstName": "Tobias",
+      "schoolName": "Schule Steinmürli, Dietikon",
+      "phoneNumber": "0447437700",
+      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 18,
+      "additionalInformation": "Ich suche für meinen unbezahlten Urlaub eine Stellvertretung für 22 Wochenlektionen (Freitag frei).\\n\\nMontag: 3. Klasse - eine aufgestellte und herzliche Klasse mit 18 Kindern.\\nDienstag - Donnerstag: 2. Klasse - eine sympathische, lebendige Klasse mit ebenfalls 18 Kindern. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1813104000000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "natureHumanSociety",
+      "sports",
+      "fineArts",
+      "textileAndTechnicalDesign",
+      "spaceTimesSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M1BQED3Q5HX8JYRCVZ1M89MN/timeTables/8d990e80-a47a-4747-a21c-0bee6e58c451.png",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
   }
 ]
