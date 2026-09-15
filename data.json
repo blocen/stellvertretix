@@ -1,6 +1,83 @@
 [
   {
-    "id": "01M2JE4G3VM7VJEB3VT495N3P1",
+    "id": "01M2JXTFXH2B18A51BM74G453V",
+    "additionalInformation": "Von 7:30-12 Uhr. Bibi, 2L NMG, 2L M. ",
+    "affectedTeacherIds": [
+      "dcpAJXxGY4YsXHb9ZJ7QCwKc9oH2",
+      "MIiAa8wN1vcKWH8oYjeNdWsIhVv1",
+      "P2ubJJ2J9tTqEBP5p1ydNDNs5bx2",
+      "MJXdiaBRPaa3RCbG0iqXeCTVKga2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1789489135537,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1789516800000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1789489135598,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 5,
+    "publishTimestamp": 1789489135536,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "adelina.bajra@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Schürbungert",
+        "country": "Schweiz",
+        "zipCode": 8057,
+        "streetNr": "25",
+        "coordinates": {
+          "lat": 47.4023657,
+          "lng": 8.5389609
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/allenmoos.html",
+      "lastName": "Bajra",
+      "schoolId": "8PbeVcBhPYQU7bmdP1rUXTfX4Gi1",
+      "firstName": "Adelina",
+      "schoolName": "Allenmoos",
+      "phoneNumber": "044 413 05 06",
+      "organisationId": "dAeC2YqfW6Hbis8YiI49",
+      "directionInformation": "Die Schule Allenmoos liegt in 10min Gehdistanz zum Bucheggplatz und zum Milchbuck (diverse Bus-  und Tramverbindungen)."
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1789516800000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01M2JX5KVE4DRHEQS30WKNM3WR",
     "additionalInformation": "",
     "affectedTeacherIds": [],
     "billingExclusionReason": null,
@@ -8,62 +85,57 @@
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1789472686203,
+    "createdTimestamp": 1789488451438,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1790294400000,
+    "endTimestamp": 1789516800000,
     "grades": [
-      "fifthClass"
+      "forthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1789472686285,
+    "modifiedTimestamp": 1789488451634,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 26,
-    "publishTimestamp": 1789472686203,
+    "pensum": 4,
+    "publishTimestamp": 1789488451438,
     "role": "class",
     "school": {
       "logo": null,
-      "email": "schulleitungeselriet@schule-ilef.ch",
+      "email": "gabriel.terlemez@dietikon.ch",
       "address": {
-        "city": "Effretikon",
+        "city": "Dietikon",
         "canton": "zurich",
-        "street": "Sportplatzstrasse",
-        "country": "Schweiz",
-        "zipCode": 8307,
-        "streetNr": "7",
+        "street": "Römerstrasse ",
+        "country": "CH",
+        "zipCode": 8953,
+        "streetNr": "15",
         "coordinates": {
-          "lat": 47.4233745,
-          "lng": 8.7006711
+          "lat": 47.4047072,
+          "lng": 8.3947644
         }
       },
       "culture": "de-CH",
-      "website": "www.schule-ilef.ch",
-      "lastName": "Städeli",
-      "schoolId": "2zlIjXPW7HVoYObJsmkrI4TsIX33",
-      "firstName": "Seraina",
-      "schoolName": "Schule Eselriet",
-      "phoneNumber": "079 732 68 57",
-      "organisationId": "aFYUMrhRFPlSgDs7X3hQ",
-      "directionInformation": "Das Schulhaus ist gut mit dem ÖV erreichbar. Auch stehen Gratisparkplätze zur Verfügung."
+      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
+      "lastName": "Schulleitung",
+      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
+      "firstName": "Steinmürli ",
+      "schoolName": "Schule Steinmürli, Dietikon",
+      "phoneNumber": "0447437700",
+      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "directionInformation": ""
     },
     "schoolClass": {
       "numberOfStudents": 0,
       "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1789948800000,
+    "startTimestamp": 1789516800000,
     "subjects": [
-      "german",
-      "mathematics",
-      "french",
-      "mediaAndComputerScience",
-      "natureHumanSociety",
-      "music",
       "english",
+      "music",
       "fineArts"
     ],
     "teachingLanguages": [
@@ -72,6 +144,85 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M2JQPCTSCHSA7R8RWTJMZGK5",
+    "additionalInformation": "Es handelt sich um eine Schwangerschaftsvertretung. Die Klasse hat auch einige Lektionen Unterstützung durch eine hervorragende Klassenassistenz. \\n\\nBei Fragen stehe ich sehr gerne zur Verfügung. ",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1789482709849,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1789482709922,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 28,
+    "publishTimestamp": 1789482709849,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "stefan.tasic@edurichti.ch",
+      "address": {
+        "city": "Richterswil",
+        "canton": "zurich",
+        "street": "Reidholzstrasse",
+        "country": "CH",
+        "zipCode": 8805,
+        "streetNr": 2,
+        "coordinates": {
+          "lat": 47.2083555,
+          "lng": 8.6908175
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-richterswil-samstagern.ch",
+      "lastName": "Tasić",
+      "schoolId": "UwIa3R6e1cbRBY2QLY3euqni3Yu2",
+      "firstName": "Stefan",
+      "schoolName": "Schuleinheit Feld 1",
+      "phoneNumber": "0794887112",
+      "organisationId": "n9uydwif8tvlhCx7ksUq",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 21,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "german",
+      "english",
+      "music",
+      "sports",
+      "mathematics",
+      "natureHumanSociety",
+      "fineArts",
+      "mediaAndComputerScience",
+      "schoolTripAndClassCamp",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M2JQPCTSCHSA7R8RWTJMZGK5/timeTables/95f7f54f-33bc-4128-bced-8f8db0e9d8f0.png",
+    "vacancyType": "long",
+    "workingBlocks": [
       "mondayMorning",
       "tuesdayMorning",
       "wednesdayMorning",
@@ -79,78 +230,76 @@
       "fridayMorning",
       "mondayAfternoon",
       "tuesdayAfternoon",
-      "thursdayAfternoon"
+      "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M2JDWRQFYNZKDPSVJN2SQRA1",
-    "additionalInformation": "Mittwoch: 7.30-8.15 Uhr Französisch (alleine, in der ganzen Klasse), danach Halbklasse (NMG, M)\\nDonnerstagmorgen: Ausflug Klasse 5g mit Klassenlehrperson auf den Bauernhof, Nachmittag Teamteaching 4a, M/E",
+    "id": "01M2JQ02X91BB1QDMGP40WQJHM",
+    "additionalInformation": "",
     "affectedTeacherIds": [
-      "WwNus2MO2dglTW3GxXW1LkggNbd2",
-      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2"
+      "Z2aY76kjDTXn5yI177z7o7xs4M32",
+      "2fhaILda1WT3c9Y9tItcRh30QiJ3",
+      "enT55BOrACdW6qIwmiI3nwwYOcK2",
+      "yMYviBReTUTlTjVsWmm2Cpq3R542"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1789472432880,
+    "createdTimestamp": 1789481978794,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1789603200000,
+    "endTimestamp": 1789689600000,
     "grades": [
-      "mixedAgeLearning",
-      "forthClass",
-      "fifthClass"
+      "sixthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1789472432917,
+    "modifiedTimestamp": 1789481979137,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 11,
-    "publishTimestamp": 1789472432879,
-    "role": "subject",
+    "pensum": 6,
+    "publishTimestamp": 1789481978793,
+    "role": "class",
     "school": {
       "logo": null,
-      "email": "christine.finney@schule.wallisellen.ch",
+      "email": "schulleitung@leepuent.ch",
       "address": {
-        "city": "Wallisellen",
+        "city": "Dällikon",
         "canton": "zurich",
-        "street": "Alpenstrasse ",
-        "country": "CH",
-        "zipCode": 8304,
-        "streetNr": "11",
+        "street": "Grundacherstrasse",
+        "country": "Schweiz",
+        "zipCode": 8108,
+        "streetNr": "12",
         "coordinates": {
-          "lat": 47.4174111,
-          "lng": 8.5898539
+          "lat": 47.43786679999999,
+          "lng": 8.439397
         }
       },
       "culture": "de-CH",
-      "website": "www.schule.wallisellen.ch/schulen/alpen",
-      "lastName": "Finney",
-      "schoolId": "hhQhe52udacndE5YGYdffWaZii62",
-      "firstName": "Christine ",
-      "schoolName": "Schule Alpen",
-      "phoneNumber": "Christine Finney: 076 560 30 47 / Renate Sgier: 079 687 78 17",
-      "organisationId": "01K2HGNP674MEAJV3FQVWTNEMA",
+      "website": "schule-daellikon.ch",
+      "lastName": "Hügli",
+      "schoolId": "C5aWLlLwHYO9PKYGooSKWXP1zw93",
+      "firstName": "Yvonne",
+      "schoolName": "Leepünt",
+      "phoneNumber": "044 849 74 20",
+      "organisationId": "RUWvTnLVbSPxUisyrOy5",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": "Nur eine Lektion (Frühlektion am Mittwoch) in der ganzen Klasse. Klare Führung essentiell. "
+      "numberOfStudents": 19,
+      "additionalInformation": "In den beiden Lektionen am Freitagnachmittag ist Halbklassenunterricht."
     },
     "startAsOfNow": false,
-    "startTimestamp": 1789516800000,
+    "startTimestamp": 1789689600000,
     "subjects": [
-      "french",
-      "natureHumanSociety",
       "german",
-      "mathematics",
-      "english"
+      "sports",
+      "mathematics"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -158,67 +307,61 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "wednesdayMorning",
-      "thursdayMorning",
-      "thursdayAfternoon"
+      "fridayMorning",
+      "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 4
   },
   {
-    "id": "01M2JBWF4MNVAYEH7DXJZZFA5T",
-    "additionalInformation": "Unterrichtszeiten am Mittwoch: 08.20 bis 11.55 Uhr\\nUnterrichtszeiten am Donnerstag: 07.30 bis 11.55 Uhr / 13.45 bis 15.20 Uhr",
-    "affectedTeacherIds": [
-      "WwNus2MO2dglTW3GxXW1LkggNbd2",
-      "4DJjAaARSIScoC11oEX9GDo0dJS2"
-    ],
+    "id": "01M2JMDBB5YZKVJMT56FK44YA9",
+    "additionalInformation": "Der Dienstagmorgen ist in der Halbkasse im TTG.\\nAm Donnerstag ist die Vertretung als Klassenlehrperson.",
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1789470325909,
+    "createdTimestamp": 1789479267685,
     "curriculum": "lehrplan21",
     "endTimestamp": 1789603200000,
     "grades": [
-      "mixedAgeLearning",
-      "fifthClass",
-      "sixthClass"
+      "secondClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1789470325971,
+    "modifiedTimestamp": 1789479267752,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 11,
-    "publishTimestamp": 1789470325908,
-    "role": "class",
+    "pensum": 10,
+    "publishTimestamp": 1789479267685,
+    "role": "subject",
     "school": {
       "logo": null,
-      "email": "tanja.carta@schulen.zuerich.ch",
+      "email": "Tobias.Goeldi@schule-dietikon.ch",
       "address": {
-        "city": "Zürich",
+        "city": "Dietikon",
         "canton": "zurich",
-        "street": "Balberstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8038,
-        "streetNr": "71",
+        "street": "Römerstrasse ",
+        "country": "CH",
+        "zipCode": 8953,
+        "streetNr": "15",
         "coordinates": {
-          "lat": 47.3377289,
-          "lng": 8.527676999999999
+          "lat": 47.4047072,
+          "lng": 8.3947644
         }
       },
       "culture": "de-CH",
-      "website": "stadt-zuerich.ch/schulen-de/entlisberg",
-      "lastName": "Carta",
-      "schoolId": "jm56QEoCxzPooKsS1oU3sOghv6f2",
-      "firstName": "Tanja",
-      "schoolName": "Entlisberg",
-      "phoneNumber": "044 413 31 63",
-      "organisationId": "coSYnhPPHYB4JLK8fEx7",
-      "directionInformation": "Endstation Tram 7, 3 min.zu Fuss/Parkplätze vorhanden"
+      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
+      "lastName": "Göldi",
+      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
+      "firstName": "Tobias",
+      "schoolName": "Schule Steinmürli, Dietikon",
+      "phoneNumber": "0447437700",
+      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "directionInformation": ""
     },
     "schoolClass": {
       "numberOfStudents": 20,
@@ -228,24 +371,22 @@
     "startTimestamp": 1789516800000,
     "subjects": [
       "german",
-      "english",
-      "music",
-      "sports",
       "mathematics",
       "natureHumanSociety",
-      "mediaAndComputerScience"
+      "textileAndTechnicalDesign",
+      "sports"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": null,
+    "timeTableRef": "vacancies/01M2JMDBB5YZKVJMT56FK44YA9/timeTables/996a3c8e-2006-421a-98a3-da3659bf0dd3.png",
     "vacancyType": "short",
     "workingBlocks": [
       "wednesdayMorning",
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M2J5TCSRD805EQGY1PC9WCTC",
@@ -331,7 +472,8 @@
     "additionalInformation": "",
     "affectedTeacherIds": [
       "WzoHOk71tOP1kO1EgQsVof5WRq12",
-      "FeOknTtZTnaj4UCBtPczq0ALNpw1"
+      "FeOknTtZTnaj4UCBtPczq0ALNpw1",
+      "j213WyogHCRjEKENbzUjEDCbTmY2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -411,7 +553,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M2J4HQPATX44XWBE3N8FP0FP",
@@ -500,7 +642,10 @@
   {
     "id": "01M2J4CH9MZ656D9CDH1PPQ7C3",
     "additionalInformation": "Assistenzperson zur Unterstützung",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "8eQf5hOkrmQbVYPmYHawiBnHees2",
+      "rBNIYD4gM9UhWMAblAv8PY0BbV72"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -567,13 +712,14 @@
     "workingBlocks": [
       "fridayMorning"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M2J3NHJF9GFTVB1FKH88K4BT",
     "additionalInformation": "Mo-FRVM: 08.20-12.00\\nMO, Di, Do, Fr NM: 13.40-15.20\\nIn der ersten Klasse findet ein Musikprojekt statt, daher wäre es von Vorteil, wenn man auch gerne Musik unterrichtet\\nSchwimmen 14 tgl: Wird von einer Schwimmlehrperson unterrichtet, aber man unterstützt im Wasser",
     "affectedTeacherIds": [
-      "smg9VYdZFUMgScr58do4xISFbxw2"
+      "smg9VYdZFUMgScr58do4xISFbxw2",
+      "cBT8LkamYOS4IqodmJwFrlVqCw83"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -654,7 +800,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M2FJ3H8Z6B48QH5WP9PT7MBX",
@@ -746,7 +892,8 @@
     "additionalInformation": "Nur Montag- oder Freitageinsätze wären möglich an folgenden Daten: \\n\\nFreitag 18.09., 25.09., 02.10., (evtl. 23.10., 30.10.)\\nMontag, 28.09., (evtl. 19.10., 26.10.)",
     "affectedTeacherIds": [
       "LjtsxB9hLTNTEi9zefY9yVdQ5aU2",
-      "EeIuu4HLBjewOmfliU6bSgeXpCj1"
+      "EeIuu4HLBjewOmfliU6bSgeXpCj1",
+      "cBT8LkamYOS4IqodmJwFrlVqCw83"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -820,7 +967,7 @@
       "mondayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M2898ND5YC3YRJ2FE475KPWD",
@@ -903,94 +1050,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01M20KFKGD9KWD2GRT522H1TNH",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "BmWuXnJIeMNt7P3fkyCERDcbN412",
-      "TvQEeOz1glgLAMzZUGqseHYMxUj2",
-      "kqg5Omg8f5ODIRaoPidpJbAVHj52"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788874313229,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815091200000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788874313271,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 20,
-    "publishTimestamp": 1788874313229,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "andre.tynowski@schuleschlieren.ch",
-      "address": {
-        "city": "Schlieren",
-        "canton": "zurich",
-        "street": "Hofackerstrasse",
-        "country": "Schweiz",
-        "zipCode": 8952,
-        "streetNr": "2",
-        "coordinates": {
-          "lat": 47.3947233,
-          "lng": 8.4446456
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://schule.schlieren.ch/hofacker",
-      "lastName": "Tynowski",
-      "schoolId": "3J4JvuMfq8NNwLCumhtt38fKkRA3",
-      "firstName": "André",
-      "schoolName": "Primarschule Hofacker",
-      "phoneNumber": "+41447384472",
-      "organisationId": "7xhOwB506KrlEDYO0jXr",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1789344000000,
-    "subjects": [
-      "german",
-      "english",
-      "french",
-      "music",
-      "mathematics",
-      "religionsCulturesEthics",
-      "fineArts",
-      "germanAsSecondLanguage"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M20KFKGD9KWD2GRT522H1TNH/timeTables/c5d3eaae-234c-4d0c-aac0-e7de44c56c61.jfif",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M208T3504S2ETDSXKXWRSMPH",
@@ -1571,93 +1631,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 3
-  },
-  {
-    "id": "01M1BQED3Q5HX8JYRCVZ1M89MN",
-    "additionalInformation": "Falls du nur den Montag oder nur Dienstag - Donnerstag übernehmen könntest, wäre das Vikariat auch aufteilbar. ",
-    "affectedTeacherIds": [
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "KNEus1X9YQSNfyOZNETRbr7jDLU2",
-      "fxYTqfgX9jXo7kkZyDyrsXsEmkq2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788173825144,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815696000000,
-    "grades": [
-      "secondClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1788173825216,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1788173825143,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "Tobias.Goeldi@schule-dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Göldi",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Tobias",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 18,
-      "additionalInformation": "Ich suche für meinen unbezahlten Urlaub eine Stellvertretung für 22 Wochenlektionen (Freitag frei).\\n\\nMontag: 3. Klasse - eine aufgestellte und herzliche Klasse mit 18 Kindern.\\nDienstag - Donnerstag: 2. Klasse - eine sympathische, lebendige Klasse mit ebenfalls 18 Kindern. "
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1813104000000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "natureHumanSociety",
-      "sports",
-      "fineArts",
-      "textileAndTechnicalDesign",
-      "spaceTimesSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M1BQED3Q5HX8JYRCVZ1M89MN/timeTables/8d990e80-a47a-4747-a21c-0bee6e58c451.png",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
   }
 ]
