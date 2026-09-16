@@ -1,5 +1,79 @@
 [
   {
+    "id": "01M2NRAS2FRKJVAD25D49JQXFB",
+    "additionalInformation": "Die Schule Schuepis-Feldegg in Dürnten sucht für den Zeitraum vom 4. Januar bis 11. Februar 2027 eine Stellvertretung für Textiles und Technisches Gestalten (TTG) im Umfang von 12 Wochenlektionen.\\nUnterrichtszeiten\\nMontag: 3. Klasse, 08.10–11.50 Uhr\\nDienstag: 1. Klasse, 08.10–11.50 Uhr\\nDonnerstag: 2. Klasse, 08.10–11.50 Uhr\\nWir suchen eine zuverlässige und engagierte Lehrperson, die Freude an der Arbeit mit Unterstufenkindern hat und den TTG-Unterricht während dieser Zeit übernimmt.",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1789584041039,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1802304000000,
+    "grades": [
+      "firstClass",
+      "secondClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1789584041159,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1789584041039,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "slk@schuleduernten.ch",
+      "address": {
+        "city": "Dürnten",
+        "canton": "zurich",
+        "street": "Rütistrasse",
+        "country": "Schweiz",
+        "zipCode": 8635,
+        "streetNr": "1",
+        "coordinates": {
+          "lat": 47.2778923,
+          "lng": 8.8427785
+        }
+      },
+      "culture": "de-CH",
+      "website": "schuleduernten.ch",
+      "lastName": "Dürnten",
+      "schoolId": "IAk0QvsbUwa5SkX55dewI2Nzi9s2",
+      "firstName": "Schule",
+      "schoolName": "Schule Dürnten",
+      "phoneNumber": "055 250 80 02",
+      "organisationId": "uLZ3Jw2onFt0i0D1P967",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": "Bitte direkt bei der Schulleiterin Corinna Hess melden: 055 511 24 03  schulleitung.schuepis@schuleduernten.ch"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M2MM9KV5TH8KCQVSTVREFA66",
     "additionalInformation": "An beiden Vormittagen sind jeweils zwei Lehrpersonen an der Klasse. Grundsätzlich ist Unterricht in Halbklassen vorgesehen; alternativ ist auch Teamteaching möglich. Die konkrete Organisation und Ausgestaltung kann noch im Detail abgesprochen werden.",
     "affectedTeacherIds": [
