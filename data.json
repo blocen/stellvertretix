@@ -1,5 +1,88 @@
 [
   {
+    "id": "01M2RDE8K5QT2929F36JY2MVGX",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1789673284197,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790899200000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1789673284260,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 24,
+    "publishTimestamp": 1789673284196,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "chantal.waefler@buelach.ch",
+      "address": {
+        "city": "Bülach",
+        "canton": "zurich",
+        "street": "Unterweg",
+        "country": "CH",
+        "zipCode": "8180",
+        "streetNr": "51",
+        "coordinates": {
+          "lat": 47.5266387,
+          "lng": 8.5433037
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-buelach.ch/",
+      "lastName": "Wäfler",
+      "schoolId": "01M2MYDAC0EGRCMZ0BZECJ7J1M",
+      "firstName": "Chantal",
+      "schoolName": "Schulhaus Hohfuri",
+      "phoneNumber": "+41 44 863 16 09",
+      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1789948800000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "music",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M2RDE8K5QT2929F36JY2MVGX/timeTables/ed8e5b2c-96f5-4e5f-a168-3c07ebba7028.jpg",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M2QTZSCED8MBB4KBNG6TS6S9",
     "additionalInformation": "Es findet eine Übergabe statt, je nach Klasse kann an Projekten weitergearbeitet werden oder es kann auch an einem eigenen in sich abgeschlossenen Projekte gearbeitet werden. ",
     "affectedTeacherIds": [],
@@ -165,86 +248,6 @@
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M2QPKTJ9PGD32K0KMR3QMVSH",
-    "additionalInformation": "Am Nachmittag findet der Unterricht in der Halbklasse statt.",
-    "affectedTeacherIds": [
-      "XtFpb1gICbQ2NhD9sZMrXw5HJiT2",
-      "mOR0oa55zqTW00SVCZTMXVhE8Um2",
-      "5kpEVGGxJzPP0qxFzU9xsYP6WY83",
-      "MXKLH8Y8nuSYaADthKAIYEc46kK2",
-      "dcpAJXxGY4YsXHb9ZJ7QCwKc9oH2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1789649349193,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1789689600000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1789649348686,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1789649444913,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "chantal.waefler@buelach.ch",
-      "address": {
-        "city": "Bülach",
-        "canton": "zurich",
-        "street": "Unterweg",
-        "country": "CH",
-        "zipCode": "8180",
-        "streetNr": "51",
-        "coordinates": {
-          "lat": 47.5266387,
-          "lng": 8.5433037
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-buelach.ch/",
-      "lastName": "Wäfler",
-      "schoolId": "01M2MYDAC0EGRCMZ0BZECJ7J1M",
-      "firstName": "Chantal",
-      "schoolName": "Schulhaus Hohfuri",
-      "phoneNumber": "+41 44 863 16 09",
-      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 24,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1789689600000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "fridayMorning",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
   },
   {
     "id": "01M2QK84E0G1Q6GA8TG5CKP4ND",
@@ -688,7 +691,7 @@
       "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1789689600000,
+    "startTimestamp": 1789948800000,
     "subjects": [
       "german",
       "english",
