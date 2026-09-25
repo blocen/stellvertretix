@@ -81,84 +81,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M39RHXPCFYNXWV007QWZPYE4",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "MAOr0F3laMZUa0Tynyx67MT0W623",
-      "87MFy7TSMfWVJHWxVNInytE8DEY2",
-      "FU3tvRTRDbWoHiW7LdOaVaNymFt1",
-      "L2dPIoBDNtXdXvLIUvg2x1x8ou53"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1790255363788,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790553600000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1790255363809,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1790255363787,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sekretariat.schulebachtobel@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Bachtobelstrasse",
-        "country": "CH",
-        "zipCode": 8045,
-        "streetNr": "111",
-        "coordinates": {
-          "lat": 47.3588387,
-          "lng": 8.5116538
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel.html",
-      "lastName": "Hofer",
-      "schoolId": "v827wIi6T8bfiRPbcKZH4u8HGzX2",
-      "firstName": "Sabrina",
-      "schoolName": "Bachtobel",
-      "phoneNumber": "044 413 18 37",
-      "organisationId": "wOjojIaUYufY86lm5eKY",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1790553600000,
-    "subjects": [
-      "swimming",
-      "music",
-      "german",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01M39A19QXS2YJBMTP90YZ8E2H",
     "additionalInformation": "",
     "affectedTeacherIds": [],
@@ -235,7 +157,8 @@
     "additionalInformation": "Am Mo NM und Di NM findet ein Musikprojekt statt, da müsste man auch Lust darauf haben ",
     "affectedTeacherIds": [
       "AcmTgqi94TVP1ZO0Zn02cXGLsk62",
-      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2"
+      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2",
+      "5eZAl0MedlZCchamuCbZfDzGmGX2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -312,7 +235,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M373C924TCGMZNMHA3NCFFKN",
@@ -793,94 +716,11 @@
     "numberOfOpenApplications": 1
   },
   {
-    "id": "01M32ARX4K5VHPXZK1QJYZRN5B",
-    "additionalInformation": "Der Unterricht findet an beiden Tagen von 8.20 - 16.05 statt, je 7 Lektionen",
-    "affectedTeacherIds": [
-      "mOR0oa55zqTW00SVCZTMXVhE8Um2",
-      "cBT8LkamYOS4IqodmJwFrlVqCw83",
-      "ReCYFWr56LR0FrdQBA9CaH1u6Wl1",
-      "2sGeUX1rCJQ4dRrCUMEddCajqJw2",
-      "t3mOxjm7Tue2iTmOBvBGFOpB20O2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1790006031507,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790294400000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1790006032504,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 14,
-    "publishTimestamp": 1790006031507,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "gabriel.terlemez@dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Schulleitung",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Steinmürli ",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1790208000000,
-    "subjects": [
-      "english",
-      "german",
-      "natureHumanSociety",
-      "mediaAndComputerScience",
-      "sports",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M32ARX4K5VHPXZK1QJYZRN5B/timeTables/c336330f-a017-4d30-8f59-d06625650b9c.png",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
     "id": "01M31E7D69NMG3XDNRWHZZB86E",
     "additionalInformation": "Es handelt sich um ein Vikariat während 3 Wochen an Do/Fr an drei verschiedenen Klassen als Fachlehrperson.",
     "affectedTeacherIds": [
-      "WzoHOk71tOP1kO1EgQsVof5WRq12"
+      "WzoHOk71tOP1kO1EgQsVof5WRq12",
+      "fNieDBxO8hUPPsdhJc59PTR5Pcu1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -953,7 +793,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M2QRS3W5G8MPVTSKDQRY7S3S",
@@ -1468,7 +1308,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M208S2FGG2FAS4V1838RQJ9Q",
@@ -1557,7 +1397,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M1KENWECQ3PP62VNZF2E9AQQ",
@@ -1630,5 +1470,185 @@
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M1GYNTDSBBA2KE8PK39FY8C7",
+    "additionalInformation": "Sämtliche Lektionen an der ADL 5./6. Klasse",
+    "affectedTeacherIds": [
+      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73",
+      "FXgZq28dy6PLbdfIb4TvupX3RoH2",
+      "Py7dRfpb7GT23lv75Pa6HwQjG8j1",
+      "ch9xb8etrChhBOjm2ZpguV3lKKT2",
+      "sAHWFh44ImSLTZq53ti43SXwLTu1",
+      "StqAUHcQ20aDqrSN0nRIR7c3o912",
+      "NqW6XqcN6xUcYyKFUqk2muADlKA3"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788349180345,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788349180452,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 21,
+    "publishTimestamp": 1788349180344,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "c.haering@nueri.ch",
+      "address": {
+        "city": "Nürensdorf",
+        "canton": "zurich",
+        "street": "Uebrichstrasse",
+        "country": "CH",
+        "zipCode": 8309,
+        "streetNr": "5",
+        "coordinates": {
+          "lat": 47.4474238,
+          "lng": 8.6519418
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-nuerensdorf.ch/",
+      "lastName": "Häring",
+      "schoolId": "01KCRPCVV6XKHSTN9XMPWQNGDV",
+      "firstName": "Christoph",
+      "schoolName": "Schulhaus Ebnet",
+      "phoneNumber": "044 836 65 54",
+      "organisationId": "01KCRPCVTV16Y7B5YQWQ0MSYZJ",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "ADL 5./6."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "if"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M1GYNTDSBBA2KE8PK39FY8C7/timeTables/5eeb808f-a535-4b0b-bfd8-d582221a2c9e.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M1C727Z5BQD073ETFPFDPDYP",
+    "additionalInformation": "Du unterrichtest mit Herz, Humor und Freude?\\nBis Superwoman oder Superman? \\nDu möchtest Teil eines tollen Schulteams werden?\\n\\nDann komm zu uns!\\n\\n📚 verschiedene Fachlektionen\\n🤝 unterstützendes Team\\n💡 Raum für eigene Ideen\\n🗓️ attraktives Teilzeitpensum\\n\\nNeugierig? Melde dich bei uns!\\n\\nDas Pensum kann auch aufgeteilt werden: \\n\\nMi und Do VM - 8 L plus Auffangzeit  🎶 Do NM und Fr ganzer Tag - 8 L plus Auffangzeit und Lernzeit \\n\\nEs besteht die Option auf Verlängerung des Vikariats. ",
+    "affectedTeacherIds": [
+      "hVpzWivWGNPhG7wBjbWvKpomrNB3",
+      "WI0wepTxJNdtivLxSPFLodDBCGB2",
+      "iGkW4RVQfMQtqTpj0BJjQMhbeHa2",
+      "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
+      "BmWuXnJIeMNt7P3fkyCERDcbN412",
+      "8jolyWiP0zRMyXvm0pknx9nS9Cs2",
+      "ykaiqORikohX7kGHnWg1aEtCgMF3",
+      "NqW6XqcN6xUcYyKFUqk2muADlKA3"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788190203878,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "forthClass",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788190205589,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 16,
+    "publishTimestamp": 1788190203877,
+    "role": "subject",
+    "school": {
+      "logo": {
+        "logoUrl": "public_schools/iJjM93bczkcT1Fi29Brzgyn0wFh2/logos/a6d29824-f09e-42c9-975d-2a37461e4a6e.jpg",
+        "blurhash": "LIKeWn-=?G%Nx_o#oHaySlRi~Uof",
+        "cloudflareId": "school:iJjM93bczkcT1Fi29Brzgyn0wFh2:a6d29824-f09e-42c9-975d-2a37461e4a6e.jpg"
+      },
+      "email": "marina.schlayer@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Gutstrasse ",
+        "country": "CH",
+        "zipCode": 8055,
+        "streetNr": "107",
+        "coordinates": {
+          "lat": 47.3715821,
+          "lng": 8.5049514
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/imgut.html",
+      "lastName": "Schlayer ",
+      "schoolId": "iJjM93bczkcT1Fi29Brzgyn0wFh2",
+      "firstName": "Marina",
+      "schoolName": "Schule Im Gut ",
+      "phoneNumber": "079 424 02 31",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": "Gut mit ÖV erreichbar"
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Es sind drei Klassen:\\n\\n4. Klasse grün - 18 SuS\\n5.Klasse blau - 20 SuS\\n6. Klasse lila - 21 SuS "
+    },
+    "startAsOfNow": true,
+    "startTimestamp": 1788134400000,
+    "subjects": [
+      "german",
+      "english",
+      "french",
+      "sports",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "mediaAndComputerScience",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M1C727Z5BQD073ETFPFDPDYP/timeTables/9ea20924-b7bd-48ea-b9b0-7c22cb8359fd.jpg",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
   }
 ]
