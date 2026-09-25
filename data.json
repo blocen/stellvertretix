@@ -1,5 +1,168 @@
 [
   {
+    "id": "01M3CEVE3M9QMF94ZJHQQ8YZGB",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1790345853044,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1802390400000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1790345853108,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 18,
+    "publishTimestamp": 1790346232531,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "julie.sewer@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Kernstrasse ",
+        "country": "CH",
+        "zipCode": 8004,
+        "streetNr": "45",
+        "coordinates": {
+          "lat": 47.3774394,
+          "lng": 8.5250817
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/aussersihl.html",
+      "lastName": "Sewer",
+      "schoolId": "01M3CED02TB1182SZV9BNMGHN5",
+      "firstName": "Julie ",
+      "schoolName": "Schulhaus Aussersihl ",
+      "phoneNumber": "044 413 21 11",
+      "organisationId": "01M3CED02Q55BT9HBBX2G5Z45M",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 24,
+      "additionalInformation": "Aufgrund eines krankheitsbedingten Ausfalls suchen wir eine engagierte und erfahrene Stellvertretung für unsere 6a Klasse. Die Klasse wird durch eine engagierte SHP und Klassenassistenz unterstützt. Der Donnerstagnachmittag muss nicht zwingend übernommen werden. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1793577600000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "sports",
+      "music",
+      "natureHumanSociety",
+      "project",
+      "religionsCulturesEthics",
+      "schoolTripAndClassCamp"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M3CEVE3M9QMF94ZJHQQ8YZGB/timeTables/15993e00-6dc2-469f-93a9-8c69601ca4e3.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M3CAN45AA4DANN9B5JDPCBSC",
+    "additionalInformation": "Grund: Reise der Klassenlehrperson & unbezahlter Urlaub\\n\\nBei Interesse melde dich bitte direkt bei Sonja (Klassenlehrerin). Sie freut sich auf deine Nachricht!\\nSonja Oertig, Klassenlehrperson, Schulhaus Neuwies, Wald ZH\\nMail: sonja.oertig@schule-wald.ch",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1790341451946,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1806883200000,
+    "grades": [
+      "firstClass",
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1790341452050,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 20,
+    "publishTimestamp": 1790342997947,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "eliane@zwimpfer.online",
+      "address": {
+        "city": "Wald ZH",
+        "canton": "zurich",
+        "street": "Neuwiesstrasse",
+        "country": "CH",
+        "zipCode": 8636,
+        "streetNr": "26",
+        "coordinates": {
+          "lat": 47.274680599999996,
+          "lng": 8.9208409
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-wald.ch/primarschuleneuwies",
+      "lastName": "Zwimpfer",
+      "schoolId": "01M3C8880FR1F7CFGSRWKQW3FY",
+      "firstName": "Eliane",
+      "schoolName": "Schule Neuwies",
+      "phoneNumber": "0784053171",
+      "organisationId": "01M3C8880CJFKBPCYDGAD4VC2M",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": "Tolle Kinder, eine wunderbare Stellenpartnerin, eine engagierte SHP, ein unterstützendes Team und eine wohlwollende Schulleitung freuen sich auf dich!"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1803859200000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "natureHumanSociety",
+      "fineArts",
+      "music",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M39YN33DY7BTSW0BX7J0GXER",
     "additionalInformation": "Für die Zeit zwischen den Weihnachts- und Sportferien 2027 suche ich eine Stellvertretung für mein gesamtes Pensum. Unsere AdL-Klasse wird von einer SHP und einer Fachlehrperson unterstützt. 6 Lektionen finden im Teamteaching statt, die SHP ist zusätzlich während 8 Lektionen in der Klasse. Zudem stehen Ressourcen durch Klassenassistenzen und die Betreuungsperson zur Verfügung. Der Musik- und Schwimmunterricht wird von Fachlehrpersonen erteilt; die Kinder müssen lediglich begleitet werden.",
     "affectedTeacherIds": [],
@@ -801,7 +964,8 @@
     "affectedTeacherIds": [
       "Yl0do6KFVsOLGgKn1i3TOs5DPOh2",
       "mZNGexMxA4PsVhbAaiCb569ny7z2",
-      "qQPlPxInuSSYW6qDg6rrX3zBVA62"
+      "qQPlPxInuSSYW6qDg6rrX3zBVA62",
+      "ykaiqORikohX7kGHnWg1aEtCgMF3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -883,7 +1047,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01M2QCD3ABH2R4ZMWFC3YF5K6Y",
@@ -1470,185 +1634,5 @@
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M1GYNTDSBBA2KE8PK39FY8C7",
-    "additionalInformation": "Sämtliche Lektionen an der ADL 5./6. Klasse",
-    "affectedTeacherIds": [
-      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73",
-      "FXgZq28dy6PLbdfIb4TvupX3RoH2",
-      "Py7dRfpb7GT23lv75Pa6HwQjG8j1",
-      "ch9xb8etrChhBOjm2ZpguV3lKKT2",
-      "sAHWFh44ImSLTZq53ti43SXwLTu1",
-      "StqAUHcQ20aDqrSN0nRIR7c3o912",
-      "NqW6XqcN6xUcYyKFUqk2muADlKA3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788349180345,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788349180452,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 21,
-    "publishTimestamp": 1788349180344,
-    "role": "currative",
-    "school": {
-      "logo": null,
-      "email": "c.haering@nueri.ch",
-      "address": {
-        "city": "Nürensdorf",
-        "canton": "zurich",
-        "street": "Uebrichstrasse",
-        "country": "CH",
-        "zipCode": 8309,
-        "streetNr": "5",
-        "coordinates": {
-          "lat": 47.4474238,
-          "lng": 8.6519418
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-nuerensdorf.ch/",
-      "lastName": "Häring",
-      "schoolId": "01KCRPCVV6XKHSTN9XMPWQNGDV",
-      "firstName": "Christoph",
-      "schoolName": "Schulhaus Ebnet",
-      "phoneNumber": "044 836 65 54",
-      "organisationId": "01KCRPCVTV16Y7B5YQWQ0MSYZJ",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "ADL 5./6."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792368000000,
-    "subjects": [
-      "if"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M1GYNTDSBBA2KE8PK39FY8C7/timeTables/5eeb808f-a535-4b0b-bfd8-d582221a2c9e.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M1C727Z5BQD073ETFPFDPDYP",
-    "additionalInformation": "Du unterrichtest mit Herz, Humor und Freude?\\nBis Superwoman oder Superman? \\nDu möchtest Teil eines tollen Schulteams werden?\\n\\nDann komm zu uns!\\n\\n📚 verschiedene Fachlektionen\\n🤝 unterstützendes Team\\n💡 Raum für eigene Ideen\\n🗓️ attraktives Teilzeitpensum\\n\\nNeugierig? Melde dich bei uns!\\n\\nDas Pensum kann auch aufgeteilt werden: \\n\\nMi und Do VM - 8 L plus Auffangzeit  🎶 Do NM und Fr ganzer Tag - 8 L plus Auffangzeit und Lernzeit \\n\\nEs besteht die Option auf Verlängerung des Vikariats. ",
-    "affectedTeacherIds": [
-      "hVpzWivWGNPhG7wBjbWvKpomrNB3",
-      "WI0wepTxJNdtivLxSPFLodDBCGB2",
-      "iGkW4RVQfMQtqTpj0BJjQMhbeHa2",
-      "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
-      "BmWuXnJIeMNt7P3fkyCERDcbN412",
-      "8jolyWiP0zRMyXvm0pknx9nS9Cs2",
-      "ykaiqORikohX7kGHnWg1aEtCgMF3",
-      "NqW6XqcN6xUcYyKFUqk2muADlKA3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788190203878,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "forthClass",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788190205589,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1788190203877,
-    "role": "subject",
-    "school": {
-      "logo": {
-        "logoUrl": "public_schools/iJjM93bczkcT1Fi29Brzgyn0wFh2/logos/a6d29824-f09e-42c9-975d-2a37461e4a6e.jpg",
-        "blurhash": "LIKeWn-=?G%Nx_o#oHaySlRi~Uof",
-        "cloudflareId": "school:iJjM93bczkcT1Fi29Brzgyn0wFh2:a6d29824-f09e-42c9-975d-2a37461e4a6e.jpg"
-      },
-      "email": "marina.schlayer@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Gutstrasse ",
-        "country": "CH",
-        "zipCode": 8055,
-        "streetNr": "107",
-        "coordinates": {
-          "lat": 47.3715821,
-          "lng": 8.5049514
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/imgut.html",
-      "lastName": "Schlayer ",
-      "schoolId": "iJjM93bczkcT1Fi29Brzgyn0wFh2",
-      "firstName": "Marina",
-      "schoolName": "Schule Im Gut ",
-      "phoneNumber": "079 424 02 31",
-      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
-      "directionInformation": "Gut mit ÖV erreichbar"
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Es sind drei Klassen:\\n\\n4. Klasse grün - 18 SuS\\n5.Klasse blau - 20 SuS\\n6. Klasse lila - 21 SuS "
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1788134400000,
-    "subjects": [
-      "german",
-      "english",
-      "french",
-      "sports",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "mediaAndComputerScience",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M1C727Z5BQD073ETFPFDPDYP/timeTables/9ea20924-b7bd-48ea-b9b0-7c22cb8359fd.jpg",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   }
 ]
