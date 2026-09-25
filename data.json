@@ -1,8 +1,86 @@
 [
   {
+    "id": "01M3CVG3G9BTYZ8CXFX5W594B3",
+    "additionalInformation": "Die Schüler:innen profitieren von einer engen Zusammenarbeit von Schulassistenz, Fachlehrperson und Schulische Heilpädagogin. Wir pflegen einen regelmässige Austausch im Klassenteam, damit wir schnell auf Veränderungen reagieren und gemeinsame Lösungen finden können. Die gemeinsame Vorbereitung im Jahrgangsteam bildet die Grundlage für unseren Unterricht.\\nEs besteht die Möglichkeit auf eine Festanstellung.",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1790359113225,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1790359113320,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 10,
+    "publishTimestamp": 1790359113225,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "evi.kalman@schule-maur.ch",
+      "address": {
+        "city": "Ebmatingen",
+        "canton": "zurich",
+        "street": "Leeacherstrasse ",
+        "country": "CH",
+        "zipCode": 8123,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.3530192,
+          "lng": 8.6375373
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-maur.ch",
+      "lastName": "Kalman",
+      "schoolId": "01KFFXMZDN5GPAW3RCWYE2J9NC",
+      "firstName": "Evi",
+      "schoolName": "Schulhaus Leeacher",
+      "phoneNumber": "044 982 29 26",
+      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": "Die Klasse besteht aus 23 fröhlichen und neugierigen Kindern, die jeden Tag Lernfreude in die Schule kommen. Jedes Kind bringt seine eigenen Talente und Interessen mit, die die Klassengemeinschaft bereichern.\\nIhr Klassenzimmer ist ein Ort der Inspiration, an dem Lachen, Motivation und der Wille, Neues zu entdecken, stets willkommen sind. Gemeinsam - KLP, FLP, SHP - gestalten einen Schulalltag, der von Engagement geprägt ist und den individuellen Fortschritt jedes Kindes unterstützt."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792627200000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "sports",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M3CVG3G9BTYZ8CXFX5W594B3/timeTables/3a38e0c4-cc6c-432f-9fd7-e77d2f69d503.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M3CEVE3M9QMF94ZJHQQ8YZGB",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "TvQEeOz1glgLAMzZUGqseHYMxUj2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -78,7 +156,7 @@
       "mondayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M3CAN45AA4DANN9B5JDPCBSC",
@@ -1562,77 +1640,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M1KENWECQ3PP62VNZF2E9AQQ",
-    "additionalInformation": "",
-    "affectedTeacherIds": [],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788433068492,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1810771200000,
-    "grades": [
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788433068702,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1788433068492,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "antonella.granata@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Dachslernstrasse",
-        "country": "CH",
-        "zipCode": 8048,
-        "streetNr": "5",
-        "coordinates": {
-          "lat": 47.387924,
-          "lng": 8.481421
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/dachslernstrasse.html",
-      "lastName": "Antonella",
-      "schoolId": "9LEfeaRUhJTDS56lWOg5l3Ehrju1",
-      "firstName": "Granata",
-      "schoolName": "Dachslern-Feldblumen",
-      "phoneNumber": "0041788659788",
-      "organisationId": "ZLXeHTjIe84V659HWzIo",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1806537600000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
   }
 ]
