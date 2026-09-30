@@ -1,11 +1,166 @@
 [
   {
+    "id": "01M3S6XSKF2D9GFPS4QJH0T2NW",
+    "additionalInformation": "Das Vik ist für die Schule Nordstrasse",
+    "affectedTeacherIds": [
+      "hVpzWivWGNPhG7wBjbWvKpomrNB3",
+      "NVAAUOvu0zfwldN3BwH4clwsxw52"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1790773749360,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790812800000,
+    "grades": [
+      "mixedAgeLearning"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1790773749419,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1790773749359,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "rolf.laenzlinger@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Schürbungert ",
+        "country": "CH",
+        "zipCode": 8057,
+        "streetNr": "25",
+        "coordinates": {
+          "lat": 47.402121799999996,
+          "lng": 8.5392691
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt.zuerich.ch",
+      "lastName": "Länzlinger",
+      "schoolId": "KsHVYTFAeqb9lNBEvzqORju9TFm2",
+      "firstName": "Rolf",
+      "schoolName": "Allenmoos",
+      "phoneNumber": "044 413 05 05",
+      "organisationId": "dAeC2YqfW6Hbis8YiI49",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1790812800000,
+    "subjects": [
+      "otherSubject"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M3RKXTSENYG8V6M83QRMD37J",
+    "additionalInformation": "Assistenz am Freitag.\\nSport kann auch anders unterrichtet werden.",
+    "affectedTeacherIds": [
+      "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
+      "coPxJg45pMPLbFaFSqV8F4Wgovo1",
+      "t3mOxjm7Tue2iTmOBvBGFOpB20O2",
+      "NVAAUOvu0zfwldN3BwH4clwsxw52"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1790753827630,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1790899200000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1790753827732,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 9,
+    "publishTimestamp": 1790753827630,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "angelina.dinunzio@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Limmatstrasse",
+        "country": "CH",
+        "zipCode": 8005,
+        "streetNr": "176",
+        "coordinates": {
+          "lat": 47.38620539999999,
+          "lng": 8.5301241
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/kornhaus.html",
+      "lastName": "Di Nunzio",
+      "schoolId": "qvbjZ7e8QqYLmIG59l1Q6zBcvRY2",
+      "firstName": "Angelina",
+      "schoolName": "Schule Kornhaus",
+      "phoneNumber": "044 413 33 02",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 14,
+      "additionalInformation": "Altersdurchmischt."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1790812800000,
+    "subjects": [
+      "music",
+      "sports",
+      "german",
+      "mathematics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
     "id": "01M3PZ16M05RMTSSC0HD7NF2XB",
     "additionalInformation": "",
     "affectedTeacherIds": [
       "pIAO2Wh2S7OGQzN3YIaWTCRj2Ji2",
       "0VBDz9bCsmNyxOEUZyKDKVEiAz83",
-      "l86YaNl200TmSSQJZlQaBxMaZUj1"
+      "l86YaNl200TmSSQJZlQaBxMaZUj1",
+      "ma9wxnIENvYz3ZiDDU7fWgZeds32"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -79,14 +234,16 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M3PPJVCRGCS1Z00H14V20EAE",
     "additionalInformation": "Toll wäre, wenn auch folgende Daten durch dich abgedeckt werden könnten:\\nMo/Di 9.11. (13 Lektionen)\\nDi 19.1. (7 Lektionen)\\nDi 16.2. (7 Lektionen)\\nDi 16.3. (7 Lektionen)",
     "affectedTeacherIds": [
       "ofSn3I9zMyMgDJVPU4G6aXdmJxy1",
-      "DJ19x7zDP6QFt0z982FTz75iDjn2"
+      "DJ19x7zDP6QFt0z982FTz75iDjn2",
+      "ma9wxnIENvYz3ZiDDU7fWgZeds32",
+      "RC4GT0r7w0dUkBQLev2k7ai2pGH3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -401,7 +558,8 @@
       "TndYaVr0hBdfZI8zmL71WklQHIn1",
       "zLWLAvzdYKUCqZ8xMJD7sWMbBG53",
       "W9r4617K0tTlJHGKhyk0XoqOw5Q2",
-      "2DHqp5uMYpePvLzI0r8s4C1m8ei2"
+      "2DHqp5uMYpePvLzI0r8s4C1m8ei2",
+      "8a7u1LbyvBQw8nsUNw9TrQJp4TP2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -472,14 +630,15 @@
       "fridayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01M3HDVGEBDMGYGNK8YGMVN3M0",
     "additionalInformation": "Franz muss nicht im Profil vorhanden sein",
     "affectedTeacherIds": [
       "XTz6OounIKaIcllPAlS8BXbiGCV2",
-      "NM8HMVHlGhcLBziYa3v5jGLX1Hj2"
+      "NM8HMVHlGhcLBziYa3v5jGLX1Hj2",
+      "hx5nLfOwAPaAudlSHNrfCnr3bwu2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -549,7 +708,7 @@
       "mondayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M3CVG3G9BTYZ8CXFX5W594B3",
@@ -966,86 +1125,12 @@
     "numberOfOpenApplications": 2
   },
   {
-    "id": "01M3723KMGKRV888P4EQP4V9D2",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "FZx9H3Wh4vNKFTNCFn9IkQixuJU2",
-      "Xd7IXs96PiZjlvCu3KCdTaDUEZA3",
-      "z2PBjD1HDgadsJNXb82fJyLstOg2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1790164717200,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1796342400000,
-    "grades": [
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1790164717261,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1790164717200,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "schulleitung.ruemelbach@psruemlang.ch",
-      "address": {
-        "city": "Rümlang",
-        "canton": "zurich",
-        "street": "Rümelbachstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8153,
-        "streetNr": "30",
-        "coordinates": {
-          "lat": 47.4465563,
-          "lng": 8.5345593
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.psruemlang.ch",
-      "lastName": "Rümelbach",
-      "schoolId": "eU54hNc32QUxa1YLGzvnVz7wGEp1",
-      "firstName": "Schule",
-      "schoolName": "Schule Rümelbach",
-      "phoneNumber": "043 211 20 44",
-      "organisationId": "VOOZdWP91gOOxsJhsS8g",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 9,
-      "additionalInformation": "Liebe Vikarin, Lieber Vikar, an unserer verwaister Stelle suchen wir eine Stellvertretung Montags 8-10 und Freitags 8-10, dies sind die Wunschdaten, gerne können aber uns mitgeteilt werden, wann es gehen würde, evtl. können wir eine Vereinbarung finden. Liebe Grüsse Andrea Rhyner Schulleitung"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792368000000,
-    "subjects": [
-      "germanAsSecondLanguage"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M36VPSSWYMD2R0GEYTDVJ0RS",
     "additionalInformation": "Das Pensum umfasst 23 WL. Schulleitung, SHP und Stellenpartnerin unterstützen bei Bedarf soweit als möglich.",
     "affectedTeacherIds": [
       "suy3szJwjHdvRXS0QEcrn6pfTuI3",
-      "heI295rN7xQaRb5moLhtloxLyCk2"
+      "heI295rN7xQaRb5moLhtloxLyCk2",
+      "gLHx3h8S0mZvTDXu6BkvSutUyEB2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -1122,7 +1207,7 @@
       "tuesdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M36G5KCF5CNDFTRS9PCEZS18",
@@ -1367,7 +1452,8 @@
       "leIHTKlZ14VCwKVMu0lUDJ5VaRN2",
       "8a7u1LbyvBQw8nsUNw9TrQJp4TP2",
       "Dx7d0CIAcfTqqKM490wRC9eS3er1",
-      "Zx77hLT0f7VkaoqKIuutgDpKl5i1"
+      "Zx77hLT0f7VkaoqKIuutgDpKl5i1",
+      "gsUDrO56DXaNJSEYJawaFWbbPbr2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -1437,7 +1523,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M2J4HQPATX44XWBE3N8FP0FP",
@@ -1503,94 +1589,6 @@
       "natureHumanSociety",
       "fineArts",
       "textileAndTechnicalDesign",
-      "music",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M208T3504S2ETDSXKXWRSMPH",
-    "additionalInformation": "Mutterschaftsvikariat. Ggf. beginnt das Vik direkt nach den Herbstferien.\\n\\nViel Unterstützung  in der Klasse und unterstützendes UST-Team vor Ort:\\nMo Morgen : Halbklasse TTG Nachmittag: Halbklasse NMG\\nDi Morgen: Doppellektion TT, Doppellektion DaZ/IF Nachmittag: Halbklasse NMG\\nMi Morgen: 8-9 DaZ, 9-12 Schulassistenz, 11-12 IF\\nDo Morgen: 8-9 IF, 9 - 11 MGA / DaZ, 11-12 SA\\nFri Morgen: 8 - 11 SA",
-    "affectedTeacherIds": [
-      "3f5cl3NdWHbMNHpGJkNBcrkRz4x1",
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "wTOxBA8Mk6f7pqiVyN4rTCbEIAP2",
-      "Q6OYknWrhCOl3vT1frnjIYIFG1e2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788863122592,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1813881600000,
-    "grades": [
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788863122945,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 25,
-    "publishTimestamp": 1788863122591,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "schulverwaltung.bachenbuelach@psbb.ch",
-      "address": {
-        "city": "Bachenbülach",
-        "canton": "zurich",
-        "street": "Halden",
-        "country": "Schweiz",
-        "zipCode": 8184,
-        "streetNr": "16",
-        "coordinates": {
-          "lat": 47.5017422,
-          "lng": 8.551304199999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.psbb.ch",
-      "lastName": "Kalantar",
-      "schoolId": "zGgf9qmx1Na6MOMkSpTwmK1sMkh2",
-      "firstName": "Evelyn",
-      "schoolName": "Primarschule Halden",
-      "phoneNumber": "0445015252",
-      "organisationId": "ZZE3lwGaAKiHAuCOY3vw",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1803859200000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts",
       "music",
       "sports"
     ],
