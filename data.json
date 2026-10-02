@@ -966,85 +966,6 @@
     "numberOfOpenApplications": 4
   },
   {
-    "id": "01M3HDVGEBDMGYGNK8YGMVN3M0",
-    "additionalInformation": "Franz muss nicht im Profil vorhanden sein",
-    "affectedTeacherIds": [
-      "XTz6OounIKaIcllPAlS8BXbiGCV2",
-      "NM8HMVHlGhcLBziYa3v5jGLX1Hj2",
-      "hx5nLfOwAPaAudlSHNrfCnr3bwu2",
-      "hLyO3rIPaUaSaAjuhK3FGkfYAUz1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1790512579019,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1809302400000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1790512579115,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 7,
-    "publishTimestamp": 1790512579019,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "branislav.jelisavac@primgreif.ch",
-      "address": {
-        "city": "Greifensee",
-        "canton": "zurich",
-        "street": "Breitistrasse ",
-        "country": "CH",
-        "zipCode": 8606,
-        "streetNr": "13",
-        "coordinates": {
-          "lat": 47.3678863,
-          "lng": 8.677386199999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.primarschule-greifensee.ch/",
-      "lastName": "Jelisavac",
-      "schoolId": "01M0Q9S0AX1HKPQKY2QX0NE2CS",
-      "firstName": "Branislav",
-      "schoolName": "Primarschule Greifensee",
-      "phoneNumber": "078 955 10 14",
-      "organisationId": "01M0Q9S0AS67XX1C82WG062FRC",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "natureHumanSociety",
-      "french",
-      "sports",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M3HDVGEBDMGYGNK8YGMVN3M0/timeTables/1740729e-495d-4a83-888e-ec8dadcb8a69.jpg",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M3CVG3G9BTYZ8CXFX5W594B3",
     "additionalInformation": "Die Schüler:innen profitieren von einer engen Zusammenarbeit von Schulassistenz, Fachlehrperson und Schulische Heilpädagogin. Wir pflegen einen regelmässige Austausch im Klassenteam, damit wir schnell auf Veränderungen reagieren und gemeinsame Lösungen finden können. Die gemeinsame Vorbereitung im Jahrgangsteam bildet die Grundlage für unseren Unterricht.\\nEs besteht die Möglichkeit auf eine Festanstellung.",
     "affectedTeacherIds": [
@@ -1623,6 +1544,88 @@
       "fridayMorning",
       "thursdayAfternoon",
       "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
+    "id": "01M2J5TCSRD805EQGY1PC9WCTC",
+    "additionalInformation": "Donnerstag: 2 WL in Klasse 1a, 2 WL in Klasse 1b, 2 WL in Klasse 3a",
+    "affectedTeacherIds": [
+      "MnyMtagOKyXSQHAWvpybQ5Ixxyk2",
+      "leIHTKlZ14VCwKVMu0lUDJ5VaRN2",
+      "8a7u1LbyvBQw8nsUNw9TrQJp4TP2",
+      "Dx7d0CIAcfTqqKM490wRC9eS3er1",
+      "Zx77hLT0f7VkaoqKIuutgDpKl5i1",
+      "gsUDrO56DXaNJSEYJawaFWbbPbr2",
+      "qZSFS19zVOhvYtgtWhZP5NIAlL73"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1789463966520,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797465600000,
+    "grades": [
+      "firstClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1789463966616,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1789463966520,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "c.haering@nueri.ch",
+      "address": {
+        "city": "Nürensdorf",
+        "canton": "zurich",
+        "street": "Uebrichstrasse",
+        "country": "CH",
+        "zipCode": 8309,
+        "streetNr": "5",
+        "coordinates": {
+          "lat": 47.4474238,
+          "lng": 8.6519418
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-nuerensdorf.ch/",
+      "lastName": "Häring",
+      "schoolId": "01KCRPCVV6XKHSTN9XMPWQNGDV",
+      "firstName": "Christoph",
+      "schoolName": "Schulhaus Ebnet",
+      "phoneNumber": "044 836 65 54",
+      "organisationId": "01KCRPCVTV16Y7B5YQWQ0MSYZJ",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 25,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1796256000000,
+    "subjects": [
+      "mathematics",
+      "german",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 3
   }
