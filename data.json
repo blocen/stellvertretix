@@ -1,5 +1,86 @@
 [
   {
+    "id": "01M4083KREXDEHD8P53X7YGYEP",
+    "additionalInformation": "Für unsere Primarschule suchen wir per 26. Oktober eine motivierte und herzliche\\nLehrperson Primarstufe (12 Wochenlektionen)\\n\\nDein Einsatz:\\n•\tMontag: 4. Klasse (7 Wochenlektionen)\\n•\tDienstag: Unterricht an zwei 6. Klassen \\no\t10.00–12.00 Uhr\\no\t13.30–16.00 Uhr\\n\\nDas erwartet dich:\\n•\tUnterricht in aufgeweckten und lernfreudigen Klassen\\n•\tEin unterstützendes, kollegiales Team\\n•\tGute Zusammenarbeit mit der Schulleitung und den Lehrpersonen\\n•\tEin attraktives Teilpensum mit klaren Unterricht",
+    "affectedTeacherIds": [
+      "5E8yWHyxV9OLbdwbVr7wRCFv1EY2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1791009869582,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "forthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1791009868489,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1791009869581,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "marco.boesch@buelach.ch",
+      "address": {
+        "city": "Bülach",
+        "canton": "zurich",
+        "street": "Leeweg",
+        "country": "Schweiz",
+        "zipCode": 8180,
+        "streetNr": "21",
+        "coordinates": {
+          "lat": 47.512291,
+          "lng": 8.5311091
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-buelach.ch/schulen/schule-allmend/",
+      "lastName": "Bösch",
+      "schoolId": "CcbFvDU1SgS66gNBKIlxWiIFvZ02",
+      "firstName": "Marco",
+      "schoolName": "Primarschule Allmend",
+      "phoneNumber": "+41 44 863 16 60",
+      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": "•  🌟 Motivierte und lebendige Klassen, die sich auf eine engagierte Lehrperson freuen. \\n•  🌍 Kulturelle Vielfalt als Bereicherung: Als QUIMS-Schule fördern wir ein wertschätzendes Miteinander \\n         und nutzen die unterschiedlichen Hintergründe unserer Schülerinnen und Schüler als Stärke."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792972800000,
+    "subjects": [
+      "german",
+      "music",
+      "sports",
+      "mathematics",
+      "fineArts",
+      "english"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01M3YDRQJ76CGYMFG8D8QBFZ38",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -325,7 +406,8 @@
     "id": "01M3VWAT1TV2QG1KK5HVJ8TYAW",
     "additionalInformation": "Dienstag, 20.4.2027 - 6L plus Aufgabenstunde (8-16 Uhr) - MU, MA, SW, BG\\nMittwoch, 21.04.2027 - 4 plus Auffangzeit (8-12 Uhr) - MA, D, RKE, S\\nDonnerstag, 22.04.2027 - 6L plus Aufgabenstunde (8-16 Uhr) - MA, D, BG",
     "affectedTeacherIds": [
-      "zLWLAvzdYKUCqZ8xMJD7sWMbBG53"
+      "zLWLAvzdYKUCqZ8xMJD7sWMbBG53",
+      "2URffkagQRNZhZBCYJyIpj9n0772"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -401,85 +483,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M3VQXFG87W92PYSF9B5NKA6A",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "NVAAUOvu0zfwldN3BwH4clwsxw52",
-      "9ii4DxjKq2h8ZeOnqXvzshIjfih1",
-      "FZx9H3Wh4vNKFTNCFn9IkQixuJU2",
-      "bP18gdZd24eLnYc0f3XA9HbJnjC2",
-      "zMUC9rAY0ed0YSBbwr3bjpl2Vir2",
-      "t3mOxjm7Tue2iTmOBvBGFOpB20O2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1790858673673,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1790899200000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1790858673730,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1790858673672,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sabrina.montilla@primarschule-uster.ch",
-      "address": {
-        "city": "Uster",
-        "canton": "zurich",
-        "street": "Zürichstrasse",
-        "country": "CH",
-        "zipCode": 8610,
-        "streetNr": "33",
-        "coordinates": {
-          "lat": 47.3521592,
-          "lng": 8.708128799999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.primarschule-uster.ch/kraemeracker/2212",
-      "lastName": "Montilla",
-      "schoolId": "5ocaWOrIwLN0XFdPxI7ru4SsFqH3",
-      "firstName": "Sabrina",
-      "schoolName": "Primarschule Krämeracker",
-      "phoneNumber": "+41762501387",
-      "organisationId": "01K7E8BYNX6GNQ26RV29PBNBX5",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1790899200000,
-    "subjects": [
-      "german",
-      "mathematics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M3V7H2N65272QM6XBASN8AQC",
