@@ -573,89 +573,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M3PPJVCRGCS1Z00H14V20EAE",
-    "additionalInformation": "Toll wäre, wenn auch folgende Daten durch dich abgedeckt werden könnten:\\nMo/Di 9.11. (13 Lektionen)\\nDi 19.1. (7 Lektionen)\\nDi 16.2. (7 Lektionen)\\nDi 16.3. (7 Lektionen)",
-    "affectedTeacherIds": [
-      "ofSn3I9zMyMgDJVPU4G6aXdmJxy1",
-      "DJ19x7zDP6QFt0z982FTz75iDjn2",
-      "ma9wxnIENvYz3ZiDDU7fWgZeds32",
-      "RC4GT0r7w0dUkBQLev2k7ai2pGH3",
-      "OPYUjYAfXggHxgXViAog278OJ4e2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1790689504664,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1792713600000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1790689504716,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 10,
-    "publishTimestamp": 1790689504663,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "anna.dimaggio@schule-rft.ch",
-      "address": {
-        "city": "Rorbas",
-        "canton": "zurich",
-        "street": "Schulhausstrasse ",
-        "country": "CH",
-        "zipCode": 8427,
-        "streetNr": "10",
-        "coordinates": {
-          "lat": 47.53138510000001,
-          "lng": 8.5768493
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-rft.ch",
-      "lastName": "Di Maggio",
-      "schoolId": "uQ3mXiYi3SSVXtABxRWehGhAZaY2",
-      "firstName": "Anna",
-      "schoolName": "Primarschule Rorbas (UST)",
-      "phoneNumber": "077 522 95 53",
-      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 16,
-      "additionalInformation": "Teilweise begleitet durch SHP und Unterrichtsassistenz"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792627200000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "natureHumanSociety",
-      "textileAndTechnicalDesign",
-      "project"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M3PPJVCRGCS1Z00H14V20EAE/timeTables/c3e7c43e-089f-4ec6-a1d2-96bb5ef29ff3.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
     "id": "01M3MQGGT8J695RX7W5SDYHPPQ",
     "additionalInformation": "12 WL Klassenlehrperson (Dienstag und Freitag)\\n2 WL Teamteaching (zum Beispiel Montagnachmittag, kann aber auch auf einen anderen Tag gelegt werden.)\\n\\nbis November oder Dezember",
     "affectedTeacherIds": [
@@ -1634,6 +1551,78 @@
       "tuesdayAfternoon",
       "thursdayAfternoon",
       "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M1KENWECQ3PP62VNZF2E9AQQ",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788433068492,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1810771200000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788433068702,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1788433068492,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "antonella.granata@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Dachslernstrasse",
+        "country": "CH",
+        "zipCode": 8048,
+        "streetNr": "5",
+        "coordinates": {
+          "lat": 47.387924,
+          "lng": 8.481421
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/dachslernstrasse.html",
+      "lastName": "Antonella",
+      "schoolId": "9LEfeaRUhJTDS56lWOg5l3Ehrju1",
+      "firstName": "Granata",
+      "schoolName": "Dachslern-Feldblumen",
+      "phoneNumber": "0041788659788",
+      "organisationId": "ZLXeHTjIe84V659HWzIo",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1806537600000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 0
   }
