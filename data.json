@@ -573,92 +573,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M3MQGGT8J695RX7W5SDYHPPQ",
-    "additionalInformation": "12 WL Klassenlehrperson (Dienstag und Freitag)\\n2 WL Teamteaching (zum Beispiel Montagnachmittag, kann aber auch auf einen anderen Tag gelegt werden.)\\n\\nbis November oder Dezember",
-    "affectedTeacherIds": [
-      "szxUOdrN7eMs866VaCNLRa2rdsJ3",
-      "K6akAdnslpb61d39y9kgkp7okAY2",
-      "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
-      "sAHWFh44ImSLTZq53ti43SXwLTu1"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1790623368010,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "mixedAgeLearning",
-      "thirdClass",
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1790623368093,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 14,
-    "publishTimestamp": 1790623368006,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "barbara.hollenstein@schule-adliswil.ch",
-      "address": {
-        "city": "Adliswil",
-        "canton": "zurich",
-        "street": "Kopfholzstrasse",
-        "country": "CH",
-        "zipCode": 8134,
-        "streetNr": "4",
-        "coordinates": {
-          "lat": 47.3081045,
-          "lng": 8.5334836
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-adliswil.ch/kopfholz/ueberblick/aktuelles/p-183564/",
-      "lastName": "Hollenstein",
-      "schoolId": "ovsMEv4z4xQAJ2MaOFJicqm7ZDB2",
-      "firstName": "Barbara",
-      "schoolName": "Kopfholz",
-      "phoneNumber": "079 965 59 66",
-      "organisationId": "0bRthbqXyzKLVnUBBRcQ",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "3. Klasse: 10 Kinder\\n4. Klasse: 13 Kinder"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792368000000,
-    "subjects": [
-      "english",
-      "sports",
-      "mathematics",
-      "natureHumanSociety",
-      "music"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M3MQGGT8J695RX7W5SDYHPPQ/timeTables/042a38fd-dbd6-40a8-9a1f-daa16446ea4a.png",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M3KYV6H37XDXF1Q9RMGHXJMN",
     "additionalInformation": "",
     "affectedTeacherIds": [],
@@ -1625,5 +1539,89 @@
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M1GYNTDSBBA2KE8PK39FY8C7",
+    "additionalInformation": "Sämtliche Lektionen an der ADL 5./6. Klasse",
+    "affectedTeacherIds": [
+      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73",
+      "FXgZq28dy6PLbdfIb4TvupX3RoH2",
+      "Py7dRfpb7GT23lv75Pa6HwQjG8j1",
+      "ch9xb8etrChhBOjm2ZpguV3lKKT2",
+      "sAHWFh44ImSLTZq53ti43SXwLTu1",
+      "StqAUHcQ20aDqrSN0nRIR7c3o912",
+      "NqW6XqcN6xUcYyKFUqk2muADlKA3"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1788349180345,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1788349180452,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 21,
+    "publishTimestamp": 1788349180344,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "c.haering@nueri.ch",
+      "address": {
+        "city": "Nürensdorf",
+        "canton": "zurich",
+        "street": "Uebrichstrasse",
+        "country": "CH",
+        "zipCode": 8309,
+        "streetNr": "5",
+        "coordinates": {
+          "lat": 47.4474238,
+          "lng": 8.6519418
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-nuerensdorf.ch/",
+      "lastName": "Häring",
+      "schoolId": "01KCRPCVV6XKHSTN9XMPWQNGDV",
+      "firstName": "Christoph",
+      "schoolName": "Schulhaus Ebnet",
+      "phoneNumber": "044 836 65 54",
+      "organisationId": "01KCRPCVTV16Y7B5YQWQ0MSYZJ",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "ADL 5./6."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "if"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M1GYNTDSBBA2KE8PK39FY8C7/timeTables/5eeb808f-a535-4b0b-bfd8-d582221a2c9e.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
   }
 ]
