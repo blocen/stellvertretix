@@ -1,9 +1,94 @@
 [
   {
+    "id": "01M48N6A351QVCS1MHN8TKZJXR",
+    "additionalInformation": "Lehrperson fällt auf Grund eines Unfalls bis sicherlich zu den Weihnachtsferien aus, Stellenpartnerin ist Mittwoch und Freitag vor Ort, ",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1791292024933,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1791292025002,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 19,
+    "publishTimestamp": 1791292024933,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "isabelle.balliet@schule-rft.ch",
+      "address": {
+        "city": "Rorbas",
+        "canton": "zurich",
+        "street": "Zilacherstrasse",
+        "country": "CH",
+        "zipCode": 8427,
+        "streetNr": "19",
+        "coordinates": {
+          "lat": 47.5323808,
+          "lng": 8.57748
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-rft.ch",
+      "lastName": "Balliet",
+      "schoolId": "yEGZCGxVlwQLkOLhOtyp8Qdynbq1",
+      "firstName": "Isabelle",
+      "schoolName": "Primarschule Rorbas (MST)",
+      "phoneNumber": "0786243799",
+      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": "Unterrichtsassistenz 8 Lektionen, SHP 4 Lektionen anwesend, Klasse ist seit der 4. Klasse zusammen unterwegs, gut eingespeilt, Abläufe sitzen und sind ritualisiert, "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "sports",
+      "music",
+      "natureHumanSociety",
+      "fineArts",
+      "classAssistance"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M48N6A351QVCS1MHN8TKZJXR/timeTables/9320dccb-0ef5-4bc7-929c-799a8947b0ac.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M45NTFTE95FTZDA674R4H2SD",
     "additionalInformation": "gut geführte Klassen im Zyklus 2\\nAbsprache mit TTG-Lehrperson möglich",
     "affectedTeacherIds": [
-      "l3fYpiHEDier8BxyVpwjfAUDv9z2"
+      "l3fYpiHEDier8BxyVpwjfAUDv9z2",
+      "aZSVdcsAwsbPjaqx23z3Wx4HwuC2",
+      "lCho1UtFk9PB94d4wtdgsxG5LbO2",
+      "HtgHSlxK5EbKQOtbT8P2HEEb0Jz1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -78,7 +163,7 @@
       "tuesdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M45GSQ7Q6KQ74DWEQFF45V8S",
@@ -169,7 +254,8 @@
     "id": "01M4083KREXDEHD8P53X7YGYEP",
     "additionalInformation": "Für unsere Primarschule suchen wir per 26. Oktober eine motivierte und herzliche\\nLehrperson Primarstufe (12 Wochenlektionen)\\n\\nDein Einsatz:\\n•\tMontag: 4. Klasse (7 Wochenlektionen)\\n•\tDienstag: Unterricht an zwei 6. Klassen \\no\t10.00–12.00 Uhr\\no\t13.30–16.00 Uhr\\n\\nDas erwartet dich:\\n•\tUnterricht in aufgeweckten und lernfreudigen Klassen\\n•\tEin unterstützendes, kollegiales Team\\n•\tGute Zusammenarbeit mit der Schulleitung und den Lehrpersonen\\n•\tEin attraktives Teilpensum mit klaren Unterricht",
     "affectedTeacherIds": [
-      "5E8yWHyxV9OLbdwbVr7wRCFv1EY2"
+      "5E8yWHyxV9OLbdwbVr7wRCFv1EY2",
+      "gmZowwIDhfZgAY87F2jCpNQaSsz2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -244,85 +330,7 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M3YDRQJ76CGYMFG8D8QBFZ38",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "8a7u1LbyvBQw8nsUNw9TrQJp4TP2",
-      "TndYaVr0hBdfZI8zmL71WklQHIn1",
-      "Fzbt8qnB2BXTo9kN8Qefa0wjMPd2",
-      "FZx9H3Wh4vNKFTNCFn9IkQixuJU2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1790948695623,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1792713600000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1790948695687,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1790948695623,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "Tobias.Goeldi@schule-dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Göldi",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Tobias",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792713600000,
-    "subjects": [
-      "german",
-      "sports",
-      "mathematics",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M3YDRQJ76CGYMFG8D8QBFZ38/timeTables/b24f155b-a9e1-4523-bf7e-918b947e5f1c.png",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M3Y7C9CNP1Q83YJ11325M82K",
@@ -1227,88 +1235,6 @@
     "numberOfOpenApplications": 3
   },
   {
-    "id": "01M2J5TCSRD805EQGY1PC9WCTC",
-    "additionalInformation": "Donnerstag: 2 WL in Klasse 1a, 2 WL in Klasse 1b, 2 WL in Klasse 3a",
-    "affectedTeacherIds": [
-      "MnyMtagOKyXSQHAWvpybQ5Ixxyk2",
-      "leIHTKlZ14VCwKVMu0lUDJ5VaRN2",
-      "8a7u1LbyvBQw8nsUNw9TrQJp4TP2",
-      "Dx7d0CIAcfTqqKM490wRC9eS3er1",
-      "Zx77hLT0f7VkaoqKIuutgDpKl5i1",
-      "gsUDrO56DXaNJSEYJawaFWbbPbr2",
-      "qZSFS19zVOhvYtgtWhZP5NIAlL73"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1789463966520,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797465600000,
-    "grades": [
-      "firstClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1789463966616,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1789463966520,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "c.haering@nueri.ch",
-      "address": {
-        "city": "Nürensdorf",
-        "canton": "zurich",
-        "street": "Uebrichstrasse",
-        "country": "CH",
-        "zipCode": 8309,
-        "streetNr": "5",
-        "coordinates": {
-          "lat": 47.4474238,
-          "lng": 8.6519418
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-nuerensdorf.ch/",
-      "lastName": "Häring",
-      "schoolId": "01KCRPCVV6XKHSTN9XMPWQNGDV",
-      "firstName": "Christoph",
-      "schoolName": "Schulhaus Ebnet",
-      "phoneNumber": "044 836 65 54",
-      "organisationId": "01KCRPCVTV16Y7B5YQWQ0MSYZJ",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 25,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1796256000000,
-    "subjects": [
-      "mathematics",
-      "german",
-      "sports"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M2J4HQPATX44XWBE3N8FP0FP",
     "additionalInformation": "",
     "affectedTeacherIds": [],
@@ -1465,90 +1391,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M1GYNTDSBBA2KE8PK39FY8C7",
-    "additionalInformation": "Sämtliche Lektionen an der ADL 5./6. Klasse",
-    "affectedTeacherIds": [
-      "x7c3RWTC4VaqNfyMiAoIXcN5Xc73",
-      "FXgZq28dy6PLbdfIb4TvupX3RoH2",
-      "Py7dRfpb7GT23lv75Pa6HwQjG8j1",
-      "ch9xb8etrChhBOjm2ZpguV3lKKT2",
-      "sAHWFh44ImSLTZq53ti43SXwLTu1",
-      "StqAUHcQ20aDqrSN0nRIR7c3o912",
-      "NqW6XqcN6xUcYyKFUqk2muADlKA3"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788349180345,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788349180452,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 21,
-    "publishTimestamp": 1788349180344,
-    "role": "currative",
-    "school": {
-      "logo": null,
-      "email": "c.haering@nueri.ch",
-      "address": {
-        "city": "Nürensdorf",
-        "canton": "zurich",
-        "street": "Uebrichstrasse",
-        "country": "CH",
-        "zipCode": 8309,
-        "streetNr": "5",
-        "coordinates": {
-          "lat": 47.4474238,
-          "lng": 8.6519418
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-nuerensdorf.ch/",
-      "lastName": "Häring",
-      "schoolId": "01KCRPCVV6XKHSTN9XMPWQNGDV",
-      "firstName": "Christoph",
-      "schoolName": "Schulhaus Ebnet",
-      "phoneNumber": "044 836 65 54",
-      "organisationId": "01KCRPCVTV16Y7B5YQWQ0MSYZJ",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "ADL 5./6."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792368000000,
-    "subjects": [
-      "if"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M1GYNTDSBBA2KE8PK39FY8C7/timeTables/5eeb808f-a535-4b0b-bfd8-d582221a2c9e.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
     "id": "01M1BQED3Q5HX8JYRCVZ1M89MN",
     "additionalInformation": "Falls du nur den Montag oder nur Dienstag - Donnerstag übernehmen könntest, wäre das Vikariat auch aufteilbar. ",
     "affectedTeacherIds": [
@@ -1635,5 +1477,99 @@
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M0SXF71T0QRP2ZJHWZX4DMMD",
+    "additionalInformation": "Liebe Kollegen\\nIch suche eine Lehrperson, die mich während eines Pflicht-Praktikums an der PH vertritt. Es könnten auch notfalls weniger Fächer unterrichtet werden. Wir finden sicherlich eine flexible und individuelle Lösung.\\n\\nLiebe Grüsse \\nR. Trop\\nKlassenlehrerin ",
+    "affectedTeacherIds": [
+      "4CcPOLKfnWhTkzAMv3scAvqO71x2",
+      "UEB664AzQOdSzgoQIZZOsrBpAKC2",
+      "Ad7cUpKmAfe1JzcZ8lx9ryJVpoV2",
+      "Aqhii0eLSZPqWbAS6HcvbN2yb9V2",
+      "iXAlfyfCjJX6a5fliMVPIvDygY32",
+      "mjCbLPUDKRczr97Wm2ZGXRlJHGj1",
+      "lCho1UtFk9PB94d4wtdgsxG5LbO2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1787576163386,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1801785600000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolled",
+    "modifiedTimestamp": 1787576165432,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 21,
+    "publishTimestamp": 1787582817063,
+    "role": "subject",
+    "school": {
+      "logo": {
+        "logoUrl": "public_schools/01M0SWJF1C2R6CYZ6VQG4DFGD3/logos/99374e7c-1374-4b0d-966c-1d4e634960ee.jpg",
+        "blurhash": "LHR:f{-;-V%gyDs:s:S1}[WBR*$+",
+        "cloudflareId": "school:01M0SWJF1C2R6CYZ6VQG4DFGD3:99374e7c-1374-4b0d-966c-1d4e634960ee.jpg"
+      },
+      "email": "trop@lerncenter.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Asylstrasse ",
+        "country": "CH",
+        "zipCode": 8032,
+        "streetNr": "35",
+        "coordinates": {
+          "lat": 47.3686322,
+          "lng": 8.5589493
+        }
+      },
+      "culture": "de-CH",
+      "website": "lerncenter.ch/?gad_source=1&gad_campaignid=8858289329&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXwbLnKIemwKfDf6xexgsbbbheprpYQ0O55pX63b2W3w_GTvB35c0JgaAga1EALw_wcB",
+      "lastName": "Trop",
+      "schoolId": "01M0SWJF1C2R6CYZ6VQG4DFGD3",
+      "firstName": "Romy ",
+      "schoolName": "LernCenter ",
+      "phoneNumber": "044 811 00 00",
+      "organisationId": "01M0SWJF19F76MXBMXN49EPP79",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 16,
+      "additionalInformation": "Es handelt sich um eine 5. und 6. Klasse einer Privatschule. Die SuS lernen überwiegend digital. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1800230400000,
+    "subjects": [
+      "german",
+      "english",
+      "music",
+      "natureHumanSociety",
+      "economyWorkBudget",
+      "fineArts",
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M0SXF71T0QRP2ZJHWZX4DMMD/timeTables/9906d4de-c20f-4fd1-9550-ac5b4f251fe0.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
   }
 ]
