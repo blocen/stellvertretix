@@ -1,5 +1,235 @@
 [
   {
+    "id": "01M4R07T4R2NRJ8131TNJKZ7HA",
+    "additionalInformation": "Fachlehrpersonen-Pensum jeweils am Mittwoch Vormittag, zwischen Weihnachts- und Sportferien ",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1791806924952,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1802217600000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1791806925117,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1791808025144,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "nicolas.dudler@schuleoberrieden.ch",
+      "address": {
+        "city": "Oberrieden",
+        "canton": "zurich",
+        "street": "Püntstrasse",
+        "country": "CH",
+        "zipCode": 8942,
+        "streetNr": "8",
+        "coordinates": {
+          "lat": 47.2737771,
+          "lng": 8.5773188
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schuleoberrieden.ch",
+      "lastName": "Dudler",
+      "schoolId": "01M4BAHQC9ZX9YPQNDJ4Q7B0MG",
+      "firstName": "Nicolas",
+      "schoolName": "Schulhaus Pünt",
+      "phoneNumber": "044 722 79 66",
+      "organisationId": "01KVNNZFF5RMA6N80Q5BKVPVWK",
+      "directionInformation": "S24 bis Oberrieden-Dorf / oder Parkplätze vor dem Schulhaus vorhanden"
+    },
+    "schoolClass": {
+      "numberOfStudents": 25,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799193600000,
+    "subjects": [
+      "mediaAndComputerScience",
+      "fineArts",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M4R07T4R2NRJ8131TNJKZ7HA/timeTables/208740ae-e366-41c4-8a5d-7c1bac09ee6e.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M4QH8ZZYYEPYZT7GZBJ887H6",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1791791235070,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1793923200000,
+    "grades": [
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1791791235155,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1791791235069,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "schulverwaltung.bachenbuelach@psbb.ch",
+      "address": {
+        "city": "Bachenbülach",
+        "canton": "zurich",
+        "street": "Halden",
+        "country": "Schweiz",
+        "zipCode": 8184,
+        "streetNr": "16",
+        "coordinates": {
+          "lat": 47.5017422,
+          "lng": 8.551304199999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.psbb.ch",
+      "lastName": "Kalantar",
+      "schoolId": "zGgf9qmx1Na6MOMkSpTwmK1sMkh2",
+      "firstName": "Evelyn",
+      "schoolName": "Primarschule Halden",
+      "phoneNumber": "0445015252",
+      "organisationId": "ZZE3lwGaAKiHAuCOY3vw",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 25,
+      "additionalInformation": "Am Nachmittag ist jeweils Halbklassenunterricht. Der Unterricht wird von der Lehrperson vorbereitet. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "music",
+      "mathematics",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M4QD36TYBC72AEMD0YZXXS61",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "l3fYpiHEDier8BxyVpwjfAUDv9z2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1791786851167,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1794960000000,
+    "grades": [
+      "fifthClass",
+      "sixthClass",
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1791786851278,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 16,
+    "publishTimestamp": 1791786851165,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "schulleitung@schule-kilchberg.ch",
+      "address": {
+        "city": "Kilchberg ZH",
+        "canton": "zurich",
+        "street": "Alte Landstrasse",
+        "country": "CH",
+        "zipCode": 8802,
+        "streetNr": "120",
+        "coordinates": {
+          "lat": 47.3237144,
+          "lng": 8.5449845
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-kilchberg.ch",
+      "lastName": "Kilchberg",
+      "schoolId": "IJ7PiaBuWfe3Q58QpyYgqkzq2lq2",
+      "firstName": "Schulleitung",
+      "schoolName": "Primarschule Kilchberg",
+      "phoneNumber": "0447163300",
+      "organisationId": "01K6MZ0TGMB1F9XQ62AH2YMHRW",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792454400000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M4P4QTBPRDVTJB0RR10G2MTC",
     "additionalInformation": "Die Klassenlehrperson fällt krankheitsbedingt aus. Du arbeitest während der Stellvertretung eng mit der Stellenpartnerin zusammen, die für Absprachen und den fachlichen Austausch zur Verfügung steht. ",
     "affectedTeacherIds": [
@@ -498,7 +728,7 @@
       "fridayMorning",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M3V7H2N65272QM6XBASN8AQC",
@@ -922,7 +1152,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M2J4HQPATX44XWBE3N8FP0FP",
@@ -1178,7 +1408,9 @@
       "Aqhii0eLSZPqWbAS6HcvbN2yb9V2",
       "iXAlfyfCjJX6a5fliMVPIvDygY32",
       "mjCbLPUDKRczr97Wm2ZGXRlJHGj1",
-      "lCho1UtFk9PB94d4wtdgsxG5LbO2"
+      "lCho1UtFk9PB94d4wtdgsxG5LbO2",
+      "lWkMkvml0OZzjVJZcNR3nZ3BTNo2",
+      "Dr5DSQkmFLWRWVXZVFWZhUW8RpG3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -1260,6 +1492,6 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   }
 ]
