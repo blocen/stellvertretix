@@ -1,5 +1,83 @@
 [
   {
+    "id": "01M4T9YRRSS0HZG5AHQS2ACPNA",
+    "additionalInformation": "Mutterschaftsvertretung",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1791884223258,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1809648000000,
+    "grades": [
+      "secondClass",
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1791884223782,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 22,
+    "publishTimestamp": 1791884223257,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "gabriel.terlemez@dietikon.ch",
+      "address": {
+        "city": "Dietikon",
+        "canton": "zurich",
+        "street": "Römerstrasse ",
+        "country": "CH",
+        "zipCode": 8953,
+        "streetNr": "15",
+        "coordinates": {
+          "lat": 47.4047072,
+          "lng": 8.3947644
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
+      "lastName": "Schulleitung",
+      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
+      "firstName": "Steinmürli ",
+      "schoolName": "Schule Steinmürli, Dietikon",
+      "phoneNumber": "0447437700",
+      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 18,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1803859200000,
+    "subjects": [
+      "if",
+      "issIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M4T9YRRSS0HZG5AHQS2ACPNA/timeTables/c39bd2cf-8b2f-47c7-abaa-07e91bd6b8ac.png",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M4R07T4R2NRJ8131TNJKZ7HA",
     "additionalInformation": "Fachlehrpersonen-Pensum jeweils am Mittwoch Vormittag, zwischen Weihnachts- und Sportferien ",
     "affectedTeacherIds": [],
@@ -423,7 +501,7 @@
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1791186755097,
-    "partialTakeoverPossible": true,
+    "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 15,
@@ -647,14 +725,15 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M3V9ZMP0JXXKGBG88PH4Z1VP",
     "additionalInformation": "Der Stundenplan kann in Absprache mit der KLP verändert werden - d.h. andere Arbeitstage sind möglich. ",
     "affectedTeacherIds": [
       "gehV4djIMehUsTwPdRG6cLLy0ly2",
-      "RlVvQX4mNoZZo7jzlcuSlk130xl2"
+      "RlVvQX4mNoZZo7jzlcuSlk130xl2",
+      "5l6Rlpk66gaySahLrfV3Wr7LDlp2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -728,7 +807,7 @@
       "fridayMorning",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M3V7H2N65272QM6XBASN8AQC",
@@ -737,7 +816,8 @@
       "lYqQm6Huj2Ueuy3EnRwQ0Xd9IZA2",
       "9AbjVG5nHoY9z1MtIVmhdf3uW3T2",
       "qQPlPxInuSSYW6qDg6rrX3zBVA62",
-      "VZ8MujPTc5XN4CNXCJttsVovnbD2"
+      "VZ8MujPTc5XN4CNXCJttsVovnbD2",
+      "6rXWApnGcvTgr38T7EMwPDrfV5j1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -816,7 +896,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M3CEVE3M9QMF94ZJHQQ8YZGB",
@@ -987,7 +1067,9 @@
   {
     "id": "01M39YN33DY7BTSW0BX7J0GXER",
     "additionalInformation": "Für die Zeit zwischen den Weihnachts- und Sportferien 2027 suche ich eine Stellvertretung für mein gesamtes Pensum. Unsere AdL-Klasse wird von einer SHP und einer Fachlehrperson unterstützt. 6 Lektionen finden im Teamteaching statt, die SHP ist zusätzlich während 8 Lektionen in der Klasse. Zudem stehen Ressourcen durch Klassenassistenzen und die Betreuungsperson zur Verfügung. Der Musik- und Schwimmunterricht wird von Fachlehrpersonen erteilt; die Kinder müssen lediglich begleitet werden.",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "NqW6XqcN6xUcYyKFUqk2muADlKA3"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -1063,7 +1145,7 @@
       "mondayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M373C924TCGMZNMHA3NCFFKN",
@@ -1410,7 +1492,8 @@
       "mjCbLPUDKRczr97Wm2ZGXRlJHGj1",
       "lCho1UtFk9PB94d4wtdgsxG5LbO2",
       "lWkMkvml0OZzjVJZcNR3nZ3BTNo2",
-      "Dr5DSQkmFLWRWVXZVFWZhUW8RpG3"
+      "Dr5DSQkmFLWRWVXZVFWZhUW8RpG3",
+      "HdsYsAPvZVfa81CRtoK4q70M4r03"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
