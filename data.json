@@ -1,5 +1,77 @@
 [
   {
+    "id": "01M4XRFH8HA4JXGGQHB1S88F6S",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "4ySdEQrq2UUosjgOMw4RThuTZ4L2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792000115986,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1794960000000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792000116887,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1792000115984,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "schulleitung@schule-kilchberg.ch",
+      "address": {
+        "city": "Kilchberg ZH",
+        "canton": "zurich",
+        "street": "Alte Landstrasse",
+        "country": "CH",
+        "zipCode": 8802,
+        "streetNr": "120",
+        "coordinates": {
+          "lat": 47.3237144,
+          "lng": 8.5449845
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-kilchberg.ch",
+      "lastName": "Kilchberg",
+      "schoolId": "IJ7PiaBuWfe3Q58QpyYgqkzq2lq2",
+      "firstName": "Schulleitung",
+      "schoolName": "Primarschule Kilchberg",
+      "phoneNumber": "0447163300",
+      "organisationId": "01K6MZ0TGMB1F9XQ62AH2YMHRW",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792540800000,
+    "subjects": [
+      "textileAndTechnicalDesign"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01M4XEDNC8VVV7VQF0BPCSNA7Y",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -154,82 +226,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M4TXQW1C5GPF3EK7M214Z1SR",
-    "additionalInformation": "Es handelt sich um eine Verlängerung eines Mutterschaftsurlaubes. ",
-    "affectedTeacherIds": [
-      "IaLJB53RkmT93qC0Cdj301Ttigk2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1791904968748,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1796256000000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1791904968853,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 8,
-    "publishTimestamp": 1791904968748,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "jonas.meyer@schule-lindau.ch",
-      "address": {
-        "city": "Tagelswangen",
-        "canton": "zurich",
-        "street": "Falkenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8317,
-        "streetNr": "1",
-        "coordinates": {
-          "lat": 47.4328894,
-          "lng": 8.6701076
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-lindau.ch/",
-      "lastName": "Meyer",
-      "schoolId": "lsN2o57xZZO5AKObisWzTVbGJuE2",
-      "firstName": "Jonas",
-      "schoolName": "Schulhaus Buck",
-      "phoneNumber": "0764980485",
-      "organisationId": "grUmUzhCwQQekXgXAYWx",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Tolle, neugierige Klasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792540800000,
-    "subjects": [
-      "music",
-      "german",
-      "mathematics",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M4TXQW1C5GPF3EK7M214Z1SR/timeTables/04c73259-81ec-48c8-a20f-cf5b77d28de9.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "wednesdayMorning",
-      "thursdayMorning"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
     "id": "01M4T9YRRSS0HZG5AHQS2ACPNA",
     "additionalInformation": "Mutterschaftsvertretung",
     "affectedTeacherIds": [],
@@ -376,85 +372,6 @@
     "vacancyType": "long",
     "workingBlocks": [
       "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M4QD36TYBC72AEMD0YZXXS61",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "l3fYpiHEDier8BxyVpwjfAUDv9z2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1791786851167,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1794960000000,
-    "grades": [
-      "fifthClass",
-      "sixthClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1791786851278,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1791786851165,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "schulleitung@schule-kilchberg.ch",
-      "address": {
-        "city": "Kilchberg ZH",
-        "canton": "zurich",
-        "street": "Alte Landstrasse",
-        "country": "CH",
-        "zipCode": 8802,
-        "streetNr": "120",
-        "coordinates": {
-          "lat": 47.3237144,
-          "lng": 8.5449845
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-kilchberg.ch",
-      "lastName": "Kilchberg",
-      "schoolId": "IJ7PiaBuWfe3Q58QpyYgqkzq2lq2",
-      "firstName": "Schulleitung",
-      "schoolName": "Primarschule Kilchberg",
-      "phoneNumber": "0447163300",
-      "organisationId": "01K6MZ0TGMB1F9XQ62AH2YMHRW",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792454400000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
     ],
     "numberOfOpenApplications": 0
   },
