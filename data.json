@@ -1,5 +1,91 @@
 [
   {
+    "id": "01M538R7J4D1BB7ZJFY19SGJ0F",
+    "additionalInformation": "Evtl.gibt es eine Verlängerung.",
+    "affectedTeacherIds": [
+      "hVpzWivWGNPhG7wBjbWvKpomrNB3",
+      "t2PA945dfycHARiFhfA0WioeUTi1",
+      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2"
+    ],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792184950341,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1792713600000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792184950501,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 20,
+    "publishTimestamp": 1792185655181,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "petra.gaechter@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Altstetterstrasse",
+        "country": "CH",
+        "zipCode": 8048,
+        "streetNr": "248",
+        "coordinates": {
+          "lat": 47.3805949,
+          "lng": 8.482278299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/untermoos.html",
+      "lastName": "Gächter",
+      "schoolId": "01M51ZVTYQNY0M5YSYKHQADS8F",
+      "firstName": "Petra",
+      "schoolName": "Tagesschule Untermoos",
+      "phoneNumber": "0444133440",
+      "organisationId": "01M51ZVTYK9AAR80FHKW72J137",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Wir sind eine Tagesschule mit Auffangzeiten am Morgen und Aufgabenstunde am Nachmittag.\\nKommt zum Pensum noch dazu."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792454400000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "natureHumanSociety",
+      "fineArts",
+      "music",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
     "id": "01M52KDXSPA3YE3EWQASVK0SAZ",
     "additionalInformation": "Das Vikariat wird sich allenfalls bis spätestens Weihnachten verlängern.\\nMögliche Festanstellung per 1.1.2027.",
     "affectedTeacherIds": [],
