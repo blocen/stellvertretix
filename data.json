@@ -1,5 +1,90 @@
 [
   {
+    "id": "01M52KDXSPA3YE3EWQASVK0SAZ",
+    "additionalInformation": "Das Vikariat wird sich allenfalls bis spätestens Weihnachten verlängern.\\nMögliche Festanstellung per 1.1.2027.",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792162592567,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1794528000000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792162592628,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 19,
+    "publishTimestamp": 1792162592566,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "andre.tynowski@schuleschlieren.ch",
+      "address": {
+        "city": "Schlieren",
+        "canton": "zurich",
+        "street": "Hofackerstrasse",
+        "country": "Schweiz",
+        "zipCode": 8952,
+        "streetNr": "2",
+        "coordinates": {
+          "lat": 47.3947233,
+          "lng": 8.4446456
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://schule.schlieren.ch/hofacker",
+      "lastName": "Tynowski",
+      "schoolId": "3J4JvuMfq8NNwLCumhtt38fKkRA3",
+      "firstName": "André",
+      "schoolName": "Primarschule Hofacker",
+      "phoneNumber": "+41447384472",
+      "organisationId": "7xhOwB506KrlEDYO0jXr",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": true,
+    "startTimestamp": 1792108800000,
+    "subjects": [
+      "german",
+      "english",
+      "sports",
+      "germanAsSecondLanguage",
+      "fineArts",
+      "religionsCulturesEthics",
+      "natureHumanSociety",
+      "music",
+      "if",
+      "giftedEducation",
+      "classAssistance"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M522ET0Y614WHBQ45SAGPQFW",
     "additionalInformation": "",
     "affectedTeacherIds": [],
@@ -338,85 +423,6 @@
     "numberOfOpenApplications": 1
   },
   {
-    "id": "01M4XEDNC8VVV7VQF0BPCSNA7Y",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "snqMMmfX4JdqF3BAbeiECNfj2BN2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1791989568904,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1794182400000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1791989569127,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 7,
-    "publishTimestamp": 1791989568904,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "schulverwaltung.bachenbuelach@psbb.ch",
-      "address": {
-        "city": "Bachenbülach",
-        "canton": "zurich",
-        "street": "Halden",
-        "country": "Schweiz",
-        "zipCode": 8184,
-        "streetNr": "16",
-        "coordinates": {
-          "lat": 47.5017422,
-          "lng": 8.551304199999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.psbb.ch",
-      "lastName": "Kalantar",
-      "schoolId": "zGgf9qmx1Na6MOMkSpTwmK1sMkh2",
-      "firstName": "Evelyn",
-      "schoolName": "Primarschule Halden",
-      "phoneNumber": "0445015252",
-      "organisationId": "ZZE3lwGaAKiHAuCOY3vw",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792368000000,
-    "subjects": [
-      "sports",
-      "religionsCulturesEthics",
-      "mathematics",
-      "german",
-      "music",
-      "natureHumanSociety",
-      "mediaAndComputerScience"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
     "id": "01M4X8CCYR0GD1A62PCWRXDYD7",
     "additionalInformation": "Aktuell unterrichtet unsere DaZ-LP diese 5 WL. Da wir die Lektionen für DaZ benötigen, suchen wir eine Vertretung für sie. \\n\\nDer Unterricht dauert von 13:45-15.25. \\nAm Montag- und am Freitagnachmittag ist noch eine Schulassistenz anwesend. \\nAm Dienstag kann entweder alle 14 Tage 2 Lektionen oder jede Woche eine Lektion unterrichtet werden. Die KLP macht während dieser Zeit Coachings. Der Unterrichtsstoff ist bereits vorbereitet.  ",
     "affectedTeacherIds": [],
@@ -642,91 +648,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M48N6A351QVCS1MHN8TKZJXR",
-    "additionalInformation": "Lehrperson fällt auf Grund eines Unfalls bis sicherlich zu den Weihnachtsferien aus, Stellenpartnerin ist Mittwoch und Freitag vor Ort, ",
-    "affectedTeacherIds": [
-      "uJKTO7hnZqbWKP7xkIcevh1W0OI2",
-      "8B5u1T8KabPrPr6SvIe3QWCMpMN2",
-      "6pTjvhPWalbPjtiTG0REhMvV0Oc2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1791292024933,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1791292025002,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 19,
-    "publishTimestamp": 1791292024933,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "isabelle.balliet@schule-rft.ch",
-      "address": {
-        "city": "Rorbas",
-        "canton": "zurich",
-        "street": "Zilacherstrasse",
-        "country": "CH",
-        "zipCode": 8427,
-        "streetNr": "19",
-        "coordinates": {
-          "lat": 47.5323808,
-          "lng": 8.57748
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-rft.ch",
-      "lastName": "Balliet",
-      "schoolId": "yEGZCGxVlwQLkOLhOtyp8Qdynbq1",
-      "firstName": "Isabelle",
-      "schoolName": "Primarschule Rorbas (MST)",
-      "phoneNumber": "0786243799",
-      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "Unterrichtsassistenz 8 Lektionen, SHP 4 Lektionen anwesend, Klasse ist seit der 4. Klasse zusammen unterwegs, gut eingespeilt, Abläufe sitzen und sind ritualisiert, "
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792454400000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "sports",
-      "natureHumanSociety",
-      "fineArts",
-      "classAssistance"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M48N6A351QVCS1MHN8TKZJXR/timeTables/9320dccb-0ef5-4bc7-929c-799a8947b0ac.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M45GSQ7Q6KQ74DWEQFF45V8S",
     "additionalInformation": "Montag: 08.20-15.20 6 WL 5. Klasse. FLP (D, E, Mu, RKE, Schwimmen/BS 14tgl Wechsel=> Schwimmlp vorhanden, man muss einfach zur Unterstützung ins Wasser)\\nDienstag: 13.40-15.20 2 WL 3. Klasse DaZ Anfangsunterricht\\nDonnerstag:8.20-16.10 7 WL 5. Klasse FLP (E, Mu, NMG (im TT oder HK) & 4 WL DaZ Aufbauunterricht",
     "affectedTeacherIds": [
@@ -903,7 +824,8 @@
       "qQPlPxInuSSYW6qDg6rrX3zBVA62",
       "VZ8MujPTc5XN4CNXCJttsVovnbD2",
       "6rXWApnGcvTgr38T7EMwPDrfV5j1",
-      "96DbuNf1YqZ2lTxlRMOV89i6xIi1"
+      "96DbuNf1YqZ2lTxlRMOV89i6xIi1",
+      "7Qg5AUauudYEPAPJ3lnofMUeDCE2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -982,7 +904,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M3CEVE3M9QMF94ZJHQQ8YZGB",
