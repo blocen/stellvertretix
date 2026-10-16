@@ -1,9 +1,262 @@
 [
   {
+    "id": "01M522ET0Y614WHBQ45SAGPQFW",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792144795679,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1792713600000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792144803916,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 25,
+    "publishTimestamp": 1792144795678,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "sl.steiacher@schulen-wb.ch",
+      "address": {
+        "city": "Brüttisellen",
+        "canton": "zurich",
+        "street": "Schulhausstrasse",
+        "country": "CH",
+        "zipCode": 8306,
+        "streetNr": "7",
+        "coordinates": {
+          "lat": 47.4242065,
+          "lng": 8.6340612
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulen-wb.ch",
+      "lastName": "Steiacher",
+      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
+      "firstName": "Schulleitung ",
+      "schoolName": "Steiacher",
+      "phoneNumber": "0432557607",
+      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
+      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
+    },
+    "schoolClass": {
+      "numberOfStudents": 11,
+      "additionalInformation": "Es handelt sich um eine kleine 5. Klasse mit 11 Kindern. Die Klasse integriert ein ISR-Kind, welches von einer 1:1 Unterstützung durch Schulassistentinnen profitiert. Als Klassenlehrperson bist du demnach nie alleine im Schulzimmer. Die Klassendynamik ist trotzdem nicht ganz einfach, Klarheit und Präsenz von Seiten der Lehrperson ist äusserst wichtig."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "natureHumanSociety",
+      "fineArts",
+      "music",
+      "sports",
+      "project"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M522ET0Y614WHBQ45SAGPQFW/timeTables/b7829f00-16a4-4301-bd14-cbcd8f9a77b4.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M51ZVK3QZFGN8HD5F7TTF8N1",
+    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden pro Woche unterstützt. Weiter umfasst die Klasse 5 IF-Lektionen sowie 7 ISR-Lektionen. Die IF wird durch eine sehr engagierte SHP begleitet.",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792142068855,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792142068839,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1792142068855,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "vonbueren@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "von Bueren",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Raphael",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41762971131",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "french",
+      "german",
+      "mediaAndComputerScience",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M51ZE9F4GE3AVQN4MDPMCX2C",
+    "additionalInformation": "Das Vikariat umfasst 28 Wochenlektionen. Weiter umfasst die Klasse 5 IF-Lektionen. Die IF wird durch eine sehr engagierte und erfahrene SHP begleitet. Für den Zeitraum des Vikariats kann zudem auf bestehende Unterrichtsplanungen und vorbereitete Unterlagen zurückgegriffen werden.",
+    "affectedTeacherIds": [],
+    "billingExclusionReason": null,
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792141632996,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1802995200000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792141632986,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 28,
+    "publishTimestamp": 1792141632996,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "vonbueren@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "von Bueren",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Raphael",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41762971131",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": "Eine aufgestellte und sehr gut eingespielte 6. Klasse mit starkem Teamgeist und hoher Selbstständigkeit freut sich auf eine motivierte Klassenlehrperson. Die Klasse funktioniert im Schulalltag sehr gut und bietet eine angenehme Grundlage für gemeinsames Lernen und Arbeiten."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "french",
+      "german",
+      "mediaAndComputerScience",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts",
+      "music"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M4ZBDDGZK6SN1ZGA29CTNXMZ",
     "additionalInformation": "Die Lehrperson fällt aufgrund einer OP aus. \\nEs ist deshalb möglich, dass das Vikariat verlängert werden kann.",
     "affectedTeacherIds": [
-      "IYJnJcnSuqhtXsFeMhBBXuspETp1"
+      "IYJnJcnSuqhtXsFeMhBBXuspETp1",
+      "f7kNG25wXCZWjrCO1ofqzERn3a42"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -85,89 +338,6 @@
     "numberOfOpenApplications": 1
   },
   {
-    "id": "01M4Z25M2TJKPSTMAW9FBK00YA",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "ghKE4oMQEmS3U0AG8VSJeJTdOWR2",
-      "KK7OFQJ5cKXIHv4LSfjLgxmbcpv2",
-      "lCho1UtFk9PB94d4wtdgsxG5LbO2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1792043831386,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1793145600000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792043831419,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1792043831386,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sekretariat.schulewollishofen-imlee@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Kilchbergstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8038,
-        "streetNr": "23",
-        "coordinates": {
-          "lat": 47.3423908,
-          "lng": 8.53439
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/wollishofen",
-      "lastName": "Troitzsch",
-      "schoolId": "lxPKpqfgH1XuY2XIRirNkijeCPg1",
-      "firstName": "Christine",
-      "schoolName": "Wollishofen-Im Lee",
-      "phoneNumber": "044 413 12 40",
-      "organisationId": "kubcWZrkicpKvM10rZHQ",
-      "directionInformation": "Gut erreichbar mit ÖV (Tram, Bus, S-Bahn) + wenige Minuten Fussweg. Auto-Parkplätze nur beschränkt verfügbar."
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Mo Vormittag und Di ganzer Tag mit Schulassistenz. \\nMi Halbklasse TTG."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1792972800000,
-    "subjects": [
-      "sports",
-      "music",
-      "mathematics",
-      "natureHumanSociety",
-      "german",
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M4Z25M2TJKPSTMAW9FBK00YA/timeTables/e366641a-38b1-4a5a-9fb7-248840759d52.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M4XEDNC8VVV7VQF0BPCSNA7Y",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -244,7 +414,7 @@
       "mondayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M4X8CCYR0GD1A62PCWRXDYD7",
@@ -476,7 +646,8 @@
     "additionalInformation": "Lehrperson fällt auf Grund eines Unfalls bis sicherlich zu den Weihnachtsferien aus, Stellenpartnerin ist Mittwoch und Freitag vor Ort, ",
     "affectedTeacherIds": [
       "uJKTO7hnZqbWKP7xkIcevh1W0OI2",
-      "8B5u1T8KabPrPr6SvIe3QWCMpMN2"
+      "8B5u1T8KabPrPr6SvIe3QWCMpMN2",
+      "6pTjvhPWalbPjtiTG0REhMvV0Oc2"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -553,7 +724,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M45GSQ7Q6KQ74DWEQFF45V8S",
@@ -731,7 +902,8 @@
       "9AbjVG5nHoY9z1MtIVmhdf3uW3T2",
       "qQPlPxInuSSYW6qDg6rrX3zBVA62",
       "VZ8MujPTc5XN4CNXCJttsVovnbD2",
-      "6rXWApnGcvTgr38T7EMwPDrfV5j1"
+      "6rXWApnGcvTgr38T7EMwPDrfV5j1",
+      "96DbuNf1YqZ2lTxlRMOV89i6xIi1"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -810,7 +982,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M3CEVE3M9QMF94ZJHQQ8YZGB",
@@ -1060,95 +1232,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M373C924TCGMZNMHA3NCFFKN",
-    "additionalInformation": "Das Vikariat umfasst 28 Wochenlektionen. Weiter umfasst die Klasse 5 IF-Lektionen. Die IF wird durch eine sehr engagierte und erfahrene SHP begleitet. Für den Zeitraum des Vikariats kann zudem auf bestehende Unterrichtsplanungen und vorbereitete Unterlagen zurückgegriffen werden.",
-    "affectedTeacherIds": [
-      "TvQEeOz1glgLAMzZUGqseHYMxUj2",
-      "KnHIXSwi3vSatrR4220LIwBSDLE3",
-      "NsJgpzww01cCsXAC7D8grEc12Rq2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1790166049860,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1802995200000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1790166049983,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 28,
-    "publishTimestamp": 1790166049860,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "vonbueren@imwidmer.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Widmerstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.2893895,
-          "lng": 8.540627299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch/schuleinheit/3248",
-      "lastName": "von Bueren",
-      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
-      "firstName": "Raphael",
-      "schoolName": " Schulhaus Im Widmer",
-      "phoneNumber": "+41762971131",
-      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "Eine aufgestellte und sehr gut eingespielte 6. Klasse mit starkem Teamgeist und hoher Selbstständigkeit freut sich auf eine motivierte Klassenlehrperson. Die Klasse funktioniert im Schulalltag sehr gut und bietet eine angenehme Grundlage für gemeinsames Lernen und Arbeiten."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "sports",
-      "mathematics",
-      "french",
-      "german",
-      "mediaAndComputerScience",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts",
-      "music"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
   },
   {
     "id": "01M2J4HQPATX44XWBE3N8FP0FP",
