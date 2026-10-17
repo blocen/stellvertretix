@@ -5,7 +5,8 @@
     "affectedTeacherIds": [
       "hVpzWivWGNPhG7wBjbWvKpomrNB3",
       "t2PA945dfycHARiFhfA0WioeUTi1",
-      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2"
+      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2",
+      "hEo0edPrh6go0o9IDQoQ6T2lyVD3"
     ],
     "billingExclusionReason": null,
     "closedOrigin": null,
@@ -83,7 +84,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01M52KDXSPA3YE3EWQASVK0SAZ",
@@ -105,7 +106,7 @@
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1792162592628,
-    "partialTakeoverPossible": false,
+    "partialTakeoverPossible": true,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 19,
@@ -141,7 +142,7 @@
       "additionalInformation": null
     },
     "startAsOfNow": true,
-    "startTimestamp": 1792108800000,
+    "startTimestamp": 1792195200000,
     "subjects": [
       "german",
       "english",
