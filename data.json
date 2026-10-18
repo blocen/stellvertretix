@@ -1,34 +1,29 @@
 [
   {
-    "id": "01M579072T3Z2HA8RQ9DGM2AZ5",
+    "id": "01M586WTAJNQ8G20DYSQG05XFW",
     "additionalInformation": "",
-    "affectedTeacherIds": [
-      "nkX63a3QazNIe4nUBSn8R1K6VZm2",
-      "16gXvYAAIWRfgapFYikq42XbJia2",
-      "BhbsIrUqWje4iI2FVjk0ok6TFr43",
-      "bP18gdZd24eLnYc0f3XA9HbJnjC2"
-    ],
+    "affectedTeacherIds": [],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1792319429722,
+    "createdTimestamp": 1792350775634,
     "curriculum": "lehrplan21",
     "endTimestamp": 1792368000000,
     "grades": [
-      "thirdClass"
+      "sixthClass"
     ],
     "levelsDetailed": [
-      "levelLower"
+      "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792319429780,
+    "modifiedTimestamp": 1792350775808,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1792319429721,
+    "pensum": 7,
+    "publishTimestamp": 1792350775634,
     "role": "class",
     "school": {
       "logo": null,
@@ -56,27 +51,27 @@
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 20,
+      "numberOfStudents": 0,
       "additionalInformation": null
     },
     "startAsOfNow": false,
     "startTimestamp": 1792368000000,
     "subjects": [
-      "german",
       "mathematics",
       "natureHumanSociety",
+      "mediaAndComputerScience",
       "sports"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01M579072T3Z2HA8RQ9DGM2AZ5/timeTables/a09ac19a-4b46-4737-8270-6ae2b73f1b15.jpeg",
+    "timeTableRef": "vacancies/01M586WTAJNQ8G20DYSQG05XFW/timeTables/9e955841-ccb3-475b-8d87-408fcb004ff7.png",
     "vacancyType": "short",
     "workingBlocks": [
       "mondayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M538R7J4D1BB7ZJFY19SGJ0F",
@@ -168,7 +163,9 @@
   {
     "id": "01M52KDXSPA3YE3EWQASVK0SAZ",
     "additionalInformation": "Das Vikariat wird sich allenfalls bis spätestens Weihnachten verlängern.\\nMögliche Festanstellung per 1.1.2027.",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "6pTjvhPWalbPjtiTG0REhMvV0Oc2"
+    ],
     "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -248,7 +245,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M51ZVK3QZFGN8HD5F7TTF8N1",
