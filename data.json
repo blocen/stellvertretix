@@ -1,9 +1,317 @@
 [
   {
+    "id": "01M5A249PNTJJPXH1X323X9PVV",
+    "additionalInformation": "Wir suchen eine Vertretung für einen Mutterschaftsurlaub.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792412886741,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815523200000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792412886741,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 7,
+    "publishTimestamp": 1792412886741,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "schulleitung@schulehittnau.ch",
+      "address": {
+        "city": "Hittnau",
+        "canton": "zurich",
+        "street": "Hermetsbüelweg",
+        "country": "Schweiz",
+        "zipCode": 8335,
+        "streetNr": "10",
+        "coordinates": {
+          "lat": 47.3640453,
+          "lng": 8.824408199999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schulehittnau.ch/willkommen",
+      "lastName": "Hittnau",
+      "schoolId": "QA9zDwOip4UMzV6VzxNcxDabblA2",
+      "firstName": "Schulleitung",
+      "schoolName": "Primar- und Sekschule Hermetsbüel",
+      "phoneNumber": "043 288 67 70",
+      "organisationId": "72WTXu8JdOfMw6Dt0CJy",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1801440000000,
+    "subjects": [
+      "religionsCulturesEthics",
+      "sports",
+      "mathematics",
+      "german",
+      "french"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M5A249PNTJJPXH1X323X9PVV/timeTables/5ba7c7aa-c366-459e-9b44-c13cb4f7fcf6.jpg",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M59VGBYP2K74KDAX5VPRJ610",
+    "additionalInformation": "Bitte melde dich unter: christina.dietrich@dietikon.ch",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792405942230,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1792454400000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792405942448,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 10,
+    "publishTimestamp": 1792405942230,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "gabriel.terlemez@dietikon.ch",
+      "address": {
+        "city": "Dietikon",
+        "canton": "zurich",
+        "street": "Römerstrasse ",
+        "country": "CH",
+        "zipCode": 8953,
+        "streetNr": "15",
+        "coordinates": {
+          "lat": 47.4047072,
+          "lng": 8.3947644
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
+      "lastName": "Schulleitung",
+      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
+      "firstName": "Steinmürli ",
+      "schoolName": "Schule Steinmürli, Dietikon",
+      "phoneNumber": "0447437700",
+      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": true,
+    "startTimestamp": 1792368000000,
+    "subjects": [
+      "mediaAndComputerScience",
+      "sports",
+      "mathematics",
+      "french",
+      "german"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M59VGBYP2K74KDAX5VPRJ610/timeTables/d45aec11-9b92-4695-933e-68ad9872bcd4.png",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M59NVVRXY6KHWD5VZD64NKH2",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "t2PA945dfycHARiFhfA0WioeUTi1",
+      "Wx2IkxDhj7ZaUWSr1sgYuxhgSLZ2",
+      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2",
+      "Ddx56REgjkbpIDWqwvoQh1lG49C2",
+      "0ytLbSiLePO9iCqFgmVf0JC5onR2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792400027421,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1792454400000,
+    "grades": [
+      "mixedAgeLearning",
+      "firstClass",
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792400037729,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1792400027420,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "daniela.riegelhof@primarschule-uster.ch",
+      "address": {
+        "city": "Uster",
+        "canton": "zurich",
+        "street": "Zürichstrasse ",
+        "country": "CH",
+        "zipCode": 8610,
+        "streetNr": "11",
+        "coordinates": {
+          "lat": 47.3496083,
+          "lng": 8.713373599999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.primarschule-uster.ch/puent",
+      "lastName": "Riegelhof",
+      "schoolId": "JfStSi2MSNNyZbRuuyst2EGnFaf2",
+      "firstName": "Daniela",
+      "schoolName": "Schulhaus Pünt",
+      "phoneNumber": "044 941 28 42",
+      "organisationId": "COAfi7h8uLgnTxKjs60S",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 17,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792454400000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01M59M3DZSKX0CGE5Y2TBR6M6M",
+    "additionalInformation": "Bitte direkt bei zuständiger SL melden:\\nStephanie Kolberg\\n055 511 24 04\\nstephanie.kolberg@schuleduernten.ch",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792398178297,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792398178405,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1792398178296,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "slk@schuleduernten.ch",
+      "address": {
+        "city": "Dürnten",
+        "canton": "zurich",
+        "street": "Rütistrasse",
+        "country": "Schweiz",
+        "zipCode": 8635,
+        "streetNr": "1",
+        "coordinates": {
+          "lat": 47.2778923,
+          "lng": 8.8427785
+        }
+      },
+      "culture": "de-CH",
+      "website": "schuleduernten.ch",
+      "lastName": "Dürnten",
+      "schoolId": "IAk0QvsbUwa5SkX55dewI2Nzi9s2",
+      "firstName": "Schule",
+      "schoolName": "Schule Dürnten",
+      "phoneNumber": "055 250 80 02",
+      "organisationId": "uLZ3Jw2onFt0i0D1P967",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Schwimmen: jeweils freitags 2 WL, ebenfalls durch Vikar/in unterrichtet, mit Unterstützung einer Schwimmassistenz"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1794441600000,
+    "subjects": [
+      "german",
+      "english",
+      "music",
+      "swimming",
+      "natureHumanSociety",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M586WTAJNQ8G20DYSQG05XFW",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
-    "billingExclusionReason": null,
+    "affectedTeacherIds": [
+      "bP18gdZd24eLnYc0f3XA9HbJnjC2"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -71,7 +379,7 @@
       "mondayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M538R7J4D1BB7ZJFY19SGJ0F",
@@ -82,7 +390,6 @@
       "4uVx5R2tJbVEhKssx73XNVjQ5Ny2",
       "hEo0edPrh6go0o9IDQoQ6T2lyVD3"
     ],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -164,9 +471,9 @@
     "id": "01M52KDXSPA3YE3EWQASVK0SAZ",
     "additionalInformation": "Das Vikariat wird sich allenfalls bis spätestens Weihnachten verlängern.\\nMögliche Festanstellung per 1.1.2027.",
     "affectedTeacherIds": [
-      "6pTjvhPWalbPjtiTG0REhMvV0Oc2"
+      "6pTjvhPWalbPjtiTG0REhMvV0Oc2",
+      "7Qg5AUauudYEPAPJ3lnofMUeDCE2"
     ],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -245,13 +552,12 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M51ZVK3QZFGN8HD5F7TTF8N1",
     "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden pro Woche unterstützt. Weiter umfasst die Klasse 5 IF-Lektionen sowie 7 ISR-Lektionen. Die IF wird durch eine sehr engagierte SHP begleitet.",
     "affectedTeacherIds": [],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -335,7 +641,6 @@
     "id": "01M51ZE9F4GE3AVQN4MDPMCX2C",
     "additionalInformation": "Das Vikariat umfasst 28 Wochenlektionen. Weiter umfasst die Klasse 5 IF-Lektionen. Die IF wird durch eine sehr engagierte und erfahrene SHP begleitet. Für den Zeitraum des Vikariats kann zudem auf bestehende Unterrichtsplanungen und vorbereitete Unterlagen zurückgegriffen werden.",
     "affectedTeacherIds": [],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -423,7 +728,6 @@
       "IYJnJcnSuqhtXsFeMhBBXuspETp1",
       "f7kNG25wXCZWjrCO1ofqzERn3a42"
     ],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -504,9 +808,8 @@
   },
   {
     "id": "01M4X8CCYR0GD1A62PCWRXDYD7",
-    "additionalInformation": "Aktuell unterrichtet unsere DaZ-LP diese 5 WL. Da wir die Lektionen für DaZ benötigen, suchen wir eine Vertretung für sie. \\n\\nDer Unterricht dauert von 13:45-15.25. \\nAm Montag- und am Freitagnachmittag ist noch eine Schulassistenz anwesend. \\nAm Dienstag kann entweder alle 14 Tage 2 Lektionen oder jede Woche eine Lektion unterrichtet werden. Die KLP macht während dieser Zeit Coachings. Der Unterrichtsstoff ist bereits vorbereitet.  ",
+    "additionalInformation": "Aktuell unterrichtet unsere DaZ-LP diese 5 WL. Da wir die Lektionen für DaZ benötigen, suchen wir eine Vertretung für sie. Der Unterricht dauert von 13:45-15.25. Am Montag- und am Freitagnachmittag ist noch eine Schulassistenz anwesend. Am Dienstag kann entweder alle 14 Tage 2 Lektionen oder jede Woche eine Lektion unterrichtet werden. Die KLP macht während dieser Zeit Coachings. Der Unterrichtsstoff ist bereits vorbereitet.  \\nAnstellung auch früher (per sofort oder nach Vereinbarung) möglich. ",
     "affectedTeacherIds": [],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -558,7 +861,7 @@
       "additionalInformation": "Sehr angenehme Klasse, die aber auch geführt werden muss. "
     },
     "startAsOfNow": false,
-    "startTimestamp": 1792368000000,
+    "startTimestamp": 1799020800000,
     "subjects": [
       "german",
       "english",
@@ -581,7 +884,6 @@
     "id": "01M4T9YRRSS0HZG5AHQS2ACPNA",
     "additionalInformation": "Mutterschaftsvertretung",
     "affectedTeacherIds": [],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -656,85 +958,12 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M4R07T4R2NRJ8131TNJKZ7HA",
-    "additionalInformation": "Fachlehrpersonen-Pensum jeweils am Mittwoch Vormittag, zwischen Weihnachts- und Sportferien ",
-    "affectedTeacherIds": [],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1791806924952,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1802217600000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1791806925117,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1791808025144,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "nicolas.dudler@schuleoberrieden.ch",
-      "address": {
-        "city": "Oberrieden",
-        "canton": "zurich",
-        "street": "Püntstrasse",
-        "country": "CH",
-        "zipCode": 8942,
-        "streetNr": "8",
-        "coordinates": {
-          "lat": 47.2737771,
-          "lng": 8.5773188
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schuleoberrieden.ch",
-      "lastName": "Dudler",
-      "schoolId": "01M4BAHQC9ZX9YPQNDJ4Q7B0MG",
-      "firstName": "Nicolas",
-      "schoolName": "Schulhaus Pünt",
-      "phoneNumber": "044 722 79 66",
-      "organisationId": "01KVNNZFF5RMA6N80Q5BKVPVWK",
-      "directionInformation": "S24 bis Oberrieden-Dorf / oder Parkplätze vor dem Schulhaus vorhanden"
-    },
-    "schoolClass": {
-      "numberOfStudents": 25,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799193600000,
-    "subjects": [
-      "mediaAndComputerScience",
-      "fineArts",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M4R07T4R2NRJ8131TNJKZ7HA/timeTables/208740ae-e366-41c4-8a5d-7c1bac09ee6e.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
     "id": "01M45GSQ7Q6KQ74DWEQFF45V8S",
     "additionalInformation": "Montag: 08.20-15.20 6 WL 5. Klasse. FLP (D, E, Mu, RKE, Schwimmen/BS 14tgl Wechsel=> Schwimmlp vorhanden, man muss einfach zur Unterstützung ins Wasser)\\nDienstag: 13.40-15.20 2 WL 3. Klasse DaZ Anfangsunterricht\\nDonnerstag:8.20-16.10 7 WL 5. Klasse FLP (E, Mu, NMG (im TT oder HK) & 4 WL DaZ Aufbauunterricht",
     "affectedTeacherIds": [
       "UI3SxDzNTQdD0FsQWSxsc9ChHdN2",
       "tOSiciRAAac9SNJCpQDm5rA73K92"
     ],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -821,7 +1050,6 @@
       "RlVvQX4mNoZZo7jzlcuSlk130xl2",
       "5l6Rlpk66gaySahLrfV3Wr7LDlp2"
     ],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -907,7 +1135,6 @@
       "96DbuNf1YqZ2lTxlRMOV89i6xIi1",
       "7Qg5AUauudYEPAPJ3lnofMUeDCE2"
     ],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -993,7 +1220,6 @@
       "TvQEeOz1glgLAMzZUGqseHYMxUj2",
       "krGTl4ilhKax0kJptTDErcf3V2E3"
     ],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -1074,7 +1300,6 @@
     "id": "01M3CAN45AA4DANN9B5JDPCBSC",
     "additionalInformation": "Grund: Reise der Klassenlehrperson & unbezahlter Urlaub\\n\\nBei Interesse melde dich bitte direkt bei Sonja (Klassenlehrerin). Sie freut sich auf deine Nachricht!\\nSonja Oertig, Klassenlehrperson, Schulhaus Neuwies, Wald ZH\\nMail: sonja.oertig@schule-wald.ch",
     "affectedTeacherIds": [],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -1158,7 +1383,6 @@
     "affectedTeacherIds": [
       "NqW6XqcN6xUcYyKFUqk2muADlKA3"
     ],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -1239,7 +1463,6 @@
     "id": "01M2J4HQPATX44XWBE3N8FP0FP",
     "additionalInformation": "",
     "affectedTeacherIds": [],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -1325,7 +1548,6 @@
     "affectedTeacherIds": [
       "6NebxfzqmHalGkh5MTrfoCHel9a2"
     ],
-    "billingExclusionReason": null,
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -1392,190 +1614,5 @@
       "thursdayAfternoon"
     ],
     "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M1BQED3Q5HX8JYRCVZ1M89MN",
-    "additionalInformation": "Falls du nur den Montag oder nur Dienstag - Donnerstag übernehmen könntest, wäre das Vikariat auch aufteilbar. ",
-    "affectedTeacherIds": [
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "KNEus1X9YQSNfyOZNETRbr7jDLU2",
-      "fxYTqfgX9jXo7kkZyDyrsXsEmkq2"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788173825144,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815696000000,
-    "grades": [
-      "secondClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1788173825216,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1788173825143,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "Tobias.Goeldi@schule-dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Göldi",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Tobias",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 18,
-      "additionalInformation": "Ich suche für meinen unbezahlten Urlaub eine Stellvertretung für 22 Wochenlektionen (Freitag frei).\\n\\nMontag: 3. Klasse - eine aufgestellte und herzliche Klasse mit 18 Kindern.\\nDienstag - Donnerstag: 2. Klasse - eine sympathische, lebendige Klasse mit ebenfalls 18 Kindern. "
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1813104000000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "natureHumanSociety",
-      "sports",
-      "fineArts",
-      "textileAndTechnicalDesign",
-      "spaceTimesSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M1BQED3Q5HX8JYRCVZ1M89MN/timeTables/8d990e80-a47a-4747-a21c-0bee6e58c451.png",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M0SXF71T0QRP2ZJHWZX4DMMD",
-    "additionalInformation": "Liebe Kollegen\\nIch suche eine Lehrperson, die mich während eines Pflicht-Praktikums an der PH vertritt. Es könnten auch notfalls weniger Fächer unterrichtet werden. Wir finden sicherlich eine flexible und individuelle Lösung.\\n\\nLiebe Grüsse \\nR. Trop\\nKlassenlehrerin ",
-    "affectedTeacherIds": [
-      "4CcPOLKfnWhTkzAMv3scAvqO71x2",
-      "UEB664AzQOdSzgoQIZZOsrBpAKC2",
-      "Ad7cUpKmAfe1JzcZ8lx9ryJVpoV2",
-      "Aqhii0eLSZPqWbAS6HcvbN2yb9V2",
-      "iXAlfyfCjJX6a5fliMVPIvDygY32",
-      "mjCbLPUDKRczr97Wm2ZGXRlJHGj1",
-      "lCho1UtFk9PB94d4wtdgsxG5LbO2",
-      "lWkMkvml0OZzjVJZcNR3nZ3BTNo2",
-      "Dr5DSQkmFLWRWVXZVFWZhUW8RpG3",
-      "HdsYsAPvZVfa81CRtoK4q70M4r03"
-    ],
-    "billingExclusionReason": null,
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1787576163386,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1801785600000,
-    "grades": [
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1787576165432,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 21,
-    "publishTimestamp": 1787582817063,
-    "role": "subject",
-    "school": {
-      "logo": {
-        "logoUrl": "public_schools/01M0SWJF1C2R6CYZ6VQG4DFGD3/logos/99374e7c-1374-4b0d-966c-1d4e634960ee.jpg",
-        "blurhash": "LHR:f{-;-V%gyDs:s:S1}[WBR*$+",
-        "cloudflareId": "school:01M0SWJF1C2R6CYZ6VQG4DFGD3:99374e7c-1374-4b0d-966c-1d4e634960ee.jpg"
-      },
-      "email": "trop@lerncenter.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Asylstrasse ",
-        "country": "CH",
-        "zipCode": 8032,
-        "streetNr": "35",
-        "coordinates": {
-          "lat": 47.3686322,
-          "lng": 8.5589493
-        }
-      },
-      "culture": "de-CH",
-      "website": "lerncenter.ch/?gad_source=1&gad_campaignid=8858289329&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXwbLnKIemwKfDf6xexgsbbbheprpYQ0O55pX63b2W3w_GTvB35c0JgaAga1EALw_wcB",
-      "lastName": "Trop",
-      "schoolId": "01M0SWJF1C2R6CYZ6VQG4DFGD3",
-      "firstName": "Romy ",
-      "schoolName": "LernCenter ",
-      "phoneNumber": "044 811 00 00",
-      "organisationId": "01M0SWJF19F76MXBMXN49EPP79",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 16,
-      "additionalInformation": "Es handelt sich um eine 5. und 6. Klasse einer Privatschule. Die SuS lernen überwiegend digital. "
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1800230400000,
-    "subjects": [
-      "german",
-      "english",
-      "music",
-      "natureHumanSociety",
-      "economyWorkBudget",
-      "fineArts",
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M0SXF71T0QRP2ZJHWZX4DMMD/timeTables/9906d4de-c20f-4fd1-9550-ac5b4f251fe0.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
   }
 ]
