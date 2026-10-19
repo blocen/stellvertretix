@@ -1,8 +1,87 @@
 [
   {
+    "id": "01M5AS83XTHKRVX07NSQ5SWBBB",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "t2PA945dfycHARiFhfA0WioeUTi1",
+      "nl9sWxP5ZyThUozcjLHToYSoaRD3",
+      "TOeQKHfBxuNwPe86FTXs2QV58ck2",
+      "Y7c4jeoRrEcxnbs7W2zm3ytB1PM2",
+      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792437129146,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1792454400000,
+    "grades": [
+      "firstClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792437129146,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1792437129146,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "schulleitung.ruemelbach@psruemlang.ch",
+      "address": {
+        "city": "Rümlang",
+        "canton": "zurich",
+        "street": "Rümelbachstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8153,
+        "streetNr": "30",
+        "coordinates": {
+          "lat": 47.4465563,
+          "lng": 8.5345593
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.psruemlang.ch",
+      "lastName": "Rümelbach",
+      "schoolId": "eU54hNc32QUxa1YLGzvnVz7wGEp1",
+      "firstName": "Schule",
+      "schoolName": "Schule Rümelbach",
+      "phoneNumber": "043 211 20 44",
+      "organisationId": "VOOZdWP91gOOxsJhsS8g",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": "Liebe Vikarin/Lieber Vikar, wir suchen einer 1. und an einer 3. Klassen eine SHP. \\nWer kann übernehmen?\\n\\nLiebe Grüsse\\nAndrea Rhyner"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792454400000,
+    "subjects": [
+      "if",
+      "issIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
     "id": "01M5A249PNTJJPXH1X323X9PVV",
     "additionalInformation": "Wir suchen eine Vertretung für einen Mutterschaftsurlaub.",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "hLyO3rIPaUaSaAjuhK3FGkfYAUz1"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -72,12 +151,15 @@
       "tuesdayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M59VGBYP2K74KDAX5VPRJ610",
     "additionalInformation": "Bitte melde dich unter: christina.dietrich@dietikon.ch",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "TvQEeOz1glgLAMzZUGqseHYMxUj2",
+      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -147,7 +229,7 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M59NVVRXY6KHWD5VZD64NKH2",
@@ -227,7 +309,7 @@
       "tuesdayMorning",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M59M3DZSKX0CGE5Y2TBR6M6M",
@@ -1541,78 +1623,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M1KENWECQ3PP62VNZF2E9AQQ",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "6NebxfzqmHalGkh5MTrfoCHel9a2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1788433068492,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1810771200000,
-    "grades": [
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1788433068702,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1788433068492,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "antonella.granata@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Dachslernstrasse",
-        "country": "CH",
-        "zipCode": 8048,
-        "streetNr": "5",
-        "coordinates": {
-          "lat": 47.387924,
-          "lng": 8.481421
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/dachslernstrasse.html",
-      "lastName": "Antonella",
-      "schoolId": "9LEfeaRUhJTDS56lWOg5l3Ehrju1",
-      "firstName": "Granata",
-      "schoolName": "Dachslern-Feldblumen",
-      "phoneNumber": "0041788659788",
-      "organisationId": "ZLXeHTjIe84V659HWzIo",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1806537600000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
   }
 ]
