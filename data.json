@@ -1,64 +1,71 @@
 [
   {
-    "id": "01M5D58FX3ERF74HQKRZ0F6MHG",
+    "id": "01M5DAMYTYYK94E87R117FFRMW",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "er7DSDrz6vPsLexMjPLoN2GJIOj1"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1792516833187,
+    "createdTimestamp": 1792522484574,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1792540800000,
+    "endTimestamp": 1792972800000,
     "grades": [
-      "thirdClass"
+      "fifthClass"
     ],
     "levelsDetailed": [
-      "levelLower"
+      "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792516833187,
+    "modifiedTimestamp": 1792522484574,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1792516833187,
+    "pensum": 16,
+    "publishTimestamp": 1792522484574,
     "role": "class",
     "school": {
       "logo": null,
-      "email": "schulleitung.ruemelbach@psruemlang.ch",
+      "email": "thomas.ammann@edurichti.ch",
       "address": {
-        "city": "Rümlang",
+        "city": "Samstagern",
         "canton": "zurich",
-        "street": "Rümelbachstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8153,
-        "streetNr": "30",
+        "street": "Stationsstrasse",
+        "country": "CH",
+        "zipCode": 8833,
+        "streetNr": "13",
         "coordinates": {
-          "lat": 47.4465563,
-          "lng": 8.5345593
+          "lat": 47.1931131,
+          "lng": 8.6770364
         }
       },
       "culture": "de-CH",
-      "website": "www.psruemlang.ch",
-      "lastName": "Rümelbach",
-      "schoolId": "eU54hNc32QUxa1YLGzvnVz7wGEp1",
-      "firstName": "Schule",
-      "schoolName": "Schule Rümelbach",
-      "phoneNumber": "043 211 20 44",
-      "organisationId": "VOOZdWP91gOOxsJhsS8g",
+      "website": "https://www.schule-richterswil-samstagern.ch/samstagern/817",
+      "lastName": "Ammann",
+      "schoolId": "01M1ZWPCVP1FQCV13VSY5DNH6M",
+      "firstName": "Thomas",
+      "schoolName": "Schuleinheit Samstagern",
+      "phoneNumber": "079 568 83 95",
+      "organisationId": "n9uydwif8tvlhCx7ksUq",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": "Liebe Vikare, Liebe Vikarin, wir suchen für die 3.Klasse am Mittwoch, 21.10.26 eine Stellvertretung.\\nEine SHP Lehrperson ist im Unterricht.\\n\\nWer kann übernehmen?\\nLiebe Grüsse\\nAndrea"
+      "numberOfStudents": 13,
+      "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1792540800000,
+    "startTimestamp": 1792627200000,
     "subjects": [
       "german",
       "music",
-      "mathematics"
+      "mathematics",
+      "natureHumanSociety",
+      "fineArts",
+      "sports",
+      "religionsCulturesEthics",
+      "english"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -66,14 +73,104 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "wednesdayMorning"
+      "mondayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M5D701C1HNH1GHJGZ1AP3CNT",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "U9qaa7C6rpcGpsrfB9c6v16nJO12"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792518653313,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1814486400000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792518653313,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 26,
+    "publishTimestamp": 1792518653313,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "flurina.derungs@primarschule-uster.ch",
+      "address": {
+        "city": "Uster",
+        "canton": "zurich",
+        "street": "Gschwaderstrasse",
+        "country": "CH",
+        "zipCode": 8610,
+        "streetNr": "70",
+        "coordinates": {
+          "lat": 47.3608038,
+          "lng": 8.716761
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.primarschule-uster.ch/gschwader/2636",
+      "lastName": "Derungs",
+      "schoolId": "szQB1Z6J6HZMybzDl94Po5Bmrqc2",
+      "firstName": "Flurina",
+      "schoolName": "Gschwader",
+      "phoneNumber": "044 994 15 02",
+      "organisationId": "01K9C93F2HS777MGQ84870A1XN",
+      "directionInformation": "Bus vom Bahnhof Uster"
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": "Tolle erste Klasse. Sehr viele Mädchen. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1809907200000,
+    "subjects": [
+      "german",
+      "music",
+      "sports",
+      "swimming",
+      "mathematics",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M5D1Z8PYX1D2442BPG4ZMCBE",
     "additionalInformation": "Donnerstag: 11.05 - 12.00\\nMontag: 9.05 - 11:00",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "wqP6AUOA9fWZ5DYvJaSpho2VWeF2"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -140,7 +237,7 @@
       "mondayMorning",
       "thursdayMorning"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M5CZF49877NWAGVNYWNSPC87",
@@ -386,7 +483,8 @@
     "additionalInformation": "",
     "affectedTeacherIds": [
       "4uVx5R2tJbVEhKssx73XNVjQ5Ny2",
-      "7Qg5AUauudYEPAPJ3lnofMUeDCE2"
+      "7Qg5AUauudYEPAPJ3lnofMUeDCE2",
+      "zLWLAvzdYKUCqZ8xMJD7sWMbBG53"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -458,7 +556,7 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M5C534W610BHERYW8Z16VZX4",
@@ -1507,85 +1605,6 @@
       "mondayAfternoon",
       "tuesdayAfternoon",
       "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M4T9YRRSS0HZG5AHQS2ACPNA",
-    "additionalInformation": "Mutterschaftsvertretung",
-    "affectedTeacherIds": [
-      "NPVhrGGFSXgYLp4KOevJZQ2H3jo2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1791884223258,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1809648000000,
-    "grades": [
-      "secondClass",
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1791884223782,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1791884223257,
-    "role": "currative",
-    "school": {
-      "logo": null,
-      "email": "gabriel.terlemez@dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Schulleitung",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Steinmürli ",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 18,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1803859200000,
-    "subjects": [
-      "if",
-      "issIsr"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M4T9YRRSS0HZG5AHQS2ACPNA/timeTables/c39bd2cf-8b2f-47c7-abaa-07e91bd6b8ac.png",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon"
     ],
     "numberOfOpenApplications": 1
   }
