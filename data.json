@@ -2,7 +2,9 @@
   {
     "id": "01M5MAGY8RYASEHJ750YKN93M7",
     "additionalInformation": "Überschaubares, eher ländlich gelegenes Schulhaus mit Jahrgangsklassen und zweckmässigen, separaten Räumen, um auch in Gruppen zu arbeiten.\\nWir haben eine moderne, fortschrittliche und gut gepflegte Infrastruktur mit persönlichen Notebooks, ActiveBoards und einer 1:1-Austattung iPads für die Lernenden.",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "qrYppxxtw6ObB6a4zwxKpx9e5b43"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -57,9 +59,9 @@
     "startTimestamp": 1794787200000,
     "subjects": [
       "english",
-      "natureHumanSociety",
       "religionsCulturesEthics",
-      "otherSubject"
+      "music",
+      "fineArts"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -70,7 +72,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M5M709HWEKEG9JAM564TBZJ2",
@@ -231,7 +233,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M5KKJHEJX0HK7XDZG1AZ6J1B",
@@ -859,7 +861,9 @@
   {
     "id": "01M5CS3DNPZNDAPMPDWEF3TYM9",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "smHV8c5I77SlhKUy73CBZLN4Nb73"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -935,7 +939,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M5CKJFCMWDHPJ22WCFQ4DW32",
