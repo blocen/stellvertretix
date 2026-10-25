@@ -1,76 +1,85 @@
 [
   {
-    "id": "01M5SXN55048CXT2SNJNCPP669",
-    "additionalInformation": "",
+    "id": "01M5T4Q7HVDW25DYMSPK7YVTTM",
+    "additionalInformation": "Verlängerung der Stellvertretung möglich",
     "affectedTeacherIds": [
-      "smHV8c5I77SlhKUy73CBZLN4Nb73"
+      "iUTCHjgBe1Z8Dytu1pOt3yOR8nE2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1792945067168,
+    "createdTimestamp": 1792952475195,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1792972800000,
+    "endTimestamp": 1793923200000,
     "grades": [
-      "firstClass"
+      "fifthClass"
     ],
     "levelsDetailed": [
-      "levelLower"
+      "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792945067168,
+    "modifiedTimestamp": 1792952475195,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1792945067168,
+    "pensum": 17,
+    "publishTimestamp": 1792952537708,
     "role": "class",
     "school": {
-      "logo": null,
-      "email": "gabriel.terlemez@dietikon.ch",
+      "logo": {
+        "logoUrl": "public_schools/01M5T3ZBCTMNVCYYF16WMDRCWC/logos/e9f1df77-3e51-4131-a574-032fa978cea1.jpg",
+        "blurhash": "LMQvas-aKF?av|JErWxr~WO=-VkV",
+        "cloudflareId": "school:01M5T3ZBCTMNVCYYF16WMDRCWC:e9f1df77-3e51-4131-a574-032fa978cea1.jpg"
+      },
+      "email": "s.michel@schule-dietlikon.ch",
       "address": {
-        "city": "Dietikon",
+        "city": "Dietlikon",
         "canton": "zurich",
-        "street": "Römerstrasse ",
+        "street": "Dorfstrasse ",
         "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
+        "zipCode": 8305,
+        "streetNr": "51",
         "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
+          "lat": 47.4273935,
+          "lng": 8.6162853
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Schulleitung",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Steinmürli ",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "website": "www.schule-dietlikon.ch/home/",
+      "lastName": "Michel",
+      "schoolId": "01M5T3ZBCTMNVCYYF16WMDRCWC",
+      "firstName": "Sandra",
+      "schoolName": "Schulhaus Dorf",
+      "phoneNumber": "044 442 95 73",
+      "organisationId": "01M5T3ZBCPVNHS17MKDA8W8P44",
       "directionInformation": ""
     },
     "schoolClass": {
       "numberOfStudents": 20,
-      "additionalInformation": ""
+      "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1792972800000,
+    "startTimestamp": 1793577600000,
     "subjects": [
       "german",
+      "english",
+      "french",
       "mathematics",
       "natureHumanSociety",
-      "swimming"
+      "fineArts"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01M5SXN55048CXT2SNJNCPP669/timeTables/8b5a662b-f076-40a4-8ef4-db984b011f28.jpeg",
+    "timeTableRef": "vacancies/01M5T4Q7HVDW25DYMSPK7YVTTM/timeTables/3ba2846b-83ea-4f85-a04e-382a988690c9.pdf",
     "vacancyType": "short",
     "workingBlocks": [
       "mondayMorning",
-      "mondayAfternoon"
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
     ],
     "numberOfOpenApplications": 1
   },
