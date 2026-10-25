@@ -1,9 +1,157 @@
 [
   {
+    "id": "01M5TATNC1KRTA5P8FANDRY524",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "2fhaILda1WT3c9Y9tItcRh30QiJ3"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792958879105,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1792972800000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792958879105,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1792958879105,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "sekretariat.schulewollishofen-imlee@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Kilchbergstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8038,
+        "streetNr": "23",
+        "coordinates": {
+          "lat": 47.3423908,
+          "lng": 8.53439
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/wollishofen",
+      "lastName": "Troitzsch",
+      "schoolId": "lxPKpqfgH1XuY2XIRirNkijeCPg1",
+      "firstName": "Christine",
+      "schoolName": "Wollishofen-Im Lee",
+      "phoneNumber": "044 413 12 40",
+      "organisationId": "kubcWZrkicpKvM10rZHQ",
+      "directionInformation": "Gut erreichbar mit ÖV (Tram, Bus, S-Bahn) + wenige Minuten Fussweg. Auto-Parkplätze nur beschränkt verfügbar."
+    },
+    "schoolClass": {
+      "numberOfStudents": 10,
+      "additionalInformation": "Englisch in Halbklasse. 3.-6. Lektion..."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792972800000,
+    "subjects": [
+      "english"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M5T95HA9MK9XB3CX5MNV1J5J",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "smHV8c5I77SlhKUy73CBZLN4Nb73"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792957138249,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1792972800000,
+    "grades": [
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792957138249,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1792957138249,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "gabriel.terlemez@dietikon.ch",
+      "address": {
+        "city": "Dietikon",
+        "canton": "zurich",
+        "street": "Römerstrasse ",
+        "country": "CH",
+        "zipCode": 8953,
+        "streetNr": "15",
+        "coordinates": {
+          "lat": 47.4047072,
+          "lng": 8.3947644
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
+      "lastName": "Schulleitung",
+      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
+      "firstName": "Steinmürli ",
+      "schoolName": "Schule Steinmürli, Dietikon",
+      "phoneNumber": "0447437700",
+      "organisationId": "R5OxtB90Lm79TZSUKamb",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1792972800000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "natureHumanSociety",
+      "swimming"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M5T95HA9MK9XB3CX5MNV1J5J/timeTables/35a5a02b-809a-4ba6-bb9e-9247cb1263df.jpeg",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01M5T4Q7HVDW25DYMSPK7YVTTM",
     "additionalInformation": "Verlängerung der Stellvertretung möglich",
     "affectedTeacherIds": [
-      "iUTCHjgBe1Z8Dytu1pOt3yOR8nE2"
+      "iUTCHjgBe1Z8Dytu1pOt3yOR8nE2",
+      "IQueakarCeNTbS8V5Oatyq6mJTy2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -81,7 +229,7 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M5MAGY8RYASEHJ750YKN93M7",
@@ -1452,171 +1600,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M51ZE9F4GE3AVQN4MDPMCX2C",
-    "additionalInformation": "Das Vikariat umfasst 28 Wochenlektionen. Weiter umfasst die Klasse 5 IF-Lektionen. Die IF wird durch eine sehr engagierte und erfahrene SHP begleitet. Für den Zeitraum des Vikariats kann zudem auf bestehende Unterrichtsplanungen und vorbereitete Unterlagen zurückgegriffen werden.",
-    "affectedTeacherIds": [
-      "j213WyogHCRjEKENbzUjEDCbTmY2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1792141632996,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1802995200000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792141632986,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 28,
-    "publishTimestamp": 1792141632996,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "vonbueren@imwidmer.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Widmerstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.2893895,
-          "lng": 8.540627299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch/schuleinheit/3248",
-      "lastName": "von Bueren",
-      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
-      "firstName": "Raphael",
-      "schoolName": " Schulhaus Im Widmer",
-      "phoneNumber": "+41762971131",
-      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "Eine aufgestellte und sehr gut eingespielte 6. Klasse mit starkem Teamgeist und hoher Selbstständigkeit freut sich auf eine motivierte Klassenlehrperson. Die Klasse funktioniert im Schulalltag sehr gut und bietet eine angenehme Grundlage für gemeinsames Lernen und Arbeiten."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "sports",
-      "mathematics",
-      "french",
-      "german",
-      "mediaAndComputerScience",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts",
-      "music"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M4T9YRRSS0HZG5AHQS2ACPNA",
-    "additionalInformation": "Mutterschaftsvertretung",
-    "affectedTeacherIds": [
-      "NPVhrGGFSXgYLp4KOevJZQ2H3jo2",
-      "9Gk3ZKsaAHREXq7l5lF5aTkaR5H3"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1791884223258,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1809648000000,
-    "grades": [
-      "secondClass",
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1791884223782,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1791884223257,
-    "role": "currative",
-    "school": {
-      "logo": null,
-      "email": "gabriel.terlemez@dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Schulleitung",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Steinmürli ",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 18,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1803859200000,
-    "subjects": [
-      "if",
-      "issIsr"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M4T9YRRSS0HZG5AHQS2ACPNA/timeTables/c39bd2cf-8b2f-47c7-abaa-07e91bd6b8ac.png",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
   }
 ]
