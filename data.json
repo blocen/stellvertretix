@@ -1,5 +1,156 @@
 [
   {
+    "id": "01M5WY703HRDZG86GMFTVSF5VW",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "enT55BOrACdW6qIwmiI3nwwYOcK2",
+      "uOVTxXdXBeVMN1CFT7sgADRX9Pq2",
+      "wqP6AUOA9fWZ5DYvJaSpho2VWeF2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793046315121,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1793232000000,
+    "grades": [
+      "mixedAgeLearning",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolled",
+    "modifiedTimestamp": 1793046315121,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1793046315121,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "ermes.campanelli@schulleitungzell.ch",
+      "address": {
+        "city": "Zell",
+        "canton": "zurich",
+        "street": "Stationsstrasse",
+        "country": "CH",
+        "zipCode": 8487,
+        "streetNr": "26",
+        "coordinates": {
+          "lat": 47.4453375,
+          "lng": 8.8212361
+        }
+      },
+      "culture": "de-CH",
+      "website": "schulen-zell.ch",
+      "lastName": "Campanelli",
+      "schoolId": "01KTK7VQHD1Y76GKBSCNTC72XW",
+      "firstName": "Ermes",
+      "schoolName": "Primarschule und Kindergarten Zell ZH",
+      "phoneNumber": "052 551 57 50 / 078 787 62 17",
+      "organisationId": "01M59Q7M132TJCZM9TDAQ1KSKZ",
+      "directionInformation": "SBB: Bahnhof Zell-Rämismühle"
+    },
+    "schoolClass": {
+      "numberOfStudents": 21,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1793232000000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "spaceTimesSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
+    "id": "01M5WV11W43QPBT4W70SCBDX7J",
+    "additionalInformation": "4 Lektionen am Morgen mit Auffangzeit um 8.00 Uhr.",
+    "affectedTeacherIds": [
+      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793042974596,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1793059200000,
+    "grades": [
+      "smallClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1793042974596,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1793042974596,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "lena.tosconi@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich-Oerlikon",
+        "canton": "zurich",
+        "street": "Maienstrasse ",
+        "country": "CH",
+        "zipCode": 8050,
+        "streetNr": "9",
+        "coordinates": {
+          "lat": 47.4110028,
+          "lng": 8.5282216
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo.html",
+      "lastName": "Tosconi",
+      "schoolId": "oAFDSxIAxDg0FUhXrKaqlp6IIpE3",
+      "firstName": "Lena",
+      "schoolName": "Schulhaus Kügeliloo (Schulkreis Glattal)",
+      "phoneNumber": "044 413 22 50 Schulleitungssekretariat",
+      "organisationId": "RzdKnC1uXWaCCAjP2aQw",
+      "directionInformation": "Das Schulhaus ist problemlos mit ÖV erreichbar (Zug bis Bahnhof Oerlikon, Bus oder Tram). Kostenpflichtige Parkplätze stehen zur Verfügung."
+    },
+    "schoolClass": {
+      "numberOfStudents": 3,
+      "additionalInformation": "Es ist eine Aufnahmeklasse UST."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1793059200000,
+    "subjects": [
+      "germanAsSecondLanguage",
+      "german",
+      "mathematics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01M5WG9NSHD5WTAX70TFB5V0NX",
     "additionalInformation": "Wir sind auch interessiert an einer Vikarin ab 10.00 Uhr (F, F, BG, BG)",
     "affectedTeacherIds": [],
@@ -150,7 +301,7 @@
       "tuesdayMorning",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M5WCRKTFTY3NPS5CWCJB5T24",
@@ -310,7 +461,9 @@
   {
     "id": "01M5W8N5T2RKVRTW94P42W0AJM",
     "additionalInformation": "Schwimmunterricht muss nur begleitet werden. \\nDonnerstag Frühlektion -> Start um 7.30 Uhr",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "2fhaILda1WT3c9Y9tItcRh30QiJ3"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -382,7 +535,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M5W7J9GH6W1B4DY7BVZCK48C",
@@ -464,7 +617,9 @@
   {
     "id": "01M5W6JYGE3NTSSBM6AMRYX4PF",
     "additionalInformation": "Dienstag: 8:15 - 9:50 2 Lektionen NMG, je 1 WL pro Halbklasse\\n\\nMittwoch: 8:15 - 9:50 2 Lektionen NMG mit der ersten Halbklasse\\nMittwoch, 10:20-11:55 2 Lektionen NMG mit der zweiten Halbklasse",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "hWuvOdy4CLdKMlSELxwtq82yllz2"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -529,7 +684,7 @@
       "tuesdayMorning",
       "wednesdayMorning"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M5VCXVXMYZ2WW17P0DRR151R",
@@ -1411,163 +1566,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 4
-  },
-  {
-    "id": "01M5BWXX2DNZGJ54AX6C9RM801",
-    "additionalInformation": "Wir suchen eine SHP mit klarer inklusiver Haltung für die Begleitung eines Kindes mit Trisomie 21 im ISR-Setting einer 2. Klasse. Die Förderplanung für das erste Halbjahr ist bereits erstellt und bietet dir eine fundierte Grundlage für den Einstieg. Du gestaltest individuelle Lernprozesse, stärkst Selbstständigkeit und Teilhabe und entwickelst die Förderung weiter. Ein erfahrenes, unterstützendes Team aus Klassenlehrpersonen, Schulassistenz und weiteren Fachpersonen steht dir zur Seite.",
-    "affectedTeacherIds": [
-      "NPVhrGGFSXgYLp4KOevJZQ2H3jo2",
-      "nVip7iLBdAXV1jatGkWEnjYCYXA3"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1792474543181,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1800576000000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792474543181,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1792474543181,
-    "role": "currative",
-    "school": {
-      "logo": null,
-      "email": "sekretariat.schulekuengenmatt@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Küngenmatt",
-        "country": "Schweiz",
-        "zipCode": 8055,
-        "streetNr": "66",
-        "coordinates": {
-          "lat": 47.3684065,
-          "lng": 8.5026941
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulen-zuerich.ch/kuengenmatt",
-      "lastName": "Becker",
-      "schoolId": "IdJNw31W1zTGrf3aXDG3DOq07mJ3",
-      "firstName": "Sarah",
-      "schoolName": "Küngenmatt",
-      "phoneNumber": "+41444130920",
-      "organisationId": "tMn9rXqLaF0aVyTNNbNO",
-      "directionInformation": "Anfahrt per ÖV (VBZ): Haltestelle Schaufelbergerstrasse | Rückfragen per Tel. oder E-Mail"
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "Dich erwartet eine lebendige 2. Klasse mit 22 Kindern und einem engagierten, erfahrenen Team. Zwei Klassenlehrpersonen führen die Klasse in Stellenpartnerschaft und gestalten gemeinsam mit der Schulassistenz einen vielfältigen Unterricht. Die enge Zusammenarbeit bietet dir fachlichen Austausch, gegenseitige Unterstützung und Raum für eigene Ideen. Auch die Zusammenarbeit mit der Parallelklasse eröffnet Möglichkeiten für flexible, klassenübergreifende Förderangebote."
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1792454400000,
-    "subjects": [
-      "issIsr"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M5BTMHYHA1X15F2FB89YFXKM",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "B4YvRRQTvZMfVZo44UFZu0bZWRt2",
-      "2F2VX8mlUVbgBRB4VfmXRCLnSSA3"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1792472139728,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1801180800000,
-    "grades": [
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792472139728,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 10,
-    "publishTimestamp": 1792472139728,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "vonbueren@imwidmer.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Widmerstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.2893895,
-          "lng": 8.540627299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch/schuleinheit/3248",
-      "lastName": "von Bueren",
-      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
-      "firstName": "Raphael",
-      "schoolName": " Schulhaus Im Widmer",
-      "phoneNumber": "+41762971131",
-      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "Sie übernehmen eine 5. Klasse (21 SuS) und eine 6. Klasse (23 SuS). Am Dienstag unterrichten Sie die 6. Klasse während 6 Lektionen und lernen die Kinder so rasch gut kennen. Am Donnerstagnachmittag sind Sie 2 Lektionen in der 5. Klasse, unterstützt von einer DaZ-Lehrperson. Am Freitagnachmittag schliessen Sie die Woche mit der 6. Klasse ab. Neugierige, motivierte Kinder freuen sich auf Sie!"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799625600000,
-    "subjects": [
-      "mathematics",
-      "german",
-      "fineArts",
-      "religionsCulturesEthics",
-      "music",
-      "mediaAndComputerScience"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   }
 ]
