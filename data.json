@@ -1,153 +1,5 @@
 [
   {
-    "id": "01M5Z9JR6F08GT2Y6DS11GM4RC",
-    "additionalInformation": "7:25 - 11:55 Uhr, 5 Lektionen",
-    "affectedTeacherIds": [
-      "enT55BOrACdW6qIwmiI3nwwYOcK2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1793125343439,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1793145600000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1793125343439,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 5,
-    "publishTimestamp": 1793125343439,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "annette.cathomas@schulefaellanden.ch",
-      "address": {
-        "city": "Fällanden",
-        "canton": "zurich",
-        "street": "Maurstrasse",
-        "country": "CH",
-        "zipCode": 8117,
-        "streetNr": "27",
-        "coordinates": {
-          "lat": 47.3700251,
-          "lng": 8.6432004
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulefaellanden.ch",
-      "lastName": "Cathomas",
-      "schoolId": "Bm2S1Kuq8QNLVvegSmwBR4fT1Lv2",
-      "firstName": "Annette",
-      "schoolName": "Primarschule Lätten",
-      "phoneNumber": "043 355 36 49 / 043 355 36 55",
-      "organisationId": "jjTZLJweUGp7yAr8AxJC",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1793145600000,
-    "subjects": [
-      "music",
-      "english",
-      "mediaAndComputerScience"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M5YZ927WGD6BPZQBAYMBK751",
-    "additionalInformation": "vikariat mittwoch, 28.10.26, 5. klasse a, 4wl gemäss stundenplan plus 0.75 ilz, pausenaufsicht und 0.25 auffangzeit. bei interesse gerne melden ",
-    "affectedTeacherIds": [
-      "kjiHHTNhJHRNF4sB3u6itoRUYHr2",
-      "QolqoWq4ZwXe3Xa3kfb6qA0A9mJ3"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1793114540284,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1793145600000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1793114540284,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1793114540284,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "annemarie.rueegg@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Maneggstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8041,
-        "streetNr": "51",
-        "coordinates": {
-          "lat": 47.34052639999999,
-          "lng": 8.5202493
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/content/schulen/de/allmend.html",
-      "lastName": "Rüegg",
-      "schoolId": "uTpgTnYMEWNKkOAWc1oMUjum0Pn1",
-      "firstName": "Annemarie ",
-      "schoolName": "Schule Allmend",
-      "phoneNumber": "079 753 61 46",
-      "organisationId": "LeGHxqCB4JoJlvIDlNvQ",
-      "directionInformation": "Standorte siehe unter dem nachstehenden link: https://www.stadt-zuerich.ch/schulen/de/allmend/ueberuns/standorte.html"
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1793145600000,
-    "subjects": [
-      "english",
-      "mathematics",
-      "german",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M5YZ927WGD6BPZQBAYMBK751/timeTables/42422eb1-7c07-48e4-b4f8-eb1f47147023.jpg",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
     "id": "01M5YX87XQYHBNEAEFCP0PN55T",
     "additionalInformation": "8 Wochenlektionen liegen am Mi/Do. Das Pensum kann ergänzt werden durch 7 DaZ am Mo/Di.",
     "affectedTeacherIds": [],
@@ -1567,5 +1419,165 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M5A249PNTJJPXH1X323X9PVV",
+    "additionalInformation": "Wir suchen eine Vertretung für einen Mutterschaftsurlaub.",
+    "affectedTeacherIds": [
+      "hLyO3rIPaUaSaAjuhK3FGkfYAUz1"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792412886741,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815523200000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792412886741,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 7,
+    "publishTimestamp": 1792412886741,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "schulleitung@schulehittnau.ch",
+      "address": {
+        "city": "Hittnau",
+        "canton": "zurich",
+        "street": "Hermetsbüelweg",
+        "country": "Schweiz",
+        "zipCode": 8335,
+        "streetNr": "10",
+        "coordinates": {
+          "lat": 47.3640453,
+          "lng": 8.824408199999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schulehittnau.ch/willkommen",
+      "lastName": "Hittnau",
+      "schoolId": "QA9zDwOip4UMzV6VzxNcxDabblA2",
+      "firstName": "Schulleitung",
+      "schoolName": "Primar- und Sekschule Hermetsbüel",
+      "phoneNumber": "043 288 67 70",
+      "organisationId": "72WTXu8JdOfMw6Dt0CJy",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1801440000000,
+    "subjects": [
+      "religionsCulturesEthics",
+      "sports",
+      "mathematics",
+      "german",
+      "french"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M5A249PNTJJPXH1X323X9PVV/timeTables/5ba7c7aa-c366-459e-9b44-c13cb4f7fcf6.jpg",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M51ZVK3QZFGN8HD5F7TTF8N1",
+    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden pro Woche unterstützt. Weiter umfasst die Klasse 5 IF-Lektionen sowie 7 ISR-Lektionen. Die IF wird durch eine sehr engagierte SHP begleitet.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1792142068855,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1792142068839,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1792142068855,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "vonbueren@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "von Bueren",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Raphael",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41762971131",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "french",
+      "german",
+      "mediaAndComputerScience",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
   }
 ]
