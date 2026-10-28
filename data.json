@@ -1,66 +1,67 @@
 [
   {
-    "id": "01M61M4A30XM2S2K4RHVAY8FXH",
-    "additionalInformation": "Die Lektionen sind alle bereits vorbereitet und es ist den ganzen Tag eine SHP in der Klasse. ",
+    "id": "01M61Z8NS3T2VETAE7SJN7ATRP",
+    "additionalInformation": "",
     "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1793203513440,
+    "createdTimestamp": 1793215190819,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1793232000000,
+    "endTimestamp": 1793318400000,
     "grades": [
-      "fifthClass"
+      "firstClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1793203513440,
+    "modifiedTimestamp": 1793215190819,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1793203513440,
+    "pensum": 12,
+    "publishTimestamp": 1793215190819,
     "role": "class",
     "school": {
       "logo": null,
-      "email": "schulleitung-dorf@schulegossau-zh.ch",
+      "email": "sl.steiacher@schulen-wb.ch",
       "address": {
-        "city": "Gossau ZH",
+        "city": "Brüttisellen",
         "canton": "zurich",
-        "street": "Bergstrasse",
-        "country": "Schweiz",
-        "zipCode": 8625,
+        "street": "Schulhausstrasse",
+        "country": "CH",
+        "zipCode": 8306,
         "streetNr": "7",
         "coordinates": {
-          "lat": 47.3034049,
-          "lng": 8.759650599999999
+          "lat": 47.4242065,
+          "lng": 8.6340612
         }
       },
       "culture": "de-CH",
-      "website": "www.schulegossau-zh.ch",
-      "lastName": "Dorf",
-      "schoolId": "hGWVjdmkXnVumrIdPtbgLuHmwBs1",
-      "firstName": "Schulleitung",
-      "schoolName": "Primarschule Gossau",
-      "phoneNumber": "+41449365622",
-      "organisationId": "Y9rJisfZePkiXLcjJMCO",
-      "directionInformation": ""
+      "website": "www.schulen-wb.ch",
+      "lastName": "Steiacher",
+      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
+      "firstName": "Schulleitung ",
+      "schoolName": "Steiacher",
+      "phoneNumber": "0432557607",
+      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
+      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
     },
     "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "Es erwarten dich motivierte und freundliche Kinder und ein tolles Schulhausteam! "
+      "numberOfStudents": 0,
+      "additionalInformation": null
     },
     "startAsOfNow": false,
     "startTimestamp": 1793232000000,
     "subjects": [
-      "english",
       "german",
-      "music",
       "mathematics",
-      "religionsCulturesEthics"
+      "fineArts",
+      "music",
+      "sports",
+      "natureHumanSociety"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -69,7 +70,9 @@
     "vacancyType": "short",
     "workingBlocks": [
       "thursdayMorning",
-      "thursdayAfternoon"
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
   },
@@ -314,7 +317,8 @@
     "id": "01M60T5BG895THYYGQFE6SC4ZD",
     "additionalInformation": "Mittwoch 04.11.2026: 10.15 - 12.00 Uhr\\nMontag 09.11.2026: 7.50 - 12.00 Uhr",
     "affectedTeacherIds": [
-      "iUTCHjgBe1Z8Dytu1pOt3yOR8nE2"
+      "iUTCHjgBe1Z8Dytu1pOt3yOR8nE2",
+      "vXmIHnFiL5dxUcFmwSoy8iK4ZTp1"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -384,7 +388,7 @@
       "mondayMorning",
       "wednesdayMorning"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M5YX87XQYHBNEAEFCP0PN55T",
