@@ -1,5 +1,88 @@
 [
   {
+    "id": "01M672P7A3J5BM3YPZE8NZJ30V",
+    "additionalInformation": "Während allen Lektionen ist eine Klassenassistentin anwesend, die tatkräftig im Unterricht unterstützt und über ALLES Bescheid weiss. Das Programm ist bereits geplant und wird nach der Zusage direkt von der LP an den/die Vikar*in weitergegeben.",
+    "affectedTeacherIds": [
+      "8Ln6SVPZqVMzKyn9xIFShopcLoC3"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793386552643,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1793836800000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1793386552643,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 23,
+    "publishTimestamp": 1793386552643,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "vera.metzler@schule-lufingen.ch",
+      "address": {
+        "city": "Lufingen",
+        "canton": "zurich",
+        "street": "Hintermarchlenstrasse",
+        "country": "CH",
+        "zipCode": 8426,
+        "streetNr": "31",
+        "coordinates": {
+          "lat": 47.4833502,
+          "lng": 8.5888113
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-lufingen.ch",
+      "lastName": "Metzler",
+      "schoolId": "01KFTE8MCAZ23X0JNC7F3BSWEW",
+      "firstName": "Vera",
+      "schoolName": "Primarschule Lufingen",
+      "phoneNumber": "0792724723",
+      "organisationId": "01KFTE8MC3RQCZNYYWDY11RB9Y",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Wie dem Stundenplan zu entnehmen, nennt die KLP sie \"Darlings\", dies hat 19 verschiedene und sehr gute Gründe."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1793577600000,
+    "subjects": [
+      "german",
+      "english",
+      "music",
+      "sports",
+      "mathematics",
+      "natureHumanSociety",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M672P7A3J5BM3YPZE8NZJ30V/timeTables/3255ffbd-97bd-4f0a-b77b-4a9e86c6c40e.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01M66ERF92R1GGEZTDRXVWJBDN",
     "additionalInformation": "Unterstützung durch Assistenz\\n\\nDie erste Lektion beginnt bereits um 7.30 Uhr.\\n\\nFreude Musik zu unterrichten",
     "affectedTeacherIds": [
@@ -1496,93 +1579,5 @@
       "tuesdayAfternoon"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M5CKJFCMWDHPJ22WCFQ4DW32",
-    "additionalInformation": "Wir suchen für zwei Wochen im Januar 2027 eine Stellvertretung, da unsere Klassenlehrperson Militärdienst leistet. Eine sorgfältige Übergabe und Unterrichtsvorbereitung sind gewährleistet. Während des Einsatzes wirst du durch unsere erfahrenen Klassenassistenzen und das Schulteam unterstützt. Wir freuen uns auf eine zuverlässige, offene Lehrperson, die Freude am individuellen Lernen hat.",
-    "affectedTeacherIds": [
-      "FXgZq28dy6PLbdfIb4TvupX3RoH2",
-      "QolqoWq4ZwXe3Xa3kfb6qA0A9mJ3",
-      "M6bTidseP5dcRUjAyYPqeY91Rg63",
-      "UI3SxDzNTQdD0FsQWSxsc9ChHdN2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1792498285972,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1799971200000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792498285972,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 23,
-    "publishTimestamp": 1792498285972,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "schulleitung@sil-tagesschule.ch",
-      "address": {
-        "city": "Birmensdorf ZH",
-        "canton": "zurich",
-        "street": "Weissenbrunnenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8903,
-        "streetNr": "41",
-        "coordinates": {
-          "lat": 47.3562987,
-          "lng": 8.4489822
-        }
-      },
-      "culture": "de-CH",
-      "website": "sil-tagesschule.ch",
-      "lastName": "Sidler",
-      "schoolId": "PFVTKJ0Ja9Psqgo8Dk0vGEjWNqB2",
-      "firstName": "Christoph",
-      "schoolName": "Schule für individuelles Lernen",
-      "phoneNumber": "044 737 37 04",
-      "organisationId": "i33HDYo5fFUHvW08LbJ6",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 8,
-      "additionalInformation": "Unsere Primarklasse wird in einer kleinen, familiären Schulumgebung unterrichtet. Wir legen grossen Wert auf persönliche Beziehungen, eine klare Tagesstruktur und die individuelle Förderung der Kinder. Der Unterricht wird durch erfahrene Klassenassistenzen unterstützt, die mit den Schülerinnen und Schülern sowie den Abläufen bestens vertraut sind."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "religionsCulturesEthics",
-      "natureHumanSociety",
-      "english",
-      "mediaAndComputerScience"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M5CKJFCMWDHPJ22WCFQ4DW32/timeTables/4752e4c5-a1fe-42dd-b14f-f65f063669b8.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "wednesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
   }
 ]
