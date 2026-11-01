@@ -1,5 +1,154 @@
 [
   {
+    "id": "01M6C07V96NWDEN2WK4R41EK8Z",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793551756582,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1793750400000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1793551756582,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 18,
+    "publishTimestamp": 1793552182471,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "yasmine.bourgeois@schulewehntal.ch",
+      "address": {
+        "city": "Schöfflisdorf",
+        "canton": "zurich",
+        "street": "Bergstrasse ",
+        "country": "CH",
+        "zipCode": 8165,
+        "streetNr": "2",
+        "coordinates": {
+          "lat": 47.501355,
+          "lng": 8.4119362
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulewehntal.ch",
+      "lastName": "Bourgeois",
+      "schoolId": "01M60VRZYDXV1W8TAQZA3AM4Y7",
+      "firstName": "Yasmine",
+      "schoolName": "Schulhaus Rietli und Schleinikon",
+      "phoneNumber": "044 857 15 15",
+      "organisationId": "2eafJolK4WzQzfM32dZ2",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 18,
+      "additionalInformation": "Sehr angenehme, aufgestellte Klasse, die gut mit den Abläufen vertraut ist."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1793577600000,
+    "subjects": [
+      "german",
+      "english",
+      "sports",
+      "mathematics",
+      "natureAndTechnology",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M6BZH9ZWFY4SR4WYM39C9NYY",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793551017980,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1793577600000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1793551017980,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1793551017980,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "schulleitung.ruemelbach@psruemlang.ch",
+      "address": {
+        "city": "Rümlang",
+        "canton": "zurich",
+        "street": "Rümelbachstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8153,
+        "streetNr": "30",
+        "coordinates": {
+          "lat": 47.4465563,
+          "lng": 8.5345593
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.psruemlang.ch",
+      "lastName": "Rümelbach",
+      "schoolId": "eU54hNc32QUxa1YLGzvnVz7wGEp1",
+      "firstName": "Schule",
+      "schoolName": "Schule Rümelbach",
+      "phoneNumber": "043 211 20 44",
+      "organisationId": "VOOZdWP91gOOxsJhsS8g",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": "Liebe Vikarin, lieber Vikar, ich suche für morgen, 2.11.26 eine SHP-Lehrdiplom zur Unterstützung von ISR und IF Schüler in der 5. Klasse bei Herr Schäppi.\\nDanke für's melden. Liebe Grüsse Andrea Rhyner\\n\\nP.S. morgens in der Halbklasse im TTG und in den Unterrichtslektionen, sowie Nachmittags im Unterricht."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1793577600000,
+    "subjects": [
+      "if",
+      "issIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M6BDZ3V900HTYH99EWR3FJSY",
     "additionalInformation": "Kommunales Vikariat.\\nAm Dienstag unterrichtet die Parallelklassenlehrperson Französisch. Der Unterricht beginnt deshalb für dich erst um 10:15 Uhr. \\nHA-Zeit wird extra bezahlt. Dies in Absprache mit der Schulleitung.",
     "affectedTeacherIds": [],
@@ -621,7 +770,7 @@
       "mondayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M63W2HJ8VR3326P4DTXSEWHJ",
@@ -1408,170 +1557,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M5HYR1K4823NP5KT5W79ZBYS",
-    "additionalInformation": "Gemischtes Pensum als Heilpädagogin (IF; ISR) und Fachlehrperson Französisch.\\nZusätzlich 15' Auffangzeit in der 5. Klasse (Montagmorgen) und 30' Aufgabenstunde in einer 3. Klasse (Freitagnachmittag) gemäss Stundenplan.",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1792677774948,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1804809600000,
-    "grades": [
-      "secondClass",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792677774948,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 18,
-    "publishTimestamp": 1792677774948,
-    "role": "currative",
-    "school": {
-      "logo": null,
-      "email": "barbara.blaeuer@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Wolfswinkel ",
-        "country": "CH",
-        "zipCode": 8046,
-        "streetNr": "3",
-        "coordinates": {
-          "lat": 47.4230385,
-          "lng": 8.5139507
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/wolfsblick.html",
-      "lastName": "Bläuer",
-      "schoolId": "pupNyzor2HgT90RcBNwYsqlilBB2",
-      "firstName": "Barbara",
-      "schoolName": "Wolfsblick Primar",
-      "phoneNumber": "0793986231",
-      "organisationId": "1Gi1lxv0CaHzOexg8Ol4",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "if",
-      "issIsr",
-      "french"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M5HYR1K4823NP5KT5W79ZBYS/timeTables/30fad55c-be4d-471d-8625-93e22c29e6a8.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M5D701C1HNH1GHJGZ1AP3CNT",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "wN8ybqtGxQXGFEgx0Lu3hlwAwsB3"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1792518653313,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1814486400000,
-    "grades": [
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1792518653313,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 26,
-    "publishTimestamp": 1792518653313,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "flurina.derungs@primarschule-uster.ch",
-      "address": {
-        "city": "Uster",
-        "canton": "zurich",
-        "street": "Gschwaderstrasse",
-        "country": "CH",
-        "zipCode": 8610,
-        "streetNr": "70",
-        "coordinates": {
-          "lat": 47.3608038,
-          "lng": 8.716761
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.primarschule-uster.ch/gschwader/2636",
-      "lastName": "Derungs",
-      "schoolId": "szQB1Z6J6HZMybzDl94Po5Bmrqc2",
-      "firstName": "Flurina",
-      "schoolName": "Gschwader",
-      "phoneNumber": "044 994 15 02",
-      "organisationId": "01K9C93F2HS777MGQ84870A1XN",
-      "directionInformation": "Bus vom Bahnhof Uster"
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": "Tolle erste Klasse. Sehr viele Mädchen. "
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1809907200000,
-    "subjects": [
-      "german",
-      "music",
-      "sports",
-      "swimming",
-      "mathematics",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   }
 ]
