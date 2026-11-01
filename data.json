@@ -1,5 +1,82 @@
 [
   {
+    "id": "01M6BDZ3V900HTYH99EWR3FJSY",
+    "additionalInformation": "Kommunales Vikariat.\\nAm Dienstag unterrichtet die Parallelklassenlehrperson Französisch. Der Unterricht beginnt deshalb für dich erst um 10:15 Uhr. \\nHA-Zeit wird extra bezahlt. Dies in Absprache mit der Schulleitung.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793532596073,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1793664000000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1793532596073,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 10,
+    "publishTimestamp": 1793532596073,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "sl.steiacher@schulen-wb.ch",
+      "address": {
+        "city": "Brüttisellen",
+        "canton": "zurich",
+        "street": "Schulhausstrasse",
+        "country": "CH",
+        "zipCode": 8306,
+        "streetNr": "7",
+        "coordinates": {
+          "lat": 47.4242065,
+          "lng": 8.6340612
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulen-wb.ch",
+      "lastName": "Steiacher",
+      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
+      "firstName": "Schulleitung ",
+      "schoolName": "Steiacher",
+      "phoneNumber": "0432557607",
+      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
+      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
+    },
+    "schoolClass": {
+      "numberOfStudents": 21,
+      "additionalInformation": "sympathische Klasse, die die gewohnten Herausforderungen einer 6. Klasse mit sich bringt..."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1793577600000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "project"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M6BDZ3V900HTYH99EWR3FJSY/timeTables/af78dfcd-cea2-4555-9569-d38b1663e781.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M69ANT8QST1VR6YB7C5CN6Z3",
     "additionalInformation": "",
     "affectedTeacherIds": [],
@@ -157,83 +234,6 @@
     "numberOfOpenApplications": 4
   },
   {
-    "id": "01M66ERF92R1GGEZTDRXVWJBDN",
-    "additionalInformation": "Unterstützung durch Assistenz\\n\\nDie erste Lektion beginnt bereits um 7.30 Uhr.\\n\\nFreude Musik zu unterrichten",
-    "affectedTeacherIds": [
-      "AzKTwVDJPeVFrqExsn2Q4AyX2kM2",
-      "Aqhii0eLSZPqWbAS6HcvbN2yb9V2",
-      "WPF4mskdn9akv8iDKsGTnGnYX6x2",
-      "aZSVdcsAwsbPjaqx23z3Wx4HwuC2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1793365654818,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797379200000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1793365654818,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 5,
-    "publishTimestamp": 1793365654818,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "lital.reshef@schulethalwil.ch",
-      "address": {
-        "city": "Thalwil",
-        "canton": "zurich",
-        "street": "Zehntenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8800,
-        "streetNr": "18",
-        "coordinates": {
-          "lat": 47.2894502,
-          "lng": 8.5695894
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulethalwil.ch",
-      "lastName": "Reshef",
-      "schoolId": "lM4vh4ugntWTKO5Ian34U35XvXD2",
-      "firstName": "Lital",
-      "schoolName": "Oeggisbüel-Oelwiese",
-      "phoneNumber": "0765886681",
-      "organisationId": "YKAK9aP7js7r4VTR4hFd",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Tolle Klasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1793750400000,
-    "subjects": [
-      "sports",
-      "german",
-      "mathematics",
-      "music"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "wednesdayMorning"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M667QF8R2CEZ3VQTCVZNT91M",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -313,7 +313,9 @@
     "additionalInformation": "Das Langzeitvikariat kann auch nur bis zu den Sportferien übernommen werden. Das Pensum umfasst:\\n-6 Lektionen am Freitag\\n-2 Teamteaching-Lektionen nach Absprache",
     "affectedTeacherIds": [
       "WPF4mskdn9akv8iDKsGTnGnYX6x2",
-      "vQEzdx5VaKY638ESjQHPp3kV1Ce2"
+      "vQEzdx5VaKY638ESjQHPp3kV1Ce2",
+      "krGTl4ilhKax0kJptTDErcf3V2E3",
+      "5Gf68oflC9goIWSKb2hRSSfrP043"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -382,7 +384,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01M6621DZRD5BFP6CN073E4MEK",
