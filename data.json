@@ -1,9 +1,87 @@
 [
   {
+    "id": "01M6KHW1BJNHRJB8Q51KYRC6QT",
+    "additionalInformation": "Wir suchen eine Vertretung für einen Mutterschaftsurlaub.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793805124978,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1793805124978,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 7,
+    "publishTimestamp": 1793805124978,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "schulleitung@schulehittnau.ch",
+      "address": {
+        "city": "Hittnau",
+        "canton": "zurich",
+        "street": "Hermetsbüelweg",
+        "country": "Schweiz",
+        "zipCode": 8335,
+        "streetNr": "10",
+        "coordinates": {
+          "lat": 47.3640453,
+          "lng": 8.824408199999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schulehittnau.ch/willkommen",
+      "lastName": "Hittnau",
+      "schoolId": "QA9zDwOip4UMzV6VzxNcxDabblA2",
+      "firstName": "Schulleitung",
+      "schoolName": "Primar- und Sekschule Hermetsbüel",
+      "phoneNumber": "043 288 67 70",
+      "organisationId": "72WTXu8JdOfMw6Dt0CJy",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1801440000000,
+    "subjects": [
+      "religionsCulturesEthics",
+      "sports",
+      "mathematics",
+      "german",
+      "french",
+      "english"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M6KHW1BJNHRJB8Q51KYRC6QT/timeTables/0cb4a6a2-fb9e-401a-8fca-8d34a4f9bb3b.jpg",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M6K1YX1QYH05280X6YSE2FFB",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "uOVTxXdXBeVMN1CFT7sgADRX9Pq2"
+      "uOVTxXdXBeVMN1CFT7sgADRX9Pq2",
+      "LXaj84mc83aIbOdLpWdJQaq9iPx2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -72,88 +150,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M6K007HK94E8H0MSMABBPSKK",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "4DJjAaARSIScoC11oEX9GDo0dJS2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1793786388019,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1794528000000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1793786388019,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 21,
-    "publishTimestamp": 1793786388019,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "franziska.burgener@schulleitungzell.ch",
-      "address": {
-        "city": "Kollbrunn",
-        "canton": "zurich",
-        "street": "Dorfstrasse",
-        "country": "Schweiz",
-        "zipCode": 8483,
-        "streetNr": "4",
-        "coordinates": {
-          "lat": 47.4573751,
-          "lng": 8.7732847
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-kollbrunn.ch",
-      "lastName": "Burgener",
-      "schoolId": "ZGbDa1ONN9fLLrdYFDU0GkLESap1",
-      "firstName": "Franziska",
-      "schoolName": "Primarschule Kollbrunn",
-      "phoneNumber": "0796424571",
-      "organisationId": "01M59Q7M132TJCZM9TDAQ1KSKZ",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 16,
-      "additionalInformation": "Die Schülerinnen und Schüler sind neugierig, aufgeweckt und motiviert zu lernen. \\nAn der Klasse Schulassistenz, welche im Schulzimmer unterstützt und auch weiss, wo was ist ;-)"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1794182400000,
-    "subjects": [
-      "german",
-      "english",
-      "music",
-      "sports",
-      "mathematics",
-      "natureHumanSociety"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M6K007HK94E8H0MSMABBPSKK/timeTables/648f8510-d162-47b7-a79e-29bd4e493de8.jpeg",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M6JWSRKTDXPF164GBBM0K52R",
