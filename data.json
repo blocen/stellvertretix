@@ -73,80 +73,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M6P11GSQJZCW1DZS4J6MB5XJ",
-    "additionalInformation": "Während zwei der Lektionen dürftest du die Klasse dabei begleiten, wenn sie ihre Göttiklasse unterstützen, Räben für den Räbeliechtli-Umzug am Abend zu schnitzen. ",
-    "affectedTeacherIds": [
-      "EvHdhGEZC2hqghuKwoT2vwbspQW2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1793888142135,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1793923200000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1793888142135,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 5,
-    "publishTimestamp": 1793888142135,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sl.steiacher@schulen-wb.ch",
-      "address": {
-        "city": "Brüttisellen",
-        "canton": "zurich",
-        "street": "Schulhausstrasse",
-        "country": "CH",
-        "zipCode": 8306,
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.4242065,
-          "lng": 8.6340612
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulen-wb.ch",
-      "lastName": "Steiacher",
-      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
-      "firstName": "Schulleitung ",
-      "schoolName": "Steiacher",
-      "phoneNumber": "0432557607",
-      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
-      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1793923200000,
-    "subjects": [
-      "sports",
-      "mathematics",
-      "music",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
     "id": "01M6NZFX37QCY6GJJJ5XFSCHCY",
     "additionalInformation": "Die jetzige Lehrperson befindet sich ab Ende Januar/Anfang Februar im Mutterschaftsurlaub bis Juli 2027. Bei Eignung und Interesse kann die Stelle ab August 2027 allenfalls übernommen werden.",
     "affectedTeacherIds": [],
@@ -229,7 +155,9 @@
   {
     "id": "01M6NXF864QJ4G3M0RWMSFEY2Y",
     "additionalInformation": "Die Lektionen sind schon vorbereitet. Die ausfallende LP gibt gerne Auskunft.",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "JZGiSVj7SOhTgslkiJm3dvdFckI3"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -1022,7 +950,9 @@
   {
     "id": "01M6G5ZB6ZPVPV6VH9QKVC7KFP",
     "additionalInformation": "6 WL an 2. Klasse / 8 WL an 1. Klasse / (Donnerstag von 10.15 bis 11.50 Uhr) / Das Vikariat ist bis auf weiteres. ",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "ziD8rQLqNhZ3ZxF4iNtrOpz8sD22"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -1095,7 +1025,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M6G5SVG16AGME8BHD97FC8YS",
@@ -1496,19 +1426,16 @@
     "numberOfOpenApplications": 4
   },
   {
-    "id": "01M63W2HJ8VR3326P4DTXSEWHJ",
-    "additionalInformation": "Mutterschaftsvertretung",
-    "affectedTeacherIds": [
-      "dM4KeQe4pgXyoSPgUqgZ7WYTsno2",
-      "WPF4mskdn9akv8iDKsGTnGnYX6x2"
-    ],
+    "id": "01M60ZKVPH886ENVERWABS8X11",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1793278953032,
+    "createdTimestamp": 1793182002897,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1808352000000,
+    "endTimestamp": 1810252800000,
     "grades": [
       "fifthClass"
     ],
@@ -1516,59 +1443,147 @@
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1793278953032,
+    "modifiedTimestamp": 1793182002897,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 9,
-    "publishTimestamp": 1793278953032,
-    "role": "subject",
+    "pensum": 17,
+    "publishTimestamp": 1793182002897,
+    "role": "class",
     "school": {
-      "logo": null,
-      "email": "jonas.meyer@schule-lindau.ch",
+      "logo": {
+        "logoUrl": "public_schools/01M5T3ZBCTMNVCYYF16WMDRCWC/logos/e9f1df77-3e51-4131-a574-032fa978cea1.jpg",
+        "blurhash": "LMQvas-aKF?av|JErWxr~WO=-VkV",
+        "cloudflareId": "school:01M5T3ZBCTMNVCYYF16WMDRCWC:e9f1df77-3e51-4131-a574-032fa978cea1.jpg"
+      },
+      "email": "s.michel@schule-dietlikon.ch",
       "address": {
-        "city": "Tagelswangen",
+        "city": "Dietlikon",
         "canton": "zurich",
-        "street": "Falkenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8317,
-        "streetNr": "1",
+        "street": "Dorfstrasse ",
+        "country": "CH",
+        "zipCode": 8305,
+        "streetNr": "51",
         "coordinates": {
-          "lat": 47.4328894,
-          "lng": 8.6701076
+          "lat": 47.4273935,
+          "lng": 8.6162853
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-lindau.ch/",
-      "lastName": "Meyer",
-      "schoolId": "lsN2o57xZZO5AKObisWzTVbGJuE2",
-      "firstName": "Jonas",
-      "schoolName": "Schulhaus Buck",
-      "phoneNumber": "0764980485",
-      "organisationId": "grUmUzhCwQQekXgXAYWx",
+      "website": "www.schule-dietlikon.ch/home/",
+      "lastName": "Michel",
+      "schoolId": "01M5T3ZBCTMNVCYYF16WMDRCWC",
+      "firstName": "Sandra",
+      "schoolName": "Schulhaus Dorf",
+      "phoneNumber": "044 442 95 73",
+      "organisationId": "01M5T3ZBCPVNHS17MKDA8W8P44",
       "directionInformation": ""
     },
     "schoolClass": {
       "numberOfStudents": 20,
-      "additionalInformation": "Sehr angenehme Klasse. KLP arbeitet mit Churer-Modell."
+      "additionalInformation": "11 Jungs, 9 Mädchen"
     },
     "startAsOfNow": false,
-    "startTimestamp": 1799193600000,
+    "startTimestamp": 1794787200000,
     "subjects": [
-      "sports",
+      "german",
       "english",
-      "fineArts",
-      "music"
+      "french",
+      "mathematics",
+      "natureHumanSociety",
+      "fineArts"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": null,
+    "timeTableRef": "vacancies/01M60ZKVPH886ENVERWABS8X11/timeTables/4e1e23e6-5a55-4f8b-a2c2-33d3c0ff9035.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M60PMSGNR7YGAK6WVCJWF3SJ",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793172596245,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1793172596245,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 16,
+    "publishTimestamp": 1793172596245,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "nico.meienberg@schuleschlieren.ch",
+      "address": {
+        "city": "Schlieren",
+        "canton": "zurich",
+        "street": "Schulstrasse",
+        "country": "Schweiz",
+        "zipCode": 8952,
+        "streetNr": "18",
+        "coordinates": {
+          "lat": 47.39673450000001,
+          "lng": 8.4525693
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule.schlieren.ch/schulstrasse",
+      "lastName": "Meienberg",
+      "schoolId": "Sw1FUrXDs1h6Ff1Y9gKvZmou7io2",
+      "firstName": "Nico",
+      "schoolName": "Schule Schulstrasse",
+      "phoneNumber": "044 738 44 90",
+      "organisationId": "7xhOwB506KrlEDYO0jXr",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795651200000,
+    "subjects": [
+      "german",
+      "french",
+      "mathematics",
+      "sports",
+      "music",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M60PMSGNR7YGAK6WVCJWF3SJ/timeTables/69102d9f-516e-42ba-af8c-45bb272d350e.pdf",
     "vacancyType": "long",
     "workingBlocks": [
       "wednesdayMorning",
-      "thursdayMorning"
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 0
   }
 ]
