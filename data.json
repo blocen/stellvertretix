@@ -1,66 +1,61 @@
 [
   {
-    "id": "01M72WNHSTSAAXDSWK7Z335C4F",
-    "additionalInformation": "Stelleninhaberin / Fachlehrerin erteilt Auskunft über Lernprogramm. \\n\\nBevorzugt werden Bewerbende, welche an beiden Tagen vikarisieren können. \\nWir freuen uns auf eure Bewerbungen. ",
-    "affectedTeacherIds": [
-      "8v1KB9DGJ1P1HBFYhZswXOr0XG92"
-    ],
+    "id": "01M734H06HMF165JXQA0R7F0T2",
+    "additionalInformation": "Dienstagnachmittag 13:45 - 16:15 Uhr\\nDonnerstagnachmittag 13:45 - 15:20 Uhr\\nFreitagnachmittag 13:45 - 15:20 Uhr",
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1794319763258,
+    "createdTimestamp": 1794328002768,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1794441600000,
+    "endTimestamp": 1796947200000,
     "grades": [
-      "secondClass",
-      "thirdClass"
+      "fifthClass"
     ],
     "levelsDetailed": [
-      "levelLower"
+      "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794319763258,
-    "partialTakeoverPossible": true,
+    "modifiedTimestamp": 1794328002768,
+    "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1794319763258,
+    "pensum": 7,
+    "publishTimestamp": 1794328002768,
     "role": "subject",
     "school": {
       "logo": null,
-      "email": "nicolas.dudler@schuleoberrieden.ch",
+      "email": "regula.heinss@schule-duebendorf.ch",
       "address": {
-        "city": "Oberrieden",
+        "city": "Dübendorf",
         "canton": "zurich",
-        "street": "Püntstrasse",
+        "street": "Zwinggartenstrasse",
         "country": "CH",
-        "zipCode": 8942,
-        "streetNr": "8",
+        "zipCode": 8600,
+        "streetNr": "28",
         "coordinates": {
-          "lat": 47.2737771,
-          "lng": 8.5773188
+          "lat": 47.4024207,
+          "lng": 8.6209802
         }
       },
       "culture": "de-CH",
-      "website": "www.schuleoberrieden.ch",
-      "lastName": "Dudler",
-      "schoolId": "01M4BAHQC9ZX9YPQNDJ4Q7B0MG",
-      "firstName": "Nicolas",
-      "schoolName": "Schulhaus Pünt",
-      "phoneNumber": "044 722 79 66",
-      "organisationId": "01KVNNZFF5RMA6N80Q5BKVPVWK",
-      "directionInformation": "S24 bis Oberrieden-Dorf / oder Parkplätze vor dem Schulhaus vorhanden"
+      "website": "https://www.schule-duebendorf.ch/staegenbuck/109",
+      "lastName": "Heinss",
+      "schoolId": "01M5YFD2SR5XXX44XA1KXK0JTN",
+      "firstName": "Regula",
+      "schoolName": "Primarschule Stägenbuck",
+      "phoneNumber": "079 488 78 76",
+      "organisationId": "01M5YFD2SM6DG2VGG7317MBM5A",
+      "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Mittwoch, 8 - 12 Uhr : 2. Klasse 2b - 18 Kinder\\nDonnerstag Vormittag: 7.30 - 12 Uhr: 3. Klasse  3a - 20 Kinder\\nDonnerstag Nachmittag; 13.30 - 15.05 Uhr: 2. Klasse 2b - 18 Kinder"
+      "numberOfStudents": 22,
+      "additionalInformation": null
     },
     "startAsOfNow": false,
-    "startTimestamp": 1794355200000,
+    "startTimestamp": 1794787200000,
     "subjects": [
-      "german",
-      "religionsCulturesEthics",
       "music",
       "mathematics",
       "natureHumanSociety",
@@ -70,11 +65,11 @@
       "de-CH"
     ],
     "timeTableRef": null,
-    "vacancyType": "short",
+    "vacancyType": "long",
     "workingBlocks": [
-      "wednesdayMorning",
-      "thursdayMorning",
-      "thursdayAfternoon"
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
   },
@@ -162,7 +157,9 @@
     "id": "01M72QJ60RZB6VZ7JZWT2XT59W",
     "additionalInformation": "Guten Tag\\n\\nFür eine 1./2. Klasse suchen wir für Dienstag, 17.11.2026 eine Vertretung.\\n\\nStundenplan:\\n8.05 - 11.40 Uhr & 13.30 - 14.15 Uhr\\n\\nEs wäre optimal, wenn Du auch den Donnerstag übernehmen könntest (6 Le). Das Vikariat ist ebenfalls ausgeschrieben.\\n\\nZudem wäre am Dienstag eine Teilübernahme möglich für die beiden letzten Lektionen von 10.55 - 11.40 & 13.30 - 14.15 Uhr.\\n\\nWir freuen uns auf Deine Unterlagen.\\n\\nFreundliche Grüsse\\nSchule Stallikon",
     "affectedTeacherIds": [
-      "cgWbP3eHu7TCIfMPzdrUG8nvXK73"
+      "cgWbP3eHu7TCIfMPzdrUG8nvXK73",
+      "rf2sNuOwpMbqeVc246iwXfrTAM72",
+      "hYI4WDCmctRv7BuPI7UonPnqayg2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -230,7 +227,7 @@
       "tuesdayMorning",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M72QFDGPDSV8281QXTAQZ2FC",
@@ -390,7 +387,9 @@
   {
     "id": "01M725H7Q2X9MXCQAWRP98NCMC",
     "additionalInformation": "Mittwoch\\n08:20 - 09:05 TTG (HK)\\n09:10 - 09:55 TTG (HK)\\n\\n10:20 - 11:05 TTG (HK)\\n11:10 - 11:55 TTG (HK)\\n\\nDonnerstag\\n08:20 - 09:05 MU\\n09:10 - 09:55 BS\\n\\n10:20 - 11:05 M\\n11:10 - 11:55 NMG\\n\\n13:30 - 14:15 M (HK)\\n14:20 - 15:05 M (HK)",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "Yhb5AfPKDIP9qHFzaDY9JeTkBeq2"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -464,7 +463,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M7270ZXDY2BMRQ26NB6SEK8C",
@@ -473,7 +472,8 @@
       "4PjxsiVmUuRgPIpKifzsN8m8ctj2",
       "Myjmg41wLZgskdtI7P2PiCQn9vk1",
       "4DJjAaARSIScoC11oEX9GDo0dJS2",
-      "yt1savM8CbTWF7NmZEBH4trZroa2"
+      "yt1savM8CbTWF7NmZEBH4trZroa2",
+      "cBT8LkamYOS4IqodmJwFrlVqCw83"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -542,7 +542,7 @@
     "workingBlocks": [
       "wednesdayMorning"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M70BKS5J340HMZZHGPYSZ5S6",
@@ -934,7 +934,9 @@
   {
     "id": "01M6ZV6QQV9KMRRWYA3CK8NKK6",
     "additionalInformation": "Guten Tag\\n\\nWir suchen eine Stellvertretung in einer 1/.2. Klasse im Schulhaus Loomatt.\\nEs könnte zusätzlich noch eine Woche übernommen werden vom 30.11.-4.12.2026 in der selben Klasse.\\n\\nFalls Du nur einen Teil des Pensums abdecken kannst, darfst Du Deine Unterlagen trotzdem gerne einreichen.\\n\\nFreundliche Grüsse\\nSchule Stallikon",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "cBT8LkamYOS4IqodmJwFrlVqCw83"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -1011,7 +1013,7 @@
       "tuesdayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M6ZTSJ8HYP26B47CGXFKX07D",
@@ -1174,7 +1176,8 @@
     "affectedTeacherIds": [
       "cgWbP3eHu7TCIfMPzdrUG8nvXK73",
       "rLtd2ohOToWgdMMMEmaHF40CIXD2",
-      "S2mpqrgBDSYyxXMN44j9UlgMFyN2"
+      "S2mpqrgBDSYyxXMN44j9UlgMFyN2",
+      "cBT8LkamYOS4IqodmJwFrlVqCw83"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -1243,7 +1246,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 4
   },
   {
     "id": "01M6ZQNZKPB8PXQ12HCGTYNSKG",
