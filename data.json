@@ -1,69 +1,64 @@
 [
   {
-    "id": "01M70GR4DH6DXZW5Q7S3HHFRA5",
+    "id": "01M70Y5YT83KT0EQH4HCMZY69M",
     "additionalInformation": "",
-    "affectedTeacherIds": [
-      "TqZBBvHeCkPX5ALtkXqdHCMZE9S2",
-      "E8WLkEVLK0YTI8KZHhMryUTeiGb2",
-      "6yUvacdKBbar7NFL3e2xf7utDnj2",
-      "4uVx5R2tJbVEhKssx73XNVjQ5Ny2"
-    ],
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1794240156081,
+    "createdTimestamp": 1794254240584,
     "curriculum": "lehrplan21",
     "endTimestamp": 1794268800000,
     "grades": [
-      "thirdClass"
+      "firstClass"
     ],
     "levelsDetailed": [
       "levelLower"
     ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1794240156081,
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794254240584,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 6,
-    "publishTimestamp": 1794240156081,
+    "publishTimestamp": 1794254240584,
     "role": "class",
     "school": {
       "logo": null,
-      "email": "andrea.mueller2@schulen.zuerich.ch",
+      "email": "annemarie.rueegg@schulen.zuerich.ch",
       "address": {
         "city": "Zürich",
         "canton": "zurich",
-        "street": "Sihlweidstrasse",
-        "country": "CH",
+        "street": "Maneggstrasse ",
+        "country": "Schweiz",
         "zipCode": 8041,
-        "streetNr": "5",
+        "streetNr": "51",
         "coordinates": {
-          "lat": 47.3265721,
-          "lng": 8.5163177
+          "lat": 47.34052639999999,
+          "lng": 8.5202493
         }
       },
       "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/sihlweid.html",
-      "lastName": "Müller",
-      "schoolId": "nV6k81qHbTdmgYKef3Ng8Xm61OV2",
-      "firstName": "Andrea ",
-      "schoolName": "Sihlweid",
-      "phoneNumber": "044 413 08 82",
-      "organisationId": "xZlqKzOOeHaQ85HjGKED",
-      "directionInformation": ""
+      "website": "https://www.stadt-zuerich.ch/content/schulen/de/allmend.html",
+      "lastName": "Rüegg",
+      "schoolId": "uTpgTnYMEWNKkOAWc1oMUjum0Pn1",
+      "firstName": "Annemarie ",
+      "schoolName": "Schule Allmend",
+      "phoneNumber": "079 753 61 46",
+      "organisationId": "LeGHxqCB4JoJlvIDlNvQ",
+      "directionInformation": "Standorte siehe unter dem nachstehenden link: https://www.stadt-zuerich.ch/schulen/de/allmend/ueberuns/standorte.html"
     },
     "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": null
+      "numberOfStudents": 21,
+      "additionalInformation": "Halbklassenunterricht am Vormittag 8-12h und am Nachmittag 13.20 - 14.55h, danach bis 15.30h ILZ"
     },
     "startAsOfNow": false,
     "startTimestamp": 1794268800000,
     "subjects": [
+      "german",
       "mathematics",
-      "natureHumanSociety",
-      "fineArts"
+      "natureHumanSociety"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -74,68 +69,69 @@
       "tuesdayMorning",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 0
   },
   {
-    "id": "01M70GGPC5KYBPBKVXFS95TXZB",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "rZc4Ku0XL3PYrcLsziUpbE5DwxX2"
-    ],
+    "id": "01M70SMZ0KA3R0DJP3DX84JDAR",
+    "additionalInformation": "Liebe Vikare. Wir brauchen für die 2 Klasse eine Stellvertretung. Liebe Grüsse Andrea",
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1794239912325,
+    "createdTimestamp": 1794249489427,
     "curriculum": "lehrplan21",
     "endTimestamp": 1794268800000,
     "grades": [
-      "thirdClass"
+      "secondClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794239912325,
+    "modifiedTimestamp": 1794249489427,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 2,
-    "publishTimestamp": 1794239912325,
+    "pensum": 6,
+    "publishTimestamp": 1794249489427,
     "role": "class",
     "school": {
       "logo": null,
-      "email": "susanne.twerenboldadank@primarschule-uster.ch",
+      "email": "schulleitung.ruemelbach@psruemlang.ch",
       "address": {
-        "city": "Uster",
+        "city": "Rümlang",
         "canton": "zurich",
-        "street": "Gschwaderstrasse",
-        "country": "CH",
-        "zipCode": 8610,
-        "streetNr": "70",
+        "street": "Rümelbachstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8153,
+        "streetNr": "30",
         "coordinates": {
-          "lat": 47.3608038,
-          "lng": 8.716761
+          "lat": 47.4465563,
+          "lng": 8.5345593
         }
       },
       "culture": "de-CH",
-      "website": "https://www.primarschule-uster.ch/gschwader/2636",
-      "lastName": "Twerenbold Adank",
-      "schoolId": "szQB1Z6J6HZMybzDl94Po5Bmrqc2",
-      "firstName": "Susanne",
-      "schoolName": "Gschwader",
-      "phoneNumber": "044 994 15 02",
-      "organisationId": "01K9C93F2HS777MGQ84870A1XN",
-      "directionInformation": "Bus vom Bahnhof Uster"
+      "website": "www.psruemlang.ch",
+      "lastName": "Rümelbach",
+      "schoolId": "eU54hNc32QUxa1YLGzvnVz7wGEp1",
+      "firstName": "Schule",
+      "schoolName": "Schule Rümelbach",
+      "phoneNumber": "043 211 20 44",
+      "organisationId": "VOOZdWP91gOOxsJhsS8g",
+      "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 20,
+      "numberOfStudents": 0,
       "additionalInformation": null
     },
     "startAsOfNow": false,
     "startTimestamp": 1794268800000,
     "subjects": [
-      "german"
+      "mathematics",
+      "german",
+      "natureHumanSociety",
+      "fineArts"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -145,7 +141,7 @@
     "workingBlocks": [
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M70BKS5J340HMZZHGPYSZ5S6",
@@ -222,7 +218,8 @@
     "id": "01M70B9CCBHHF5VGP25269GG0J",
     "additionalInformation": "bitte direkt mit der Lehrperson Kristina Jokić Kontakt aufnehmen:\\nkristina.jokic@schuleduernten.ch\\n0799341657",
     "affectedTeacherIds": [
-      "ow0VbdwqL9NfZz0XmluRMyJTVzI3"
+      "ow0VbdwqL9NfZz0XmluRMyJTVzI3",
+      "cgWbP3eHu7TCIfMPzdrUG8nvXK73"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -367,7 +364,9 @@
   {
     "id": "01M6ZZTN9GCSBR50HRQXZE0NVC",
     "additionalInformation": "Donnerstag: \\n8.15 - 11.55 TTG 1. / 2. Klasse\\n12.50 - 13.35 DaZ 1. / 2. Klasse\\n13.40 - 15.20 TTG 3. Klasse",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "S2mpqrgBDSYyxXMN44j9UlgMFyN2"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -435,7 +434,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M6ZVXT9KAC34BPQM8ADCH1DJ",
@@ -751,7 +750,7 @@
     "workingBlocks": [
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M6ZTNT3YBH4KJWBZSNJXXZ4M",
@@ -841,7 +840,8 @@
     "additionalInformation": "Guten Tag\\n\\nWir suchen für eine 1./2. Klasse im Schulhaus Loomatt eine Stellvertretung.\\nWir freuen uns auf Deine Unterlagen.\\n\\nFreundliche Grüsse\\nSchule Stallikon",
     "affectedTeacherIds": [
       "cgWbP3eHu7TCIfMPzdrUG8nvXK73",
-      "rLtd2ohOToWgdMMMEmaHF40CIXD2"
+      "rLtd2ohOToWgdMMMEmaHF40CIXD2",
+      "S2mpqrgBDSYyxXMN44j9UlgMFyN2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -910,7 +910,7 @@
       "thursdayMorning",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M6ZQNZKPB8PXQ12HCGTYNSKG",
