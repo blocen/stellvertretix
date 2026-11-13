@@ -1,5 +1,90 @@
 [
   {
+    "id": "01M7AWV7WRGS969NKY2TP7HHE8",
+    "additionalInformation": "Kleine Schule mit unterstützendem Team.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1794588385176,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "mixedAgeLearning",
+      "forthClass",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794588385176,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 24,
+    "publishTimestamp": 1794589214790,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "Schulleitung@schuwi.ch",
+      "address": {
+        "city": "Wildberg",
+        "canton": "zurich",
+        "street": "Schulhausstrasse",
+        "country": "CH",
+        "zipCode": 8489,
+        "streetNr": "18",
+        "coordinates": {
+          "lat": 47.424567599999996,
+          "lng": 8.8162626
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schuwi.ch",
+      "lastName": "Jones",
+      "schoolId": "01M7AVYXBZ7D1GNAENXNB1T9DC",
+      "firstName": "Barbara",
+      "schoolName": "Schule Wildberg",
+      "phoneNumber": "+41523854093",
+      "organisationId": "01M7AVYXBW65BXZ8X6BMY6VRDP",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 15,
+      "additionalInformation": "Die Teamteaching Lehrerin unterstützt bei der Klassenführung."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1794873600000,
+    "subjects": [
+      "german",
+      "english",
+      "sports",
+      "mathematics",
+      "religionsCulturesEthics",
+      "fineArts",
+      "mediaAndComputerScience"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M7AWV7WRGS969NKY2TP7HHE8/timeTables/8d4cd20c-4340-4191-a68a-e56035aec1d9.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M7AHQ3RTAXSZ8V0GW4WK01KZ",
     "additionalInformation": "24 Lektionen und 3 ILZ und 3x Auffangzeit\\nMittwoch frei, Freitag erst ab 9.10 Uhr Schule\\nKlassenassistenz jeden Morgen in der Klasse (ausser Di) DoNami und FrNami auch anwesend\\nDa 3 SuS mit IRS Setting, SHP auch 15 Lektionen anwesend",
     "affectedTeacherIds": [
@@ -20,7 +105,7 @@
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1794576715546,
-    "partialTakeoverPossible": false,
+    "partialTakeoverPossible": true,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 24,
@@ -81,83 +166,7 @@
       "thursdayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M7AB15E6VWKCMA0SC2H3E0N9",
-    "additionalInformation": "Montag Unterricht mit der ganzen Klasse, am Dienstagmorgen ist Halbklassenunterricht, parallel dazu findet TTG statt. ",
-    "affectedTeacherIds": [
-      "GKK6GV17qPbEVjzZPpbSUyl9rdI3"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794569704902,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1794873600000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794569704902,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1794569704902,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "isabelle.balliet@schule-rft.ch",
-      "address": {
-        "city": "Rorbas",
-        "canton": "zurich",
-        "street": "Zilacherstrasse",
-        "country": "CH",
-        "zipCode": 8427,
-        "streetNr": "19",
-        "coordinates": {
-          "lat": 47.5323808,
-          "lng": 8.57748
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-rft.ch",
-      "lastName": "Balliet",
-      "schoolId": "yEGZCGxVlwQLkOLhOtyp8Qdynbq1",
-      "firstName": "Isabelle",
-      "schoolName": "Primarschule Rorbas (MST)",
-      "phoneNumber": "0786243799",
-      "organisationId": "5J3MHQ3dYlX61Hhm2b1v",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "tolle Klasse, eingespielt, Unterrichtsassistenz gemäss Stundenplan anwesend. "
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1794787200000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M7AB15E6VWKCMA0SC2H3E0N9/timeTables/38fd062c-8918-4ca7-958d-46c1a356fbea.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M7A91455AGGF2FYQNSZG79EZ",
@@ -460,7 +469,8 @@
     "id": "01M77XWFREXZZHGNGGZSBQ1Q9Z",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "5S9815QIDMfTKfJi9K3Qz8CsAng1"
+      "5S9815QIDMfTKfJi9K3Qz8CsAng1",
+      "hLyO3rIPaUaSaAjuhK3FGkfYAUz1"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -529,12 +539,14 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M77S8Q5MN81AHRJVMNABMZ0A",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "qrYppxxtw6ObB6a4zwxKpx9e5b43"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -598,7 +610,7 @@
     "workingBlocks": [
       "thursdayMorning"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M77S519MBP6382GJ1FZDEV8R",
