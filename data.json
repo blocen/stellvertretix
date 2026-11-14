@@ -1,5 +1,80 @@
 [
   {
+    "id": "01M7D50ZHP1YMK3HN73Y3CRQH4",
+    "additionalInformation": "ich suche für nächste Woche am Montag, Mittwoch und Donnerstag eine Vertretung. \\n\\n• Montag: Vormittag 3L Daz, Nachmittag: 1L F in der 6. Klasse, 2L DaZ\\n\\n• ⁠Mittwoch: 4L DaZ\\n\\n• ⁠Donnerstag: Vormittag 4L DaZ, 30‘ Mittagsbetreuung, Nachmittag 2L F in der 6. Klasse ",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1794664070710,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795046400000,
+    "grades": [
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794664070710,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 16,
+    "publishTimestamp": 1794664070710,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "adelina.bajra@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Schürbungert",
+        "country": "CH",
+        "zipCode": 8057,
+        "streetNr": "25",
+        "coordinates": {
+          "lat": 47.402121799999996,
+          "lng": 8.5392691
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/allenmoos.html",
+      "lastName": "Bajra",
+      "schoolId": "8PbeVcBhPYQU7bmdP1rUXTfX4Gi1",
+      "firstName": "Adelina",
+      "schoolName": "Allenmoos",
+      "phoneNumber": "044 413 05 06",
+      "organisationId": "dAeC2YqfW6Hbis8YiI49",
+      "directionInformation": "Die Schule Allenmoos liegt in 10min Gehdistanz zum Bucheggplatz und zum Milchbuck (diverse Bus-  und Tramverbindungen)."
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1794787200000,
+    "subjects": [
+      "germanAsSecondLanguage",
+      "french"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M7AWV7WRGS969NKY2TP7HHE8",
     "additionalInformation": "Kleine Schule mit unterstützendem Team.",
     "affectedTeacherIds": [],
@@ -72,90 +147,6 @@
     ],
     "timeTableRef": "vacancies/01M7AWV7WRGS969NKY2TP7HHE8/timeTables/8d4cd20c-4340-4191-a68a-e56035aec1d9.pdf",
     "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M7AHQ3RTAXSZ8V0GW4WK01KZ",
-    "additionalInformation": "24 Lektionen und 3 ILZ und 3x Auffangzeit\\nMittwoch frei, Freitag erst ab 9.10 Uhr Schule\\nKlassenassistenz jeden Morgen in der Klasse (ausser Di) DoNami und FrNami auch anwesend\\nDa 3 SuS mit IRS Setting, SHP auch 15 Lektionen anwesend",
-    "affectedTeacherIds": [
-      "cgWbP3eHu7TCIfMPzdrUG8nvXK73"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794576715546,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795132800000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794576715546,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 24,
-    "publishTimestamp": 1794576715546,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "barbara.meier@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Bertastrasse ",
-        "country": "Schweiz",
-        "zipCode": 8003,
-        "streetNr": "50",
-        "coordinates": {
-          "lat": 47.3736727,
-          "lng": 8.5126336
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.stadt-zuerich.ch/schulen/de/aemtler_a.html",
-      "lastName": "Meier",
-      "schoolId": "2QKN4tnDkeZG14ihtLZKFXglBCB2",
-      "firstName": "Barbara",
-      "schoolName": "Schule Aemtler Primar",
-      "phoneNumber": "044 413 01 23",
-      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 16,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1794787200000,
-    "subjects": [
-      "german",
-      "english",
-      "mathematics",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "sports",
-      "music"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
     "workingBlocks": [
       "mondayMorning",
       "tuesdayMorning",
@@ -321,151 +312,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M79PXJ19Q594DP8BGRW04NBD",
-    "additionalInformation": "Das Schulhaus Three Point liegt unmittelbar beim Bahnhof Stettbach.",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794548615209,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1794528000000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794548615209,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1794548615209,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "claudio.bischoff@schule-duebendorf.ch",
-      "address": {
-        "city": "Dübendorf",
-        "canton": "zurich",
-        "street": "Sonnentalstrasse",
-        "country": "CH",
-        "zipCode": 8600,
-        "streetNr": "15a",
-        "coordinates": {
-          "lat": 47.39725350000001,
-          "lng": 8.6019091
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-duebendorf.ch/birchlen/107",
-      "lastName": "Bischoff",
-      "schoolId": "3U7TWpeu31McYowqk9DDGnKhgDk1",
-      "firstName": "Claudio",
-      "schoolName": "Schule Birchlen / Three Point",
-      "phoneNumber": "079 679 46 02",
-      "organisationId": "01K1ZFY7G3ZBNY37BY8B3T8E2Y",
-      "directionInformation": "Die Schule Three Point liegt unmittelbar neben dem Bahnhof Stettbach."
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": null
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1794528000000,
-    "subjects": [
-      "religionsCulturesEthics",
-      "german",
-      "english",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "fridayMorning",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M79PWCBWS5Z2W6GMJSR95085",
-    "additionalInformation": "Unterrichtszeiten 8.10-11.55 und 13.50-15.25 Uhr\\nVormittag Halbklasse M/D je 2 Lektionen (andere Halbklasse ist jeweils im TTG), Nachmittag 2 Lektionen BG. \\nGratis Parkplätze (Tiefgarage) vorhanden sowie gute ÖV Anbindung.",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794548576636,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1794528000000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794548576636,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1794548576636,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "andrea.savva-galli@schulefaellanden.ch",
-      "address": {
-        "city": "Fällanden",
-        "canton": "zurich",
-        "street": "Maurstrasse",
-        "country": "CH",
-        "zipCode": 8117,
-        "streetNr": "27",
-        "coordinates": {
-          "lat": 47.3700251,
-          "lng": 8.6432004
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulefaellanden.ch",
-      "lastName": "Savva-Galli",
-      "schoolId": "Bm2S1Kuq8QNLVvegSmwBR4fT1Lv2",
-      "firstName": "Andrea",
-      "schoolName": "Primarschule Lätten",
-      "phoneNumber": "043 355 36 49 / 043 355 36 55",
-      "organisationId": "jjTZLJweUGp7yAr8AxJC",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1794528000000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "fridayMorning",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
     "id": "01M77XWFREXZZHGNGGZSBQ1Q9Z",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -611,81 +457,6 @@
       "thursdayMorning"
     ],
     "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M77S519MBP6382GJ1FZDEV8R",
-    "additionalInformation": "Klassenassistenz in zwei Lektionen da.\\nDer ganze Vormittag ist Unterricht in der Halbklasse. Die andere Halbklasse ist im TTG.",
-    "affectedTeacherIds": [
-      "4kAnIGpBr7OtHoQcsa0gGp7Oxxo1",
-      "nqu5xsiDQKQ8DtOi56jxoEfbEkE3",
-      "6NebxfzqmHalGkh5MTrfoCHel9a2",
-      "cBT8LkamYOS4IqodmJwFrlVqCw83"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794483848500,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1794528000000,
-    "grades": [
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794483848500,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1794483848500,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "chantal.waefler@buelach.ch",
-      "address": {
-        "city": "Bülach",
-        "canton": "zurich",
-        "street": "Unterweg",
-        "country": "CH",
-        "zipCode": 8180,
-        "streetNr": "51",
-        "coordinates": {
-          "lat": 47.5266387,
-          "lng": 8.5433037
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-buelach.ch/",
-      "lastName": "Wäfler",
-      "schoolId": "01M2MYDAC0EGRCMZ0BZECJ7J1M",
-      "firstName": "Chantal",
-      "schoolName": "Schulhaus Hohfuri",
-      "phoneNumber": "+41 44 863 16 09",
-      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1794528000000,
-    "subjects": [
-      "german",
-      "mathematics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 4
   },
   {
     "id": "01M75QYDJPAME73E7N7EXPMCY9",
@@ -854,160 +625,6 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M7505GXZH5FVQSG2EE4JXZ1P",
-    "additionalInformation": "Ab Freitag, 13.11.- bis auf Weiteres jeweils, DI und FR\\nAb ca. Ende November 2026 fällt der DI-Nachmittag weg",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794390541247,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795996800000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794390541247,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1794390657707,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sylvia.wuethrich@oberengstringen.ch",
-      "address": {
-        "city": "Oberengstringen",
-        "canton": "zurich",
-        "street": "Zürcherstrasse",
-        "country": "CH",
-        "zipCode": 8102,
-        "streetNr": "101",
-        "coordinates": {
-          "lat": 47.4075394,
-          "lng": 8.4657321
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-oe.ch",
-      "lastName": "Wüthrich",
-      "schoolId": "01M74W791KXT6XF2YHC14MYBVZ",
-      "firstName": "Sylvia",
-      "schoolName": "Goldschmied-Sunnerai-Halde-Lanzrain",
-      "phoneNumber": "043 455 07 92",
-      "organisationId": "01M74NJTQ7HFG4X2Y8WS3X923F",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1794528000000,
-    "subjects": [
-      "mathematics",
-      "natureHumanSociety",
-      "sports",
-      "german",
-      "fineArts",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M7505GXZH5FVQSG2EE4JXZ1P/timeTables/17197562-04ea-471b-8c1a-e896618c734c.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M74ZE5M6CGZ5REB3MC3NDGHY",
-    "additionalInformation": "Unterricht in Halbklasse max. 10 bis 12 SuS",
-    "affectedTeacherIds": [
-      "zLWLAvzdYKUCqZ8xMJD7sWMbBG53"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794389776005,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795996800000,
-    "grades": [
-      "secondClass",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794389776005,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1794390657656,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "sylvia.wuethrich@oberengstringen.ch",
-      "address": {
-        "city": "Oberengstringen",
-        "canton": "zurich",
-        "street": "Zürcherstrasse",
-        "country": "CH",
-        "zipCode": 8102,
-        "streetNr": "101",
-        "coordinates": {
-          "lat": 47.4075394,
-          "lng": 8.4657321
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-oe.ch",
-      "lastName": "Wüthrich",
-      "schoolId": "01M74W791KXT6XF2YHC14MYBVZ",
-      "firstName": "Sylvia",
-      "schoolName": "Goldschmied-Sunnerai-Halde-Lanzrain",
-      "phoneNumber": "043 455 07 92",
-      "organisationId": "01M74NJTQ7HFG4X2Y8WS3X923F",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1794528000000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M74ZE5M6CGZ5REB3MC3NDGHY/timeTables/dbfe134e-dab7-4ed8-82ab-2f74c9405b21.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "thursdayMorning",
-      "fridayMorning"
-    ],
-    "numberOfOpenApplications": 1
   },
   {
     "id": "01M734H06HMF165JXQA0R7F0T2",
@@ -1500,7 +1117,8 @@
     "affectedTeacherIds": [
       "TndYaVr0hBdfZI8zmL71WklQHIn1",
       "ow0VbdwqL9NfZz0XmluRMyJTVzI3",
-      "4ySdEQrq2UUosjgOMw4RThuTZ4L2"
+      "4ySdEQrq2UUosjgOMw4RThuTZ4L2",
+      "2DHqp5uMYpePvLzI0r8s4C1m8ei2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -1565,6 +1183,423 @@
     "workingBlocks": [
       "tuesdayAfternoon"
     ],
+    "numberOfOpenApplications": 3
+  },
+  {
+    "id": "01M6ZTNT3YBH4KJWBZSNJXXZ4M",
+    "additionalInformation": "Blaue Lektionen im Stundenplan (Anhang) werden Unterrichtet. Schwimmbegleitung alle 2 Wochen, muss nicht unterrichtet werden.\\nUnterstützung durch SHP, KLA und SL ",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1794217011326,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1802995200000,
+    "grades": [
+      "mixedAgeLearning",
+      "thirdClass",
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794217011326,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 25,
+    "publishTimestamp": 1794217011326,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "peter.faltys@schule-adliswil.ch",
+      "address": {
+        "city": "Adliswil",
+        "canton": "zurich",
+        "street": "Zelgstrasse",
+        "country": "CH",
+        "zipCode": 8134,
+        "streetNr": "20",
+        "coordinates": {
+          "lat": 47.31850619999999,
+          "lng": 8.516127299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-adliswil.ch/zopf/ueberblick/aktuelles/p-183587/",
+      "lastName": "Faltys",
+      "schoolId": "ZghRYr8x8RXYz9x55q9oAOPha5H2",
+      "firstName": "Peter",
+      "schoolName": "Schulhaus Zopf",
+      "phoneNumber": "079 570 60 86",
+      "organisationId": "0bRthbqXyzKLVnUBBRcQ",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": "10 SuS in 3.Klasse\\n13 SuS in 4.Klasse"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "german",
+      "english",
+      "sports",
+      "mathematics",
+      "natureAndTechnology"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M6ZTNT3YBH4KJWBZSNJXXZ4M/timeTables/c9e5d4d6-7850-4dc9-9a3c-97e5cd55f9c4.png",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M6ZMA0XDESQ72TNENK3AC2E4",
+    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden und 12 SHP Lektionen pro Woche unterstützt. Gesamtes Vikariat: 4.1.-16.7.27. Es kann auch das gesamte Vikariat übernommen werden oder Quartalsweise (4.1.27-19.2.27 / 8.3.27-23.4.27 / 10.5.27-16.7.27). Wir freuen uns auf deine Kontaktaufnahme.",
+    "affectedTeacherIds": [
+      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
+      "uHvnXpR86OSHKEt3npfmpLYHYqv2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1794210333612,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794210333612,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1794210333612,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "susann.blesi@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "Blesi",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Susann",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41762971131",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1809907200000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "french",
+      "german",
+      "mediaAndComputerScience",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M6ZMA0XDESQ72TNENK3AC2E4/timeTables/f3babc52-f2a8-4750-95ee-57def30606f7.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
     "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M6ZM6RVT7YB8W769TEM2VMAM",
+    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden und 12 SHP Lektionen pro Woche unterstützt. \\nGesamtes Vikariat: 4.1.27-16.7.27. Es kann auch das gesamte Vikariat übernommen werden oder Quartalsweise (4.1.27-19.2.27 / 8.3.27-23.4.27 / 10.5.27-16.7.27).\\nWir freuen uns auf deine Kontaktaufnahme.",
+    "affectedTeacherIds": [
+      "aAUpnu7f8xU7eQfQ9isFfEb3HFD2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1794210227066,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1808438400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794210227066,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1794210227066,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "susann.blesi@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "Blesi",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Susann",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41762971131",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1804464000000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "french",
+      "german",
+      "mediaAndComputerScience",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M6ZM6RVT7YB8W769TEM2VMAM/timeTables/f6423744-73eb-43a5-af67-556fc9825beb.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M6ZM0SQNB1YZHT2AXMWT8VPT",
+    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden und einer SHP während 12 Lektionen pro Woche unterstützt. \\nGesamtes Vikariat: 4.1.27-16.7.27. Es kann auch das gesamte Vikariat übernommen werden oder Quartalsweise (4.1.27-19.2.27 / 8.3.27-23.4.27 / 10.5.27-16.7.27).\\nWir freuen uns auf deine Kontaktaufnahme.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1794210031349,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1802995200000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794210031349,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1794210031349,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "susann.blesi@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "Blesi",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Susann",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41762971131",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "french",
+      "german",
+      "mediaAndComputerScience",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M6ZM0SQNB1YZHT2AXMWT8VPT/timeTables/403e2e65-6244-46ab-b40c-029b934e3411.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M6RCTXAEHYBE1Q2CW2C2Q8HD",
+    "additionalInformation": "💛 Wir freuen uns auf eine motivierte Lehrperson, die unsere 3.Klasse während dieser Zeit begleitet und unterstützt!",
+    "affectedTeacherIds": [
+      "5E8yWHyxV9OLbdwbVr7wRCFv1EY2",
+      "cBT8LkamYOS4IqodmJwFrlVqCw83",
+      "Y7Odfq7ifEVklgo2QoLJ6wkDhnZ2",
+      "2DHqp5uMYpePvLzI0r8s4C1m8ei2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793967617358,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1796083200000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1793967617358,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 10,
+    "publishTimestamp": 1793967617358,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "eliane.zwimpfer@schule-wald.ch",
+      "address": {
+        "city": "Wald ZH",
+        "canton": "zurich",
+        "street": "Neuwiesstrasse",
+        "country": "CH",
+        "zipCode": 8636,
+        "streetNr": "26",
+        "coordinates": {
+          "lat": 47.274680599999996,
+          "lng": 8.9208409
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-wald.ch/primarschuleneuwies",
+      "lastName": "Zwimpfer",
+      "schoolId": "01M3C8880FR1F7CFGSRWKQW3FY",
+      "firstName": "Eliane",
+      "schoolName": "Schule Neuwies",
+      "phoneNumber": "0784053171",
+      "organisationId": "01M3C8880CJFKBPCYDGAD4VC2M",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 24,
+      "additionalInformation": "🤝 Das erwartet dich:\\nEine 3. Klasse mit bestehenden Unterrichtsstrukturen\\n- Teamteaching am Montagvormittag\\n- Halbklassenunterricht am Dienstagnachmittag\\n- zwei Lektionen Unterstützung durch die Schulische Heilpädagogin (SHP) am Dienstagvormittag"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795392000000,
+    "subjects": [
+      "german",
+      "english",
+      "mathematics",
+      "natureHumanSociety",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
   }
 ]
