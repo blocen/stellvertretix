@@ -71,80 +71,6 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M7G1E6PWXSHG4NFBJNHKAGTC",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "E8WLkEVLK0YTI8KZHhMryUTeiGb2",
-      "JIWo8TPb2KenGlQE6btp3NmMNrv1"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794760973020,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1794787200000,
-    "grades": [
-      "firstClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1794760973020,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1794769587533,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "marlenefischer@sunrise.ch",
-      "address": {
-        "city": "Dürnten",
-        "canton": "zurich",
-        "street": "Langackerstrasse",
-        "country": "Schweiz",
-        "zipCode": 8635,
-        "streetNr": "9",
-        "coordinates": {
-          "lat": 47.27823979999999,
-          "lng": 8.8652517
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schuleduernten.ch/blatt-oberduernten/unterstufe/allgemeine-informationen/p-183697/",
-      "lastName": "Füglistaler",
-      "schoolId": "ErxB7eVpKLaRifS0QQaNLMAvG8f2",
-      "firstName": "Marlene",
-      "schoolName": "Schulhaus Oberdürnten ",
-      "phoneNumber": "+41765107309",
-      "organisationId": "4At01BsWeX6iqm2hd6bi",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 12,
-      "additionalInformation": "Assistentin anwesend"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1794787200000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
     "id": "01M7G81R10JD88E0K2TZ2CDJVN",
     "additionalInformation": "",
     "affectedTeacherIds": [],
@@ -370,7 +296,8 @@
     "affectedTeacherIds": [
       "1Ig1Ni3cSzd88tKVoNfBcxCnT0v2",
       "MXKLH8Y8nuSYaADthKAIYEc46kK2",
-      "CD5br9f1VzfCrEoT4w9SmSR4xHa2"
+      "CD5br9f1VzfCrEoT4w9SmSR4xHa2",
+      "PhQMufDeVEOYDHK49tECPWmPMRg2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -437,7 +364,7 @@
       "mondayMorning",
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M7FVX1S1SMTDE5MS8ZDWS4W8",
@@ -1229,7 +1156,7 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M6ZVXT9KAC34BPQM8ADCH1DJ",
@@ -1552,6 +1479,89 @@
     "workingBlocks": [
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 3
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M6ZTNT3YBH4KJWBZSNJXXZ4M",
+    "additionalInformation": "Blaue Lektionen im Stundenplan (Anhang) werden Unterrichtet. Schwimmbegleitung alle 2 Wochen, muss nicht unterrichtet werden.\\nUnterstützung durch SHP, KLA und SL ",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1794217011326,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1802995200000,
+    "grades": [
+      "mixedAgeLearning",
+      "thirdClass",
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794217011326,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 25,
+    "publishTimestamp": 1794217011326,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "peter.faltys@schule-adliswil.ch",
+      "address": {
+        "city": "Adliswil",
+        "canton": "zurich",
+        "street": "Zelgstrasse",
+        "country": "CH",
+        "zipCode": 8134,
+        "streetNr": "20",
+        "coordinates": {
+          "lat": 47.31850619999999,
+          "lng": 8.516127299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-adliswil.ch/zopf/ueberblick/aktuelles/p-183587/",
+      "lastName": "Faltys",
+      "schoolId": "ZghRYr8x8RXYz9x55q9oAOPha5H2",
+      "firstName": "Peter",
+      "schoolName": "Schulhaus Zopf",
+      "phoneNumber": "079 570 60 86",
+      "organisationId": "0bRthbqXyzKLVnUBBRcQ",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": "10 SuS in 3.Klasse\\n13 SuS in 4.Klasse"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "german",
+      "english",
+      "sports",
+      "mathematics",
+      "natureAndTechnology"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M6ZTNT3YBH4KJWBZSNJXXZ4M/timeTables/c9e5d4d6-7850-4dc9-9a3c-97e5cd55f9c4.png",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
   }
 ]
