@@ -391,7 +391,8 @@
     "id": "01M77S8Q5MN81AHRJVMNABMZ0A",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "qrYppxxtw6ObB6a4zwxKpx9e5b43"
+      "qrYppxxtw6ObB6a4zwxKpx9e5b43",
+      "tHOMOTEGtPabaDOi6VHnLk0kK6B2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -456,91 +457,7 @@
     "workingBlocks": [
       "thursdayMorning"
     ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M75QYDJPAME73E7N7EXPMCY9",
-    "additionalInformation": "Wir freuen uns, wenn du nächste Woche Zeit hast und allenfalls auch länger zur Verfügung stehen würdest. Wir können heute noch nicht sagen, ob der Klassenlehrer ab dem 23.11. wieder übernehmen kann. Selbstverständlich darfst du dich auch melden, wenn es nur für eine Woche geht.",
-    "affectedTeacherIds": [
-      "cBT8LkamYOS4IqodmJwFrlVqCw83"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794415474262,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795132800000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794415474262,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1794415474262,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sl.steiacher@schulen-wb.ch",
-      "address": {
-        "city": "Brüttisellen",
-        "canton": "zurich",
-        "street": "Schulhausstrasse",
-        "country": "CH",
-        "zipCode": 8306,
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.4242065,
-          "lng": 8.6340612
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulen-wb.ch",
-      "lastName": "Steiacher",
-      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
-      "firstName": "Schulleitung ",
-      "schoolName": "Steiacher",
-      "phoneNumber": "0432557607",
-      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
-      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1794787200000,
-    "subjects": [
-      "german",
-      "english",
-      "french",
-      "mathematics",
-      "natureHumanSociety",
-      "sports",
-      "project"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M75QYDJPAME73E7N7EXPMCY9/timeTables/0536a2af-c538-4b00-af06-c0ee3a60a417.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M75FS430AZPR0S975FXBCKM9",
@@ -790,7 +707,8 @@
       "1F4fGJMnn1WWnCl8vLxPGNkfcgD3",
       "uCgRmJ1b3wTA5iQHFYzq4ffdgAF2",
       "hVS7mCR7DqOMULUG3nhqlB2lgH62",
-      "55L6wCoNZwXhfhlXWLHj8Wjcct22"
+      "55L6wCoNZwXhfhlXWLHj8Wjcct22",
+      "vO6SvJ37ZXYfSMcxjYZgQKr9VJY2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -863,7 +781,7 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M6ZVXT9KAC34BPQM8ADCH1DJ",
@@ -1601,5 +1519,85 @@
       "tuesdayAfternoon"
     ],
     "numberOfOpenApplications": 3
+  },
+  {
+    "id": "01M6NZFX37QCY6GJJJ5XFSCHCY",
+    "additionalInformation": "Die jetzige Lehrperson befindet sich ab Ende Januar/Anfang Februar im Mutterschaftsurlaub bis Juli 2027. Bei Eignung und Interesse kann die Stelle ab August 2027 allenfalls übernommen werden.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1793886516327,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "secondClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1793886516327,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1793886516327,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "schulleitung@primarschule-bonstetten.ch",
+      "address": {
+        "city": "Bonstetten",
+        "canton": "zurich",
+        "street": "Schachenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8906,
+        "streetNr": "85",
+        "coordinates": {
+          "lat": 47.32174639999999,
+          "lng": 8.4719155
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.primarschule-bonstetten.ch",
+      "lastName": "Vetsch",
+      "schoolId": "3yhdbLR6lXgAhgHp8G9bjXUJ1ZH2",
+      "firstName": "Mei-Zie",
+      "schoolName": "Primarschule Bonstetten",
+      "phoneNumber": "+41794308868",
+      "organisationId": "fb5WGusK5CqqBjKFma2a",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Die momentane SHP hat alle 27 Lektionen an drei Unterstufenklassen, inklusive ISR - Settings. Dies macht die Stelle sehr attraktiv."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1801180800000,
+    "subjects": [
+      "giftedEducation",
+      "if",
+      "issIsr"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
   }
 ]
