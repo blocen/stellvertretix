@@ -1,68 +1,66 @@
 [
   {
-    "id": "01M7T809CVQZ7VN2ZSJ08JMBTW",
+    "id": "01M7TMGZ6AG8HR13FH5KJMYEKT",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "vwScj5jkimbYeHB9r2RvPoB60ao2"
+      "Azl3dVaB4QTs9azEBOTE6l2ISnS2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1795103401370,
+    "createdTimestamp": 1795116530890,
     "curriculum": "lehrplan21",
     "endTimestamp": 1795132800000,
     "grades": [
-      "forthClass",
-      "sixthClass"
+      "thirdClass"
     ],
     "levelsDetailed": [
-      "levelMiddle"
+      "levelLower"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795103401370,
+    "modifiedTimestamp": 1795116530890,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 7,
-    "publishTimestamp": 1795103401370,
+    "pensum": 4,
+    "publishTimestamp": 1795116530890,
     "role": "class",
     "school": {
       "logo": null,
-      "email": "michael.homberger@buelach.ch",
+      "email": "andrea.savva-galli@schulefaellanden.ch",
       "address": {
-        "city": "Bülach",
+        "city": "Fällanden",
         "canton": "zurich",
-        "street": "Schwerzgruebstrasse",
-        "country": "Schweiz",
-        "zipCode": 8180,
-        "streetNr": "24",
+        "street": "Maurstrasse",
+        "country": "CH",
+        "zipCode": 8117,
+        "streetNr": "27",
         "coordinates": {
-          "lat": 47.5154811,
-          "lng": 8.545547299999999
+          "lat": 47.3700251,
+          "lng": 8.6432004
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-buelach.ch/schuleinheit-schwerzgrueb/schule/",
-      "lastName": "Homberger",
-      "schoolId": "V14evtFRJPOBNUc1THVERstQmXC3",
-      "firstName": "Michael",
-      "schoolName": "Primarschule Schwerzgrueb",
-      "phoneNumber": "0448631622",
-      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "website": "www.schulefaellanden.ch",
+      "lastName": "Savva-Galli",
+      "schoolId": "Bm2S1Kuq8QNLVvegSmwBR4fT1Lv2",
+      "firstName": "Andrea",
+      "schoolName": "Primarschule Lätten",
+      "phoneNumber": "043 355 36 49 / 043 355 36 55",
+      "organisationId": "jjTZLJweUGp7yAr8AxJC",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
+      "numberOfStudents": 24,
+      "additionalInformation": ""
     },
     "startAsOfNow": false,
     "startTimestamp": 1795132800000,
     "subjects": [
-      "german",
-      "english",
       "mathematics",
-      "sports"
+      "natureHumanSociety",
+      "religionsCulturesEthics"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -70,15 +68,165 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "fridayMorning",
-      "fridayAfternoon"
+      "fridayMorning"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M7TJXGDE5P3MPFTR50JKKK0B",
+    "additionalInformation": "Das erwartet Sie bei uns:\\n\\n• engagiertes, offenes und hilfsbereites Team\\n• modernes Schulzimmer mit Gruppenraum\\n• https://www.schule.stallikon.ch/aktuelles/schul-abc/imagefilm.html/736",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795114844590,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "mixedAgeLearning",
+      "firstClass",
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795114844590,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 11,
+    "publishTimestamp": 1795114844590,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "vikariate.stallikon@schule-stallikon.ch",
+      "address": {
+        "city": "Stallikon",
+        "canton": "zurich",
+        "street": "Massholderenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8143,
+        "streetNr": "3",
+        "coordinates": {
+          "lat": 47.33966059999999,
+          "lng": 8.4874437
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule.stallikon.ch/",
+      "lastName": "Stallikon",
+      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
+      "firstName": "Schule",
+      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
+      "phoneNumber": "044 552 62 15",
+      "organisationId": "bHqcQAYtlvghgg50ASbW",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Assistenz und Schulische Heilpädagogin anwesend, teilweise Halbklassenunterricht"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795392000000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "natureHumanSociety",
+      "german",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M7TGN1WKRPG2YZDPYRJE1XPF",
+    "additionalInformation": "Mo & Di Vormittag",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795112470419,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795478400000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795112470419,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 8,
+    "publishTimestamp": 1795112470419,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "sabrina.montilla@primarschule-uster.ch",
+      "address": {
+        "city": "Uster",
+        "canton": "zurich",
+        "street": "Zürichstrasse",
+        "country": "CH",
+        "zipCode": 8610,
+        "streetNr": "33",
+        "coordinates": {
+          "lat": 47.3521592,
+          "lng": 8.708128799999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.primarschule-uster.ch/kraemeracker/2212",
+      "lastName": "Montilla",
+      "schoolId": "5ocaWOrIwLN0XFdPxI7ru4SsFqH3",
+      "firstName": "Sabrina",
+      "schoolName": "Primarschule Krämeracker",
+      "phoneNumber": "+41762501387",
+      "organisationId": "01K7E8BYNX6GNQ26RV29PBNBX5",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795392000000,
+    "subjects": [
+      "mathematics",
+      "natureHumanSociety",
+      "german"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning"
+    ],
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M7T6R4RY1TD66V8E9MWTD4PS",
     "additionalInformation": "",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "cgWbP3eHu7TCIfMPzdrUG8nvXK73"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -142,86 +290,14 @@
     "workingBlocks": [
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M7T0RP6C45YAS15QK0XDDBD6",
-    "additionalInformation": "Zwei Lektionen TTG für eine 4. Klasse. Der Unterricht ist vorbereitet. ",
-    "affectedTeacherIds": [
-      "M3CLuFhe3YW0pvmE7XsZblASR6r1",
-      "KNEus1X9YQSNfyOZNETRbr7jDLU2",
-      "EHyYj1zS48WvJDc2nH5lYxKg1ek1",
-      "3GAZhbo48kN2QbQNBukHNGrVZXs1"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795095812300,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795478400000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795095812300,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 2,
-    "publishTimestamp": 1795095812300,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "alexandra.boeni@schule-eglisau.ch",
-      "address": {
-        "city": "Eglisau",
-        "canton": "zurich",
-        "street": "Obergass",
-        "country": "CH",
-        "zipCode": 8193,
-        "streetNr": "57",
-        "coordinates": {
-          "lat": 47.5756372,
-          "lng": 8.526091599999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-eglisau.ch",
-      "lastName": "Böni",
-      "schoolId": "yj3359TXBtUWfL3OGLdVViz1IdI2",
-      "firstName": "Alexandra",
-      "schoolName": "Primarschule Städtli ",
-      "phoneNumber": "0799446725",
-      "organisationId": "nwpBXA3iskblFPfZsbgM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 11,
-      "additionalInformation": "Halbklasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795478400000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M7SVNA17QM7ZZ34TXTFEGDR7",
     "additionalInformation": "Der Unterricht findet im TTG-Zimmer oder im Werkraum und in Halbklassen statt. Ein Lehrdiplom ist erwünscht, wir berücksichtigen nach Möglichkeit jedoch auch Studierende mit TTG im Profil (abgeschlossenes Basisjahr zwingend).",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "JZzJ81rQGzcNA8hyFIgBdqO6BBD3"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -285,7 +361,7 @@
     "workingBlocks": [
       "wednesdayMorning"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M7SAZ0WG2C8424KH1CZFKE33",
@@ -751,7 +827,9 @@
   {
     "id": "01M7G534AQ442HC0D4449ZZCW1",
     "additionalInformation": "Der Einsatz ist von Januar bis zu den Sommerferien 2027 vorgesehen. Auch ein kürzerer Einsatz von Januar bis zu den Frühlingsferien oder von den Frühlingsferien bis zu den Sommerferien ist möglich.\\n\\nWir freuen uns auf deine Kontaktaufnahme!",
-    "affectedTeacherIds": [],
+    "affectedTeacherIds": [
+      "1l586w0DfuavEPuiZ6v1ovszHGm2"
+    ],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -818,7 +896,7 @@
     "workingBlocks": [
       "mondayMorning"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M7A91455AGGF2FYQNSZG79EZ",
@@ -1464,90 +1542,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M6ZM6RVT7YB8W769TEM2VMAM",
-    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden und 12 SHP Lektionen pro Woche unterstützt. \\nGesamtes Vikariat: 4.1.27-16.7.27. Es kann auch das gesamte Vikariat übernommen werden oder Quartalsweise (4.1.27-19.2.27 / 8.3.27-23.4.27 / 10.5.27-16.7.27).\\nWir freuen uns auf deine Kontaktaufnahme.",
-    "affectedTeacherIds": [
-      "aAUpnu7f8xU7eQfQ9isFfEb3HFD2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794210227066,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1808438400000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794210227066,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1794210227066,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "susann.blesi@imwidmer.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Widmerstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.2893895,
-          "lng": 8.540627299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch/schuleinheit/3248",
-      "lastName": "Blesi",
-      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
-      "firstName": "Susann",
-      "schoolName": " Schulhaus Im Widmer",
-      "phoneNumber": "+41762971131",
-      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1804464000000,
-    "subjects": [
-      "sports",
-      "mathematics",
-      "french",
-      "german",
-      "mediaAndComputerScience",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M6ZM6RVT7YB8W769TEM2VMAM/timeTables/f6423744-73eb-43a5-af67-556fc9825beb.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
   }
 ]
