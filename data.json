@@ -1,5 +1,380 @@
 [
   {
+    "id": "01M7WMQFNY7TQBECH0ZMJ1S44N",
+    "additionalInformation": "Wir sind ein hilfsbereites Team und unterstützen dich gerne!",
+    "affectedTeacherIds": [
+      "D59ESHim0kRTOyE1m3iSgNuMCrC2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795183853246,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795996800000,
+    "grades": [
+      "mixedAgeLearning",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795183853246,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 10,
+    "publishTimestamp": 1795183853246,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "kristina.nabold@schule-maur.ch",
+      "address": {
+        "city": "Maur",
+        "canton": "zurich",
+        "street": "Zürichstrasse ",
+        "country": "CH",
+        "zipCode": 8124,
+        "streetNr": "12",
+        "coordinates": {
+          "lat": 47.34062979999999,
+          "lng": 8.6671598
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule-maur.ch",
+      "lastName": "Nabold",
+      "schoolId": "01KFFXRXQHCC5RP5ASG3QVPGXW",
+      "firstName": "Kristina",
+      "schoolName": "Schulhaus Pünt",
+      "phoneNumber": "043 366 01 47",
+      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Folgende Klassengrössen hast du:\\n5a: 8 SuS\\n6a: 10 SuS\\n5b: 6 SuS\\n6b: 14 SuS"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795392000000,
+    "subjects": [
+      "french"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M7WMQFNY7TQBECH0ZMJ1S44N/timeTables/ff360a4a-4a48-4681-88da-67e39b669e92.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M7W6WN55DFZC1WR22M6R05KH",
+    "additionalInformation": "4L -- 10-12 und 13.30 -15.15",
+    "affectedTeacherIds": [
+      "LlzdBUMf77MbiIYPNiXxSHcoo7p1",
+      "7hYJKzmYSpbGTAmnz1LbojhsuE72",
+      "qrYppxxtw6ObB6a4zwxKpx9e5b43",
+      "a6f8DW7tPXMXVE4KpappZAPaTON2",
+      "JjhMZf6peXcxE3lEljwzSj38vnu1",
+      "1l586w0DfuavEPuiZ6v1ovszHGm2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795169342629,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795392000000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795169342629,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1795169342629,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "seraina.vils@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Zurlindenstrasse /Zentralstrasse",
+        "country": "CH",
+        "zipCode": 8003,
+        "streetNr": "137105",
+        "coordinates": {
+          "lat": 47.3731647,
+          "lng": 8.5166742
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/zurlinden.html",
+      "lastName": "Vils/Fluri",
+      "schoolId": "3EqSD37W2RYEmgNX96EoVvEFEYn2",
+      "firstName": "Seraina/Ladina",
+      "schoolName": "Schule Zurlinden",
+      "phoneNumber": "044 413 19 91 / 90 /97",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": "sehr gut mit öV erreichbarStationen in der Nähe: Lochergut (3,2), Zwinglihaus (72,33), Bahnhof Wiedikon (S-Bahn, Postauto), Schmiede Wiedikon/Goldbrunnenplatz (9,14,67, Postauto)"
+    },
+    "schoolClass": {
+      "numberOfStudents": 17,
+      "additionalInformation": "Es handelt sich um Unterricht an einer 3.Klasse. Die Lehrperson ist aufgrund eines internationalen Projektes nicht vor Ort."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795392000000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "natureAndTechnology"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 4
+  },
+  {
+    "id": "01M7W6QQ4789JHW565NPH9K2Q1",
+    "additionalInformation": "Lehrdiplom zwingend/Abschluss als SHP oder Abschluss am erlangen/Unterrichtstage nach Absprache\\nUnterstützung und Begleitung eines Kindes mit speziellen Bedürfnissen im ISR-Setting\\nZusammenarbeit mit der Klassenlehrperson\\nAustausch mit anderen SHP's der Schule",
+    "affectedTeacherIds": [
+      "LlzdBUMf77MbiIYPNiXxSHcoo7p1",
+      "ZnwZ6k3cLrOXxaEgtVUYYctBo7g1"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795169180807,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolled",
+    "modifiedTimestamp": 1795169180807,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 7,
+    "publishTimestamp": 1795169180807,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "cornelia.voltzenlogel@psog.ch",
+      "address": {
+        "city": "Geroldswil",
+        "canton": "zurich",
+        "street": "Poststrasse ",
+        "country": "CH",
+        "zipCode": 8954,
+        "streetNr": "14b",
+        "coordinates": {
+          "lat": 47.4232941,
+          "lng": 8.409260999999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.psog.ch",
+      "lastName": "Voltzenlogel",
+      "schoolId": "4lWXKMa9ADS0sAQ5ivgC1wcBw0z1",
+      "firstName": "Cornelia",
+      "schoolName": "Huebwies",
+      "phoneNumber": "+41793720820",
+      "organisationId": "6GXyw9tp35G3iWdPNx7M",
+      "directionInformation": "Das Schulhaus liegt im Zentrum von Geroldswil und ist sehr gut mit dem ÖV erreichbar. Parkplätze sind im Quartier vorhanden."
+    },
+    "schoolClass": {
+      "numberOfStudents": 1,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": true,
+    "startTimestamp": 1795132800000,
+    "subjects": [
+      "if"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M7W6QQ4789JHW565NPH9K2Q1/timeTables/f61db90f-e524-46cb-abe8-5f15c6f32db3.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M7W1J24215RKMXBC6KQSJVS8",
+    "additionalInformation": "Stellvertretung SuS Rat",
+    "affectedTeacherIds": [
+      "cgWbP3eHu7TCIfMPzdrUG8nvXK73",
+      "NmIjhGlYVzeTifXFdJYhxwnCyt13"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795163752578,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795392000000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795163752578,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 2,
+    "publishTimestamp": 1795163752578,
+    "role": "subject",
+    "school": {
+      "logo": {
+        "logoUrl": "public_schools/wSx7qcAezkUUobMGtuZhQObjpXp2/logos/5902633c-3865-4cb2-a21e-1f2b7580f29f.jpg",
+        "blurhash": "LfONB[xu~q?bxuWBj[t7~qWBt7WB",
+        "cloudflareId": "school:wSx7qcAezkUUobMGtuZhQObjpXp2:5902633c-3865-4cb2-a21e-1f2b7580f29f.jpg"
+      },
+      "email": "lucienne.guertner@schulethalwil.ch",
+      "address": {
+        "city": "Thalwil",
+        "canton": "zurich",
+        "street": "Alte Landstrasse ",
+        "country": "CH",
+        "zipCode": 8800,
+        "streetNr": "124/148",
+        "coordinates": {
+          "lat": 47.29344890000001,
+          "lng": 8.5646899
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulethalwil.ch/ludretikon-schwandel/unsere-schule/aktuelles/p-135/",
+      "lastName": "Gürtner",
+      "schoolId": "wSx7qcAezkUUobMGtuZhQObjpXp2",
+      "firstName": "Lucienne",
+      "schoolName": "Ludretikon-Schwandel",
+      "phoneNumber": "044 723 25 53",
+      "organisationId": "YKAK9aP7js7r4VTR4hFd",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795392000000,
+    "subjects": [
+      "english",
+      "german"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M7W1J24215RKMXBC6KQSJVS8/timeTables/f079dffd-743c-45ac-b34b-efbb4675f952.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M7VQM5GCEP6TVGX56M2R4F36",
+    "additionalInformation": "Unterricht von 8-12h, Förderlehrpersonen und Assistenz mit anwesend",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795153335820,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795132800000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795153335820,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1795153335820,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "annemarie.rueegg@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Maneggstrasse ",
+        "country": "Schweiz",
+        "zipCode": 8041,
+        "streetNr": "51",
+        "coordinates": {
+          "lat": 47.34052639999999,
+          "lng": 8.5202493
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/content/schulen/de/allmend.html",
+      "lastName": "Rüegg",
+      "schoolId": "uTpgTnYMEWNKkOAWc1oMUjum0Pn1",
+      "firstName": "Annemarie ",
+      "schoolName": "Schule Allmend",
+      "phoneNumber": "079 753 61 46",
+      "organisationId": "LeGHxqCB4JoJlvIDlNvQ",
+      "directionInformation": "Standorte siehe unter dem nachstehenden link: https://www.stadt-zuerich.ch/schulen/de/allmend/ueberuns/standorte.html"
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795132800000,
+    "subjects": [
+      "german",
+      "english",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M7TMGZ6AG8HR13FH5KJMYEKT",
     "additionalInformation": "",
     "affectedTeacherIds": [
@@ -73,159 +448,11 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M7TJXGDE5P3MPFTR50JKKK0B",
-    "additionalInformation": "Das erwartet Sie bei uns:\\n\\n• engagiertes, offenes und hilfsbereites Team\\n• modernes Schulzimmer mit Gruppenraum\\n• https://www.schule.stallikon.ch/aktuelles/schul-abc/imagefilm.html/736",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795114844590,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "mixedAgeLearning",
-      "firstClass",
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795114844590,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 11,
-    "publishTimestamp": 1795114844590,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "vikariate.stallikon@schule-stallikon.ch",
-      "address": {
-        "city": "Stallikon",
-        "canton": "zurich",
-        "street": "Massholderenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8143,
-        "streetNr": "3",
-        "coordinates": {
-          "lat": 47.33966059999999,
-          "lng": 8.4874437
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule.stallikon.ch/",
-      "lastName": "Stallikon",
-      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
-      "firstName": "Schule",
-      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
-      "phoneNumber": "044 552 62 15",
-      "organisationId": "bHqcQAYtlvghgg50ASbW",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Assistenz und Schulische Heilpädagogin anwesend, teilweise Halbklassenunterricht"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795392000000,
-    "subjects": [
-      "sports",
-      "mathematics",
-      "natureHumanSociety",
-      "german",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M7TGN1WKRPG2YZDPYRJE1XPF",
-    "additionalInformation": "Mo & Di Vormittag",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795112470419,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795478400000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795112470419,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 8,
-    "publishTimestamp": 1795112470419,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sabrina.montilla@primarschule-uster.ch",
-      "address": {
-        "city": "Uster",
-        "canton": "zurich",
-        "street": "Zürichstrasse",
-        "country": "CH",
-        "zipCode": 8610,
-        "streetNr": "33",
-        "coordinates": {
-          "lat": 47.3521592,
-          "lng": 8.708128799999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.primarschule-uster.ch/kraemeracker/2212",
-      "lastName": "Montilla",
-      "schoolId": "5ocaWOrIwLN0XFdPxI7ru4SsFqH3",
-      "firstName": "Sabrina",
-      "schoolName": "Primarschule Krämeracker",
-      "phoneNumber": "+41762501387",
-      "organisationId": "01K7E8BYNX6GNQ26RV29PBNBX5",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795392000000,
-    "subjects": [
-      "mathematics",
-      "natureHumanSociety",
-      "german"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
     "id": "01M7T6R4RY1TD66V8E9MWTD4PS",
     "additionalInformation": "",
     "affectedTeacherIds": [
-      "cgWbP3eHu7TCIfMPzdrUG8nvXK73"
+      "cgWbP3eHu7TCIfMPzdrUG8nvXK73",
+      "PhQMufDeVEOYDHK49tECPWmPMRg2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -290,7 +517,7 @@
     "workingBlocks": [
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M7SVNA17QM7ZZ34TXTFEGDR7",
@@ -362,222 +589,6 @@
       "wednesdayMorning"
     ],
     "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M7SAZ0WG2C8424KH1CZFKE33",
-    "additionalInformation": "",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795072951184,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1796083200000,
-    "grades": [
-      "forthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795072951184,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1795072951184,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "schulleitung@schule-kilchberg.ch",
-      "address": {
-        "city": "Kilchberg ZH",
-        "canton": "zurich",
-        "street": "Alte Landstrasse",
-        "country": "CH",
-        "zipCode": 8802,
-        "streetNr": "120",
-        "coordinates": {
-          "lat": 47.3237144,
-          "lng": 8.5449845
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-kilchberg.ch",
-      "lastName": "Kilchberg",
-      "schoolId": "IJ7PiaBuWfe3Q58QpyYgqkzq2lq2",
-      "firstName": "Schulleitung",
-      "schoolName": "Primarschule Kilchberg",
-      "phoneNumber": "0447163300",
-      "organisationId": "01K6MZ0TGMB1F9XQ62AH2YMHRW",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795392000000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M7S6AK1P5NQBJX9BP0ZJWRGH",
-    "additionalInformation": "",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795068087350,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795046400000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795068087350,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1795068087350,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "gabriel.terlemez@dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Schulleitung",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Steinmürli ",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1795046400000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "natureHumanSociety",
-      "sports",
-      "mediaAndComputerScience"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M7S6AK1P5NQBJX9BP0ZJWRGH/timeTables/6f2e9d7f-e5ea-432b-a020-f0ec433153ba.jpeg",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M7RYBHCNHCK082ZRV7T09E5T",
-    "additionalInformation": "vikariat, do, 19.11. vormittags 4wl förderung, 4 klasse b, bei interesse gerne melden ",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795059729813,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795046400000,
-    "grades": [
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795059729813,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1795059729813,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "annemarie.rueegg@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Maneggstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8041,
-        "streetNr": "51",
-        "coordinates": {
-          "lat": 47.34052639999999,
-          "lng": 8.5202493
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/content/schulen/de/allmend.html",
-      "lastName": "Rüegg",
-      "schoolId": "uTpgTnYMEWNKkOAWc1oMUjum0Pn1",
-      "firstName": "Annemarie ",
-      "schoolName": "Schule Allmend",
-      "phoneNumber": "079 753 61 46",
-      "organisationId": "LeGHxqCB4JoJlvIDlNvQ",
-      "directionInformation": "Standorte siehe unter dem nachstehenden link: https://www.stadt-zuerich.ch/schulen/de/allmend/ueberuns/standorte.html"
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795046400000,
-    "subjects": [
-      "otherSubject"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning"
-    ],
-    "numberOfOpenApplications": 0
   },
   {
     "id": "01M7Q47AENTKF1VD02ZF03HKX0",
@@ -1293,7 +1304,7 @@
   },
   {
     "id": "01M74RWA6BR4EJBZHTNRYRY202",
-    "additionalInformation": "Die KLP hat eine Operation und ist für 8 Wochen 100% krankgeschrieben. Danach wahrscheinlich nochmals für 4 Wochen 50%. Dies ist noch nicht ganz klar. Dieses Vikariat könnte von der gleichen Lehrperson übernommen werden. \\nDie 8 Wochen werden nicht unterteilt. \\nEs ist ein total tolles Vikariat in einem super Team. ",
+    "additionalInformation": "Die KLP hat eine Operation und ist für 8 Wochen 100% krankgeschrieben. Danach wahrscheinlich nochmals für 4 Wochen 50%. Dies ist noch nicht ganz klar. Dieses Vikariat könnte von der gleichen Lehrperson übernommen werden. Die 8 Wochen werden nicht unterteilt. Es ist ein total tolles Vikariat in einem super Unterrichts- und Schulteam. ",
     "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -1343,7 +1354,7 @@
     },
     "schoolClass": {
       "numberOfStudents": 22,
-      "additionalInformation": "Es hat 2 ISR-Kinder in der Klasse, die sehr gut in die Klasse integriert sind. Die Klasse ist sehr herzig, angenehm und gut geführt. Klare Führung und Strukturen natürlich erforderlich. "
+      "additionalInformation": "Es hat 2 ISR-Kinder in der Klasse, die sehr gut in die Klasse integriert sind. Die Klasse ist sehr herzig, angenehm und gut geführt. Klare Führung und Strukturen natürlich erforderlich. 24 WL Schulassistenz zur Unterstützung. Auch tolle SHP"
     },
     "startAsOfNow": false,
     "startTimestamp": 1799280000000,
