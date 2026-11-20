@@ -3,7 +3,8 @@
     "id": "01M7WMQFNY7TQBECH0ZMJ1S44N",
     "additionalInformation": "Wir sind ein hilfsbereites Team und unterstützen dich gerne!",
     "affectedTeacherIds": [
-      "D59ESHim0kRTOyE1m3iSgNuMCrC2"
+      "D59ESHim0kRTOyE1m3iSgNuMCrC2",
+      "jlkM6DYGgPb4PLWUnxIP9MMhflm1"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -73,86 +74,7 @@
       "mondayAfternoon",
       "thursdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M7W6WN55DFZC1WR22M6R05KH",
-    "additionalInformation": "4L -- 10-12 und 13.30 -15.15",
-    "affectedTeacherIds": [
-      "LlzdBUMf77MbiIYPNiXxSHcoo7p1",
-      "7hYJKzmYSpbGTAmnz1LbojhsuE72",
-      "qrYppxxtw6ObB6a4zwxKpx9e5b43",
-      "a6f8DW7tPXMXVE4KpappZAPaTON2",
-      "JjhMZf6peXcxE3lEljwzSj38vnu1",
-      "1l586w0DfuavEPuiZ6v1ovszHGm2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795169342629,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795392000000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795169342629,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1795169342629,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "seraina.vils@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Zurlindenstrasse /Zentralstrasse",
-        "country": "CH",
-        "zipCode": 8003,
-        "streetNr": "137105",
-        "coordinates": {
-          "lat": 47.3731647,
-          "lng": 8.5166742
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/zurlinden.html",
-      "lastName": "Vils/Fluri",
-      "schoolId": "3EqSD37W2RYEmgNX96EoVvEFEYn2",
-      "firstName": "Seraina/Ladina",
-      "schoolName": "Schule Zurlinden",
-      "phoneNumber": "044 413 19 91 / 90 /97",
-      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
-      "directionInformation": "sehr gut mit öV erreichbarStationen in der Nähe: Lochergut (3,2), Zwinglihaus (72,33), Bahnhof Wiedikon (S-Bahn, Postauto), Schmiede Wiedikon/Goldbrunnenplatz (9,14,67, Postauto)"
-    },
-    "schoolClass": {
-      "numberOfStudents": 17,
-      "additionalInformation": "Es handelt sich um Unterricht an einer 3.Klasse. Die Lehrperson ist aufgrund eines internationalen Projektes nicht vor Ort."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795392000000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "natureAndTechnology"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M7W6QQ4789JHW565NPH9K2Q1",
@@ -302,77 +224,6 @@
       "mondayMorning"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M7VQM5GCEP6TVGX56M2R4F36",
-    "additionalInformation": "Unterricht von 8-12h, Förderlehrpersonen und Assistenz mit anwesend",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795153335820,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795132800000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795153335820,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1795153335820,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "annemarie.rueegg@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Maneggstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8041,
-        "streetNr": "51",
-        "coordinates": {
-          "lat": 47.34052639999999,
-          "lng": 8.5202493
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/content/schulen/de/allmend.html",
-      "lastName": "Rüegg",
-      "schoolId": "uTpgTnYMEWNKkOAWc1oMUjum0Pn1",
-      "firstName": "Annemarie ",
-      "schoolName": "Schule Allmend",
-      "phoneNumber": "079 753 61 46",
-      "organisationId": "LeGHxqCB4JoJlvIDlNvQ",
-      "directionInformation": "Standorte siehe unter dem nachstehenden link: https://www.stadt-zuerich.ch/schulen/de/allmend/ueberuns/standorte.html"
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795132800000,
-    "subjects": [
-      "german",
-      "english",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "thursdayMorning"
-    ],
-    "numberOfOpenApplications": 0
   },
   {
     "id": "01M7TMGZ6AG8HR13FH5KJMYEKT",
@@ -1553,5 +1404,173 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M6ZM6RVT7YB8W769TEM2VMAM",
+    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden und 12 SHP Lektionen pro Woche unterstützt. \\nGesamtes Vikariat: 4.1.27-16.7.27. Es kann auch das gesamte Vikariat übernommen werden oder Quartalsweise (4.1.27-19.2.27 / 8.3.27-23.4.27 / 10.5.27-16.7.27).\\nWir freuen uns auf deine Kontaktaufnahme.",
+    "affectedTeacherIds": [
+      "aAUpnu7f8xU7eQfQ9isFfEb3HFD2"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1794210227066,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1808438400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794210227066,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1794210227066,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "susann.blesi@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "Blesi",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Susann",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41762971131",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1804464000000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "french",
+      "german",
+      "mediaAndComputerScience",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M6ZM6RVT7YB8W769TEM2VMAM/timeTables/f6423744-73eb-43a5-af67-556fc9825beb.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M6ZM0SQNB1YZHT2AXMWT8VPT",
+    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden und einer SHP während 12 Lektionen pro Woche unterstützt. \\nGesamtes Vikariat: 4.1.27-16.7.27. Es kann auch das gesamte Vikariat übernommen werden oder Quartalsweise (4.1.27-19.2.27 / 8.3.27-23.4.27 / 10.5.27-16.7.27).\\nWir freuen uns auf deine Kontaktaufnahme.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1794210031349,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1802995200000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1794210031349,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1794210031349,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "susann.blesi@imwidmer.ch",
+      "address": {
+        "city": "Langnau am Albis",
+        "canton": "zurich",
+        "street": "Widmerstrasse",
+        "country": "CH",
+        "zipCode": 8135,
+        "streetNr": "6",
+        "coordinates": {
+          "lat": 47.2893895,
+          "lng": 8.540627299999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulelangnau.ch/schuleinheit/3248",
+      "lastName": "Blesi",
+      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
+      "firstName": "Susann",
+      "schoolName": " Schulhaus Im Widmer",
+      "phoneNumber": "+41762971131",
+      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "french",
+      "german",
+      "mediaAndComputerScience",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M6ZM0SQNB1YZHT2AXMWT8VPT/timeTables/403e2e65-6244-46ab-b40c-029b934e3411.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
   }
 ]
