@@ -1,52 +1,53 @@
 [
   {
-    "id": "01M81V8BW3X3TP50TMPRQJS058",
-    "additionalInformation": "Fächer können allenfalls auch angepasst werden.",
+    "id": "01M82E2EFN2MRMWEHNC7CFTE3V",
+    "additionalInformation": "",
     "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1795358470019,
+    "createdTimestamp": 1795378199029,
     "curriculum": "lehrplan21",
     "endTimestamp": 1795392000000,
     "grades": [
-      "sixthClass"
+      "thirdClass",
+      "forthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795358470019,
-    "partialTakeoverPossible": true,
+    "modifiedTimestamp": 1795378199029,
+    "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 6,
-    "publishTimestamp": 1795358470019,
-    "role": "class",
+    "pensum": 3,
+    "publishTimestamp": 1795378199029,
+    "role": "subject",
     "school": {
       "logo": null,
-      "email": "oliver.engeler@edurichti.ch",
+      "email": "vikariate.stallikon@schule-stallikon.ch",
       "address": {
-        "city": "Richterswil",
+        "city": "Stallikon",
         "canton": "zurich",
-        "street": "Burghaldenstrasse",
-        "country": "CH",
-        "zipCode": 8805,
-        "streetNr": "15",
+        "street": "Massholderenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8143,
+        "streetNr": "3",
         "coordinates": {
-          "lat": 47.2090225,
-          "lng": 8.699912
+          "lat": 47.33966059999999,
+          "lng": 8.4874437
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule-richterswil-samstagern.ch/",
-      "lastName": "Engeler",
-      "schoolId": "YB7z2WEZ5NWfxTV27uX9rPq1ujC2",
-      "firstName": "Oliver",
-      "schoolName": "Schuleinheit Dorf",
-      "phoneNumber": "0784119031",
-      "organisationId": "n9uydwif8tvlhCx7ksUq",
+      "website": "https://www.schule.stallikon.ch/",
+      "lastName": "Stallikon",
+      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
+      "firstName": "Schule",
+      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
+      "phoneNumber": "044 552 62 15",
+      "organisationId": "bHqcQAYtlvghgg50ASbW",
       "directionInformation": ""
     },
     "schoolClass": {
@@ -56,18 +57,171 @@
     "startAsOfNow": false,
     "startTimestamp": 1795392000000,
     "subjects": [
-      "german",
-      "mathematics",
-      "music"
+      "if",
+      "issIsr",
+      "otherSubject"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01M81V8BW3X3TP50TMPRQJS058/timeTables/7eca8a63-aab7-45c0-9b10-fc65d385b360.pdf",
+    "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
-      "mondayMorning",
       "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M824H1ETKPVZRJM5QK86X38E",
+    "additionalInformation": "Hilfsbereites Team\\nUnterricht von 08:20 - 11:55 und von 13:45 - 15:25",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795368191450,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795478400000,
+    "grades": [
+      "mixedAgeLearning"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795368191450,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1795368191450,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "kristina.nabold@schule-maur.ch",
+      "address": {
+        "city": "Maur",
+        "canton": "zurich",
+        "street": "Zürichstrasse ",
+        "country": "CH",
+        "zipCode": 8124,
+        "streetNr": "12",
+        "coordinates": {
+          "lat": 47.34062979999999,
+          "lng": 8.6671598
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule-maur.ch",
+      "lastName": "Nabold",
+      "schoolId": "01KFFXRXQHCC5RP5ASG3QVPGXW",
+      "firstName": "Kristina",
+      "schoolName": "Schulhaus Pünt",
+      "phoneNumber": "043 366 01 47",
+      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 21,
+      "additionalInformation": "Unterstützung durch Schulassisenz und SHP"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795478400000,
+    "subjects": [
+      "german",
+      "music",
+      "mathematics",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M81WV0SP448JJSJEWH77S699",
+    "additionalInformation": "Mutterschaftsvertretung ab Januar. Nach Möglichkeit kann man bereits im Dezember einen Teil übernehmen - zudem könnte man den Freitag-Nachmittag (Sportunterricht) zusätzlich übernehmen. Aktuell ist noch eine Pensenerhöhung um 4 TT-Lektionen pendent - diese Lektionen würden am Donnerstag-Vormittag stattfinden. ",
+    "affectedTeacherIds": [
+      "mSVAAyOX7MbEgaL70jqlkl0yOcn1"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795360129846,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "mixedAgeLearning",
+      "firstClass",
+      "secondClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795360129846,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 16,
+    "publishTimestamp": 1795360476113,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "mauro.disch@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Basteiplatz",
+        "country": "CH",
+        "zipCode": 8001,
+        "streetNr": "11",
+        "coordinates": {
+          "lat": 47.3701435,
+          "lng": 8.5351422
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/schanzengraben.html",
+      "lastName": "Disch",
+      "schoolId": "01M81W8YEWHSPH5YD0GX92SED4",
+      "firstName": "Mauro",
+      "schoolName": "Schulhaus Schanzengraben",
+      "phoneNumber": "0792854972",
+      "organisationId": "01M81W8YER7RZTG35QQPFW8HPR",
+      "directionInformation": "Wir befinden uns mitten in der Stadt Zürich. Es stehen lediglich 4 Parkplätze gegen Gebühr zur Verfügung. Eine Anreise mit den Öffentlichen Verkehrsmittel und/oder dem Fahrrad wird empfohlen. "
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "In der Klasse hat es einige verhaltenskreative SuS - ein gutes Classroom-Management ist Voraussetzung für die Übernahme von dieser Vertretung. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "natureHumanSociety",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
     ],
     "numberOfOpenApplications": 0
   },
@@ -148,7 +302,7 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 0
   },
   {
     "id": "01M7YZTXBJ9QQP4PHGFPSX9918",
@@ -307,7 +461,8 @@
     "additionalInformation": "Lehrdiplom zwingend/Abschluss als SHP oder Abschluss am erlangen/Unterrichtstage nach Absprache\\nUnterstützung und Begleitung eines Kindes mit speziellen Bedürfnissen im ISR-Setting\\nZusammenarbeit mit der Klassenlehrperson\\nAustausch mit anderen SHP's der Schule",
     "affectedTeacherIds": [
       "LlzdBUMf77MbiIYPNiXxSHcoo7p1",
-      "ZnwZ6k3cLrOXxaEgtVUYYctBo7g1"
+      "ZnwZ6k3cLrOXxaEgtVUYYctBo7g1",
+      "E8WLkEVLK0YTI8KZHhMryUTeiGb2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -372,7 +527,7 @@
     "workingBlocks": [
       "mondayMorning"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M7W1J24215RKMXBC6KQSJVS8",
@@ -456,7 +611,8 @@
     "additionalInformation": "",
     "affectedTeacherIds": [
       "cgWbP3eHu7TCIfMPzdrUG8nvXK73",
-      "PhQMufDeVEOYDHK49tECPWmPMRg2"
+      "PhQMufDeVEOYDHK49tECPWmPMRg2",
+      "PTIgtP5vL5N7sM8LnF2UDTRGpGm2"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -521,7 +677,7 @@
     "workingBlocks": [
       "mondayAfternoon"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M7SVNA17QM7ZZ34TXTFEGDR7",
@@ -1399,173 +1555,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M6ZM6RVT7YB8W769TEM2VMAM",
-    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden und 12 SHP Lektionen pro Woche unterstützt. \\nGesamtes Vikariat: 4.1.27-16.7.27. Es kann auch das gesamte Vikariat übernommen werden oder Quartalsweise (4.1.27-19.2.27 / 8.3.27-23.4.27 / 10.5.27-16.7.27).\\nWir freuen uns auf deine Kontaktaufnahme.",
-    "affectedTeacherIds": [
-      "aAUpnu7f8xU7eQfQ9isFfEb3HFD2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794210227066,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1808438400000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794210227066,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1794210227066,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "susann.blesi@imwidmer.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Widmerstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.2893895,
-          "lng": 8.540627299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch/schuleinheit/3248",
-      "lastName": "Blesi",
-      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
-      "firstName": "Susann",
-      "schoolName": " Schulhaus Im Widmer",
-      "phoneNumber": "+41762971131",
-      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1804464000000,
-    "subjects": [
-      "sports",
-      "mathematics",
-      "french",
-      "german",
-      "mediaAndComputerScience",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M6ZM6RVT7YB8W769TEM2VMAM/timeTables/f6423744-73eb-43a5-af67-556fc9825beb.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M6ZM0SQNB1YZHT2AXMWT8VPT",
-    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden und einer SHP während 12 Lektionen pro Woche unterstützt. \\nGesamtes Vikariat: 4.1.27-16.7.27. Es kann auch das gesamte Vikariat übernommen werden oder Quartalsweise (4.1.27-19.2.27 / 8.3.27-23.4.27 / 10.5.27-16.7.27).\\nWir freuen uns auf deine Kontaktaufnahme.",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794210031349,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1802995200000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794210031349,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1794210031349,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "susann.blesi@imwidmer.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Widmerstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.2893895,
-          "lng": 8.540627299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch/schuleinheit/3248",
-      "lastName": "Blesi",
-      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
-      "firstName": "Susann",
-      "schoolName": " Schulhaus Im Widmer",
-      "phoneNumber": "+41762971131",
-      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "sports",
-      "mathematics",
-      "french",
-      "german",
-      "mediaAndComputerScience",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M6ZM0SQNB1YZHT2AXMWT8VPT/timeTables/403e2e65-6244-46ab-b40c-029b934e3411.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
   }
 ]
