@@ -1,5 +1,156 @@
 [
   {
+    "id": "01M81V8BW3X3TP50TMPRQJS058",
+    "additionalInformation": "Fächer können allenfalls auch angepasst werden.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795358470019,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795392000000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795358470019,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1795358470019,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "oliver.engeler@edurichti.ch",
+      "address": {
+        "city": "Richterswil",
+        "canton": "zurich",
+        "street": "Burghaldenstrasse",
+        "country": "CH",
+        "zipCode": 8805,
+        "streetNr": "15",
+        "coordinates": {
+          "lat": 47.2090225,
+          "lng": 8.699912
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-richterswil-samstagern.ch/",
+      "lastName": "Engeler",
+      "schoolId": "YB7z2WEZ5NWfxTV27uX9rPq1ujC2",
+      "firstName": "Oliver",
+      "schoolName": "Schuleinheit Dorf",
+      "phoneNumber": "0784119031",
+      "organisationId": "n9uydwif8tvlhCx7ksUq",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795392000000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "music"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M81V8BW3X3TP50TMPRQJS058/timeTables/7eca8a63-aab7-45c0-9b10-fc65d385b360.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "mondayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M81EQ6T6CN9X6MM4EZ0KPPDY",
+    "additionalInformation": "",
+    "affectedTeacherIds": [
+      "KnHIXSwi3vSatrR4220LIwBSDLE3"
+    ],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795345324870,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795478400000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795345324870,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1795345324870,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "cala.bodmer@schulemeilen.ch",
+      "address": {
+        "city": "Meilen",
+        "canton": "zurich",
+        "street": "Bergstrasse ",
+        "country": "CH",
+        "zipCode": 8706,
+        "streetNr": "120",
+        "coordinates": {
+          "lat": 47.267729,
+          "lng": 8.6569827
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulemeilen.ch",
+      "lastName": "Bodmer",
+      "schoolId": "S3mnYKK43cWcjGbhrN5mM3x1YuW2",
+      "firstName": "Cala",
+      "schoolName": "Schule Obermeilen",
+      "phoneNumber": "044 925 54 31, 076 385 29 86",
+      "organisationId": "7XBa2ubGpMVvlQ1NrrdK",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": "Teiweise ist als Unterstützung mit im Klassenzimmer eine SHP und eine Schulassistentin. "
+    },
+    "startAsOfNow": true,
+    "startTimestamp": 1795305600000,
+    "subjects": [
+      "german",
+      "music",
+      "mathematics",
+      "sports",
+      "fineArts",
+      "natureHumanSociety"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M81EQ6T6CN9X6MM4EZ0KPPDY/timeTables/8ac21a94-4e26-4e22-aa04-47a13aff88dc.png",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
     "id": "01M7YZTXBJ9QQP4PHGFPSX9918",
     "additionalInformation": "Jeden Morgen Start um 7.30h, am Di noch Aufgabenstunde von 15.00-15.30h mit der selben Klasse.\\n\\nWeitere Infos gerne via Mail oder Telefon.\\n\\nAllenfalls Verlängerung möglich. ",
     "affectedTeacherIds": [],
@@ -90,7 +241,7 @@
     "closedReasonDetail": null,
     "createdTimestamp": 1795183853246,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1795996800000,
+    "endTimestamp": 1795564800000,
     "grades": [
       "mixedAgeLearning",
       "fifthClass",
@@ -101,10 +252,10 @@
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1795183853246,
-    "partialTakeoverPossible": true,
+    "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 10,
+    "pensum": 4,
     "publishTimestamp": 1795183853246,
     "role": "subject",
     "school": {
@@ -137,20 +288,17 @@
       "additionalInformation": "Folgende Klassengrössen hast du:\\n5a: 8 SuS\\n6a: 10 SuS\\n5b: 6 SuS\\n6b: 14 SuS"
     },
     "startAsOfNow": false,
-    "startTimestamp": 1795392000000,
+    "startTimestamp": 1795564800000,
     "subjects": [
       "french"
     ],
     "teachingLanguages": [
       "de-CH"
     ],
-    "timeTableRef": "vacancies/01M7WMQFNY7TQBECH0ZMJ1S44N/timeTables/ff360a4a-4a48-4681-88da-67e39b669e92.pdf",
+    "timeTableRef": "vacancies/01M7WMQFNY7TQBECH0ZMJ1S44N/timeTables/65cbb3c9-3b9d-45f8-9ecf-4f5a19b77e54.pdf",
     "vacancyType": "short",
     "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "mondayAfternoon",
-      "thursdayAfternoon"
+      "wednesdayMorning"
     ],
     "numberOfOpenApplications": 2
   },
@@ -536,7 +684,8 @@
     "id": "01M7MPKY541VSBTS8DBRVN6FPB",
     "additionalInformation": "Wir suchen eine Vertretung für einen Mutterschaftsurlaub.",
     "affectedTeacherIds": [
-      "LlzdBUMf77MbiIYPNiXxSHcoo7p1"
+      "LlzdBUMf77MbiIYPNiXxSHcoo7p1",
+      "D8WVCN29htQLj3oYR5o39ZJ1HzJ3"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -609,7 +758,7 @@
       "mondayAfternoon",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M7MG59KG9FDX3NYBBARRH2GF",
@@ -850,7 +999,8 @@
       "5S9815QIDMfTKfJi9K3Qz8CsAng1",
       "hLyO3rIPaUaSaAjuhK3FGkfYAUz1",
       "YxvvBltScha404XUS77kzTMrHcs1",
-      "000rcHwQWtbOMLM4VCsF74XZj5q1"
+      "000rcHwQWtbOMLM4VCsF74XZj5q1",
+      "8n0fJWHUzBdOUK6CAdPc7voNvtA3"
     ],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -919,7 +1069,7 @@
       "fridayMorning",
       "fridayAfternoon"
     ],
-    "numberOfOpenApplications": 1
+    "numberOfOpenApplications": 2
   },
   {
     "id": "01M7505GXZH5FVQSG2EE4JXZ1P",
@@ -1414,171 +1564,6 @@
       "mondayAfternoon",
       "tuesdayAfternoon",
       "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M6NZFX37QCY6GJJJ5XFSCHCY",
-    "additionalInformation": "Die jetzige Lehrperson befindet sich ab Ende Januar/Anfang Februar im Mutterschaftsurlaub bis Juli 2027. Bei Eignung und Interesse kann die Stelle ab August 2027 allenfalls übernommen werden.",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1793886516327,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815696000000,
-    "grades": [
-      "secondClass",
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1793886516327,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1793886516327,
-    "role": "currative",
-    "school": {
-      "logo": null,
-      "email": "schulleitung@primarschule-bonstetten.ch",
-      "address": {
-        "city": "Bonstetten",
-        "canton": "zurich",
-        "street": "Schachenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8906,
-        "streetNr": "85",
-        "coordinates": {
-          "lat": 47.32174639999999,
-          "lng": 8.4719155
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.primarschule-bonstetten.ch",
-      "lastName": "Vetsch",
-      "schoolId": "3yhdbLR6lXgAhgHp8G9bjXUJ1ZH2",
-      "firstName": "Mei-Zie",
-      "schoolName": "Primarschule Bonstetten",
-      "phoneNumber": "+41794308868",
-      "organisationId": "fb5WGusK5CqqBjKFma2a",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": "Die momentane SHP hat alle 27 Lektionen an drei Unterstufenklassen, inklusive ISR - Settings. Dies macht die Stelle sehr attraktiv."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1801180800000,
-    "subjects": [
-      "giftedEducation",
-      "if",
-      "issIsr"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M6NQX0AJ048FDMZ9FFW090PZ",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "C9P3of9q2PS1O2zF4SFD1xC0HVV2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1793878557010,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1814486400000,
-    "grades": [
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1793878557010,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 26,
-    "publishTimestamp": 1793878557010,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "flurina.derungs@primarschule-uster.ch",
-      "address": {
-        "city": "Uster",
-        "canton": "zurich",
-        "street": "Gschwaderstrasse",
-        "country": "CH",
-        "zipCode": 8610,
-        "streetNr": "70",
-        "coordinates": {
-          "lat": 47.3608038,
-          "lng": 8.716761
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.primarschule-uster.ch/gschwader/2636",
-      "lastName": "Derungs",
-      "schoolId": "szQB1Z6J6HZMybzDl94Po5Bmrqc2",
-      "firstName": "Flurina",
-      "schoolName": "Gschwader",
-      "phoneNumber": "044 994 15 02",
-      "organisationId": "01K9C93F2HS777MGQ84870A1XN",
-      "directionInformation": "Bus vom Bahnhof Uster"
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": "tolle 1. Klasse, gut geführt mit klaren Regeln und Strukturen. "
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1809907200000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "music",
-      "sports",
-      "swimming",
-      "project",
-      "natureHumanSociety",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
