@@ -1,65 +1,64 @@
 [
   {
-    "id": "01M82E2EFN2MRMWEHNC7CFTE3V",
+    "id": "01M84K0DPZZW2QRE39S4V4NSM0",
     "additionalInformation": "",
     "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
     "closedReasonDetail": null,
-    "createdTimestamp": 1795378199029,
+    "createdTimestamp": 1795450484447,
     "curriculum": "lehrplan21",
-    "endTimestamp": 1795392000000,
+    "endTimestamp": 1795478400000,
     "grades": [
-      "thirdClass",
-      "forthClass"
+      "sixthClass"
     ],
     "levelsDetailed": [
       "levelMiddle"
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795378199029,
+    "modifiedTimestamp": 1795450484447,
     "partialTakeoverPossible": false,
     "pausedReason": null,
     "pausedTimestamp": null,
-    "pensum": 3,
-    "publishTimestamp": 1795378199029,
-    "role": "subject",
+    "pensum": 5,
+    "publishTimestamp": 1795450484447,
+    "role": "class",
     "school": {
       "logo": null,
-      "email": "vikariate.stallikon@schule-stallikon.ch",
+      "email": "evi.kalman@schule-maur.ch",
       "address": {
-        "city": "Stallikon",
+        "city": "Ebmatingen",
         "canton": "zurich",
-        "street": "Massholderenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8143,
-        "streetNr": "3",
+        "street": "Leeacherstrasse ",
+        "country": "CH",
+        "zipCode": 8123,
+        "streetNr": "6",
         "coordinates": {
-          "lat": 47.33966059999999,
-          "lng": 8.4874437
+          "lat": 47.3530192,
+          "lng": 8.6375373
         }
       },
       "culture": "de-CH",
-      "website": "https://www.schule.stallikon.ch/",
-      "lastName": "Stallikon",
-      "schoolId": "GLuC2PiFFjNmqpmxux8E6aTCdqh2",
-      "firstName": "Schule",
-      "schoolName": "Schulhaus Loomatt, Pünten und Dorf",
-      "phoneNumber": "044 552 62 15",
-      "organisationId": "bHqcQAYtlvghgg50ASbW",
+      "website": "www.schule-maur.ch",
+      "lastName": "Kalman",
+      "schoolId": "01KFFXMZDN5GPAW3RCWYE2J9NC",
+      "firstName": "Evi",
+      "schoolName": "Schulhaus Leeacher",
+      "phoneNumber": "044 982 29 26",
+      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
       "directionInformation": ""
     },
     "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
+      "numberOfStudents": 21,
+      "additionalInformation": "Planung vorhanden\\nUnterrichtszeiten: 7.30-11.55 Uhr"
     },
     "startAsOfNow": false,
-    "startTimestamp": 1795392000000,
+    "startTimestamp": 1795478400000,
     "subjects": [
-      "if",
-      "issIsr",
-      "otherSubject"
+      "german",
+      "mathematics",
+      "fineArts"
     ],
     "teachingLanguages": [
       "de-CH"
@@ -67,6 +66,924 @@
     "timeTableRef": null,
     "vacancyType": "short",
     "workingBlocks": [
+      "tuesdayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M84HYQW85WDW3Q6RCSYAST25",
+    "additionalInformation": "Keine Parkplätze vorhanden. Anreise über ÖV und/oder mit dem Fahrrad empfohlen.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795449380744,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795737600000,
+    "grades": [
+      "mixedAgeLearning",
+      "specialClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795449380744,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 13,
+    "publishTimestamp": 1795449380744,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "mauro.disch@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Basteiplatz",
+        "country": "CH",
+        "zipCode": 8001,
+        "streetNr": "11",
+        "coordinates": {
+          "lat": 47.3701435,
+          "lng": 8.5351422
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/schanzengraben.html",
+      "lastName": "Disch",
+      "schoolId": "01M81W8YEWHSPH5YD0GX92SED4",
+      "firstName": "Mauro",
+      "schoolName": "Schulhaus Schanzengraben",
+      "phoneNumber": "0792854972",
+      "organisationId": "01M81W8YER7RZTG35QQPFW8HPR",
+      "directionInformation": "Wir befinden uns mitten in der Stadt Zürich. Es stehen lediglich 4 Parkplätze gegen Gebühr zur Verfügung. Eine Anreise mit den Öffentlichen Verkehrsmittel und/oder dem Fahrrad wird empfohlen. "
+    },
+    "schoolClass": {
+      "numberOfStudents": 14,
+      "additionalInformation": "Aufnahmeklasse Mittelstufe im Schanzengraben. Super spannende und gut geführte Klasse."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795651200000,
+    "subjects": [
+      "german",
+      "sports",
+      "mathematics",
+      "germanAsSecondLanguage",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
+    "id": "01M84DC2KGNNFD9YHH33R6N03Z",
+    "additionalInformation": "Unsere Primarschule befindet sich aktuell nur an einem Standort.\\n\\nDie Klassen der Primarschule sind normalerweise auf zwei Standorte, Götze und Schalmenacker, aufgeteilt. Da das Schulhaus Götze im Moment saniert wird, werden alle Kinder der Primarschule im Schulhaus Schalmenacker unterrichtet.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795444574832,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797465600000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795444574832,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 22,
+    "publishTimestamp": 1795444574832,
+    "role": "class",
+    "school": {
+      "logo": {
+        "logoUrl": "public_schools/01M708CTPZ0BNSKR29EA7R2HP3/logos/5646a889-d481-4bfe-87b5-8ffe788600b4.jpg",
+        "blurhash": "LCT9Lz_2jD~V~qofWBofxvWGo#R.",
+        "cloudflareId": "school:01M708CTPZ0BNSKR29EA7R2HP3:5646a889-d481-4bfe-87b5-8ffe788600b4.jpg"
+      },
+      "email": "p.fischer@schule-rafz.ch",
+      "address": {
+        "city": "Rafz",
+        "canton": "zurich",
+        "street": "Tannewäg",
+        "country": "CH",
+        "zipCode": 8197,
+        "streetNr": "12",
+        "coordinates": {
+          "lat": 47.606645199999996,
+          "lng": 8.539486499999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-rafz.ch",
+      "lastName": "Fischer",
+      "schoolId": "01M708CTPZ0BNSKR29EA7R2HP3",
+      "firstName": "Pascal",
+      "schoolName": "Schule Rafz",
+      "phoneNumber": "044 879 76 74",
+      "organisationId": "01M708CTMAWC0MAGW24V48Y6Q0",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795996800000,
+    "subjects": [
+      "music",
+      "sports",
+      "textileAndTechnicalDesign",
+      "natureHumanSociety",
+      "mathematics",
+      "german"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M84DC2KGNNFD9YHH33R6N03Z/timeTables/84f59e16-8f5b-40a0-886c-efe35857e38b.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M84CBCEE55NN7S4QEAAM4GGK",
+    "additionalInformation": "Montag (6 WL): 08.20-15.20 D, E, Mu, RKE, Schwimmen/BS 14tgl Wechsel=> Schwimmlp vorhanden, man muss einfach zur Unterstützung ins Wasser\\n\\nDonnerstag (7 WL): 8.20-16.10 E, Mu, NMG (im TT oder HK) & 4 WL DaZ Aufbauunterricht\\n\\nDaZ integrativ oder in Kleingruppen",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795443503566,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1799625600000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795443503566,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 13,
+    "publishTimestamp": 1795443503566,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "nicole.holdener@schule-adliswil.ch",
+      "address": {
+        "city": "Adliswil",
+        "canton": "zurich",
+        "street": "Wilackerstrasse",
+        "country": "CH",
+        "zipCode": 8134,
+        "streetNr": "3",
+        "coordinates": {
+          "lat": 47.3043697,
+          "lng": 8.5203937
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-adliswil.ch/wilacker/ueberblick/aktuelles/p-184232/",
+      "lastName": "Holdener-Keller",
+      "schoolId": "TQQFwqNZkGdj5QnAH8kQR2e4cdD3",
+      "firstName": "Nicole",
+      "schoolName": "Wilacker",
+      "phoneNumber": "079 452 33 42 Nicole Holdener-Keller / 079 426 99 65 David Leenen",
+      "organisationId": "0bRthbqXyzKLVnUBBRcQ",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "20 SuS "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1796601600000,
+    "subjects": [
+      "german",
+      "english",
+      "music",
+      "sports",
+      "swimming",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "germanAsSecondLanguage"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M847ZVD8VMFRKG0Q4C26ZF3M",
+    "additionalInformation": "zum Teil in der Halbklasse",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795438931368,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1796342400000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795438931368,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1795438931368,
+    "role": "class",
+    "school": {
+      "logo": {
+        "logoUrl": "public_schools/pHAoFt7UGgbXaOMGmMUh83oc6TT2/logos/ccb2bfa8-26f3-41ad-be2a-7fe0a026bea9.jpg",
+        "blurhash": "LbPZ=XpJ~W,.~qRjIU-;?bRjM{of",
+        "cloudflareId": "school:pHAoFt7UGgbXaOMGmMUh83oc6TT2:ccb2bfa8-26f3-41ad-be2a-7fe0a026bea9.jpg"
+      },
+      "email": "sl.zentrum.ust@schuleurdorf.ch",
+      "address": {
+        "city": "Urdorf",
+        "canton": "zurich",
+        "street": "Bahnhofstrasse ",
+        "country": "CH",
+        "zipCode": 8902,
+        "streetNr": "52",
+        "coordinates": {
+          "lat": 47.3857472,
+          "lng": 8.425249899999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schuleurdorf.ch ",
+      "lastName": "Zentrum Unterstufe",
+      "schoolId": "pHAoFt7UGgbXaOMGmMUh83oc6TT2",
+      "firstName": "Schulleitung",
+      "schoolName": "Unterstufe Zentrum Urdorf",
+      "phoneNumber": "+41 44 736 15 69",
+      "organisationId": "aX21YhpMiJ95hOgQr2Ni",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1796256000000,
+    "subjects": [
+      "sports",
+      "mathematics",
+      "natureHumanSociety",
+      "german",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 3
+  },
+  {
+    "id": "01M847NNRQ40ECD9HBH11CC5R6",
+    "additionalInformation": "Überschaubares, eher ländlich gelegenes Schulhaus mit Jahrgangsklassen und zweckmässigen, separaten Räumen, um auch in Gruppen zu arbeiten. Wir haben eine moderne, fortschrittliche und gut gepflegte Infrastruktur mit persönlichen Notebooks, ActiveBoards und einer 1:1-Austattung iPads für die Lernenden.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795438597911,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1801094400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795438597911,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1795438597911,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "patrik.marthaler@schulehinwil.ch",
+      "address": {
+        "city": "Hinwil",
+        "canton": "zurich",
+        "street": "Schulhausstrasse ",
+        "country": "CH",
+        "zipCode": 8340,
+        "streetNr": "10",
+        "coordinates": {
+          "lat": 47.2884587,
+          "lng": 8.8527069
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schulehinwil.ch/aussenwachten/schulleben/kurzportrait/p-322/",
+      "lastName": "Marthaler",
+      "schoolId": "01K4W945ERCCE7B3YK539VB13Q",
+      "firstName": "Patrik",
+      "schoolName": "Aussenwachten",
+      "phoneNumber": "043 843 25 66",
+      "organisationId": "gLS7SROqigIRllYWxm6D",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": "Die 19-Kinder-starke Jahrgangsklasse ist sehr gut geführt und der Alltag mit durchdachten Regeln, Ritualen und Routinen strukturiert. Die Klassenlehrperson legt einen starken Fokus auf Teambildung und Eigenverantwortung, was sich positiv in den interessierten, motivierten und selbstständigen Lernenden zeigt.\\nAusserdem nimmt die Klasse regelmässig an Sportwettbewerben teil und hat durch die Sportspiele gelernt, ein faires Miteinander zu entwickeln und zu pflegen. "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799280000000,
+    "subjects": [
+      "english",
+      "religionsCulturesEthics",
+      "music",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M8478JTC7FFNH7XVH4KYZ75T",
+    "additionalInformation": "KLP vor Ort, TT und IF in Kleingruppen",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795438168908,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795478400000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795438168908,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1795438168908,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "andrea.savva-galli@schulefaellanden.ch",
+      "address": {
+        "city": "Fällanden",
+        "canton": "zurich",
+        "street": "Maurstrasse",
+        "country": "CH",
+        "zipCode": 8117,
+        "streetNr": "27",
+        "coordinates": {
+          "lat": 47.3700251,
+          "lng": 8.6432004
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulefaellanden.ch",
+      "lastName": "Savva-Galli",
+      "schoolId": "Bm2S1Kuq8QNLVvegSmwBR4fT1Lv2",
+      "firstName": "Andrea",
+      "schoolName": "Primarschule Lätten",
+      "phoneNumber": "043 355 36 49 / 043 355 36 55",
+      "organisationId": "jjTZLJweUGp7yAr8AxJC",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 23,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795478400000,
+    "subjects": [
+      "mathematics",
+      "natureHumanSociety",
+      "sports",
+      "german"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M846FEZTM3Z7GA0R8NB7YQXQ",
+    "additionalInformation": "siehe oben",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795437345786,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "thirdClass",
+      "forthClass",
+      "fifthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelLower",
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795437345786,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 12,
+    "publishTimestamp": 1795437345786,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "barbara.meier@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bertastrasse ",
+        "country": "Schweiz",
+        "zipCode": 8003,
+        "streetNr": "50",
+        "coordinates": {
+          "lat": 47.3736727,
+          "lng": 8.5126336
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/aemtler_a.html",
+      "lastName": "Meier",
+      "schoolId": "2QKN4tnDkeZG14ihtLZKFXglBCB2",
+      "firstName": "Barbara",
+      "schoolName": "Schule Aemtler Primar",
+      "phoneNumber": "044 413 01 23",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Es sind insgesamt 4 verschiedene Klassen und da jeweils nur ein Grüppchen der SuS mit DaZ oder BFF Begabtenförderung. \\n4 Lektionen sind DaZ Auffangunterricht mit 2-3 SuS."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1796256000000,
+    "subjects": [
+      "germanAsSecondLanguage",
+      "otherSubject"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M844XQ0RCCFNXZV5NVP035WN",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795435715608,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795564800000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795435715608,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 4,
+    "publishTimestamp": 1795435715608,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "thomas.ammann@edurichti.ch",
+      "address": {
+        "city": "Samstagern",
+        "canton": "zurich",
+        "street": "Stationsstrasse",
+        "country": "CH",
+        "zipCode": 8833,
+        "streetNr": "13",
+        "coordinates": {
+          "lat": 47.1931131,
+          "lng": 8.6770364
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-richterswil-samstagern.ch/samstagern/817",
+      "lastName": "Ammann",
+      "schoolId": "01M1ZWPCVP1FQCV13VSY5DNH6M",
+      "firstName": "Thomas",
+      "schoolName": "Schuleinheit Samstagern",
+      "phoneNumber": "079 568 83 95",
+      "organisationId": "n9uydwif8tvlhCx7ksUq",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795564800000,
+    "subjects": [
+      "german",
+      "natureHumanSociety",
+      "music",
+      "french",
+      "religionsCulturesEthics",
+      "mathematics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "wednesdayMorning"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M841T1W9GAXPHCZHKV5SZMDM",
+    "additionalInformation": "Bewegung & Sport: Keine Geräte. ",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795432449929,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795478400000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795432449929,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1795432449929,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "christine.finney@schule.wallisellen.ch",
+      "address": {
+        "city": "Wallisellen",
+        "canton": "zurich",
+        "street": "Alpenstrasse ",
+        "country": "CH",
+        "zipCode": 8304,
+        "streetNr": "11",
+        "coordinates": {
+          "lat": 47.417411099999995,
+          "lng": 8.5898539
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule.wallisellen.ch/schulen/alpen",
+      "lastName": "Finney",
+      "schoolId": "hhQhe52udacndE5YGYdffWaZii62",
+      "firstName": "Christine ",
+      "schoolName": "Schule Alpen",
+      "phoneNumber": "Christine Finney: 076 560 30 47; Barbara Gübeli: 077 487 68 99",
+      "organisationId": "01K2HGNP674MEAJV3FQVWTNEMA",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Angenehme Klasse "
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795478400000,
+    "subjects": [
+      "mathematics",
+      "fineArts",
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M841T1W9GAXPHCZHKV5SZMDM/timeTables/384ae160-74d3-42b5-930f-6916c93e288e.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M83X43JJ42JRXJFKM138R8BB",
+    "additionalInformation": "Rolle: Co-Klassenlehrperson der Klasse 6d, Fachlehrperson der Klasse 6e und Heilpädagog*in an beiden Klassen.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795427536466,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1799884800000,
+    "grades": [
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795427536466,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 23,
+    "publishTimestamp": 1795427536466,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "nico.meienberg@schuleschlieren.ch",
+      "address": {
+        "city": "Schlieren",
+        "canton": "zurich",
+        "street": "Schulstrasse",
+        "country": "Schweiz",
+        "zipCode": 8952,
+        "streetNr": "18",
+        "coordinates": {
+          "lat": 47.39673450000001,
+          "lng": 8.4525693
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule.schlieren.ch/schulstrasse",
+      "lastName": "Meienberg",
+      "schoolId": "Sw1FUrXDs1h6Ff1Y9gKvZmou7io2",
+      "firstName": "Nico",
+      "schoolName": "Schule Schulstrasse",
+      "phoneNumber": "044 738 44 90",
+      "organisationId": "7xhOwB506KrlEDYO0jXr",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799625600000,
+    "subjects": [
+      "if",
+      "issIsr",
+      "german",
+      "mathematics",
+      "religionsCulturesEthics",
+      "sports",
+      "english"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M83X43JJ42JRXJFKM138R8BB/timeTables/728c3136-8e91-4c5b-95a9-a0fa8e856dd6.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M83WTAJE0VDSA074SPDAQBBN",
+    "additionalInformation": "Alle 2 Wochen ist Schwimmunterricht im Wechsel mit Sport.\\nSchwimmen wird von einer Schwimmlehrerin unterrichtet, die Aufgabe der Lehrperson ist Begleitung, Betreuung und evt. Mithilfe.",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795427215950,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1808438400000,
+    "grades": [
+      "firstClass",
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795427215950,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1795427215950,
+    "role": "subject",
+    "school": {
+      "logo": null,
+      "email": "nico.meienberg@schuleschlieren.ch",
+      "address": {
+        "city": "Schlieren",
+        "canton": "zurich",
+        "street": "Schulstrasse",
+        "country": "Schweiz",
+        "zipCode": 8952,
+        "streetNr": "18",
+        "coordinates": {
+          "lat": 47.39673450000001,
+          "lng": 8.4525693
+        }
+      },
+      "culture": "de-CH",
+      "website": "schule.schlieren.ch/schulstrasse",
+      "lastName": "Meienberg",
+      "schoolId": "Sw1FUrXDs1h6Ff1Y9gKvZmou7io2",
+      "firstName": "Nico",
+      "schoolName": "Schule Schulstrasse",
+      "phoneNumber": "044 738 44 90",
+      "organisationId": "7xhOwB506KrlEDYO0jXr",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 18,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799366400000,
+    "subjects": [
+      "german",
+      "sports",
+      "swimming",
+      "mathematics",
+      "religionsCulturesEthics"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M83WTAJE0VDSA074SPDAQBBN/timeTables/fa71e3f8-ff06-42fb-b811-a03d140526a6.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "fridayMorning",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 1
+  },
+  {
+    "id": "01M83JQA9W4EYFK646E61YH21K",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795416631612,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795392000000,
+    "grades": [
+      "firstClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795416631612,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 6,
+    "publishTimestamp": 1795416631612,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "jens.dombrowsky@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Mühlebachstrasse",
+        "country": "CH",
+        "zipCode": 8008,
+        "streetNr": "180",
+        "coordinates": {
+          "lat": 47.3557588,
+          "lng": 8.558963600000002
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.stadt-zuerich.ch/schulen/de/kartaus.html",
+      "lastName": "Dombrowsky",
+      "schoolId": "uPebnhaVVRfclFbqyy0hcdqiSMl2",
+      "firstName": "Jens",
+      "schoolName": "Kartaus-Münchhalde",
+      "phoneNumber": "078 641 68 72",
+      "organisationId": "01K9Q01ECP78F582A1SW64FW22",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": "Schulhaus Münchhalde, bitte bei Jaël Shemley; 078 641 68 72  oder jael.shemley@schulen.zuerich.ch melden."
+    },
+    "startAsOfNow": true,
+    "startTimestamp": 1795392000000,
+    "subjects": [
+      "natureHumanSociety",
+      "german",
+      "mathematics",
+      "music"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
       "mondayAfternoon"
     ],
     "numberOfOpenApplications": 0
@@ -147,9 +1064,7 @@
   {
     "id": "01M81WV0SP448JJSJEWH77S699",
     "additionalInformation": "Mutterschaftsvertretung ab Januar. Nach Möglichkeit kann man bereits im Dezember einen Teil übernehmen - zudem könnte man den Freitag-Nachmittag (Sportunterricht) zusätzlich übernehmen. Aktuell ist noch eine Pensenerhöhung um 4 TT-Lektionen pendent - diese Lektionen würden am Donnerstag-Vormittag stattfinden. ",
-    "affectedTeacherIds": [
-      "mSVAAyOX7MbEgaL70jqlkl0yOcn1"
-    ],
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -223,14 +1138,12 @@
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
-    "numberOfOpenApplications": 0
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M81EQ6T6CN9X6MM4EZ0KPPDY",
     "additionalInformation": "",
-    "affectedTeacherIds": [
-      "KnHIXSwi3vSatrR4220LIwBSDLE3"
-    ],
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -305,90 +1218,9 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M7YZTXBJ9QQP4PHGFPSX9918",
-    "additionalInformation": "Jeden Morgen Start um 7.30h, am Di noch Aufgabenstunde von 15.00-15.30h mit der selben Klasse.\\n\\nWeitere Infos gerne via Mail oder Telefon.\\n\\nAllenfalls Verlängerung möglich. ",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795262608754,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795651200000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795262608754,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 16,
-    "publishTimestamp": 1795262608754,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "martina.kresken@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Apfelbaumstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8050,
-        "streetNr": "31",
-        "coordinates": {
-          "lat": 47.4068234,
-          "lng": 8.5557192
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/schulen/de/apfelbaum.html",
-      "lastName": "Kresken",
-      "schoolId": "qUSYssLh2Zbp7liDzQAFFTk2U9J3",
-      "firstName": "Martina",
-      "schoolName": "Apfelbaum",
-      "phoneNumber": "+41764807012",
-      "organisationId": "O2r4NqGjluoBHsokUeQc",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795478400000,
-    "subjects": [
-      "german",
-      "french",
-      "mathematics",
-      "natureHumanSociety",
-      "mediaAndComputerScience",
-      "sports",
-      "music"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
     "id": "01M7WMQFNY7TQBECH0ZMJ1S44N",
     "additionalInformation": "Wir sind ein hilfsbereites Team und unterstützen dich gerne!",
-    "affectedTeacherIds": [
-      "D59ESHim0kRTOyE1m3iSgNuMCrC2",
-      "jlkM6DYGgPb4PLWUnxIP9MMhflm1"
-    ],
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -454,16 +1286,12 @@
     "workingBlocks": [
       "wednesdayMorning"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 3
   },
   {
     "id": "01M7W6QQ4789JHW565NPH9K2Q1",
     "additionalInformation": "Lehrdiplom zwingend/Abschluss als SHP oder Abschluss am erlangen/Unterrichtstage nach Absprache\\nUnterstützung und Begleitung eines Kindes mit speziellen Bedürfnissen im ISR-Setting\\nZusammenarbeit mit der Klassenlehrperson\\nAustausch mit anderen SHP's der Schule",
-    "affectedTeacherIds": [
-      "LlzdBUMf77MbiIYPNiXxSHcoo7p1",
-      "ZnwZ6k3cLrOXxaEgtVUYYctBo7g1",
-      "E8WLkEVLK0YTI8KZHhMryUTeiGb2"
-    ],
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -527,15 +1355,12 @@
     "workingBlocks": [
       "mondayMorning"
     ],
-    "numberOfOpenApplications": 2
+    "numberOfOpenApplications": 1
   },
   {
     "id": "01M7W1J24215RKMXBC6KQSJVS8",
     "additionalInformation": "Stellvertretung SuS Rat",
-    "affectedTeacherIds": [
-      "cgWbP3eHu7TCIfMPzdrUG8nvXK73",
-      "NmIjhGlYVzeTifXFdJYhxwnCyt13"
-    ],
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -607,85 +1432,9 @@
     "numberOfOpenApplications": 2
   },
   {
-    "id": "01M7T6R4RY1TD66V8E9MWTD4PS",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "cgWbP3eHu7TCIfMPzdrUG8nvXK73",
-      "PhQMufDeVEOYDHK49tECPWmPMRg2",
-      "PTIgtP5vL5N7sM8LnF2UDTRGpGm2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795102085918,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795996800000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795102085918,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 2,
-    "publishTimestamp": 1795102085918,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "evi.kalman@schule-maur.ch",
-      "address": {
-        "city": "Ebmatingen",
-        "canton": "zurich",
-        "street": "Leeacherstrasse ",
-        "country": "CH",
-        "zipCode": 8123,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.3530192,
-          "lng": 8.6375373
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-maur.ch",
-      "lastName": "Kalman",
-      "schoolId": "01KFFXMZDN5GPAW3RCWYE2J9NC",
-      "firstName": "Evi",
-      "schoolName": "Schulhaus Leeacher",
-      "phoneNumber": "044 982 29 26",
-      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 17,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795996800000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 3
-  },
-  {
     "id": "01M7SVNA17QM7ZZ34TXTFEGDR7",
     "additionalInformation": "Der Unterricht findet im TTG-Zimmer oder im Werkraum und in Halbklassen statt. Ein Lehrdiplom ist erwünscht, wir berücksichtigen nach Möglichkeit jedoch auch Studierende mit TTG im Profil (abgeschlossenes Basisjahr zwingend).",
-    "affectedTeacherIds": [
-      "JZzJ81rQGzcNA8hyFIgBdqO6BBD3",
-      "yv7bpUVnrYUaMaM7LCJWlKhezkO2"
-    ],
+    "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
     "closedReason": null,
@@ -750,810 +1499,5 @@
       "wednesdayMorning"
     ],
     "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M7Q47AENTKF1VD02ZF03HKX0",
-    "additionalInformation": "",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794998774229,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "firstClass",
-      "secondClass",
-      "forthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794998774229,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 28,
-    "publishTimestamp": 1794998774229,
-    "role": "subject",
-    "school": {
-      "logo": {
-        "logoUrl": "public_schools/01M6EEHR0T2G7WX7MEJ8FV8K8M/logos/ef0bee9c-b46b-40f0-91be-ba5cb454fa7a.jpg",
-        "blurhash": "LLN,}Lt8~q-;xuRjxut7?bM{%Mof",
-        "cloudflareId": "school:01M6EEHR0T2G7WX7MEJ8FV8K8M:ef0bee9c-b46b-40f0-91be-ba5cb454fa7a.jpg"
-      },
-      "email": "schulleitung@wolfgraben.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Wolfgrabenstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "10",
-        "coordinates": {
-          "lat": 47.286805699999995,
-          "lng": 8.5314109
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch",
-      "lastName": "Marty",
-      "schoolId": "01M6EEHR0T2G7WX7MEJ8FV8K8M",
-      "firstName": "René",
-      "schoolName": "Primarschule Wolfgraben",
-      "phoneNumber": "0447718260",
-      "organisationId": "01M6EEHR0RHZHNQJYD2065YGMD",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795392000000,
-    "subjects": [
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M7Q47AENTKF1VD02ZF03HKX0/timeTables/6c75d7d6-9d8b-4e7c-98f6-f3eca5576768.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M7MPKY541VSBTS8DBRVN6FPB",
-    "additionalInformation": "Wir suchen eine Vertretung für einen Mutterschaftsurlaub.",
-    "affectedTeacherIds": [
-      "LlzdBUMf77MbiIYPNiXxSHcoo7p1",
-      "D8WVCN29htQLj3oYR5o39ZJ1HzJ3"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794917398692,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815696000000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794917398692,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 7,
-    "publishTimestamp": 1794917398692,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "schulleitung@schulehittnau.ch",
-      "address": {
-        "city": "Hittnau",
-        "canton": "zurich",
-        "street": "Hermetsbüelweg",
-        "country": "Schweiz",
-        "zipCode": 8335,
-        "streetNr": "10",
-        "coordinates": {
-          "lat": 47.3640453,
-          "lng": 8.824408199999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schulehittnau.ch/willkommen",
-      "lastName": "Hittnau",
-      "schoolId": "QA9zDwOip4UMzV6VzxNcxDabblA2",
-      "firstName": "Schulleitung",
-      "schoolName": "Primar- und Sekschule Hermetsbüel",
-      "phoneNumber": "043 288 67 70",
-      "organisationId": "72WTXu8JdOfMw6Dt0CJy",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1801440000000,
-    "subjects": [
-      "religionsCulturesEthics",
-      "sports",
-      "mathematics",
-      "german",
-      "french",
-      "english"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M7MPKY541VSBTS8DBRVN6FPB/timeTables/12b86639-4d23-4a8a-b3e3-c34534b91c2f.jpg",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M7MG59KG9FDX3NYBBARRH2GF",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "aLB5eGZt4VNH02tbEOVC10ZarlW2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794910627440,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815091200000,
-    "grades": [
-      "secondClass",
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794910627440,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 22,
-    "publishTimestamp": 1794910657394,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "schulleitung@ps-mettmenstetten.ch",
-      "address": {
-        "city": "Mettmenstetten",
-        "canton": "zurich",
-        "street": "Schulhausstrasse",
-        "country": "CH",
-        "zipCode": 8932,
-        "streetNr": "4",
-        "coordinates": {
-          "lat": 47.2452232,
-          "lng": 8.4649305
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.ps-mettmenstetten.ch",
-      "lastName": "Isselhorst",
-      "schoolId": "01M77NGD9ZXYQQA7N2F0ZY1R2X",
-      "firstName": "Heike",
-      "schoolName": "Primarschule Mettmenstetten",
-      "phoneNumber": "+41792832275",
-      "organisationId": "01M77NGD9REYTS641ZWX7CXC7N",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": "TTG in vier 2. Klassen und einer 1. Klasse\\nBG in einer 4. Klasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1800835200000,
-    "subjects": [
-      "textileAndTechnicalDesign",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M7G534AQ442HC0D4449ZZCW1",
-    "additionalInformation": "Der Einsatz ist von Januar bis zu den Sommerferien 2027 vorgesehen. Auch ein kürzerer Einsatz von Januar bis zu den Frühlingsferien oder von den Frühlingsferien bis zu den Sommerferien ist möglich.\\n\\nWir freuen uns auf deine Kontaktaufnahme!",
-    "affectedTeacherIds": [
-      "1l586w0DfuavEPuiZ6v1ovszHGm2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794764804439,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815350400000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794764804439,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1794764804439,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "eliane.zwimpfer@schule-wald.ch",
-      "address": {
-        "city": "Wald ZH",
-        "canton": "zurich",
-        "street": "Neuwiesstrasse",
-        "country": "CH",
-        "zipCode": 8636,
-        "streetNr": "26",
-        "coordinates": {
-          "lat": 47.274680599999996,
-          "lng": 8.9208409
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-wald.ch/primarschuleneuwies",
-      "lastName": "Zwimpfer",
-      "schoolId": "01M3C8880FR1F7CFGSRWKQW3FY",
-      "firstName": "Eliane",
-      "schoolName": "Schule Neuwies",
-      "phoneNumber": "0784053171",
-      "organisationId": "01M3C8880CJFKBPCYDGAD4VC2M",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 24,
-      "additionalInformation": "Lehrperson für Montagmorgen gesucht (Januar–Juli 2027)\\n\\nUnsere Klassenlehrerin kehrt nach ihrem Mutterschaftsurlaub im Januar mit einem reduzierten Pensum zurück. Deshalb suchen wir für unsere 3. Klasse der Primarschule Neuwies in Wald ZH eine Lehrperson, die jeweils am Montagmorgen den Unterricht übernimmt ( 4 WL Teamteaching). "
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "german",
-      "mathematics",
-      "natureHumanSociety",
-      "english"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M7A91455AGGF2FYQNSZG79EZ",
-    "additionalInformation": "Die Vertretung kann auch nur bis zu den Sommerferien übernommen werden. \\nDie Fächer können in Absprache mit der Stellenpartnerin getauscht werden. Musik sollte durch dich abgedeckt sein, Französisch nach Möglichkeit auch.",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794567606437,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1827446400000,
-    "grades": [
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794567606437,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 14,
-    "publishTimestamp": 1794567606437,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sandra.grimm@primarschule-uster.ch",
-      "address": {
-        "city": "Uster",
-        "canton": "zurich",
-        "street": "Seestrasse ",
-        "country": "Schweiz",
-        "zipCode": 8610,
-        "streetNr": "109",
-        "coordinates": {
-          "lat": 47.3441035,
-          "lng": 8.7031761
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.primarschule-uster.ch",
-      "lastName": "Grimm",
-      "schoolId": "wvYskYtovBVAw9vcZ1H262t3O102",
-      "firstName": "Sandra",
-      "schoolName": "Primarschule Niederuster",
-      "phoneNumber": "0449941567",
-      "organisationId": "UnVGPiJg5KRhpnwCfRa8",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": "Du triffst eine sehr soziale, aufgestellte und gut führbare Klasse an. Ende Schuljahr darfst du mit auf die 2-tägige Abschlussreise (fakultativ). Deine humorvolle, erfahrene und pragmatische Stellenpartnerin unterstützt dich bei Fragen. Im Schulhaus steht dir ein erfahrenes und hilfsbereites Team und eine Schulleitung mit offener Tür zur Seite. \\nAm Dienstagvormittag unterrichtest du in der Halbklasse. Du wirst an deinen Arbeitstagen von einer erfahrenen Heilpädagogin und vom Zivi unterstütz."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1801440000000,
-    "subjects": [
-      "german",
-      "french",
-      "music",
-      "sports",
-      "mathematics",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M77XWFREXZZHGNGGZSBQ1Q9Z",
-    "additionalInformation": "",
-    "affectedTeacherIds": [
-      "5S9815QIDMfTKfJi9K3Qz8CsAng1",
-      "hLyO3rIPaUaSaAjuhK3FGkfYAUz1",
-      "YxvvBltScha404XUS77kzTMrHcs1",
-      "000rcHwQWtbOMLM4VCsF74XZj5q1",
-      "8n0fJWHUzBdOUK6CAdPc7voNvtA3"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794488811278,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815696000000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794488811278,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 4,
-    "publishTimestamp": 1794488811278,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "susanne.paternolli@schule-duebendorf.ch",
-      "address": {
-        "city": "Dübendorf",
-        "canton": "zurich",
-        "street": "Zwinggartenstrasse",
-        "country": "Schweiz",
-        "zipCode": 8600,
-        "streetNr": "28",
-        "coordinates": {
-          "lat": 47.4024207,
-          "lng": 8.6209802
-        }
-      },
-      "culture": "de-CH",
-      "website": "schuleduebendorfch.sharepoint.com/sites/Stgenbuck",
-      "lastName": "Paternolli",
-      "schoolId": "7Rpe6Mg7ZTQCvkyBWsTmQDDyW2D2",
-      "firstName": "Susanne",
-      "schoolName": "Stägenbuck",
-      "phoneNumber": "0448231045",
-      "organisationId": "01M5YFD2SM6DG2VGG7317MBM5A",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1803859200000,
-    "subjects": [
-      "german",
-      "music",
-      "natureHumanSociety",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "fridayMorning",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
-  },
-  {
-    "id": "01M7505GXZH5FVQSG2EE4JXZ1P",
-    "additionalInformation": "Ab Freitag, 13.11.- bis auf Weiteres jeweils, DI und FR\\nAb ca. Ende November 2026 fällt der DI-Nachmittag weg",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794390541247,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795996800000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794390541247,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1794390657707,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sylvia.wuethrich@oberengstringen.ch",
-      "address": {
-        "city": "Oberengstringen",
-        "canton": "zurich",
-        "street": "Zürcherstrasse",
-        "country": "CH",
-        "zipCode": 8102,
-        "streetNr": "101",
-        "coordinates": {
-          "lat": 47.4075394,
-          "lng": 8.4657321
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-oe.ch",
-      "lastName": "Wüthrich",
-      "schoolId": "01M74W791KXT6XF2YHC14MYBVZ",
-      "firstName": "Sylvia",
-      "schoolName": "Goldschmied-Sunnerai-Halde-Lanzrain",
-      "phoneNumber": "043 455 07 92",
-      "organisationId": "01M74NJTQ7HFG4X2Y8WS3X923F",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": true,
-    "startTimestamp": 1794700800000,
-    "subjects": [
-      "mathematics",
-      "natureHumanSociety",
-      "sports",
-      "german",
-      "fineArts",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M7505GXZH5FVQSG2EE4JXZ1P/timeTables/17197562-04ea-471b-8c1a-e896618c734c.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M74RWA6BR4EJBZHTNRYRY202",
-    "additionalInformation": "Die KLP hat eine Operation und ist für 8 Wochen 100% krankgeschrieben. Danach wahrscheinlich nochmals für 4 Wochen 50%. Dies ist noch nicht ganz klar. Dieses Vikariat könnte von der gleichen Lehrperson übernommen werden. Die 8 Wochen werden nicht unterteilt. Es ist ein total tolles Vikariat in einem super Unterrichts- und Schulteam. ",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794382899403,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1804204800000,
-    "grades": [
-      "firstClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794382899403,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1794382899403,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "christine.finney@schule.wallisellen.ch",
-      "address": {
-        "city": "Wallisellen",
-        "canton": "zurich",
-        "street": "Alpenstrasse ",
-        "country": "CH",
-        "zipCode": 8304,
-        "streetNr": "11",
-        "coordinates": {
-          "lat": 47.4174111,
-          "lng": 8.5898539
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule.wallisellen.ch/schulen/alpen",
-      "lastName": "Finney",
-      "schoolId": "hhQhe52udacndE5YGYdffWaZii62",
-      "firstName": "Christine ",
-      "schoolName": "Schule Alpen",
-      "phoneNumber": "Christine Finney: 076 560 30 47 / Renate Sgier: 079 687 78 17",
-      "organisationId": "01K2HGNP674MEAJV3FQVWTNEMA",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 22,
-      "additionalInformation": "Es hat 2 ISR-Kinder in der Klasse, die sehr gut in die Klasse integriert sind. Die Klasse ist sehr herzig, angenehm und gut geführt. Klare Führung und Strukturen natürlich erforderlich. 24 WL Schulassistenz zur Unterstützung. Auch tolle SHP"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799280000000,
-    "subjects": [
-      "german",
-      "sports",
-      "mathematics",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "swimming",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M74RWA6BR4EJBZHTNRYRY202/timeTables/3e0d98ac-9566-418e-9d38-4cf9b92247fd.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M6ZTNT3YBH4KJWBZSNJXXZ4M",
-    "additionalInformation": "Blaue Lektionen im Stundenplan (Anhang) werden Unterrichtet. Schwimmbegleitung alle 2 Wochen, muss nicht unterrichtet werden.\\nUnterstützung durch SHP, KLA und SL ",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794217011326,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1802995200000,
-    "grades": [
-      "mixedAgeLearning",
-      "thirdClass",
-      "forthClass"
-    ],
-    "levelsDetailed": [
-      "levelLower",
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794217011326,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 25,
-    "publishTimestamp": 1794217011326,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "peter.faltys@schule-adliswil.ch",
-      "address": {
-        "city": "Adliswil",
-        "canton": "zurich",
-        "street": "Zelgstrasse",
-        "country": "CH",
-        "zipCode": 8134,
-        "streetNr": "20",
-        "coordinates": {
-          "lat": 47.31850619999999,
-          "lng": 8.516127299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-adliswil.ch/zopf/ueberblick/aktuelles/p-183587/",
-      "lastName": "Faltys",
-      "schoolId": "ZghRYr8x8RXYz9x55q9oAOPha5H2",
-      "firstName": "Peter",
-      "schoolName": "Schulhaus Zopf",
-      "phoneNumber": "079 570 60 86",
-      "organisationId": "0bRthbqXyzKLVnUBBRcQ",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 23,
-      "additionalInformation": "10 SuS in 3.Klasse\\n13 SuS in 4.Klasse"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "german",
-      "english",
-      "sports",
-      "mathematics",
-      "natureAndTechnology"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M6ZTNT3YBH4KJWBZSNJXXZ4M/timeTables/c9e5d4d6-7850-4dc9-9a3c-97e5cd55f9c4.png",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M6ZMA0XDESQ72TNENK3AC2E4",
-    "additionalInformation": "Das Vikariat umfasst 27 Wochenlektionen. Die Klasse wird zusätzlich durch eine Klassenassistenz während 20 Stunden und 12 SHP Lektionen pro Woche unterstützt. Gesamtes Vikariat: 4.1.-16.7.27. Es kann auch das gesamte Vikariat übernommen werden oder Quartalsweise (4.1.27-19.2.27 / 8.3.27-23.4.27 / 10.5.27-16.7.27). Wir freuen uns auf deine Kontaktaufnahme.",
-    "affectedTeacherIds": [
-      "U9qaa7C6rpcGpsrfB9c6v16nJO12",
-      "uHvnXpR86OSHKEt3npfmpLYHYqv2"
-    ],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1794210333612,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815696000000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1794210333612,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 27,
-    "publishTimestamp": 1794210333612,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "susann.blesi@imwidmer.ch",
-      "address": {
-        "city": "Langnau am Albis",
-        "canton": "zurich",
-        "street": "Widmerstrasse",
-        "country": "CH",
-        "zipCode": 8135,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.2893895,
-          "lng": 8.540627299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulelangnau.ch/schuleinheit/3248",
-      "lastName": "Blesi",
-      "schoolId": "01KX42MP3W79G5NP9Q4AB4W6HA",
-      "firstName": "Susann",
-      "schoolName": " Schulhaus Im Widmer",
-      "phoneNumber": "+41762971131",
-      "organisationId": "01KX42MP3RVQVKSQ2SSHHX8VEM",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 19,
-      "additionalInformation": "Aufgestellte und engagierte 5. Klasse mit starkem Teamgeist freut sich auf eine motivierte Klassenlehrperson."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1809907200000,
-    "subjects": [
-      "sports",
-      "mathematics",
-      "french",
-      "german",
-      "mediaAndComputerScience",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M6ZMA0XDESQ72TNENK3AC2E4/timeTables/f3babc52-f2a8-4750-95ee-57def30606f7.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   }
 ]
