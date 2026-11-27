@@ -1,5 +1,554 @@
 [
   {
+    "id": "01M8EYC8HJRPAVM74SYPPADC37",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795797951026,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1796083200000,
+    "grades": [
+      "fifthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795797951026,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 13,
+    "publishTimestamp": 1795797951026,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "sl.steiacher@schulen-wb.ch",
+      "address": {
+        "city": "Brüttisellen",
+        "canton": "zurich",
+        "street": "Schulhausstrasse",
+        "country": "CH",
+        "zipCode": 8306,
+        "streetNr": "7",
+        "coordinates": {
+          "lat": 47.4242065,
+          "lng": 8.6340612
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulen-wb.ch",
+      "lastName": "Steiacher",
+      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
+      "firstName": "Schulleitung ",
+      "schoolName": "Steiacher",
+      "phoneNumber": "0432557607",
+      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
+      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795996800000,
+    "subjects": [
+      "mathematics",
+      "german",
+      "religionsCulturesEthics",
+      "french",
+      "sports",
+      "music",
+      "project"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M8EYC8HJRPAVM74SYPPADC37/timeTables/029884e7-5a2a-4dc4-85a9-70b7eff345d8.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M8ENK2D46AYR51KNHYMNK1NN",
+    "additionalInformation": "Das Pensum umfasst auch Wochenlektionen für DAZ und IF",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795788736932,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1799366400000,
+    "grades": [
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795788736932,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 22,
+    "publishTimestamp": 1795788736932,
+    "role": "class",
+    "school": {
+      "logo": {
+        "logoUrl": "public_schools/01M22ZK5C25VWBM5WK995TTVY9/logos/3233d9d3-7bfc-44dd-890b-88f6195f85c1.jpg",
+        "blurhash": "LJR:B0n,={x]={aKWVoL?w?GxuE2",
+        "cloudflareId": "school:01M22ZK5C25VWBM5WK995TTVY9:3233d9d3-7bfc-44dd-890b-88f6195f85c1.jpg"
+      },
+      "email": "thomas.zuber@win.ch",
+      "address": {
+        "city": "Winterthur",
+        "canton": "zurich",
+        "street": "Ida-Sträulistrasse ",
+        "country": "CH",
+        "zipCode": 8409,
+        "streetNr": "50",
+        "coordinates": {
+          "lat": 47.504145099999995,
+          "lng": 8.767277499999999
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schule-neuhegi.ch",
+      "lastName": "Zuber",
+      "schoolId": "01M22ZK5C25VWBM5WK995TTVY9",
+      "firstName": "Thomas",
+      "schoolName": "Neuhegi",
+      "phoneNumber": "052 267 26 89",
+      "organisationId": "01M22ZK5BY6484YF6NETGJA6EM",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Homogene und gut geführte Klasse"
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1799020800000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "textileAndTechnicalDesign",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 2
+  },
+  {
+    "id": "01M8EK2PCAXQ0HG2GK880YNYF5",
+    "additionalInformation": "Sehr gut eingespieltes Klassenteam. \\nKLP steht für Absprachen zur Verfügung. \\nBesondere Challenge und spannende Experience: Am Mittwoch ist bei uns noch Besuchsmorgen. ;-)\\nDie Eltern der Klasse sind wohlwollend und unterstützend. ",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795786103178,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1796169600000,
+    "grades": [
+      "thirdClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795786103178,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 17,
+    "publishTimestamp": 1795786103178,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "karin.rotta@schulen-wb.ch",
+      "address": {
+        "city": "Wangen",
+        "canton": "zurich",
+        "street": "Unterdorfstrasse",
+        "country": "Schweiz",
+        "zipCode": 8602,
+        "streetNr": "50A",
+        "coordinates": {
+          "lat": 47.4132799,
+          "lng": 8.6418935
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulen-wb.ch",
+      "lastName": "Rotta",
+      "schoolId": "FgVTTR9KKHNDW2y11rP5RbHEw0D2",
+      "firstName": "Karin",
+      "schoolName": "Schule Oberwisen",
+      "phoneNumber": "+41448328534",
+      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 20,
+      "additionalInformation": "Gute gebüschelete, herzige Klasse. \\nEin ISR Kind, welches von einer Schulassistenz eng begleitet wird."
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795996800000,
+    "subjects": [
+      "natureHumanSociety",
+      "german",
+      "sports",
+      "mathematics",
+      "fineArts",
+      "religionsCulturesEthics",
+      "music"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M8EK2PCAXQ0HG2GK880YNYF5/timeTables/bcc4d2a1-01ba-428c-babe-91c6914454e5.pdf",
+    "vacancyType": "short",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M8EEDS9QQCCXGPR15BC73MDD",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795781223735,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797465600000,
+    "grades": [
+      "thirdClass",
+      "forthClass",
+      "sixthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795781223735,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 27,
+    "publishTimestamp": 1795781223735,
+    "role": "currative",
+    "school": {
+      "logo": null,
+      "email": "marco.boesch@buelach.ch",
+      "address": {
+        "city": "Bülach",
+        "canton": "zurich",
+        "street": "Leeweg",
+        "country": "Schweiz",
+        "zipCode": 8180,
+        "streetNr": "21",
+        "coordinates": {
+          "lat": 47.512291,
+          "lng": 8.5311091
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://www.schule-buelach.ch/schulen/schule-allmend/",
+      "lastName": "Bösch",
+      "schoolId": "CcbFvDU1SgS66gNBKIlxWiIFvZ02",
+      "firstName": "Marco",
+      "schoolName": "Primarschule Allmend",
+      "phoneNumber": "+41 44 863 16 60",
+      "organisationId": "NN7c2yUeUdP8Qdmj5ZLl",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 0,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795996800000,
+    "subjects": [
+      "if"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M8EEDS9QQCCXGPR15BC73MDD/timeTables/d521d9db-b6c6-4e01-ad19-9518165eabba.png",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M8E7RNMMT96622VFDSSPWP4F",
+    "additionalInformation": "AZ ab 8 Uhr und ILZ bis 16 Uhr sind bezahlt\\nDo Nami nur eine Lektion TT\\nalle 14 Tage SW oder BS Frühstunde am DoMorgen\\n ",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795774240404,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1797552000000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795774240404,
+    "partialTakeoverPossible": true,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 19,
+    "publishTimestamp": 1795774240404,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "barbara.meier@schulen.zuerich.ch",
+      "address": {
+        "city": "Zürich",
+        "canton": "zurich",
+        "street": "Bertastrasse ",
+        "country": "Schweiz",
+        "zipCode": 8003,
+        "streetNr": "50",
+        "coordinates": {
+          "lat": 47.3736727,
+          "lng": 8.5126336
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.stadt-zuerich.ch/schulen/de/aemtler_a.html",
+      "lastName": "Meier",
+      "schoolId": "2QKN4tnDkeZG14ihtLZKFXglBCB2",
+      "firstName": "Barbara",
+      "schoolName": "Schule Aemtler Primar",
+      "phoneNumber": "044 413 01 23",
+      "organisationId": "ds5fbg4Ys9Ebbj7Xl4Mx",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 22,
+      "additionalInformation": null
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795996800000,
+    "subjects": [
+      "german",
+      "french",
+      "music",
+      "sports",
+      "mathematics",
+      "natureAndTechnology",
+      "natureHumanSociety",
+      "religionsCulturesEthics",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": "vacancies/01M8E7RNMMT96622VFDSSPWP4F/timeTables/458520d2-2927-47b1-86c8-65b9e4666731.pdf",
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M8E0Z4ESB8ZBA28V6CSW2AHN",
+    "additionalInformation": "Bei Interesse bitte bei Peter Füeg (SL UST) melden: 079 96143 94",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795767112153,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1815696000000,
+    "grades": [
+      "secondClass"
+    ],
+    "levelsDetailed": [
+      "levelLower"
+    ],
+    "minimumEducationStatus": "enrolledWithBaseYear",
+    "modifiedTimestamp": 1795767112153,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 28,
+    "publishTimestamp": 1795767112153,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "lital.reshef@schulethalwil.ch",
+      "address": {
+        "city": "Thalwil",
+        "canton": "zurich",
+        "street": "Zehntenstrasse",
+        "country": "Schweiz",
+        "zipCode": 8800,
+        "streetNr": "18",
+        "coordinates": {
+          "lat": 47.2894502,
+          "lng": 8.5695894
+        }
+      },
+      "culture": "de-CH",
+      "website": "www.schulethalwil.ch",
+      "lastName": "Reshef",
+      "schoolId": "lM4vh4ugntWTKO5Ian34U35XvXD2",
+      "firstName": "Lital",
+      "schoolName": "Oeggisbüel-Oelwiese",
+      "phoneNumber": "0765886681",
+      "organisationId": "YKAK9aP7js7r4VTR4hFd",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 19,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1803859200000,
+    "subjects": [
+      "german",
+      "mathematics",
+      "sports",
+      "natureHumanSociety",
+      "fineArts"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "long",
+    "workingBlocks": [
+      "mondayMorning",
+      "tuesdayMorning",
+      "wednesdayMorning",
+      "thursdayMorning",
+      "fridayMorning",
+      "mondayAfternoon",
+      "tuesdayAfternoon",
+      "thursdayAfternoon",
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
+    "id": "01M8DYFFX1NQS7EEP6MVVMJETQ",
+    "additionalInformation": "",
+    "affectedTeacherIds": [],
+    "closedOrigin": null,
+    "closedTimestamp": null,
+    "closedReason": null,
+    "closedReasonDetail": null,
+    "createdTimestamp": 1795764502433,
+    "curriculum": "lehrplan21",
+    "endTimestamp": 1795737600000,
+    "grades": [
+      "forthClass"
+    ],
+    "levelsDetailed": [
+      "levelMiddle"
+    ],
+    "minimumEducationStatus": "enrolled",
+    "modifiedTimestamp": 1795764502433,
+    "partialTakeoverPossible": false,
+    "pausedReason": null,
+    "pausedTimestamp": null,
+    "pensum": 2,
+    "publishTimestamp": 1795764502433,
+    "role": "class",
+    "school": {
+      "logo": null,
+      "email": "schulleitung.reitmen@schuleschlieren.ch",
+      "address": {
+        "city": "Schlieren",
+        "canton": "zurich",
+        "street": "Badenerstrasse",
+        "country": "Schweiz",
+        "zipCode": 8952,
+        "streetNr": "82",
+        "coordinates": {
+          "lat": 47.39729790000001,
+          "lng": 8.4354557
+        }
+      },
+      "culture": "de-CH",
+      "website": "https://schule.schlieren.ch/reitmen",
+      "lastName": "Michael Seibold (Kiga/Primar)",
+      "schoolId": "T0JIU7e1E9MR7Jn4gF5Vlk1qp2j2",
+      "firstName": "Bruno Hunn (Sek) /",
+      "schoolName": "Reitmen",
+      "phoneNumber": "044 738 44 03",
+      "organisationId": "7xhOwB506KrlEDYO0jXr",
+      "directionInformation": ""
+    },
+    "schoolClass": {
+      "numberOfStudents": 18,
+      "additionalInformation": ""
+    },
+    "startAsOfNow": false,
+    "startTimestamp": 1795737600000,
+    "subjects": [
+      "sports"
+    ],
+    "teachingLanguages": [
+      "de-CH"
+    ],
+    "timeTableRef": null,
+    "vacancyType": "short",
+    "workingBlocks": [
+      "fridayAfternoon"
+    ],
+    "numberOfOpenApplications": 0
+  },
+  {
     "id": "01M8CQEDKNP30AH0R768BR3362",
     "additionalInformation": "",
     "affectedTeacherIds": [],
@@ -98,7 +647,7 @@
     ],
     "minimumEducationStatus": "enrolledWithBaseYear",
     "modifiedTimestamp": 1795714015367,
-    "partialTakeoverPossible": false,
+    "partialTakeoverPossible": true,
     "pausedReason": null,
     "pausedTimestamp": null,
     "pensum": 21,
@@ -159,81 +708,8 @@
     "numberOfOpenApplications": 0
   },
   {
-    "id": "01M8CE2JJZMYVAT6JVMA9SVZAV",
-    "additionalInformation": "",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795713747551,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795996800000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795713747551,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 7,
-    "publishTimestamp": 1795713747551,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "gabriel.terlemez@dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Römerstrasse ",
-        "country": "CH",
-        "zipCode": 8953,
-        "streetNr": "15",
-        "coordinates": {
-          "lat": 47.4047072,
-          "lng": 8.3947644
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.schule-dietikon.ch/sesteinmuerli",
-      "lastName": "Schulleitung",
-      "schoolId": "ZnwTVmyziiZuRvVTPzV8J7C9V3E3",
-      "firstName": "Steinmürli ",
-      "schoolName": "Schule Steinmürli, Dietikon",
-      "phoneNumber": "0447437700",
-      "organisationId": "R5OxtB90Lm79TZSUKamb",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795996800000,
-    "subjects": [
-      "german",
-      "french",
-      "mathematics",
-      "music"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M8CE2JJZMYVAT6JVMA9SVZAV/timeTables/236bc700-967e-4dd4-ae8a-6bee410f876f.jpg",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 4
-  },
-  {
     "id": "01M8CBGN0G8RZJ0R1SF3X7K4YC",
-    "additionalInformation": "Du unterrichtest die 2. Klasse, bereitest vor und begleitest sie durch die Adventszeit. Die Klassenlehrerin ist im Schulhaus vor Ort für Fragen, unterrichtet während dieser Zeit aber ein andere Klasse.\\nEvtl. ist auch eine Teilübernahme von gewissen Tagen pro Woche möglich.",
+    "additionalInformation": "Du unterrichtest die 2. Klasse, bereitest vor und begleitest sie durch die Adventszeit. Die Klassenlehrerin ist im Schulhaus vor Ort für Fragen, unterrichtet während dieser Zeit aber ein andere Klasse. ",
     "affectedTeacherIds": [],
     "closedOrigin": null,
     "closedTimestamp": null,
@@ -311,76 +787,6 @@
       "mondayAfternoon",
       "tuesdayAfternoon",
       "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M8CBACQP8B11KAAXG5HB3XYF",
-    "additionalInformation": "vikariat morgen freitagnami, 27.11. 2wl altersdurchmischtes lernatelier, thema volleyball (sport) gemäss ausschreibung, bei interesse gerne melden ",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795710857974,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1795737600000,
-    "grades": [
-      "mixedAgeLearning"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795710857974,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 2,
-    "publishTimestamp": 1795710857974,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "annemarie.rueegg@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Maneggstrasse ",
-        "country": "Schweiz",
-        "zipCode": 8041,
-        "streetNr": "51",
-        "coordinates": {
-          "lat": 47.34052639999999,
-          "lng": 8.5202493
-        }
-      },
-      "culture": "de-CH",
-      "website": "https://www.stadt-zuerich.ch/content/schulen/de/allmend.html",
-      "lastName": "Rüegg",
-      "schoolId": "uTpgTnYMEWNKkOAWc1oMUjum0Pn1",
-      "firstName": "Annemarie ",
-      "schoolName": "Schule Allmend",
-      "phoneNumber": "079 753 61 46",
-      "organisationId": "LeGHxqCB4JoJlvIDlNvQ",
-      "directionInformation": "Standorte siehe unter dem nachstehenden link: https://www.stadt-zuerich.ch/schulen/de/allmend/ueberuns/standorte.html"
-    },
-    "schoolClass": {
-      "numberOfStudents": 12,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795737600000,
-    "subjects": [
-      "sports",
-      "project"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M8CBACQP8B11KAAXG5HB3XYF/timeTables/5e8c3e53-daa6-4d57-a1e3-844d27d9ab1f.jpg",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
   },
@@ -529,90 +935,6 @@
       "tuesdayMorning",
       "wednesdayMorning",
       "thursdayMorning",
-      "mondayAfternoon",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M8C8N9A90BWKYP7PHZ224R94",
-    "additionalInformation": "Du arbeitest eng zusammen mit einem grossen Klassenteam, bist kaum eine Lektion alleine. Die Klasse braucht eine präsente, verlässliche Lehrperson, die bereit ist, mit ihr die letzten Wochen in der Vorweihnachtszeit motiviert und liebevoll zu gestalten",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795708069193,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1797552000000,
-    "grades": [
-      "fifthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795708069193,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 25,
-    "publishTimestamp": 1795708069193,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sl.steiacher@schulen-wb.ch",
-      "address": {
-        "city": "Brüttisellen",
-        "canton": "zurich",
-        "street": "Schulhausstrasse",
-        "country": "CH",
-        "zipCode": 8306,
-        "streetNr": "7",
-        "coordinates": {
-          "lat": 47.4242065,
-          "lng": 8.6340612
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulen-wb.ch",
-      "lastName": "Steiacher",
-      "schoolId": "v6sobOSQz0PMHtMR5OZRpVvoGOp1",
-      "firstName": "Schulleitung ",
-      "schoolName": "Steiacher",
-      "phoneNumber": "0432557607",
-      "organisationId": "IVnNNtIYfdLUaRQDSNzj",
-      "directionInformation": "Bus 787/765 ab Bahnhof Dietlikon bis Brüttisellen, obere Wangenstrasse"
-    },
-    "schoolClass": {
-      "numberOfStudents": 11,
-      "additionalInformation": "halbe 5. Klasse, die einen ISR-Schüler integriert"
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1795996800000,
-    "subjects": [
-      "german",
-      "english",
-      "music",
-      "sports",
-      "mathematics",
-      "natureHumanSociety",
-      "religionsCulturesEthics",
-      "fineArts",
-      "project",
-      "mediaAndComputerScience"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M8C8N9A90BWKYP7PHZ224R94/timeTables/fbb958af-4431-4091-b397-bd8e2bb27cfe.pdf",
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayMorning",
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
       "mondayAfternoon",
       "tuesdayAfternoon"
     ],
@@ -1247,306 +1569,5 @@
       "fridayAfternoon"
     ],
     "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M86SFR3BRNMBRZ7T79WAJ9JW",
-    "additionalInformation": "",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795524386923,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1814745600000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795524386923,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1795524386923,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "ayelet.ashkenazi@dietikon.ch",
-      "address": {
-        "city": "Dietikon",
-        "canton": "zurich",
-        "street": "Schöneggstrasse",
-        "country": "Schweiz",
-        "zipCode": 8953,
-        "streetNr": "70",
-        "coordinates": {
-          "lat": 47.3987116,
-          "lng": 8.408462799999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-dietikon.ch",
-      "lastName": "Ashkenazi",
-      "schoolId": "xuOdlRcqsyb82VZA8TrwIIQiWlj1",
-      "firstName": "Ayelet",
-      "schoolName": "Schulhaus Wolfsmatt",
-      "phoneNumber": "0447423262",
-      "organisationId": "R06fSyLP0sWaAz8f7d0k",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 20,
-      "additionalInformation": null
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "swimming",
-      "mathematics",
-      "natureHumanSociety",
-      "german",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "thursdayMorning",
-      "fridayMorning",
-      "thursdayAfternoon",
-      "fridayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M866X88MG3N6KM29NGDSP9T0",
-    "additionalInformation": "Es handelt sich um 2 Lektionen Teamteaching entweder am Montag oder Dienstagnachmittag. \\nUnterrichtsfächer sind RKE oder NMG.",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795504906516,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1815696000000,
-    "grades": [
-      "thirdClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795504906516,
-    "partialTakeoverPossible": false,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 2,
-    "publishTimestamp": 1795504906516,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "evi.kalman@schule-maur.ch",
-      "address": {
-        "city": "Ebmatingen",
-        "canton": "zurich",
-        "street": "Leeacherstrasse ",
-        "country": "CH",
-        "zipCode": 8123,
-        "streetNr": "6",
-        "coordinates": {
-          "lat": 47.3530192,
-          "lng": 8.6375373
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schule-maur.ch",
-      "lastName": "Kalman",
-      "schoolId": "01KFFXMZDN5GPAW3RCWYE2J9NC",
-      "firstName": "Evi",
-      "schoolName": "Schulhaus Leeacher",
-      "phoneNumber": "044 982 29 26",
-      "organisationId": "Fkxpzbp2EvZKH6Ff6uVV",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": ""
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1799020800000,
-    "subjects": [
-      "natureHumanSociety",
-      "religionsCulturesEthics"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": null,
-    "vacancyType": "long",
-    "workingBlocks": [
-      "mondayAfternoon",
-      "tuesdayAfternoon"
-    ],
-    "numberOfOpenApplications": 0
-  },
-  {
-    "id": "01M866D82949XCHMWVVX0XAT2J",
-    "additionalInformation": "Zell ist eine gemütliche, ländliche Schule mit tollen SuS und einem kollegialen, unterstützenden Team.\\nMit ÖV problemlos erreichbar, vom Bahnhof ca. 5 Minuten zu Fuss. Parkplätze vorhanden.",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795504382025,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1803600000000,
-    "grades": [
-      "thirdClass",
-      "forthClass",
-      "fifthClass",
-      "sixthClass"
-    ],
-    "levelsDetailed": [
-      "levelMiddle"
-    ],
-    "minimumEducationStatus": "enrolled",
-    "modifiedTimestamp": 1795504382025,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 23,
-    "publishTimestamp": 1795504382025,
-    "role": "subject",
-    "school": {
-      "logo": null,
-      "email": "joerg.francois@schulenzell.ch",
-      "address": {
-        "city": "Zell",
-        "canton": "zurich",
-        "street": "Stationsstrasse ",
-        "country": "CH",
-        "zipCode": 8487,
-        "streetNr": "26",
-        "coordinates": {
-          "lat": 47.4447537,
-          "lng": 8.821108299999999
-        }
-      },
-      "culture": "de-CH",
-      "website": "schule-zell.ch/aktuelles/",
-      "lastName": "Francois",
-      "schoolId": "RdnPeE2lWHO5YnPbqsN98sZ5wyy1",
-      "firstName": "Jörg",
-      "schoolName": "Primarschule Zell",
-      "phoneNumber": "0762077267",
-      "organisationId": "fN1Dz8SwlLjmUZMWP2q3",
-      "directionInformation": ""
-    },
-    "schoolClass": {
-      "numberOfStudents": 0,
-      "additionalInformation": "Beim DaZ gibt es kleine Gruppen: Amin ist ein DaZ Schüler, der aus Italien gekommen ist und 5 WL allein hat. Ausserdem gibt es 2 WL mit 3 SuS aus der dritten Klasse und 2 WL mit 2 SuS aus der dritten und vierten Klasse. Beim Teamteaching wird die Planung für die Zeit des Vikariats von der KLP übernommen.\\nBeim Englisch sind 3. und 4. Klasse einzeln, somit kleine Gruppen von um die 10 SuS. \\n5. und 6. Klasse sind zusammen (21 SuS), wobei als Lehrmittel Young World 3 benutzt wird."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1802736000000,
-    "subjects": [
-      "english",
-      "natureHumanSociety",
-      "germanAsSecondLanguage",
-      "textileAndTechnicalDesign"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M866D82949XCHMWVVX0XAT2J/timeTables/b337e1e1-cea7-4d6b-84a9-a03456ef49cf.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "tuesdayMorning",
-      "wednesdayMorning",
-      "thursdayMorning",
-      "fridayMorning",
-      "tuesdayAfternoon",
-      "thursdayAfternoon"
-    ],
-    "numberOfOpenApplications": 1
-  },
-  {
-    "id": "01M865E0QWQBJFGXS3KHAFE9HP",
-    "additionalInformation": "Die Klassenlehrperson fällt krankheitsbedingt aus. Du arbeitest während der Stellvertretung eng mit der Stellenpartnerin zusammen, die für Absprachen und den fachlichen Austausch zur Verfügung steht. Es kann sein, dass das Vikariat evtl. verlängert wird.",
-    "affectedTeacherIds": [],
-    "closedOrigin": null,
-    "closedTimestamp": null,
-    "closedReason": null,
-    "closedReasonDetail": null,
-    "createdTimestamp": 1795503358716,
-    "curriculum": "lehrplan21",
-    "endTimestamp": 1796947200000,
-    "grades": [
-      "secondClass"
-    ],
-    "levelsDetailed": [
-      "levelLower"
-    ],
-    "minimumEducationStatus": "enrolledWithBaseYear",
-    "modifiedTimestamp": 1795503358716,
-    "partialTakeoverPossible": true,
-    "pausedReason": null,
-    "pausedTimestamp": null,
-    "pensum": 12,
-    "publishTimestamp": 1795503358716,
-    "role": "class",
-    "school": {
-      "logo": null,
-      "email": "sekretariat.schulekuengenmatt@schulen.zuerich.ch",
-      "address": {
-        "city": "Zürich",
-        "canton": "zurich",
-        "street": "Küngenmatt",
-        "country": "Schweiz",
-        "zipCode": 8055,
-        "streetNr": "66",
-        "coordinates": {
-          "lat": 47.3684065,
-          "lng": 8.5026941
-        }
-      },
-      "culture": "de-CH",
-      "website": "www.schulen-zuerich.ch/kuengenmatt",
-      "lastName": "Becker",
-      "schoolId": "IdJNw31W1zTGrf3aXDG3DOq07mJ3",
-      "firstName": "Sarah",
-      "schoolName": "Küngenmatt",
-      "phoneNumber": "+41444130920",
-      "organisationId": "tMn9rXqLaF0aVyTNNbNO",
-      "directionInformation": "Anfahrt per ÖV (VBZ): Haltestelle Schaufelbergerstrasse | Rückfragen per Tel. oder E-Mail"
-    },
-    "schoolClass": {
-      "numberOfStudents": 21,
-      "additionalInformation": "In der Klasse 2b erwarten Dich 21 fröhliche, lebendige und unterschiedliche Kinder, die gemeinsam lernen und ihren Schulalltag gestalten. Die verschiedenen Persönlichkeiten und Lernvoraussetzungen machen die Arbeit mit der Klasse vielseitig und abwechslungsreich. Eine klare Klassenführung und eine gute Beziehung zu den Kindern bilden dabei eine wichtige Grundlage."
-    },
-    "startAsOfNow": false,
-    "startTimestamp": 1796860800000,
-    "subjects": [
-      "mathematics",
-      "german",
-      "music",
-      "sports",
-      "fineArts"
-    ],
-    "teachingLanguages": [
-      "de-CH"
-    ],
-    "timeTableRef": "vacancies/01M865E0QWQBJFGXS3KHAFE9HP/timeTables/cd5837cf-79eb-4b49-ac10-a825425215cd.pdf",
-    "vacancyType": "short",
-    "workingBlocks": [
-      "mondayMorning",
-      "mondayAfternoon"
-    ],
-    "numberOfOpenApplications": 2
   }
 ]
